@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\fish_sauce.json",
+    "qna_pairs": [
+        {
+            "Query": "What is fish sauce?",
+            "Gold Answer": "Fish sauce, also called ¬ước mắm (Vietnam), nam pla (Thailand), aekjot (Korea), or patis (Philippines), is a sauce made by fermenting various types of fish and pressing to extract the liquid.",
+            "Source/Reference": "fish_sauce.json"
+        }
+    ]
+}

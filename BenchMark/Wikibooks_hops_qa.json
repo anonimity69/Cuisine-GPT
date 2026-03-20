@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\hops.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the region of origin for Amarillo hops?",
+            "Gold Answer": "The Amarillo variety is from the United States, but the specific region is not specified in the text. However, it is mentioned that other varieties have a specific region of origin, such as Hallertauer mittelfrühr from Germany.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Hops"
+        },
+        {
+            "Query": "How are hop cones stored to preserve their flavor and aroma?",
+            "Gold Answer": "Hop cones should be stored in vacuum-sealed bags and kept frozen under ideal conditions, which can last for years. Fresh hop shoots can be stored wrapped in a damp towel in the fridge for a week or longer.",
+            "Source/Reference": "hops.json"
+        },
+        {
+            "Query": "What is the typical use of hop cones in beer?",
+            "Gold Answer": "Hop cones are used almost exclusively in beer, where they act as a flavoring and (historically) as a preservative. They are typically used at 0.5–5 g/L when dry, and 4‖6 times that when undried.",
+            "Source/Reference": "hops.json"
+        }
+    ]
+}

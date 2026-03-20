@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dhokla_(steamed_black_gram_bread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Dhokla?",
+            "Gold Answer": "Dhokla is a traditional South Asian steamed black gram bread, originating from India and other South Asian countries.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Dhokla_(Steamed_Black_Gram_Bread)"
+        },
+        {
+            "Query": "What is the cooking method for Dhokla?",
+            "Gold Answer": "Dhokla is steamed, which involves boiling water in a steamer and then transferring the batter to a greased container.",
+            "Source/Reference": "dhokla_(steamed_black_gram_bread).json"
+        },
+        {
+            "Query": "How long does it take to cook Dhokla?",
+            "Gold Answer": "The steaming time for Dhokla is between 8-10 minutes, after which the batter is cooked and ready to be served hot with green chutney.",
+            "Source/Reference": "dhokla_(steamed_black_gram_bread).json"
+        }
+    ]
+}

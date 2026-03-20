@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\food_coloring.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main difference between natural and synthetic food colorings?",
+            "Gold Answer": "Natural food colorings are typically based on pigments derived from plants, insects, microbes, or minerals, whereas synthetic colorings are synthetically derived from petroleum or, in some cases, plant sources.",
+            "Source/Reference": "food_coloring.json"
+        },
+        {
+            "Query": "Why are some natural food colorings unstable?",
+            "Gold Answer": "Some natural food colorings are unstable because they can change color or break down with light or changes in the environment.",
+            "Source/Reference": "food_coloring.json"
+        },
+        {
+            "Query": "What is the main difference between fat-soluble and water-soluble food colorings?",
+            "Gold Answer": "Fat-soluble food colorings, such as lakes, are more stable than water-soluble food colorings, such as dyes.",
+            "Source/Reference": "food_coloring.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\ham.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the hind leg of a hog called?",
+            "Gold Answer": "The hind leg of a hog is commonly known as a ham.",
+            "Source/Reference": "ham.json"
+        }
+    ]
+}

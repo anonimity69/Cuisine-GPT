@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\gobi_bhagi_(spiced_cauliflower_stew).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Gobi Bhagi?",
+            "Gold Answer": "Gobi Bhagi is a South Asian dish.",
+            "Source/Reference": "gobi_bhagi_(spiced_cauliflower_stew).json"
+        },
+        {
+            "Query": "What is the cooking time for the cauliflower in Gobi Bhagi?",
+            "Gold Answer": "The cauliflower is boiled in hot water for 5 minutes.",
+            "Source/Reference": "gobi_bhagi_(spiced_cauliflower_stew).json"
+        },
+        {
+            "Query": "What is the recommended way to serve Gobi Bhagi?",
+            "Gold Answer": "Gobi Bhagi can be served with chappati, naan, and pulao.",
+            "Source/Reference": "gobi_bhagi_(spiced_cauliflower_stew).json"
+        }
+    ]
+}

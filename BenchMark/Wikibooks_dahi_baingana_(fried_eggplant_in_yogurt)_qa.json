@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dahi_baingana_(fried_eggplant_in_yogurt).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Dahi Baingana typically found in?",
+            "Gold Answer": "Dahi Baingana is typically found in South Asian cuisine.",
+            "Source/Reference": "dahi_baingana_(fried_eggplant_in_yogurt).json"
+        },
+        {
+            "Query": "What is the cooking method for fried eggplant in yogurt?",
+            "Gold Answer": "The cooking method for fried eggplant in yogurt involves deep-frying the eggplant slices and then simmering them in a gravy made with yogurt, spices, and water.",
+            "Source/Reference": "dahi_baingana_(fried_eggplant_in_yogurt).json"
+        },
+        {
+            "Query": "What type of spice blend is used in Dahi Baingana?",
+            "Gold Answer": "The spice blend used in Dahi Baingana is Panch puran, which is a Bengali five-spice blend.",
+            "Source/Reference": "dahi_baingana_(fried_eggplant_in_yogurt).json"
+        }
+    ]
+}

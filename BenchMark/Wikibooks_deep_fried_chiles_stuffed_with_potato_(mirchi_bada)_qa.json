@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\deep_fried_chiles_stuffed_with_potato_(mirchi_bada).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of the Mirchi Bada recipe?",
+            "Gold Answer": "The cuisine type of the Mirchi Bada recipe is South Asian.",
+            "Source/Reference": "deep_fried_chiles_stuffed_with_potato_(mirchi_bada).json"
+        },
+        {
+            "Query": "What is the main ingredient of the potato mix in the Mirchi Bada recipe?",
+            "Gold Answer": "The main ingredients of the potato mix include boiled potatoes, chili powder, chaat masala, and coriander leaves.",
+            "Source/Reference": "deep_fried_chiles_stuffed_with_potato_(mirchi_bada).json"
+        },
+        {
+            "Query": "What is the purpose of the batter in the Mirchi Bada recipe?",
+            "Gold Answer": "The batter is used to coat the filled chiles, making them completely covered and crispy when deep-fried.",
+            "Source/Reference": "deep_fried_chiles_stuffed_with_potato_(mirchi_bada).json"
+        }
+    ]
+}

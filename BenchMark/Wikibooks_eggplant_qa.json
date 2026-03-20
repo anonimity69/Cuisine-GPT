@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\eggplant.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the common preparation method for reducing the bitter taste of eggplant?",
+            "Gold Answer": "The usual preparation method for reducing the bitter taste of eggplant involves slicing, washing and then rubbing the vegetable with salt. The salt pulls out the bitter juices via osmosis, so when preparing it is often best to put the slices of eggplant on a rack over a sink or on paper towels. Wash the salt off after at least thirty minutes, dry thoroughly, and cook the eggplant as desired.",
+            "Source/Reference": "eggplant.json"
+        },
+        {
+            "Query": "What is eggplant commonly used in?",
+            "Gold Answer": "Eggplant may be stuffed, grilled, fried, baked, pickled, or stir-fried. Its versatility leads to eggplant dishes in many different cuisines, from Japan to India to Italy. It is an essential ingredient in several savoury dishes, most notably the Greek moussaka. It is frequently stuffed in Near Eastern cuisine.",
+            "Source/Reference": "eggplant.json"
+        },
+        {
+            "Query": "What is the preferred color for a colored variety of eggplant?",
+            "Gold Answer": "If a colored variety, the color should be deep.",
+            "Source/Reference": "eggplant.json"
+        }
+    ]
+}

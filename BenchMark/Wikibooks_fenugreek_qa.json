@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\fenugreek.json",
+    "qna_pairs": [
+        {
+            "Query": "What is fenugreek used for in South Asian and Persian cuisines?",
+            "Gold Answer": "Fenugreek is used in South Asian and Persian cuisines.",
+            "Source/Reference": "fenugreek.json"
+        },
+        {
+            "Query": "How do fenugreek seeds must be ground?",
+            "Gold Answer": "Fenugreek seeds must be ground in a specialized mortar or spice grinder.",
+            "Source/Reference": "fenugreek.json"
+        },
+        {
+            "Query": "What is the flavor and aroma of fenugreek seeds?",
+            "Gold Answer": "Fenugreek seeds have a characteristic flavor and aroma reminiscent of caramelized sugar and imitation maple flavor, with secondary notes described as musty or mushroom-like.",
+            "Source/Reference": "fenugreek.json"
+        }
+    ]
+}

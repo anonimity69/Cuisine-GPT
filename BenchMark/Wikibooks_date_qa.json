@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\date.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the stage of development for ripe dates?",
+            "Gold Answer": "Ripe dates are at the rutab stage, which is the first fully edible stage, with juicy fruit, though they are still delicate and perishable.",
+            "Source/Reference": "date.json"
+        }
+    ]
+}

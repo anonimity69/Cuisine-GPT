@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\fried_wheat_bread_balls_(bhatoora).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Fried Wheat Bread Balls (Bhatoora) belong to?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "cookbook:Fried_Wheat_Bread_Balls_(Bhatoora).json"
+        },
+        {
+            "Query": "What is the main ingredient in the dough of Fried Wheat Bread Balls (Bhatoora)?",
+            "Gold Answer": "Wheat flour",
+            "Source/Reference": "cookbook:Fried_Wheat_Bread_Balls_(Bhatoora).json"
+        },
+        {
+            "Query": "What is served with Fried Wheat Bread Balls (Bhatoora)?",
+            "Gold Answer": "Channa or Choley (chickpea curry)",
+            "Source/Reference": "cookbook:Fried_Wheat_Bread_Balls_(Bhatoora).json"
+        }
+    ]
+}

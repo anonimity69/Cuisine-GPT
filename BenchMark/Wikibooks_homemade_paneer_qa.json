@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\homemade_paneer.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the resting time for paneer in the refrigerator?",
+            "Gold Answer": "The resting time for paneer in the refrigerator is 2–3 hours.",
+            "Source/Reference": "homemade_paneer.json"
+        }
+    ]
+}

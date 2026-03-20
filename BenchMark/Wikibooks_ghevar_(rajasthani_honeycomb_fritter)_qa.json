@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\ghevar_(rajasthani_honeycomb_fritter).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Ghevar belong to?",
+            "Gold Answer": "Ghevar is a traditional Rajasthani sweet dessert, which falls under the South Asian cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Ghevar_(Rajasthani_Honeycomb_Fritter)"
+        },
+        {
+            "Query": "What is Ghevar?",
+            "Gold Answer": "Ghevar is a type of Rajasthani honeycomb fritter that is a traditional sweet dessert in South Asia.",
+            "Source/Reference": "ghevar_(rajasthani_honeycomb_fritter).json"
+        },
+        {
+            "Query": "What is the origin of Ghevar?",
+            "Gold Answer": "The origin of Ghevar is from the Rajasthani cuisine region in South Asia.",
+            "Source/Reference": "ghevar_(rajasthani_honeycomb_fritter).json"
+        }
+    ]
+}

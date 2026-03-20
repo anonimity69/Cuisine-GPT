@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\guava.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical flavor of guava?",
+            "Gold Answer": "Guava is sweet and aromatic with a tart aftertaste, similar to banana, strawberry, and pineapple.",
+            "Source/Reference": "guava.json"
+        },
+        {
+            "Query": "Where is guava commonly grown?",
+            "Gold Answer": "Guava is native to South America but is now commonly grown in California, Florida, Hawaii, and most parts of Africa and tropical Asia.",
+            "Source/Reference": "guava.json"
+        },
+        {
+            "Query": "What is a suitable way to store ripe guavas?",
+            "Gold Answer": "Ripe guavas should be stored in the refrigerator for up to a week.",
+            "Source/Reference": "guava.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\gelatin.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the forms of dried gelatin?",
+            "Gold Answer": "Dried gelatin typically comes in two forms: sheet (or leaf) and powder. Sheet gelatin is more common in Europe and is standardized so that every sheet has the same gelling capacity, even across different bloom strengths. Powdered gelatin is common in North America and can be found in bulk or in small packets of about ¼ oz / 7 g / 2¼ tsp.",
+            "Source/Reference": "gelatin.json"
+        },
+        {
+            "Query": "What is the purpose of blooming gelatin?",
+            "Gold Answer": "Before use, dehydrated gelatin must be hydrated or 'bloomed' in cool water or other liquid to evenly absorb water before melting and incorporation into your final product. Blooming allows the gelatin to swell and ensures that it is evenly hydrated and ready for use.",
+            "Source/Reference": "gelatin.json"
+        },
+        {
+            "Query": "What is the effect of different bloom strengths on gelatin?",
+            "Gold Answer": "The strength of gelatin is measured as its 'bloom strength', which reflects the firmness of its gel. Higher bloom strength indicates a stronger, firmer gelatin, while lower bloom strength indicates a weaker, more delicate gelatin. Bloom strength also affects the flavor and color of the gelatin, with higher bloom strengths producing milder and paler gelatin.",
+            "Source/Reference": "gelatin.json"
+        }
+    ]
+}

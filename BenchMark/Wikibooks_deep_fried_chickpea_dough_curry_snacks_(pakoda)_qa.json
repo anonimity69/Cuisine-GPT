@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\deep_fried_chickpea_dough_curry_snacks_(pakoda).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe from?",
+            "Gold Answer": "This recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Deep_Fried_Chickpea_Dough_Curry_Snacks_(Pakoda)"
+        },
+        {
+            "Query": "What is the ideal consistency of the dough for making pakoda?",
+            "Gold Answer": "The ideal consistency of the dough should be the same as when making scones, which means it should form chunks but break into pieces with a little bit of pressure.",
+            "Source/Reference": "deep_fried_chickpea_dough_curry_snacks_(pakoda).json"
+        },
+        {
+            "Query": "What happens to the moisture from the onions when they are mixed with the batter?",
+            "Gold Answer": "The moisture from the onions will ooze out into the batter.",
+            "Source/Reference": "deep_fried_chickpea_dough_curry_snacks_(pakoda).json"
+        }
+    ]
+}

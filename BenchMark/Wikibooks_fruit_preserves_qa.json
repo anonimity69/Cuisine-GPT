@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\fruit_preserves.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the essential characteristics of fruit preserves?",
+            "Gold Answer": "Most fruit preserves share the same essential characteristics, including being a syrupy gel, with attention paid to the specific ratios of fruit, sugar, and pectin needed to achieve desired gelling characteristics.",
+            "Source/Reference": "fruit_preserves.json"
+        },
+        {
+            "Query": "What is pectin and its role in fruit preserves?",
+            "Gold Answer": "Pectin is a gelling agent found in fruit skins, cores, and seeds, critical to the finished texture of most preserves. It must be cooked with sugar and acid to form a network that solidifies upon cooling.",
+            "Source/Reference": "fruit_preserves.json"
+        },
+        {
+            "Query": "What are some common types of fruit preserves?",
+            "Gold Answer": "Common types of fruit preserves include jam, jelly, marmalade, fruit butter, and compote, each with its own characteristics and texture.",
+            "Source/Reference": "fruit_preserves.json"
+        }
+    ]
+}

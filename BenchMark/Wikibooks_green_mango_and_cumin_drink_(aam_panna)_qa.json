@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\green_mango_and_cumin_drink_(aam_panna).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Green Mango and Cumin Drink (Aam Panna) from?",
+            "Gold Answer": "Green Mango and Cumin Drink (Aam Panna) is a recipe from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Green_Mango_and_Cumin_Drink_(Aam_Panna)"
+        },
+        {
+            "Query": "What are the ingredients used in the Green Mango and Cumin Drink (Aam Panna) recipe?",
+            "Gold Answer": "The recipe uses 4 medium-sized green mangoes, 1/2 cup (120 ml) sugar, 2 level tablespoons (30 ml) rock salt, 1 level teaspoon (5 ml) roasted cumin seeds, 1 roasted chile (optional), and 1 handful of fresh mint leaves.",
+            "Source/Reference": "green_mango_and_cumin_drink_(aam_panna).json"
+        },
+        {
+            "Query": "How do you serve the Green Mango and Cumin Drink (Aam Panna) recipe?",
+            "Gold Answer": "To serve, add 4-5 teaspoons of the mango mixture to a glass of water. Enjoy!",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Green_Mango_and_Cumin_Drink_(Aam_Panna)"
+        }
+    ]
+}

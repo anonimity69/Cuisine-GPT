@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\frog.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the composition of frog meat?",
+            "Gold Answer": "Frog meat consists primarily of fast-twitch muscle low in myoglobin, making the meat pale and mild.",
+            "Source/Reference": "frog.json"
+        },
+        {
+            "Query": "How are frog legs typically served in Western cuisine?",
+            "Gold Answer": "In Western cuisines, frog legs are often served only as the legs separated from the body, typically fried or poached and served with a flavorful sauce to complement the mildness of the meat.",
+            "Source/Reference": "frog.json"
+        },
+        {
+            "Query": "How should frog be cooked to avoid becoming tough?",
+            "Gold Answer": "Frog should be cooked only until just done, since they are susceptible to overcooking and becoming tough.",
+            "Source/Reference": "frog.json"
+        }
+    ]
+}

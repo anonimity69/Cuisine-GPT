@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\durian.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the smell of durian like?",
+            "Gold Answer": "The smell of durian is extremely pungent and compared to various odors like skunk, cheese, onion, or rotting.",
+            "Source/Reference": "durian.json"
+        },
+        {
+            "Query": "How is durian typically prepared?",
+            "Gold Answer": "A durian is opened by splitting it along natural sections. You might be able to see them on the outside as places where the spines run parallel.",
+            "Source/Reference": "durian.json"
+        },
+        {
+            "Query": "What can durian be used in?",
+            "Gold Answer": "Durian fruit is used to flavour a wide variety of sweet edibles such as traditional Malay candy, ice kachang, rose biscuits, cakes, and, with a touch of modern innovation, ice cream, milkshakes, mooncakes and even cappuccino.",
+            "Source/Reference": "durian.json"
+        }
+    ]
+}

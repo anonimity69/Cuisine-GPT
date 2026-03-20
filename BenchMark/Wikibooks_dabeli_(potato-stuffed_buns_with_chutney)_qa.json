@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dabeli_(potato-stuffed_buns_with_chutney).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Dabeli come from?",
+            "Gold Answer": "Dabeli is a popular South Asian snack food, typically originating from the street food culture of Gujarat and other parts of the Indian subcontinent.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Dabeli_(Potato-stuffed_Buns_with_Chutney)"
+        },
+        {
+            "Query": "What is Dabeli typically served with?",
+            "Gold Answer": "Dabeli is typically served with a spicy chutney, often made from a variety of ingredients including tamarind, date, and other fruits, as well as spices like cumin, coriander, and chili.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Dabeli_(Potato-stuffed_Buns_with_Chutney)"
+        },
+        {
+            "Query": "What is Dabeli also known as?",
+            "Gold Answer": "Dabeli is also known as potato-stuffed buns with chutney.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Dabeli_(Potato-stuffed_Buns_with_Chutney)"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\green_onion.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the differences between green onions, scallions, spring onions, garlic scapes, leeks, and ramps?",
+            "Gold Answer": "Despite their similar appearance, green onions/scallions should not be confused with leeks, chives, or spring onions. Scallions can be produced from a couple members of the onion family. Those from the common onion have no special name in English. The Welsch/bunching onion produces the Korean *shilpa* and *daepa*, with the former being smaller/thinner and the latter being larger/thicker.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Scallion"
+        }
+    ]
+}

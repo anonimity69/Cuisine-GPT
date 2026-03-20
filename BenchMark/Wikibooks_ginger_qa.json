@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\ginger.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the pungent and sweetly aromatic flavor of ginger?",
+            "Gold Answer": "The flavor of ginger is pungent and sweetly aromatic, caused in large part by gingerol compounds (hot, pungent) and zingiberene, along with other compounds that provide lemony and rosemary notes.",
+            "Source/Reference": "ginger.json"
+        }
+    ]
+}

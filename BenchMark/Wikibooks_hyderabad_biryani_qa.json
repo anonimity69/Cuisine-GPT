@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\hyderabad_biryani.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Hyderabad Biryani?",
+            "Gold Answer": "Hyderabad Biryani is a South Asian dish, specifically from the cuisine region of South Asia.",
+            "Source/Reference": "hyderabad_biryani.json"
+        }
+    ]
+}

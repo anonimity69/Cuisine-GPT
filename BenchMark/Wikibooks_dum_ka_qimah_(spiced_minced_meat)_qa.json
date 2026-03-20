@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dum_ka_qimah_(spiced_minced_meat).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Dum ka Qimah?",
+            "Gold Answer": "Dum ka Qimah is a dish from South Asia, specifically from the region of South Asia. It is a traditional dish from South Asia, which is a region that includes countries such as India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, and the Maldives. Dum ka Qimah is a type of spiced minced meat dish that is popular in many countries of South Asia.",
+            "Source/Reference": "dum_ka_qimah_(spiced_minced_meat).json"
+        },
+        {
+            "Query": "What is the main ingredient in Dum ka Qimah?",
+            "Gold Answer": "The main ingredient in Dum ka Qimah is minced meat, which can be either beef or lamb. The recipe calls for 1 kg of lean minced meat, which is then mixed with various spices and ingredients to create the dish.",
+            "Source/Reference": "dum_ka_qimah_(spiced_minced_meat).json"
+        },
+        {
+            "Query": "What cooking method is used in Dum ka Qimah?",
+            "Gold Answer": "The cooking method used in Dum ka Qimah is a combination of dry and moist heat. The dish is cooked by placing the meat mixture in a metal pan, making a well in the center, and covering it with aluminum foil and burning coal. The coal is then used to heat the oil and cook the meat mixture over low heat for a period of time.",
+            "Source/Reference": "dum_ka_qimah_(spiced_minced_meat).json"
+        }
+    ]
+}

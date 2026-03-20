@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\dough.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main difference between dough and batter?",
+            "Gold Answer": "Dough differs from batter principally by having a lower water content, which makes it stiffer and easier to shape free-form.",
+            "Source/Reference": "dough.json"
+        }
+    ]
+}

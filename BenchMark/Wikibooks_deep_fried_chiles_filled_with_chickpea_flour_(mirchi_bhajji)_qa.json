@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\deep_fried_chiles_filled_with_chickpea_flour_(mirchi_bhajji).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does this recipe belong to?",
+            "Gold Answer": "This recipe belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Deep_Fried_Chiles_Filled_with_Chickpea_Flour_(Mirchi_Bhajji)"
+        },
+        {
+            "Query": "What is the main ingredient used in the stuffing of the peppers?",
+            "Gold Answer": "The main ingredient used in the stuffing of the peppers is chickpea flour (gram flour).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Deep_Fried_Chiles_Filled_with_Chickpea_Flour_(Mirchi_Bhajji)"
+        },
+        {
+            "Query": "What is the recommended method for coating the peppers before frying?",
+            "Gold Answer": "The recommended method for coating the peppers before frying is to dip each green pepper into the mixture of dry ingredients gently to coat it.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Deep_Fried_Chiles_Filled_with_Chickpea_Flour_(Mirchi_Bhajji)"
+        }
+    ]
+}

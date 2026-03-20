@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\gulab_jamun_(fried_milk_balls_in_syrup).json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine is Gulab Jamun from?",
+            "Gold Answer": "Gulab Jamun is a traditional dessert from South Asia.",
+            "Source/Reference": "gulab_jamun_(fried_milk_balls_in_syrup).json"
+        },
+        {
+            "Query": "What is Gulab Jamun made of?",
+            "Gold Answer": "The ingredients for Gulab Jamun are not specified in this recipe.",
+            "Source/Reference": "gulab_jamun_(fried_milk_balls_in_syrup).json"
+        },
+        {
+            "Query": "What type of dish is Gulab Jamun?",
+            "Gold Answer": "Gulab Jamun is a type of fried milk ball dessert.",
+            "Source/Reference": "gulab_jamun_(fried_milk_balls_in_syrup).json"
+        }
+    ]
+}

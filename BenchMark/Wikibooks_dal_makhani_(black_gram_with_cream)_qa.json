@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\dal_makhani_(black_gram_with_cream).json",
+    "qna_pairs": [
+        {
+            "Query": "What ingredients are required for Dal Makhani?",
+            "Gold Answer": "The required ingredients for Dal Makhani include whole dried urad dal (skinless black gram), dried kidney beans (rajma), water, salt, red chile powder, turmeric powder, grated ginger, ghee or oil, hing powder, bay leaves, cinnamon stick, cloves, onion, ginger garlic paste, tomatoes, coriander powder, fresh cream, clarified butter, and coriander leaves.",
+            "Source/Reference": "dal_makhani_(black_gram_with_cream).json"
+        }
+    ]
+}

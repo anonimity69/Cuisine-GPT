@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\ginger_garlic_paste.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the recommended ratio of fresh ginger and garlic in ginger-garlic paste?",
+            "Gold Answer": "Typically, the paste is simply equal amounts of fresh, peeled ginger and garlic ground or pounded together until smooth.",
+            "Source/Reference": "ginger_garlic_paste.json"
+        },
+        {
+            "Query": "How long can ginger-garlic paste keep in the refrigerator?",
+            "Gold Answer": "Depending on whether a preservative agent is used, ginger-garlic paste can keep for days to weeks in the refrigerator.",
+            "Source/Reference": "ginger_garlic_paste.json"
+        },
+        {
+            "Query": "What type of cuisine is ginger-garlic paste commonly used in?",
+            "Gold Answer": "The paste is commonly used in households that do a lot of South Asian cooking, where both ginger and garlic are widely used and combined.",
+            "Source/Reference": "ginger_garlic_paste.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\hyderabadi_fried_bread_with_syrup_and_nuts_(double_ka_meetha).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Hyderabadi Fried Bread with Syrup and Nuts?",
+            "Gold Answer": "Hyderabadi Fried Bread with Syrup and Nuts is a traditional South Asian dish, originating from the Hyderabadi cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Hyderabadi_Fried_Bread_with_Syrup_and_Nuts_(Double_ka_meetha)"
+        },
+        {
+            "Query": "What is the primary ingredient used in the preparation of Hyderabadi Fried Bread with Syrup and Nuts?",
+            "Gold Answer": "The primary ingredients used in the preparation of Hyderabadi Fried Bread with Syrup and Nuts include bread, milk, sugar, ghee, cardamom, and nuts.",
+            "Source/Reference": "hyderabadi_fried_bread_with_syrup_and_nuts_(double_ka_meetha).json"
+        },
+        {
+            "Query": "What type of syrup is used in Hyderabadi Fried Bread with Syrup and Nuts?",
+            "Gold Answer": "A sugar syrup made by boiling sugar in water is used in Hyderabadi Fried Bread with Syrup and Nuts.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Hyderabadi_Fried_Bread_with_Syrup_and_Nuts_(Double_ka_meetha)"
+        }
+    ]
+}

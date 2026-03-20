@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\fig.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the optimal time for consuming fresh figs?",
+            "Gold Answer": "Fresh figs are available July through September. They are delicate and perishable, so they should be consumed within a couple of days of purchasing.",
+            "Source/Reference": "fig.json"
+        },
+        {
+            "Query": "How do you properly store dried figs?",
+            "Gold Answer": "Dried figs can be stored in an airtight container in a cool, dry place for a couple of months.",
+            "Source/Reference": "fig.json"
+        },
+        {
+            "Query": "What types of cuisine typically use figs?",
+            "Gold Answer": "Figs are often used in savory dishes, such as accompanying cheese or cured meats, as well as in sweet dishes like figgy pudding. They are also used in various international cuisines, including Italian and Yemenite. In Albanian, figs are used in a stewed fig pudding.",
+            "Source/Reference": "fig.json"
+        }
+    ]
+}

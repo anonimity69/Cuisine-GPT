@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\deep_fried_lentil_dough_balls_(punugu).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the recipe for Deep Fried Lentil Dough Balls (Punugu)?",
+            "Gold Answer": "Deep Fried Lentil Dough Balls (Punugu) is a recipe from South Asia.",
+            "Source/Reference": "deep_fried_lentil_dough_balls_(punugu).json"
+        },
+        {
+            "Query": "What ingredients are required to make Deep Fried Lentil Dough Balls (Punugu)?",
+            "Gold Answer": "To make Deep Fried Lentil Dough Balls (Punugu), you need urad dal, rice rava, all-purpose flour, onions, chiles, and salt.",
+            "Source/Reference": "deep_fried_lentil_dough_balls_(punugu).json"
+        },
+        {
+            "Query": "What is the procedure for making Deep Fried Lentil Dough Balls (Punugu)?",
+            "Gold Answer": "The procedure for making Deep Fried Lentil Dough Balls (Punugu) involves soaking the urad dal and rava in water, grinding the urad dal to make a batter, mixing in the rava and flour, adding water as needed, mixing in onions, chillies, and salt, allowing the batter to ferment and rise, and then making small balls and deep-frying them in hot oil.",
+            "Source/Reference": "deep_fried_lentil_dough_balls_(punugu).json"
+        }
+    ]
+}

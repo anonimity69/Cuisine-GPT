@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\ground_crayfish.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of seafood is ground crayfish made of?",
+            "Gold Answer": "Ground crayfish is made of dried and ground freshwater shrimps.",
+            "Source/Reference": "ground_crayfish.json"
+        }
+    ]
+}

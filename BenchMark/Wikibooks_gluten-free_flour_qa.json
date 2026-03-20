@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\gluten-free_flour.json",
+    "qna_pairs": [
+        {
+            "Query": "Can gluten-free flour be used in place of wheat flour in all recipes?",
+            "Gold Answer": "No, gluten-free flour cannot be used in place of wheat flour in all recipes. Different gluten-free flours have different textures, densities, and characteristics that may affect the final product. It is best to use gluten-free flours in recipes specifically designed for them, and to experiment and adjust with different flours, binders, and other add-ins as necessary.",
+            "Source/Reference": "gluten-free_flour.json"
+        }
+    ]
+}

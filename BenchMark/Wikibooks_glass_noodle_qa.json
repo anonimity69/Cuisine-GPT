@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\glass_noodle.json",
+    "qna_pairs": [
+        {
+            "Query": "What are glass noodles made from?",
+            "Gold Answer": "Glass noodles can be made from vegetable starches derived from mung bean, potato, sweet potato, cassava, canna, arrowroot, and/or pea.",
+            "Source/Reference": "glass_noodle.json"
+        },
+        {
+            "Query": "What is the texture of glass noodles?",
+            "Gold Answer": "Glass noodles have a chewy, gelatinous texture and a transparent to translucent appearance when cooked.",
+            "Source/Reference": "glass_noodle.json"
+        },
+        {
+            "Query": "Are glass noodles commonly used in a specific cuisine?",
+            "Gold Answer": "Glass noodles are widely used in South, East, and Southeast Asian cuisines, including Chinese, Korean, Japanese, Thai, Vietnamese, and Indian cuisines.",
+            "Source/Reference": "glass_noodle.json"
+        }
+    ]
+}

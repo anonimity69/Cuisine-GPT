@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\horned_melon.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical flavor mix of horned melon pulp?",
+            "Gold Answer": "The flavor of the pulp is slightly sweet and a bit tart with a flavor mix reminiscent of bananas, lime and cucumber.",
+            "Source/Reference": "horned_melon.json"
+        },
+        {
+            "Query": "How are horned melons usually stored?",
+            "Gold Answer": "Unripe melons may be stored at room temperature for quite a long time, on the order of weeks to months.",
+            "Source/Reference": "horned_melon.json"
+        },
+        {
+            "Query": "Can the spines of horned melons be a sign of rough handling?",
+            "Gold Answer": "Yes, damaged horns may be a sign of rough handling.",
+            "Source/Reference": "horned_melon.json"
+        }
+    ]
+}

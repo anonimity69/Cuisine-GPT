@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\gajjar_halwa_(carrot_pudding).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Gajjar Halwa?",
+            "Gold Answer": "Gajjar Halwa is a traditional South Asian dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Gajjar_Halwa_(Carrot_Pudding)"
+        },
+        {
+            "Query": "What are the main ingredients of Gajjar Halwa?",
+            "Gold Answer": "The main ingredients of Gajjar Halwa include carrots, cashew nuts, raisins, salt, sugar, cardamom, cinnamon, butter, and milk.",
+            "Source/Reference": "gajjar_halwa_(carrot_pudding).json"
+        },
+        {
+            "Query": "How is Gajjar Halwa typically served?",
+            "Gold Answer": "Gajjar Halwa is typically served with a sprinkling of cinnamon powder on top.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Gajjar_Halwa_(Carrot_Pudding)"
+        }
+    ]
+}

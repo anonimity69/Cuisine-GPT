@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\honey.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical pH of honey?",
+            "Gold Answer": "Honey has a relatively high acidity, with a pH below 4, though the pH can get as high as 6.",
+            "Source/Reference": "honey.json"
+        },
+        {
+            "Query": "Can honey be substituted for sugar in recipes?",
+            "Gold Answer": "Due to its nature as an invert sugar mixture, honey cannot be substituted for sugar one-to-one. However, it can be used in recipes with some adjustments, such as reducing the amount of liquid by 15-18% the weight of the sugar/honey or using only 80% as much honey as sugar.",
+            "Source/Reference": "honey.json"
+        },
+        {
+            "Query": "What is the typical flavor profile of Acacia honey?",
+            "Gold Answer": "Acacia honey is known for its delicate flavor and is typically pale and clear in appearance.",
+            "Source/Reference": "honey.json"
+        }
+    ]
+}

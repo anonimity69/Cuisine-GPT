@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\deep_fried_chickpea_dough_balls_(chyueeam).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the type of cuisine for the Deep Fried Chickpea Dough Balls recipe?",
+            "Gold Answer": "The Deep Fried Chickpea Dough Balls recipe is from South Asia.",
+            "Source/Reference": "deep_fried_chickpea_dough_balls_(chyueeam).json"
+        }
+    ]
+}

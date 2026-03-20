@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\guar_gum.json",
+    "qna_pairs": [
+        {
+            "Query": "What is guar gum used for in gluten-free baking?",
+            "Gold Answer": "In gluten-free baking, guar gum adds structure and functions as a binder.",
+            "Source/Reference": "guar_gum.json"
+        }
+    ]
+}

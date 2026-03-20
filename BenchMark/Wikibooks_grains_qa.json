@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\grains.json",
+    "qna_pairs": [
+        {
+            "Query": "How do grains of many types benefit from being malted?",
+            "Gold Answer": "Grains of many types may be malted, where they are soaked, sprouted, dried, and roasted to develop a sweet and nutty flavor profile.",
+            "Source/Reference": "grains.json"
+        },
+        {
+            "Query": "What is the ideal method for cooking grains, including the grain-to-water ratio for each grain?",
+            "Gold Answer": "Grains are typically cooked in the absorption method, where they are combined in a pot with a precise amount of liquid—usually just as much as they can absorb, plus or minus some depending on a few factors. If you want a softer, moister final product, you'll add more liquid (and vice versa).",
+            "Source/Reference": "grains.json"
+        },
+        {
+            "Query": "What is the benefit of rinsing starchy, refined grains in the absorption method?",
+            "Gold Answer": "Rinsing starchy, refined grains in the absorption method is a real benefit, since there is no excess water in the cooking process to wash off the starch.",
+            "Source/Reference": "grains.json"
+        }
+    ]
+}

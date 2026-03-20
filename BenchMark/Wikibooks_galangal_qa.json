@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\galangal.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the best substitute for galangal if it is not available?",
+            "Gold Answer": "Ginger is the best substitute for galangal, but the final dish will lack galangal's characteristic aromatic flavors.",
+            "Source/Reference": "Cookbook"
+        },
+        {
+            "Query": "How do you store dried galangal?",
+            "Gold Answer": "Dried galangal should be stored in an airtight container at room temperature away from light, heat, and moisture.",
+            "Source/Reference": "Cookbook"
+        },
+        {
+            "Query": "What are the two main varieties of galangal?",
+            "Gold Answer": "There are two main varieties of galangal: 'greater' and 'lesser'. Greater galangal has a pinkish-tan skin and milder flavor, while lesser galangal has a reddish skin and flavor described as 'medicinal'.",
+            "Source/Reference": "Cookbook"
+        }
+    ]
+}

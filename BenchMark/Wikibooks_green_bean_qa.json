@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\green_bean.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a string bean",
+            "Gold Answer": "Other types of bean eaten in the pod include the runner bean and the yardlong bean. Some varieties have a tough, fibrous string running down the length of the pods—hence the name \"string bean\"—though newer varieties have been bred without this string.",
+            "Source/Reference": "green_bean.json"
+        },
+        {
+            "Query": "How do you store green beans",
+            "Gold Answer": "Green beans can be purchased fresh, frozen, or canned. When purchasing fresh green beans, it's often best to buy from loose bins so that you can select the highest quality ones yourself. When selecting, look for green beans with a good green color (assuming a green variety is desired), with no sliminess, browning, bruising, wrinkling, or mushiness. The texture should be crisp and firm, and the pods should snap when bent.",
+            "Source/Reference": "green_bean.json"
+        },
+        {
+            "Query": "What is the peak season for green beans",
+            "Gold Answer": "Fresh green beans are available all year, with a peak season of late spring to early fall.",
+            "Source/Reference": "green_bean.json"
+        }
+    ]
+}

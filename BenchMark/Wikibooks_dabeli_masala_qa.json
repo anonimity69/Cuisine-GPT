@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dabeli_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What is dabeli masala primarily used for?",
+            "Gold Answer": "The primary function of dabeli masala is to flavor the Gujarati dish called dabeli, specifically for the preparation of 'Dabeli (Potato-stuffed Buns with Chutney)'",
+            "Source/Reference": "Cookbook:Dabeli (Potato-stuffed Buns with Chutney)"
+        },
+        {
+            "Query": "What are some common ingredients in dabeli masala?",
+            "Gold Answer": "Some common ingredients in dabeli masala include coriander, fennel, cumin, cinnamon, clove, cardamom, white sesame seed, pepper, star anise, red chiles/chile powder, bay leaf, (black) salt, ginger, amchur, coconut, and sugar.",
+            "Source/Reference": "Dabeli Masala"
+        },
+        {
+            "Query": "How should dabeli masala be stored?",
+            "Gold Answer": "Dabeli masala should be kept in an airtight container, and if it includes oil, it's recommended to store it in the fridge to delay its going rancid.",
+            "Source/Reference": "Dabeli Masala"
+        }
+    ]
+}

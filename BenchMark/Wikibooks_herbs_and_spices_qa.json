@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\herbs_and_spices.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between herbs and spices?",
+            "Gold Answer": "Herbs refer to the soft, green, leafy parts of plants, while spices come from the rest of the plant, such as the bark, root, flower, fruit, or seed. Opinions differ on the precise definitions of the terms 'herb' and 'spice', with some sources considering herbs a sub-category of spice, while others consider the two to be separate groups in the seasoning category.",
+            "Source/Reference": "herbs_and_spices.json"
+        },
+        {
+            "Query": "Why do herbs and spices lose their flavor over time?",
+            "Gold Answer": "Herbs and spices lose their flavor over time as their volatile oils degrade or evaporate. This can be slowed down by storing them in an airtight container away from light, heat, and moisture.",
+            "Source/Reference": "herbs_and_spices.json"
+        },
+        {
+            "Query": "What is the effect of toasting spices on flavor?",
+            "Gold Answer": "Toasting spices encourages the release of volatile compounds and transforms some compounds into other flavorful varieties, often pyrazines. This can be done in a dry pan or a medium oven, and be careful not to scorch the spices, which will make them unpleasantly bitter.",
+            "Source/Reference": "herbs_and_spices.json"
+        }
+    ]
+}

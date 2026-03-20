@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\fennel.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary flavor profile of bitter fennel?",
+            "Gold Answer": "The primary flavor profile of bitter fennel is slightly bitter, similar to celery seed, and it is generally less widely available worldwide.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Fennel"
+        },
+        {
+            "Query": "What is the best substitute for bitter fennel seed in Central/Eastern European cuisine?",
+            "Gold Answer": "Celery seed is a better substitute for bitter fennel seed typically used in Central/Eastern European cuisine.",
+            "Source/Reference": "fennel.json"
+        },
+        {
+            "Query": "What is the typical usage of fennel in Italian, Eastern European, South Asian, and East Asian cuisines?",
+            "Gold Answer": "In Italian, Eastern European, South Asian, and East Asian cuisines, fennel seeds provide a licorice-like flavor and even the pollen is used as a flavoring.",
+            "Source/Reference": "fennel.json"
+        }
+    ]
+}

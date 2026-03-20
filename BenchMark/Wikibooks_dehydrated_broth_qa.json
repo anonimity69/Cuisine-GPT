@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dehydrated_broth.json",
+    "qna_pairs": [
+        {
+            "Query": "What are bouillon cubes?",
+            "Gold Answer": "Bouillon cubes are a form of dehydrated broth that is formed into a small cube about 15 mm wide.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Bouillon_cube"
+        },
+        {
+            "Query": "What is the difference between fresh broth and reconstituted broth?",
+            "Gold Answer": "Fresh broth can be used wherever reconstituted broth is, but reconstituted broth may have a different flavor due to its higher salt content and the flavor change from the extended boiling process.",
+            "Source/Reference": "dehydrated_broth.json"
+        },
+        {
+            "Query": "What are some common brands of dehydrated broth?",
+            "Gold Answer": "Some common brands of dehydrated broth include Oxo, Knorr, Rose Hill, Jumbo brand (Gallina Blanca), Maggi, Hormel's Herb-Ox, Wyler's, Goya, and Kallo.",
+            "Source/Reference": "dehydrated_broth.json"
+        }
+    ]
+}

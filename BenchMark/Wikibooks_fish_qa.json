@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\fish.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some factors to assess when purchasing fish?",
+            "Gold Answer": "When purchasing fish from a vendor, there are several factors to assess in order to make sure you are getting good quality fish. Starting at the surface, the skin and fins should be moist, shiny, and clean, with no bruising, discoloration, or stickiness. If present, the scales should be intact. Any slime, if applicable to a given species, should be clear and not cloudy. The gills should also be moist and bright red/pink in color, not a duller rusty or brown color. The eyes should be rounded and shiny, not sunken and dull. If the fish is whole, there should be neither bloating or discoloration near the belly. If gutted, make sure there is no indication of belly burn. If the vendor lets you touch the fish, the flesh should feel firm and spring back after you remove your hand. There should be no spongy texture or flaking of the flesh, and a knife should cut not pull through the flesh. If they let you smell the fish, it should not smell of ammonia, sulfur, or other spoilage—the stereotypical strong 'fishy' odor actually indicates bacterial or enzymatic breakdown of compounds in the fish. At most, it should smell of the sea in the case of ocean fish. Ideally, the fish should be stored on ice and should not be touching any other fish in the case.",
+            "Source/Reference": "fish.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dharwad_pedha_(sweetened_paneer_cheese).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Dharwad Pedha?",
+            "Gold Answer": "Dharwad Pedha is a traditional South Asian dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Dharwad_Pedha_(Sweetened_Paneer_Cheese)"
+        },
+        {
+            "Query": "What type of cheese is used in Dharwad Pedha?",
+            "Gold Answer": "Dharwad Pedha uses paneer cheese.",
+            "Source/Reference": "dharwad_pedha_(sweetened_paneer_cheese).json"
+        },
+        {
+            "Query": "What is Dharwad Pedha?",
+            "Gold Answer": "Dharwad Pedha is a sweetened paneer cheese dessert.",
+            "Source/Reference": "dharwad_pedha_(sweetened_paneer_cheese).json"
+        }
+    ]
+}

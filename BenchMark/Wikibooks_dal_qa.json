@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dal.json",
+    "qna_pairs": [
+        {
+            "Query": "What is dal?",
+            "Gold Answer": "Dal is an Indian term referring to split, often skinless pulses.",
+            "Source/Reference": "dal.json"
+        },
+        {
+            "Query": "How do you cook dal?",
+            "Gold Answer": "Typically dal is boiled to a porridge consistency, then spiced by adding vegetable oil or ghee in which spices such as cumin and coriander seeds have been fried.",
+            "Source/Reference": "dal.json"
+        },
+        {
+            "Query": "What are some varieties of dal?",
+            "Gold Answer": "The following are various dals commonly sold: Chana dal, Chowli dal, Masoor dal, Moong dal, Toor dal, Val dal, Urad dal.",
+            "Source/Reference": "dal.json"
+        }
+    ]
+}

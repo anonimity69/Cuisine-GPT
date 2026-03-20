@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\dill.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor of dill weed?",
+            "Gold Answer": "The flavor of dill weed is somewhat like parsley and anise.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Dill"
+        },
+        {
+            "Query": "What are dill seeds used for?",
+            "Gold Answer": "Dill seeds are used as a main flavoring in dill pickles, and they can be used much like caraway and fennel seeds, sprinkled over casseroles and breads, and in salad dressings.",
+            "Source/Reference": "dill.json"
+        },
+        {
+            "Query": "How is dill used in Eastern European cuisine?",
+            "Gold Answer": "Dill is a popular herb used in various ways with fish, and it works well with creamy sauces and as a garnish in Northern and Eastern Europe.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Dill"
+        }
+    ]
+}

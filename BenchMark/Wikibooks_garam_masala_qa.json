@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\garam_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What does garam masala typically contain?",
+            "Gold Answer": "Garam masala typically contains a blend of warming spices, commonly including cinnamon, cumin, cardamom, coriander, clove, and peppercorn, with additional spices such as nutmeg, tej pat, fennel, star anise, mace, ginger, and mustard seed available according to the cook's preference.",
+            "Source/Reference": "garam_masala.json"
+        }
+    ]
+}

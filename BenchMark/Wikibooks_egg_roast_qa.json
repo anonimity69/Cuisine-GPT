@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\egg_roast.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Egg Roast?",
+            "Gold Answer": "Egg Roast is a South Asian recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Egg_Roast"
+        },
+        {
+            "Query": "What ingredients are used in Egg Roast?",
+            "Gold Answer": "The ingredients used in Egg Roast include Oil, Onions, Salt, Ginger-Garlic Paste, Coriander Powder, Chile Powder, Turmeric Powder, Tomato, Green Chilies, Hard-Boiled Eggs, Curry Leaves, Cinnamon Powder, and Clove Powder.",
+            "Source/Reference": "egg_roast.json"
+        },
+        {
+            "Query": "How are the ingredients used in Egg Roast?",
+            "Gold Answer": "The ingredients are used by Heat oil in a kadai, add onions and a pinch of salt, and fry until golden brown, then add the remaining ingredients and sauté until the mixture is cooked.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Egg_Roast"
+        }
+    ]
+}

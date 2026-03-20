@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\graham_flour.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of flour is graham flour?",
+            "Gold Answer": "A special variation of whole wheat flour, made by mixing finely milled white flour with coarsely milled bran and wheatgerm.",
+            "Source/Reference": "graham_flour.json"
+        },
+        {
+            "Query": "What is the original flour used to make Graham crackers?",
+            "Gold Answer": "Graham flour was the original flour used to make Graham crackers.",
+            "Source/Reference": "graham_flour.json"
+        },
+        {
+            "Query": "What can be used as a substitute for graham flour in recipes?",
+            "Gold Answer": "Plain whole wheat flour can also be used as a substitute in recipes, but the texture of the resulting baked goods will be different than if graham flour had been used.",
+            "Source/Reference": "graham_flour.json"
+        }
+    ]
+}

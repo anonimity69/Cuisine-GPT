@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\gluten.json",
+    "qna_pairs": [
+        {
+            "Query": "What is gluten?",
+            "Gold Answer": "Gluten is a protein substance formed during the hydration and manipulation of certain grain flours.",
+            "Source/Reference": "gluten.json"
+        }
+    ]
+}
