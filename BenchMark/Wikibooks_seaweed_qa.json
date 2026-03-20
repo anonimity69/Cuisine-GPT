@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\seaweed.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common varieties of seaweed?",
+            "Gold Answer": "Types of commonly-eaten seaweed include Konbu/dashima/haidai, Wakame/miyeok/sea mustard, Nori/gim, Dulse, Laver, and Gamet.",
+            "Source/Reference": "seaweed.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_raitha.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sindhi Raitha?",
+            "Gold Answer": "Sindhi Raitha is a South Asian cuisine dish.",
+            "Source/Reference": "sindhi_raitha.json"
+        },
+        {
+            "Query": "What ingredients are required to make Sindhi Raitha?",
+            "Gold Answer": "Sindhi Raitha requires curd (thick plain \"natural\" yogurt), finely-chopped onion, green chiles, chopped tomatoes, amchoor (dry mango powder), and salt to taste.",
+            "Source/Reference": "sindhi_raitha.json"
+        },
+        {
+            "Query": "How to prepare Sindhi Raitha?",
+            "Gold Answer": "Sindhi Raitha can be prepared by combining all the ingredients together and serving it cool.",
+            "Source/Reference": "sindhi_raitha.json"
+        }
+    ]
+}

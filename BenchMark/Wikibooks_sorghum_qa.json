@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sorghum.json",
+    "qna_pairs": [
+        {
+            "Query": "What is sorghum commonly known as in West Africa?",
+            "Gold Answer": "Sorghum is known as great millet and guinea corn in West Africa.",
+            "Source/Reference": "sorghum.json"
+        }
+    ]
+}

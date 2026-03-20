@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_fried_potatoes.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Sindhi Fried Potatoes?",
+            "Gold Answer": "Sindhi Fried Potatoes is a popular dish from South Asia, specifically from the Sindhi cuisine region.",
+            "Source/Reference": "sindhi_fried_potatoes.json"
+        },
+        {
+            "Query": "What ingredients are used in Sindhi Fried Potatoes?",
+            "Gold Answer": "The ingredients used in Sindhi Fried Potatoes are large potatoes, vegetable oil, salt, red chile powder, coriander powder, and ground pepper.",
+            "Source/Reference": "sindhi_fried_potatoes.json"
+        },
+        {
+            "Query": "How are Sindhi Fried Potatoes prepared?",
+            "Gold Answer": "Sindhi Fried Potatoes are prepared by deep-frying the potatoes in vegetable oil until golden brown, then draining and serving hot with a sprinkle of salt, chili powder, coriander, and pepper.",
+            "Source/Reference": "sindhi_fried_potatoes.json"
+        }
+    ]
+}

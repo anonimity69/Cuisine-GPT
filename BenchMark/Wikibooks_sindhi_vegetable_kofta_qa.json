@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_vegetable_kofta.json",
+    "qna_pairs": [
+        {
+            "Query": "How is the Sindhi Vegetable Kofta prepared?",
+            "Gold Answer": "The Sindhi Vegetable Kofta is prepared by combining the ingredients, shaping into small balls, coating with cornstarch, frying, and then adding to a sauce made with tomatoes and spices.",
+            "Source/Reference": "sindhi_vegetable_kofta.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rosewater.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisines use rose-water?",
+            "Gold Answer": "Rose-water is used heavily in Indian, Iranian, Greek, Armenian, and Middle Eastern cuisines.",
+            "Source/Reference": "rosewater.json"
+        },
+        {
+            "Query": "What type of sweets are influenced by rose-water?",
+            "Gold Answer": "Rose-water gives loukoumia and gulab jamuns their distinctive flavour, and is also used in Turkish delight.",
+            "Source/Reference": "rosewater.json"
+        },
+        {
+            "Query": "In which religions is rose-water used for?",
+            "Gold Answer": "Rose-water is used for religious purposes in Hinduism and Islam.",
+            "Source/Reference": "rosewater.json"
+        }
+    ]
+}

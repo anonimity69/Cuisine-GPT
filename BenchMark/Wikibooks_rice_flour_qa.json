@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\rice_flour.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main difference between standard rice flour and glutinous rice flour?",
+            "Gold Answer": "Glutinous rice flour cannot be used as a substitute in a recipe calling for glutinous rice flour, as it has different properties.",
+            "Source/Reference": "rice_flour.json"
+        }
+    ]
+}

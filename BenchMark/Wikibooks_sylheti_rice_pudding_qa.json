@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_rice_pudding.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sylheti Rice Pudding?",
+            "Gold Answer": "Sylheti Rice Pudding is a dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Rice_Pudding"
+        },
+        {
+            "Query": "How long does it take to cook the rice in the Sylheti Rice Pudding recipe?",
+            "Gold Answer": "The rice is cooked and the mixture thickens after 1 hour of simmering over low heat.",
+            "Source/Reference": "sylheti_rice_pudding.json"
+        },
+        {
+            "Query": "What is added to the pudding after it has thickened further?",
+            "Gold Answer": "The grated coconut and raisins are added to the pudding after it has thickened further.",
+            "Source/Reference": "sylheti_rice_pudding.json"
+        }
+    ]
+}

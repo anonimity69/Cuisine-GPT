@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rasam_(tamarind_and_tomato_soup).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Rasam associated with?",
+            "Gold Answer": "Rasam is associated with South Asian cuisine.",
+            "Source/Reference": "rasam_(tamarind_and_tomato_soup).json"
+        },
+        {
+            "Query": "Where can you find a recipe for Rasam?",
+            "Gold Answer": "You can find a recipe for Rasam on Wikibooks Cookbook, specifically on the page https://en.wikibooks.org/wiki/Cookbook:Rasam_(Tamarind_and_Tomato_Soup).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rasam_(Tamarind_and_Tomato_Soup)"
+        },
+        {
+            "Query": "What ingredients are typically used in Rasam?",
+            "Gold Answer": "Unfortunately, the ingredients used in Rasam are not specified in the provided metadata.",
+            "Source/Reference": "rasam_(tamarind_and_tomato_soup).json"
+        }
+    ]
+}

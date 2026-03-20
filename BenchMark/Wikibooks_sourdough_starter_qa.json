@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sourdough_starter.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary component of sourdough starter?",
+            "Gold Answer": "A mixture of yeast and lacto-bacteria, which produces a unique flavor and leavening action.",
+            "Source/Reference": "sourdough_starter.json"
+        },
+        {
+            "Query": "What type of flour is best suited for making sourdough bread?",
+            "Gold Answer": "Unbleached wholegrain flour, as it contains more nutrients and enzymes that aid in the fermentation process.",
+            "Source/Reference": "sourdough_starter.json"
+        },
+        {
+            "Query": "How do bakers measure ingredients in sourdough recipes?",
+            "Gold Answer": "Bakers measure ingredients by weight, as it provides higher accuracy compared to volumetric measure, and is often used in commercial settings.",
+            "Source/Reference": "sourdough_starter.json"
+        }
+    ]
+}

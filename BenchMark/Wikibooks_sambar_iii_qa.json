@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sambar_iii.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sambar III?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sambar_III"
+        },
+        {
+            "Query": "What is the duration of cooking Sambar III?",
+            "Gold Answer": "30-60 minutes",
+            "Source/Reference": "sambar_iii.json"
+        },
+        {
+            "Query": "What ingredients are used in Sambar III?",
+            "Gold Answer": "Lentils, water, mustard seeds, fenugreek seeds, cumin seeds, curry leaves, chili peppers, onions, garlic, ginger, eggplant, potato, carrot, daikon, chili powder, sambar masala, tomato, green beans, drumsticks, coriander, and dhal.",
+            "Source/Reference": "sambar_iii.json"
+        }
+    ]
+}

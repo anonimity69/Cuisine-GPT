@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_biryani.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sylheti Biryani?",
+            "Gold Answer": "Sylheti Biryani is a dish from South Asia, specifically from the region of Sylhet in Bangladesh and India.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Biryani"
+        }
+    ]
+}

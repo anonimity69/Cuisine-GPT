@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\shatkora.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Shatkora?",
+            "Gold Answer": "Shatkora is a variety of citrus native to Bangladesh.",
+            "Source/Reference": "shatkora.json"
+        },
+        {
+            "Query": "What is used Shatkora?",
+            "Gold Answer": "Shatkora is used as a fruit.",
+            "Source/Reference": "shatkora.json"
+        },
+        {
+            "Query": "Where is Shatkora originally from?",
+            "Gold Answer": "Shatkora is originally from Bangladesh.",
+            "Source/Reference": "shatkora.json"
+        }
+    ]
+}

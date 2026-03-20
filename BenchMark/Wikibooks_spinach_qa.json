@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\spinach.json",
+    "qna_pairs": [
+        {
+            "Query": "How to store spinach",
+            "Gold Answer": "Fresh spinach should be cleaned thoroughly and then can be stored loosely in an unsealed bag in the crisper tray of the refrigerator for a few days. For longer storage, it should be fresh frozen, cooked and frozen or canned. Storage in the freezer can be for up to eight months.",
+            "Source/Reference": "spinach.json"
+        },
+        {
+            "Query": "What happens to the nutritional value of spinach after storage",
+            "Gold Answer": "Spinach loses much of its nutritional value with storage of more than a few days. While refrigeration slows this effect to about eight days, spinach will lose most of its folate and carotenoid content.",
+            "Source/Reference": "spinach.json"
+        },
+        {
+            "Query": "How to cook spinach",
+            "Gold Answer": "Plain cooked spinach is best served steamed or boiled in a minimum amount of water for no more than five minutes. The bulk of the leaves reduces enormously in cooking. Allow about 100 g per serving and use the biggest pan you have. Serve with lemon juice, or perhaps with salt.",
+            "Source/Reference": "spinach.json"
+        }
+    ]
+}

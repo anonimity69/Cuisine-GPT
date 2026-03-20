@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\samosa.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe for?",
+            "Gold Answer": "This recipe is for South Asian cuisine, specifically samosas, which are a popular snack or appetizer in this region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Samosa"
+        },
+        {
+            "Query": "What are the ingredients required to make samosas?",
+            "Gold Answer": "The ingredients required to make samosas include potatoes, green peas combined, onions, green chiles, spices, mint leaves, cilantro, Maida (all-purpose flour), water, olive oil or vegetable oil, and salt.",
+            "Source/Reference": "samosa.json"
+        },
+        {
+            "Query": "What is the procedure to make samosas?",
+            "Gold Answer": "The procedure to make samosas involves steaming potatoes and peas separately, sautéing onions and chilis, adding potatoes, peas, and spices, mixing flour with water, kneading the dough, rolling it into circles, cutting them into semi-circles, placing a spoonful of the vegetable mixture onto the dough semi-circles, and folding them into pyramid shapes, and finally deep-frying the samosas until golden and crispy.",
+            "Source/Reference": "samosa.json"
+        }
+    ]
+}

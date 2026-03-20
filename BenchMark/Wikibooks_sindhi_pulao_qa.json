@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_pulao.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sindhi Pulao?",
+            "Gold Answer": "Sindhi Pulao is a traditional South Asian dish.",
+            "Source/Reference": "sindhi_pulao.json"
+        },
+        {
+            "Query": "What ingredients are used in Sindhi Pulao?",
+            "Gold Answer": "The ingredients used in Sindhi Pulao include oil, onions, green chiles, curry leaves, cashews, garam masala, pepper, chili powder, bay leaf, and salt.",
+            "Source/Reference": "sindhi_pulao.json"
+        },
+        {
+            "Query": "How is Sindhi Pulao prepared?",
+            "Gold Answer": "Sindhi Pulao is prepared by heating oil, adding the onions, and frying until dark brown. Then, the chiles, curry leaves, cashews, garam masala, pepper, chili powder, bay leaf, and salt are added. Finally, the rice is added with enough water to cook the rice, and the mixture is simmered uncovered until all the water is absorbed.",
+            "Source/Reference": "sindhi_pulao.json"
+        }
+    ]
+}

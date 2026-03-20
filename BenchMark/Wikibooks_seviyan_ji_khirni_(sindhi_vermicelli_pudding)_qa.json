@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\seviyan_ji_khirni_(sindhi_vermicelli_pudding).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of noodles are used in Seviyan Ji Khirni?",
+            "Gold Answer": "Seviyan Ji Khirni uses South Asian vermicelli (short, fine wheat noodles).",
+            "Source/Reference": "seviyan_ji_khirni_(sindhi_vermicelli_pudding).json"
+        }
+    ]
+}

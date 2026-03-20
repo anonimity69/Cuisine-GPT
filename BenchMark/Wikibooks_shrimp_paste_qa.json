@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\shrimp_paste.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine uses shrimp paste?",
+            "Gold Answer": "Shrimp paste is used in Southeast Asian and Southern Chinese cuisine, particularly in curries and sauces. It is also known as terasi in Indonesian cuisine.",
+            "Source/Reference": "shrimp_paste.json"
+        },
+        {
+            "Query": "What is the typical form of shrimp paste?",
+            "Gold Answer": "Shrimp paste is made from fermented ground shrimp, sun dried and then cut into fist-sized rectangular blocks.",
+            "Source/Reference": "shrimp_paste.json"
+        },
+        {
+            "Query": "Where can shrimp paste be found outside Southeast Asia?",
+            "Gold Answer": "Shrimp paste can be found in markets catering to Asian customers in nations outside Southeast Asia, including the Netherlands, the United States, Australia, and Europe.",
+            "Source/Reference": "shrimp_paste.json"
+        }
+    ]
+}

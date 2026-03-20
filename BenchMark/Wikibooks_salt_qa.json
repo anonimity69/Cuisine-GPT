@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\salt.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the effect of salt on the perception of other flavors?",
+            "Gold Answer": "Salt also tends to enhance our perception of other flavors, particularly that of sweetness. This explains its use in ice cream, for example, or kettle corn. Most candy recipes have a small amount of salt which cannot be directly detected, but has a noticeable effect on the final result.",
+            "Source/Reference": "salt.json"
+        }
+    ]
+}

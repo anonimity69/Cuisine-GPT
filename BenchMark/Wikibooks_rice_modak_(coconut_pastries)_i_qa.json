@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rice_modak_(coconut_pastries)_i.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine region is the recipe from?",
+            "Gold Answer": "The recipe is from South Asia.",
+            "Source/Reference": "rice_modak_(coconut_pastries)_i.json"
+        },
+        {
+            "Query": "What is the recommended procedure for cooking the rice flour mixture?",
+            "Gold Answer": "The mixture should be heated on low heat until rice flour is cooked, and then covered with a lid and removed from the heat to let it cook in its own steam.",
+            "Source/Reference": "rice_modak_(coconut_pastries)_i.json"
+        },
+        {
+            "Query": "How long should the modaks be steamed?",
+            "Gold Answer": "The modaks should be steamed for 10 minutes.",
+            "Source/Reference": "rice_modak_(coconut_pastries)_i.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sev_puri_(crispy_indian_snack_with_potato).json",
+    "qna_pairs": [
+        {
+            "Query": "What ingredients are required to make Sev Puri?",
+            "Gold Answer": "Sev Puri requires flat, crisp puris, boiled potato, tamarind chutney, coriander chutney, cumin seed, salt, red chile pepper, onion, and fine sev.",
+            "Source/Reference": "sev_puri_(crispy_indian_snack_with_potato).json"
+        }
+    ]
+}

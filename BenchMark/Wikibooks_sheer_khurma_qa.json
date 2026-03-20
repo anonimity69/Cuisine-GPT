@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sheer_khurma.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sheer Khurma?",
+            "Gold Answer": "Sheer Khurma is a dessert dish from South Asia, originating from the region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sheer_Khurma"
+        }
+    ]
+}

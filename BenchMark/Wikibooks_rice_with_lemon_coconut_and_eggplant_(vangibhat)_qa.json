@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rice_with_lemon_coconut_and_eggplant_(vangibhat).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the recipe for Rice with Lemon Coconut and Eggplant (Vangibhat)?",
+            "Gold Answer": "The recipe for Rice with Lemon Coconut and Eggplant (Vangibhat) is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_with_Lemon_Coconut_and_Eggplant_(Vangibhat)"
+        },
+        {
+            "Query": "What is the primary spice used in the recipe for Rice with Lemon Coconut and Eggplant (Vangibhat)?",
+            "Gold Answer": "The primary spice used in the recipe for Rice with Lemon Coconut and Eggplant (Vangibhat) is cayenne pepper, coriander seeds, and cinnamon, but the specific type of cumin is not mentioned.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_with_Lemon_Coconut_and_Eggplant_(Vangibhat)"
+        },
+        {
+            "Query": "What is the recommended cooking method for the eggplant in the recipe for Rice with Lemon Coconut and Eggplant (Vangibhat)?",
+            "Gold Answer": "The recommended cooking method for the eggplant in the recipe for Rice with Lemon Coconut and Eggplant (Vangibhat) is to sauté it until it turns a bruised dark brown.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_with_Lemon_Coconut_and_Eggplant_(Vangibhat)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\salty_(namkin)_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Salty (Namkin) Lassi recipe from?",
+            "Gold Answer": "The Salty (Namkin) Lassi recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Salty_(Namkin)_Lassi"
+        },
+        {
+            "Query": "What is the primary ingredient in the Salty (Namkin) Lassi recipe?",
+            "Gold Answer": "The primary ingredient in the Salty (Namkin) Lassi recipe is yogurt.",
+            "Source/Reference": "salty_(namkin)_lassi.json"
+        },
+        {
+            "Query": "What is the main purpose of adding ice in the Salty (Namkin) Lassi recipe?",
+            "Gold Answer": "The main purpose of adding ice in the Salty (Namkin) Lassi recipe is to make the lassi frothy.",
+            "Source/Reference": "salty_(namkin)_lassi.json"
+        }
+    ]
+}

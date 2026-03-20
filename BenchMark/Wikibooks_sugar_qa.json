@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sugar.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the purpose of clarifying sugar juice?",
+            "Gold Answer": "Clarifying sugar juice is necessary to remove contaminants like protein, gums, tannins, and fats from the juice, as these impurities can affect the quality and color of the final sugar product. Historically, heating the juice with blood or egg whites caused protein coagulation that would trap impurities, but this process is no longer common. Instead, modern clarifiers use alkaline lime and carbon dioxide to trap impurities and separate them from the sugar.",
+            "Source/Reference": "sugar.json"
+        }
+    ]
+}

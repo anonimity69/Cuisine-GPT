@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\sambar_i.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sambar I?",
+            "Gold Answer": "Sambar I is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sambar_I"
+        }
+    ]
+}

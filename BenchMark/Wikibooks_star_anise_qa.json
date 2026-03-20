@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\star_anise.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisines commonly use star anise?",
+            "Gold Answer": "Chinese, South Asian, and Indonesian cooking are commonly associated with star anise.",
+            "Source/Reference": "star_anise.json"
+        },
+        {
+            "Query": "How is star anise often used in cooking?",
+            "Gold Answer": "Whole stars are often added to the cooking, imparting their flavor as the food simmers. In some cases, star anise is served in the dish, to be fished out by the diner.",
+            "Source/Reference": "star_anise.json"
+        },
+        {
+            "Query": "What is another common use of star anise in Western cuisine?",
+            "Gold Answer": "Star anise has gained some use as a replacement for anise in Western cuisines, as it is less expensive.",
+            "Source/Reference": "star_anise.json"
+        }
+    ]
+}

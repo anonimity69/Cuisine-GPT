@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\salsa.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical composition of salsa?",
+            "Gold Answer": "Salsa is a variety of condiments associated with Latin American and Spanish cuisine. It has a wide range of compositions, but many salsas in the United States contain tomatoes, onions, garlic, chiles, and lime or vinegar. Other varieties may include papaya, mango, plantain, corn, beans, bell pepper, peaches, and more.",
+            "Source/Reference": "salsa.json"
+        }
+    ]
+}

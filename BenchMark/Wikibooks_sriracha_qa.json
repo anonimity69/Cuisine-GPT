@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sriracha.json",
+    "qna_pairs": [
+        {
+            "Query": "What is sriracha made of?",
+            "Gold Answer": "Sriracha is a sweet hot sauce made from red chiles and garlic.",
+            "Source/Reference": "sriracha.json"
+        },
+        {
+            "Query": "Where is sriracha commonly eaten?",
+            "Gold Answer": "Sriracha is popular in Asia and the Southern United States, and it is often eaten on pasta, hamburgers, and hot dogs.",
+            "Source/Reference": "sriracha.json"
+        },
+        {
+            "Query": "How long does sriracha last in the refrigerator?",
+            "Gold Answer": "Refrigerated in a squirt bottle, sriracha will last well, forever.",
+            "Source/Reference": "sriracha.json"
+        }
+    ]
+}

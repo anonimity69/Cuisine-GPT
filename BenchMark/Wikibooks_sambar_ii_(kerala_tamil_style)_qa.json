@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sambar_ii_(kerala_tamil_style).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of the Sambar II recipe?",
+            "Gold Answer": "The cuisine region of the Sambar II recipe is South Asia.",
+            "Source/Reference": "sambar_ii_(kerala_tamil_style).json"
+        },
+        {
+            "Query": "What is the purpose of adding asafoetida in the recipe?",
+            "Gold Answer": "The asafoetida adds a distinct flavor to the recipe, often used in South Asian cuisine to enhance the taste of dishes.",
+            "Source/Reference": "sambar_ii_(kerala_tamil_style).json"
+        },
+        {
+            "Query": "What is the typical garnish used in the Sambar II recipe?",
+            "Gold Answer": "The recipe typically garnishes with coriander leaves.",
+            "Source/Reference": "sambar_ii_(kerala_tamil_style).json"
+        }
+    ]
+}

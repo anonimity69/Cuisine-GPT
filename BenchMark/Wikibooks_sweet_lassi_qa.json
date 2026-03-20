@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sweet_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical amount of sugar used in Sweet Lassi?",
+            "Gold Answer": "6 tbsp of sugar or honey, which contributes to its sweet nature. This amount is a key component of the recipe, balancing out the tartness of the yogurt.",
+            "Source/Reference": "sweet_lassi.json"
+        },
+        {
+            "Query": "What type of cuisine does Sweet Lassi originate from?",
+            "Gold Answer": "Sweet Lassi originates from South Asia, where it is a popular drink in many countries, including India, Pakistan, and other nations with significant South Asian populations.",
+            "Source/Reference": "sweet_lassi.json"
+        },
+        {
+            "Query": "What is added at the end of the blending process to create frothy Sweet Lassi?",
+            "Gold Answer": "Crushed ice is added to the blender and blended until frothy, giving the drink a smooth and refreshing texture.",
+            "Source/Reference": "sweet_lassi.json"
+        }
+    ]
+}

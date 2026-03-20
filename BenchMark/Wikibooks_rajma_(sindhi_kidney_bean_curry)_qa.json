@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rajma_(sindhi_kidney_bean_curry).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Rajma?",
+            "Gold Answer": "Rajma is a South Asian dish.",
+            "Source/Reference": "rajma_(sindhi_kidney_bean_curry).json"
+        },
+        {
+            "Query": "What is the recommended cooking time for Rajma?",
+            "Gold Answer": "Rajma should be boiled briskly for at least 30 minutes until tender.",
+            "Source/Reference": "rajma_(sindhi_kidney_bean_curry).json"
+        },
+        {
+            "Query": "What are the main ingredients in Rajma?",
+            "Gold Answer": "The main ingredients in Rajma are red kidney beans, onion, tomato, chiles, salt, red chile powder, garam masala, and pepper.",
+            "Source/Reference": "rajma_(sindhi_kidney_bean_curry).json"
+        }
+    ]
+}

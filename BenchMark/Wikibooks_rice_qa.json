@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rice.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical calorie content of wild rice?",
+            "Gold Answer": "wild rice has the lowest calorie content of all rices",
+            "Source/Reference": "rice.json"
+        },
+        {
+            "Query": "What is the main carbohydrate food in Japanese culture?",
+            "Gold Answer": "rice is the main carbohydrate food in Japan, consumed with every meal. For the poor, it is the chief source of calories",
+            "Source/Reference": "rice.json"
+        },
+        {
+            "Query": "What are some types of rice with intact bran?",
+            "Gold Answer": "there are three types of rice with intact bran: wild rice, brown rice, and black rice",
+            "Source/Reference": "rice.json"
+        }
+    ]
+}

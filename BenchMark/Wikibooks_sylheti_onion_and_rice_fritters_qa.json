@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_onion_and_rice_fritters.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sylheti Onion and Rice Fritters?",
+            "Gold Answer": "Sylheti Onion and Rice Fritters is a dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Onion_and_Rice_Fritters"
+        },
+        {
+            "Query": "What ingredients are used to make Sylheti Onion and Rice Fritters?",
+            "Gold Answer": "The ingredients used to make Sylheti Onion and Rice Fritters include onions, ginger, rice flour, ground rice, salt, turmeric powder, and panch puran.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Onion_and_Rice_Fritters"
+        },
+        {
+            "Query": "What is the type of flour used in the recipe?",
+            "Gold Answer": "The recipe uses both rice flour and ground rice.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Onion_and_Rice_Fritters"
+        }
+    ]
+}

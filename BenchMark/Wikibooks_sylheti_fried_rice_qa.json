@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_fried_rice.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sylheti Fried Rice?",
+            "Gold Answer": "Sylheti Fried Rice is a dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Fried_Rice"
+        },
+        {
+            "Query": "What ingredients are required for Sylheti Fried Rice?",
+            "Gold Answer": "The required ingredients for Sylheti Fried Rice are leftover cooked rice, vegetable oil, onion, salt, fresh cilantro leaves, and spearmint.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Fried_Rice"
+        },
+        {
+            "Query": "What is the recommended way to cook Sylheti Fried Rice?",
+            "Gold Answer": "The recommended way to cook Sylheti Fried Rice is to heat the vegetable oil in a large pan or wok over medium heat, add the chopped onion and sauté until it turns translucent, then add the leftover cooked rice and stir well, seasoning with salt to taste.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Fried_Rice"
+        }
+    ]
+}

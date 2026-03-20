@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rice_modak_(coconut_pastries)_ii.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Rice Modak?",
+            "Gold Answer": "Rice Modak is a traditional South Asian dessert, specifically from India and Sri Lanka.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_Modak_(Coconut_Pastries)_II"
+        },
+        {
+            "Query": "What is the cuisine region of Rice Modak?",
+            "Gold Answer": "Rice Modak is a traditional South Asian dessert, specifically from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_Modak_(Coconut_Pastries)_II"
+        },
+        {
+            "Query": "What is the type of Rice Modak?",
+            "Gold Answer": "Rice Modak is a type of coconut pastry dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rice_Modak_(Coconut_Pastries)_II"
+        }
+    ]
+}

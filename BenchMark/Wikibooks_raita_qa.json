@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\raita.json",
+    "qna_pairs": [
+        {
+            "Query": "How is Raita typically served?",
+            "Gold Answer": "Raita is typically served cold and refrigerated.",
+            "Source/Reference": "raita.json"
+        }
+    ]
+}

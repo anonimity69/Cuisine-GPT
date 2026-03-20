@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\spaghetti_squash.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the recommended cooking method for spaghetti squash?",
+            "Gold Answer": "Spaghetti squash can be easily cooked using an oven, microwave, stove top, or slow cooker. The recommended cooking methods include quick baked spaghetti squash, baking in the oven, microwaving, boiling, or cooking in a slow cooker.",
+            "Source/Reference": "spaghetti_squash.json"
+        }
+    ]
+}

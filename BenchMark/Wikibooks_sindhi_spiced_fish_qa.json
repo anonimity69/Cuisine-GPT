@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_spiced_fish.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of the Sindhi Spiced Fish?",
+            "Gold Answer": "The cuisine type of the Sindhi Spiced Fish is South Asian.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Spiced_Fish"
+        },
+        {
+            "Query": "What ingredients are required for the Sindhi Spiced Fish recipe?",
+            "Gold Answer": "The ingredients required for the Sindhi Spiced Fish recipe include Oil, 2 fish fillets, 5 tbsp yogurt, 2 medium-size onions, chopped, 1 tbsp chopped coriander leaves, 1 tsp minced green chile, 1 tsp coriander powder, 1 tsp cumin powder, and Salt to taste.",
+            "Source/Reference": "sindhi_spiced_fish.json"
+        },
+        {
+            "Query": "How is the yogurt mixture applied to the fish?",
+            "Gold Answer": "The yogurt mixture is spread over the fish after shallow frying it on one side, and then baking until golden.",
+            "Source/Reference": "sindhi_spiced_fish.json"
+        }
+    ]
+}

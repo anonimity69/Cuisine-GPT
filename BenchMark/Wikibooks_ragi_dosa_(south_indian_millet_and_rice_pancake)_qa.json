@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\ragi_dosa_(south_indian_millet_and_rice_pancake).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Ragi Dosa belong to?",
+            "Gold Answer": "Ragi Dosa is a South Indian millet and rice pancake, belonging to the South Asian cuisine.",
+            "Source/Reference": "Cookbook:Ragi Dosa (South_Indian_Millet_and_Rice_Pancake).json"
+        },
+        {
+            "Query": "What are the main ingredients needed for Ragi Dosa?",
+            "Gold Answer": "The main ingredients needed for Ragi Dosa are ragi (finger millet), rice, and urad dal.",
+            "Source/Reference": "Cookbook:Ragi Dosa (South_Indian_Millet_and_Rice_Pancake).json"
+        },
+        {
+            "Query": "How long should the batter be left to ferment?",
+            "Gold Answer": "The batter should be left to ferment for about 10 hours.",
+            "Source/Reference": "Cookbook:Ragi Dosa (South_Indian_Millet_and_Rice_Pancake).json"
+        }
+    ]
+}

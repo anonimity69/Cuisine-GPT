@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_chickpea_confection.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Sindhi Chickpea Confection?",
+            "Gold Answer": "Sindhi Chickpea Confection is a traditional dessert from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Chickpea_Confection"
+        },
+        {
+            "Query": "What ingredients are used in Sindhi Chickpea Confection?",
+            "Gold Answer": "The ingredients used in Sindhi Chickpea Confection include gram flour, ghee, sugar, cashews, almonds, and pistachios.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Chickpea_Confection"
+        },
+        {
+            "Query": "How is Sindhi Chickpea Confection prepared?",
+            "Gold Answer": "Sindhi Chickpea Confection is prepared by heating ghee in a pan, adding gram flour and stirring until toasted, then removing from heat, adding sugar, and stirring until sugar melts. The mixture is then transferred to a bowl, garnished with nuts, and served hot or cold.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Chickpea_Confection"
+        }
+    ]
+}

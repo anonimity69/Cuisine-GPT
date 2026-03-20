@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sardine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical flavor profile of sardines?",
+            "Gold Answer": "Sardines have a fishy, umami flavor similar to anchovies, although this varies according to how the sardines are prepared.",
+            "Source/Reference": "sardine.json"
+        },
+        {
+            "Query": "How are sardines often used in European cuisine?",
+            "Gold Answer": "Sardines are often used in European cuisine, particularly in British stargazy pie, Scandinavian smoked sardines, and southern European sardines packed in oil or tomato sauce.",
+            "Source/Reference": "sardine.json"
+        },
+        {
+            "Query": "What is a popular way to cook sardines in the Philippines?",
+            "Gold Answer": "In the Philippines, sardines are often cooked in tomato sauce to make ginisang sardinas, or fried and dipped in vinegar.",
+            "Source/Reference": "sardine.json"
+        }
+    ]
+}

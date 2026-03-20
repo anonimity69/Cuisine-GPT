@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_beef_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine is the Sylheti Beef Curry?",
+            "Gold Answer": "The Sylheti Beef Curry is a dish from South Asia.",
+            "Source/Reference": "sylheti_beef_curry.json"
+        },
+        {
+            "Query": "What are the ingredients required for the Sylheti Beef Curry?",
+            "Gold Answer": "The ingredients required for the Sylheti Beef Curry include ½ hatxora (Citrus macroptera|citrus macroptera), 500 grams beef, cut into cubes, and various spices and herbs such as cumin powder, coriander powder, turmeric powder, and bay leaves.",
+            "Source/Reference": "sylheti_beef_curry.json"
+        },
+        {
+            "Query": "How long does it take to cook the Sylheti Beef Curry?",
+            "Gold Answer": "The Sylheti Beef Curry requires cooking time of about 1.5–2 hours or until the beef is tender and the flavors meld.",
+            "Source/Reference": "sylheti_beef_curry.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sev.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of noodle is Sev made of?",
+            "Gold Answer": "Sev is made of chickpea noodles.",
+            "Source/Reference": "sev.json"
+        },
+        {
+            "Query": "What can Sev be eaten straight?",
+            "Gold Answer": "Sev can be eaten straight or used as a component of other dishes.",
+            "Source/Reference": "sev.json"
+        },
+        {
+            "Query": "Is Sev a type of Indian snack?",
+            "Gold Answer": "Yes, Sev is an Indian snack.",
+            "Source/Reference": "sev.json"
+        }
+    ]
+}

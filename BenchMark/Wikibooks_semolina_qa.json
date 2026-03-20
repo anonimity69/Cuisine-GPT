@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\semolina.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of flatbreads are made from semolina?",
+            "Gold Answer": "Several types of flatbreads are made from semolina, including Baghrir, Kesra, Lahoh/Lahoh, M’semen, Puri, and Semolina Bread. These flatbreads are commonly found in North African and Middle Eastern cuisine.",
+            "Source/Reference": "semolina.json"
+        },
+        {
+            "Query": "What is the use of semolina in cooking?",
+            "Gold Answer": "Semolina is often used to make pasta and various flatbreads, such as Kesra and Puri. It is also used in some savory dishes, such as Bean-Semolina Burger and Nigerian Minced Meat Semolina Pancakes. Semolina is also used to make desserts like Kesari and Semolina pudding.",
+            "Source/Reference": "semolina.json"
+        },
+        {
+            "Query": "What type of pastry is Galaktoboureko?",
+            "Gold Answer": "Galaktoboureko is a Greek semolina custard pastry. It is a traditional dessert made with semolina flour, custard, and phyllo dough.",
+            "Source/Reference": "semolina.json"
+        }
+    ]
+}

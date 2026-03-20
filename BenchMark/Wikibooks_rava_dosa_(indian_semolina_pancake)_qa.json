@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rava_dosa_(indian_semolina_pancake).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Rava Dosa?",
+            "Gold Answer": "Rava Dosa is an Indian Semolina Pancake, which falls under the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rava_Dosa_(Indian_Semolina_Pancake)"
+        },
+        {
+            "Query": "What is the main ingredient in Rava Dosa batter?",
+            "Gold Answer": "The main ingredient in the batter is rice flour, but it is mixed with other ingredients such as maida (or all-purpose flour), suji (semolina flour), and buttermilk.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rava_Dosa_(Indian_Semolina_Pancake)"
+        },
+        {
+            "Query": "How long should Rava Dosa be cooked?",
+            "Gold Answer": "Rava Dosa should be cooked on a medium temperature for 3-4 minutes, or until it is completely cooked.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Rava_Dosa_(Indian_Semolina_Pancake)"
+        }
+    ]
+}

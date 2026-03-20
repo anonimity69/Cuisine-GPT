@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\rasmalai_(indian_cheese_and_milk_dessert).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Rasmalai?",
+            "Gold Answer": "Rasmalai is an Indian dessert, specifically from South Asia.",
+            "Source/Reference": "Cookbook:Rasmalai (Indian Cheese and Milk Dessert)"
+        },
+        {
+            "Query": "What is the typical consistency of the milk in Rasmalai?",
+            "Gold Answer": "The milk in Rasmalai should be boiled until it is reduced to a thick consistency.",
+            "Source/Reference": "Cookbook:Rasmalai (Indian Cheese and Milk Dessert)"
+        },
+        {
+            "Query": "What is the main ingredient of Rasmalai?",
+            "Gold Answer": "The main ingredient of Rasmalai is curdled milk, also known as paneer or chenna.",
+            "Source/Reference": "Cookbook:Rasmalai (Indian Cheese and Milk Dessert)"
+        }
+    ]
+}

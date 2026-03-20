@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\soda_pop.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical color of Cola?",
+            "Gold Answer": "Colas are typically dark brown in color.",
+            "Source/Reference": "Colas are typically dark brown in color, with an ambiguous flavor that differs from maker to maker."
+        },
+        {
+            "Query": "What flavor does cream soda typically contain?",
+            "Gold Answer": "Cream soda is typically flavored with vanilla and/or caramel.",
+            "Source/Reference": "Cream soda is typically flavored with vanilla and/or caramel."
+        },
+        {
+            "Query": "What is the typical flavor of ginger beer compared to ginger ale?",
+            "Gold Answer": "Ginger beer is very similar to ginger ale, but it is considered spicier and less sweet.",
+            "Source/Reference": "Ginger beer is very similar to ginger ale, but it is considered spicier and less sweet."
+        }
+    ]
+}

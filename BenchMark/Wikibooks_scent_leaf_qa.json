@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\scent_leaf.json",
+    "qna_pairs": [
+        {
+            "Query": "What is scent leaf?",
+            "Gold Answer": "Scent leaf is the leaf of *Ocimum gratissimum*, a plant native to Africa and South Asia. It is frequently used as an herb in West African cooking.",
+            "Source/Reference": "scent_leaf.json"
+        },
+        {
+            "Query": "What is scent leaf used for?",
+            "Gold Answer": "Scent leaf is used as an herb in West African cooking. It goes by many names, including *efirin*, *ntong*, *nchuanwu*, *dogosui*, *daidoya*, *ebe-amwonkho*, and *mujaaja*.",
+            "Source/Reference": "scent_leaf.json"
+        },
+        {
+            "Query": "What is the scientific name of scent leaf?",
+            "Gold Answer": "The scientific name of scent leaf is *Ocimum gratissimum*.",
+            "Source/Reference": "scent_leaf.json"
+        }
+    ]
+}

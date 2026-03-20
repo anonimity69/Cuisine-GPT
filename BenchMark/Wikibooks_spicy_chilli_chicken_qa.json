@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\spicy_chilli_chicken.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Spicy Chilli Chicken?",
+            "Gold Answer": "The Spicy Chilli Chicken is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Spicy_Chilli_Chicken"
+        },
+        {
+            "Query": "What cooking method is used for the chicken in Spicy Chilli Chicken?",
+            "Gold Answer": "The chicken is fried in canola oil until golden brown.",
+            "Source/Reference": "spicy_chilli_chicken.json"
+        },
+        {
+            "Query": "What type of sauce is used in Spicy Chilli Chicken?",
+            "Gold Answer": "The sauce used in Spicy Chilli Chicken is a combination of tomato ketchup, soy sauce, and spices.",
+            "Source/Reference": "spicy_chilli_chicken.json"
+        }
+    ]
+}

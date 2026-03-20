@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\south_asian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is South Asian Cuisine?",
+            "Gold Answer": "South Asian Cuisine is a style of cooking that originates from the South Asian region, including countries such as India, Pakistan, Bangladesh, and Sri Lanka. It is known for its rich flavors, aromas, and spices, and often features dishes made with ingredients like rice, lentils, and vegetables.",
+            "Source/Reference": "south_asian_cuisine.json"
+        },
+        {
+            "Query": "What type of cuisine is South Asian Cuisine?",
+            "Gold Answer": "South Asian Cuisine is a type of Asian Cuisine, specifically a sub-region of Asian Cuisine.",
+            "Source/Reference": "south_asian_cuisine.json"
+        },
+        {
+            "Query": "Where is South Asian Cuisine from?",
+            "Gold Answer": "South Asian Cuisine originates from the South Asian region, which includes countries such as India, Pakistan, Bangladesh, and Sri Lanka.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:South_Asian_Cuisine"
+        }
+    ]
+}

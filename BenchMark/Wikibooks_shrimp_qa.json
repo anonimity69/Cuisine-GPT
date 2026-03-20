@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\shrimp.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the easiest way to cook shrimp?",
+            "Gold Answer": "The easiest way to cook shrimp is by boiling. Simply place them into a pot of boiling water and cook them until they change color, generally becoming pink.",
+            "Source/Reference": "shrimp.json"
+        }
+    ]
+}

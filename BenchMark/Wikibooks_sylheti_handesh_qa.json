@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_handesh.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the type of cuisine this recipe is from?",
+            "Gold Answer": "This recipe is from South Asian cuisine, specifically from the region of Sylhet.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Handesh"
+        },
+        {
+            "Query": "What is the purpose of adding water to the mixture during kneading?",
+            "Gold Answer": "Adding water to the mixture is to achieve the desired consistency, making it smooth and pliable.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Handesh"
+        },
+        {
+            "Query": "What is the recommended way to serve handesh?",
+            "Gold Answer": "Handesh can be served warm or at room temperature.",
+            "Source/Reference": "sylheti_handesh.json"
+        }
+    ]
+}

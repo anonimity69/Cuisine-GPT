@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sindhi_spiced_moong_dal.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe?",
+            "Gold Answer": "This recipe is from South Asian cuisine, specifically from the region of Sindhi.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Spiced_Moong_Dal"
+        },
+        {
+            "Query": "What type of cooking vessel is used in this recipe?",
+            "Gold Answer": "In this recipe, a pressure cooker is used to boil the dal.",
+            "Source/Reference": "sindhi_spiced_moong_dal.json"
+        },
+        {
+            "Query": "How long does the dal need to be boiled in the pressure cooker?",
+            "Gold Answer": "The dal needs to be boiled in the pressure cooker for at least 3-4 minutes.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sindhi_Spiced_Moong_Dal"
+        }
+    ]
+}

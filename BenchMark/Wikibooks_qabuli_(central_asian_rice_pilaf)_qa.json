@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\qabuli_(central_asian_rice_pilaf).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Qabuli?",
+            "Gold Answer": "Qabuli is a Central Asian dish, specifically from South Asia, and is a type of rice pilaf.",
+            "Source/Reference": "qabuli_(central_asian_rice_pilaf).json"
+        },
+        {
+            "Query": "What is the recommended cooking time for the rice?",
+            "Gold Answer": "The recommended cooking time for the rice is 8-10 minutes, after which it should be turned off and allowed to rest for a similar amount of time.",
+            "Source/Reference": "qabuli_(central_asian_rice_pilaf).json"
+        },
+        {
+            "Query": "What ingredients are used in the recipe?",
+            "Gold Answer": "The recipe includes dry chickpeas, rice, shortening, onions, red pepper, ginger garlic paste, salt, chile powder, tomato paste, turmeric powder, and chopped cilantro.",
+            "Source/Reference": "qabuli_(central_asian_rice_pilaf).json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\soy_bean.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is associated with soy beans?",
+            "Gold Answer": "East Asian cuisines",
+            "Source/Reference": "soy_bean.json"
+        },
+        {
+            "Query": "What can soy milk be coagulated into?",
+            "Gold Answer": "Tofu",
+            "Source/Reference": "soy_bean.json"
+        },
+        {
+            "Query": "What is soy bean oil suitable for?",
+            "Gold Answer": "High-temperature frying due to its high smoke point",
+            "Source/Reference": "soy_bean.json"
+        }
+    ]
+}

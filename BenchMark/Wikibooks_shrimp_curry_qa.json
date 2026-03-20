@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\shrimp_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Shrimp Curry recipe from?",
+            "Gold Answer": "The Shrimp Curry recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Shrimp_Curry"
+        },
+        {
+            "Query": "What ingredients does the Shrimp Curry recipe call for?",
+            "Gold Answer": "The Shrimp Curry recipe calls for 1 pound peeled, deveined jumbo shrimp, ½ onion, finely diced, 1 tbsp minced garlic, 1 tbsp vegetable oil, 1 tbsp curry powder, ½ cup chicken broth, and 1 heaping tbsp red curry paste.",
+            "Source/Reference": "shrimp_curry.json"
+        },
+        {
+            "Query": "How do you cook the shrimp in the Shrimp Curry recipe?",
+            "Gold Answer": "The shrimp are sautéed in oil just until bright pink, then removed and kept warm before being added back to the pan to cook until heated through.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Shrimp_Curry"
+        }
+    ]
+}

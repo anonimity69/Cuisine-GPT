@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\south_indian_millet_swallow_(mudde).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the type of cuisine that South Indian Millet Swallow (Mudde) belongs to?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "south_indian_millet_swallow_(mudde).json"
+        },
+        {
+            "Query": "What type of flour is used to make South Indian Millet Swallow (Mudde)?",
+            "Gold Answer": "Finger millet (ragi) flour",
+            "Source/Reference": "south_indian_millet_swallow_(mudde).json"
+        },
+        {
+            "Query": "What is the general process of making South Indian Millet Swallow (Mudde)?",
+            "Gold Answer": "The process involves boiling water, adding flour to make a paste, then adding the rest of the flour. The mixture is then stirred and cooked on low heat until it turns dark reddish-brown, before being pulled out and formed into balls.",
+            "Source/Reference": "south_indian_millet_swallow_(mudde).json"
+        }
+    ]
+}

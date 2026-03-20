@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\soji_(indian_wheat_pudding).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Soji?",
+            "Gold Answer": "Soji is a traditional South Asian dessert, specifically from the Indian subcontinent.",
+            "Source/Reference": "soji_(indian_wheat_pudding).json"
+        }
+    ]
+}

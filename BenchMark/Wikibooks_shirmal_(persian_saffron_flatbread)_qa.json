@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\shirmal_(persian_saffron_flatbread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Shirmal belong to?",
+            "Gold Answer": "Shirmal belongs to South Asian cuisine.",
+            "Source/Reference": "shirmal_(persian_saffron_flatbread).json"
+        },
+        {
+            "Query": "How to make Shirmal?",
+            "Gold Answer": "To make Shirmal, soak saffron strands in warm milk, sift together flour and salt, then sprinkle in sugar, add melted ghee, and knead the mixture to form a dough. Let it rest for 2 hours, then knead again and divide into 7 parts. Roll out each piece into a thick round, prick with a fork, and bake in a hot pan. Finish with a splash of saffron milk and serve.",
+            "Source/Reference": "shirmal_(persian_saffron_flatbread).json"
+        },
+        {
+            "Query": "What to serve with Shirmal?",
+            "Gold Answer": "Shirmal is often served with gravies, veggies, curds, pickles, or jams.",
+            "Source/Reference": "shirmal_(persian_saffron_flatbread).json"
+        }
+    ]
+}

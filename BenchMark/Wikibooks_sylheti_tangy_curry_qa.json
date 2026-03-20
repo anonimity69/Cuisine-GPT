@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\sylheti_tangy_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the type of cuisine in the Sylheti Tangy Curry recipe?",
+            "Gold Answer": "The Sylheti Tangy Curry recipe is from the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Tangy_Curry"
+        },
+        {
+            "Query": "What is the recommended amount of garlic in the Sylheti Tangy Curry recipe?",
+            "Gold Answer": "Half a cup of organic garlic is required in the Sylheti Tangy Curry recipe.",
+            "Source/Reference": "sylheti_tangy_curry.json"
+        },
+        {
+            "Query": "What type of oil is recommended for the Sylheti Tangy Curry recipe?",
+            "Gold Answer": "The Sylheti Tangy Curry recipe uses vegetable oil, such as canola, sunflower, or olive oil.",
+            "Source/Reference": "sylheti_tangy_curry.json"
+        }
+    ]
+}

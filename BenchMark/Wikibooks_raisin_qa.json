@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\raisin.json",
+    "qna_pairs": [
+        {
+            "Query": "What is raisin made of?",
+            "Gold Answer": "Raisins are made of dried grapes.",
+            "Source/Reference": "raisin.json"
+        },
+        {
+            "Query": "What type of recipe uses raisins?",
+            "Gold Answer": "Raisins are used in various recipes including cakes, breads, salads, and pastries from different cuisines such as Amish, Indian, Persian, and European. Examples include Apple Raisin Oat Muffins, Indian Rice, and Carrot and Raisin Salad.",
+            "Source/Reference": "raisin.json"
+        },
+        {
+            "Query": "What color are yellow raisins?",
+            "Gold Answer": "Yellow raisins are yellow due to the treatment with sulfur dioxide, and may also be referred to as golden raisins or sultanas.",
+            "Source/Reference": "raisin.json"
+        }
+    ]
+}
