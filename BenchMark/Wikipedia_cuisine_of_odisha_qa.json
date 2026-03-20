@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\cuisine_of_odisha.json",
+    "qna_pairs": [
+        {
+            "Query": "What is characteristic of the Odia cuisine?",
+            "Gold Answer": "The Odia cuisine is less spicy and uses less oil compared to other regional Indian cuisines, while remaining flavorful.",
+            "Source/Reference": "cuisine_of_odisha.json"
+        }
+    ]
+}

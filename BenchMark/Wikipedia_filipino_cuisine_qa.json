@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\filipino_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the national dish of the Philippines?",
+            "Gold Answer": "Adobo is considered by many to be the national dish of the Philippines, typically consisting of pork or chicken, stewed or braised in a sauce made from vinegar, cooking oil, garlic, bay leaf, peppercorns, and soy sauce.",
+            "Source/Reference": "filipino_cuisine.json"
+        }
+    ]
+}

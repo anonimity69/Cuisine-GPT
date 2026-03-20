@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\jordanian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional sweet dumpling that is consumed during Ramadan in Jordan?",
+            "Gold Answer": "Qatayef is a sweet dumpling stuffed with cream and pistachios, and is traditionally consumed during Ramadan in Jordan.",
+            "Source/Reference": "jordanian_cuisine.json"
+        }
+    ]
+}

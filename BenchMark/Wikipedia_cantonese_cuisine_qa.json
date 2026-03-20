@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\cantonese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main difference between the Teochew cuisine and Hakka cuisine of Guangdong?",
+            "Gold Answer": "The Teochew cuisine and Hakka cuisine of Guangdong are considered their own styles, distinct from Cantonese cuisine.",
+            "Source/Reference": "cantonese_cuisine.json"
+        }
+    ]
+}

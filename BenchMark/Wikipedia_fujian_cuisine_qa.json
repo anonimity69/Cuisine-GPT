@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\fujian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main characteristics of Fujian cuisine?",
+            "Gold Answer": "Fujian cuisine is known to be light but flavorful, soft, and tender, with particular emphasis on umami taste, as well as retaining the original flavor of the main ingredients.",
+            "Source/Reference": "fujian_cuisine.json"
+        },
+        {
+            "Query": "What are some common cooking techniques used in Fujian cuisine?",
+            "Gold Answer": "The most commonly employed cooking techniques in the region's cuisine include braising, stewing, steaming and boiling.",
+            "Source/Reference": "fujian_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of broth and soups in Fujian cuisine?",
+            "Gold Answer": "Strong emphasis is put on the making and utilising of broth and soups. There are sayings in the region's cuisine: \"One broth can be changed into numerous (ten) forms\" and \"It is unacceptable for a meal to not have soup\".",
+            "Source/Reference": "fujian_cuisine.json"
+        }
+    ]
+}

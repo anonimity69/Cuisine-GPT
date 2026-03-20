@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chinese_indonesian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the name of the steamed fish cake in banana leaf package?",
+            "Gold Answer": "Otak-otak (烏達烏達), a steamed and grilled fish cake in banana leaf package, made of fish meat and spices served with spicy peanut sauce.",
+            "Source/Reference": "chinese_indonesian_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the cake of sticky rice flour with sweet filling?",
+            "Gold Answer": "Kue ku (龜粿), a Chinese origin cake of sticky rice flour with sweet filling. The same as Chinese \"Ang ku kueh\" (Red Tortoise Cake).",
+            "Source/Reference": "chinese_indonesian_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the steamed 'lazy fish' or betutu fish in ginger and soy sauce?",
+            "Gold Answer": "Ikan malas tim, steamed \"lazy fish\" or betutu fish (marble goby) in ginger and soy sauce.",
+            "Source/Reference": "chinese_indonesian_cuisine.json"
+        }
+    ]
+}

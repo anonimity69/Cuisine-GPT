@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\cuisine_of_haryana.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common non-vegetarian food in Haryana?",
+            "Gold Answer": "The consumption of non-vegetarian food is generally avoided in Haryana, sometimes considered a taboo among the rural population.",
+            "Source/Reference": "cuisine_of_haryana.json"
+        }
+    ]
+}

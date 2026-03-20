@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\japanese_regional_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the meaning of kyōdo ryōri?",
+            "Gold Answer": "Kyōdo ryōri is a term used to describe Japanese regional cuisine, many of which originated from dishes prepared using local ingredients and traditional recipes.",
+            "Source/Reference": "japanese_regional_cuisine.json"
+        },
+        {
+            "Query": "Why are regional specialities still relevant in modern Japan?",
+            "Gold Answer": "Many regional specialities survive to this day, with some new ones still being created, as local ingredients are now available nationwide.",
+            "Source/Reference": "japanese_regional_cuisine.json"
+        },
+        {
+            "Query": "What is the difference in broth between eastern and western Japanese udon noodles?",
+            "Gold Answer": "The dashi-based broth for serving udon noodles in eastern Japan is heavy on dark soy sauce, similar to soba broth, while in western Japan the broth relies more on the complex dashi-flavouring with a hint of light soy sauce.",
+            "Source/Reference": "japanese_regional_cuisine.json"
+        }
+    ]
+}

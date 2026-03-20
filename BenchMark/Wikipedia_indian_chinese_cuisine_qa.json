@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\indian_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between Indian Chinese cuisine and traditional Indian cuisine?",
+            "Gold Answer": "Indian Chinese cuisine is differentiated from traditional Indian cuisine by its distinct blend of Chinese and Indian influences, including the use of Indian vegetables and spices, Chinese sauces, and thickening agents, as well as the adaptation of Chinese culinary styles to the Indian palate.",
+            "Source/Reference": "indian_chinese_cuisine.json"
+        }
+    ]
+}

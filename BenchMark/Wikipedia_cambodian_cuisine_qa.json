@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\cambodian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of cuisine are common in Cambodia?",
+            "Gold Answer": "Cambodian cuisine can be categorized into three main types: rural, elite and royal cuisine. Although there is some distinction between royal and popular cuisine, it is not as pronounced as in Thailand and Laos. Cambodian royal dishes tend to feature a wider variety of higher-quality ingredients and contain more meat.",
+            "Source/Reference": "cambodian_cuisine.json"
+        },
+        {
+            "Query": "What are some common herbs and spices used in Cambodian cuisine?",
+            "Gold Answer": "The most common herbs and spices in Cambodian cuisine are sweet basil, coriander, hot mint, turmeric, garlic, ginger, galangal, kaffir lime leaves, neem leaves, peppermint, lemongrass, chives, scallions, saw leaf herb, fingerroot, and rice paddy herb.",
+            "Source/Reference": "cambodian_cuisine.json"
+        },
+        {
+            "Query": "What are some popular desserts in Cambodian cuisine?",
+            "Gold Answer": "Desserts are eaten at the end of a meal or throughout the day as a snack by Cambodians. There are four main types of Cambodian desserts: rice-based desserts, fruit-based desserts, puddings, and custards. Popular Cambodian rice-based desserts include num ansom chek, num plae ai, and num chak chol. In fruit-based desserts, fruit such as mango, jackfruit, papaya, and guava are often combined with pandan leaf extract, banana leaves, coconut milk, cream, or shavings.",
+            "Source/Reference": "cambodian_cuisine.json"
+        }
+    ]
+}

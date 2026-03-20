@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\caspian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is primarily found in the Mazandaran, Gilan, Alborz, and Golestan provinces?",
+            "Gold Answer": "Caspian cuisine is a regional cuisine found in Northern Iran, primarily found in the Mazandaran, Gilan, Alborz, and Golestan provinces.",
+            "Source/Reference": "caspian_cuisine.json"
+        },
+        {
+            "Query": "What type of rice is prepared in the Mazandaran and Gilan provinces?",
+            "Gold Answer": "In the Mazandaran and Gilan provinces, rice is prepared in a kateh cooking style, which is different from the typical polos/chelo found in other parts of Iran.",
+            "Source/Reference": "caspian_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional dish in northern Iran, particularly in the Mazandaran and Gilan provinces?",
+            "Gold Answer": "Baghali ghatogh (bean stew) is a traditional dish in northern Iran, particularly in the Mazandaran and Gilan provinces.",
+            "Source/Reference": "caspian_cuisine.json"
+        }
+    ]
+}

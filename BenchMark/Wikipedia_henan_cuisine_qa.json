@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\henan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is unique about the flavor profile of Henan cuisine?",
+            "Gold Answer": "Henan cuisine is known for its taste variety, including a blend of sour, sweet, bitter, spicy, and salty flavors, and has one of China's oldest and most traditional cooking styles.",
+            "Source/Reference": "henan_cuisine.json"
+        }
+    ]
+}

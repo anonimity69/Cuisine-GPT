@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\gujarati_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical Gujarati thali?",
+            "Gold Answer": "The typical Gujarati thali consists of rotli, dal or curry, rice, and shaak (a dish made up of several different combinations of vegetables and spices, which may be either spicy or sweet).",
+            "Source/Reference": "gujarati_cuisine.json"
+        },
+        {
+            "Query": "What are some popular Gujarati snacks?",
+            "Gold Answer": "Some popular Gujarati snacks include dhokla, patra, samosa, fafda, and dhokla. Farsan are side dishes in Gujarati cuisine.",
+            "Source/Reference": "gujarati_cuisine.json"
+        },
+        {
+            "Query": "What is the main difference between Gujarati and other Indian cuisines?",
+            "Gold Answer": "Gujarati cuisine is primarily a vegetarian state despite having a long coastline with access to seafood. Many communities include seafood, chicken and mutton in their diet.",
+            "Source/Reference": "gujarati_cuisine.json"
+        }
+    ]
+}

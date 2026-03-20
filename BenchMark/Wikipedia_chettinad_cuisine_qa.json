@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chettinad_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine of the Nattukottai Chettiars?",
+            "Gold Answer": "The cuisine of the Nattukottai Chettiars, or Nagarathars, from the Chettinad region in Sivaganga district of Tamil Nadu state in India, is known as Chettinad cuisine.",
+            "Source/Reference": "chettinad_cuisine.json"
+        },
+        {
+            "Query": "What types of meats are commonly used in Chettinad cuisine?",
+            "Gold Answer": "Chettinad cuisine commonly uses goat, chicken, mutton, and marine fish as meats.",
+            "Source/Reference": "chettinad_cuisine.json"
+        },
+        {
+            "Query": "What spices are typically used in Chettinad food?",
+            "Gold Answer": "Major spices used in Chettinad food include anasipoo (star aniseed), kalpasi (a lichen), puli (tamarind), milagai (chillies), sombu (fennel seed), pattai (cinnamon), lavangam (cloves), punnai ilai (bay leaf), karu milagu (peppercorn), jeeragam (cumin seeds), and venthayam (fenugreek).",
+            "Source/Reference": "chettinad_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\indonesian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional Indonesian beverage made from coffee beans that have been eaten by the Asian palm civet?",
+            "Gold Answer": "Kopi luwak is the traditional Indonesian beverage made from coffee beans that have been eaten by the Asian palm civet.",
+            "Source/Reference": "indonesian_cuisine.json"
+        }
+    ]
+}

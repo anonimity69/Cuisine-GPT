@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\georgian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Georgian sauce?",
+            "Gold Answer": "Adjika is a spicy paste or sauce seasoned with hot chili peppers, while Khmeli-suneli is a powdered herb/spice mixture.",
+            "Source/Reference": "georgian_cuisine.json"
+        },
+        {
+            "Query": "What is a popular Georgian soup?",
+            "Gold Answer": "Shechamandi is a soup, mostly made in Kartli of spinach, malva, garlic, dogwood, grains, sorrel, pink peavine, and other plant ingredients.",
+            "Source/Reference": "georgian_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional Georgian candy made from grape juice?",
+            "Gold Answer": "Churchkhela is a candy made of grape juice mixed with flour and walnuts, originating in Kakheti.",
+            "Source/Reference": "georgian_cuisine.json"
+        }
+    ]
+}

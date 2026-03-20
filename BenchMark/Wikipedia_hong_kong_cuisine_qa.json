@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hong_kong_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisines influence Hong Kong cuisine?",
+            "Gold Answer": "Hong Kong cuisine is mainly influenced by Cantonese cuisine, European cuisines (especially British cuisine) and non-Cantonese Chinese cuisines (especially Hakka, Teochew, Hokkien and Shanghainese), as well as Japanese, Korean and Southeast Asian cuisines.",
+            "Source/Reference": "hong_kong_cuisine.json"
+        },
+        {
+            "Query": "What ingredients are commonly used in Hong Kong's cooking?",
+            "Gold Answer": "Similar to Cantonese cuisine elsewhere, Hong Kong's cooking uses a wide variety of ingredients and the common ones include those mentioned in Cantonese cuisine.",
+            "Source/Reference": "hong_kong_cuisine.json"
+        },
+        {
+            "Query": "Why is Hong Kong considered a 'Gourmet Paradise' and 'World's Fair of Food'?",
+            "Gold Answer": "Complex combinations and international gourmet expertise have given Hong Kong the labels of 'Gourmet Paradise' and 'World's Fair of Food'.",
+            "Source/Reference": "hong_kong_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hubei_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Hubei cuisine also known as?",
+            "Gold Answer": "Hubei cuisine is also known as Chu cuisine or E cuisine.",
+            "Source/Reference": "hubei_cuisine.json"
+        },
+        {
+            "Query": "What type of ingredients are commonly used in Hubei cuisine?",
+            "Gold Answer": "Hubei cuisine commonly uses freshwater produce, such as lotus root, due to the province's abundance of lakes, rivers, and marshlands.",
+            "Source/Reference": "hubei_cuisine.json"
+        },
+        {
+            "Query": "How long has Hubei cuisine been in existence?",
+            "Gold Answer": "Hubei cuisine has a history of more than 2,000 years.",
+            "Source/Reference": "hubei_cuisine.json"
+        }
+    ]
+}

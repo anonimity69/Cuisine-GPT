@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\emirati_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is served at the end of a meal in Emirati cuisine?",
+            "Gold Answer": "A red tea infused with mint is usually served at the end of a meal in Emirati cuisine as a digestive.",
+            "Source/Reference": "emirati_cuisine.json"
+        }
+    ]
+}

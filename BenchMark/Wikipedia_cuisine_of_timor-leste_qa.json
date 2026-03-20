@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\cuisine_of_timor-leste.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main food staples in Timor-Leste?",
+            "Gold Answer": "The primary food staples in Timor-Leste include rice, sweet potatoes, maize, cassava, and taro. These staples are supplemented with beans, cabbage, spinach, onions and cowpeas.",
+            "Source/Reference": "cuisine_of_timor-leste.json"
+        },
+        {
+            "Query": "What is Batar daan?",
+            "Gold Answer": "Batar daan is a popular dish of corn, mung beans, and pumpkin.",
+            "Source/Reference": "cuisine_of_timor-leste.json"
+        },
+        {
+            "Query": "What is the main ingredient in Feijoada?",
+            "Gold Answer": "The main ingredient in Feijoada is pork, along with cannellini beans and chorizo.",
+            "Source/Reference": "cuisine_of_timor-leste.json"
+        }
+    ]
+}

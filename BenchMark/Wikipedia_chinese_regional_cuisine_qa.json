@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chinese_regional_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of cuisines are most influential in Chinese cuisine?",
+            "Gold Answer": "Guangdong cuisine, Shandong cuisine, Huaiyang cuisine, and Sichuan cuisine are the most influential types of cuisines in Chinese cuisine.",
+            "Source/Reference": "chinese_regional_cuisine.json"
+        },
+        {
+            "Query": "Which cooking technique does Jiangsu cuisine favor?",
+            "Gold Answer": "Jiangsu cuisine favors cooking techniques such as braising and stewing.",
+            "Source/Reference": "chinese_regional_cuisine.json"
+        },
+        {
+            "Query": "What is a popular dish from the Sichuan cuisine?",
+            "Gold Answer": "Baking is the cooking method employed by Sichuan cuisine, and a popular dish from this cuisine is not specified, however, other dishes such as Peking duck and dim sum are well-known outside of China.",
+            "Source/Reference": "chinese_regional_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\jiangxi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the four characteristics of Jiangxi cuisine?",
+            "Gold Answer": "According to the East China Travel Guide published in 1983, Jiangxi cuisine has its unique taste which can be described in four Chinese idioms: 加览。贝解。洞的贝解。和込。为込鱻老万。",
+            "Source/Reference": "jiangxi_cuisine.json"
+        }
+    ]
+}

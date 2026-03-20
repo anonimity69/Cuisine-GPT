@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chinese_islamic_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Chinese Islamic cuisine?",
+            "Gold Answer": "Chinese Islamic cuisine consists of variations of regionally popular foods that are typical of Han Chinese cuisine, with influences from Middle Eastern, Turkic, Iranian and South Asian cuisines, notably mutton and spices.",
+            "Source/Reference": "chinese_islamic_cuisine.json"
+        },
+        {
+            "Query": "What is the main difference between Northern and Southern Chinese Islamic cuisine?",
+            "Gold Answer": "Northern Chinese Islamic cuisine relies heavily on beef, while Southern Chinese Islamic cuisine is the reverse, due to the availability of ingredients. Oxen are used for farming in Northern China, while ducks, geese and shrimp are more common in Southern China.",
+            "Source/Reference": "chinese_islamic_cuisine.json"
+        },
+        {
+            "Query": "What is a unique feature of Hui halal food in China?",
+            "Gold Answer": "Hui halal food is considered cleaner by most Chinese, leading to its popularity, and Hui restaurants are often required to be at least 400 meters away from other beef noodle soup restaurants to maintain this reputation.",
+            "Source/Reference": "chinese_islamic_cuisine.json"
+        }
+    ]
+}

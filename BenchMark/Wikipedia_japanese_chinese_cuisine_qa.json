@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\japanese_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between Japanese Chinese cuisine and authentic Chinese food in Japan?",
+            "Gold Answer": "Japanese Chinese cuisine is a unique fusion of Japanese and Chinese culinary traditions that have evolved since the late 19th century. It is considered distinct from authentic Chinese food available in Japan, although it retains strong influences from various Chinese regional cuisines and there is considerable overlap between the two.",
+            "Source/Reference": "japanese_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is the origin of the dish Mābō-dōfu?",
+            "Gold Answer": "Mābō-dōfu is a stir-fried dish of ground pork mixture with tofu cubes in a slightly spicy sauce. It was popularized in Japan by Chen Kenmin in 1952, and is derived from Sichuan cuisine.",
+            "Source/Reference": "japanese_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Harumaki and Americanized Chinese restaurant spring rolls?",
+            "Gold Answer": "Harumaki are similar to Americanized Chinese restaurant spring rolls, with a thin wrapper and vegetables inside. However, the exact ingredients and preparation methods may differ.",
+            "Source/Reference": "japanese_chinese_cuisine.json"
+        }
+    ]
+}

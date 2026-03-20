@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\history_of_indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "At what time period did agriculture spread from the Fertile Crescent to the Indus Valley?",
+            "Gold Answer": "Around 7000 BCE, agriculture spread from the Fertile Crescent to the Indus Valley.",
+            "Source/Reference": "history_of_indian_cuisine.json"
+        },
+        {
+            "Query": "What were some of the earliest crops to be grown in the Indus Valley?",
+            "Gold Answer": "Wheat and barley began to be grown in the Indus Valley.",
+            "Source/Reference": "history_of_indian_cuisine.json"
+        },
+        {
+            "Query": "What type of food is commonly consumed by a segment of the Jain population?",
+            "Gold Answer": "No roots or subterranean vegetable are consumed, which has driven the Jain population to innovate extensively with the food sources that are deemed acceptable.",
+            "Source/Reference": "history_of_indian_cuisine.json"
+        }
+    ]
+}

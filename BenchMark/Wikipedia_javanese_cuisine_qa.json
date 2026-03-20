@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\javanese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the common ingredients in Javanese cuisine?",
+            "Gold Answer": "Common ingredients in Javanese cuisine include rice, gaplek, tubers, coconut milk, peanut sauce, gula jawa, asem jawa, petis, terasi, shallot, garlic, turmeric, galangal, ginger, and chili sambal. Additionally, freshwater fishes, seafood, chicken, goat meat, beef, lamb, and mutton are popular in Javanese cuisine.",
+            "Source/Reference": "javanese_cuisine.json"
+        }
+    ]
+}

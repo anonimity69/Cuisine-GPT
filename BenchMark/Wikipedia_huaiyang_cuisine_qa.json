@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\huaiyang_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Huaiyang cuisine?",
+            "Gold Answer": "Huaiyang cuisine is one of the Four Great Traditions in Chinese cuisine, derived from the native cooking styles of the region surrounding the lower reaches of the Huai and Yangtze rivers.",
+            "Source/Reference": "huaiyang_cuisine.json"
+        },
+        {
+            "Query": "When was Huaiyang cuisine famous?",
+            "Gold Answer": "Huaiyang cuisine has been famous since the Sui (581–618) and Tang (618’070) dynasties.",
+            "Source/Reference": "huaiyang_cuisine.json"
+        },
+        {
+            "Query": "What is baozi in Huaiyang cuisine?",
+            "Gold Answer": "Baozi is a type of steamed bun with meat, paste fillings, a sweet filling made with red beans. It is a specialty in Yangzhou and is sometimes served for breakfast and is best eaten hot.",
+            "Source/Reference": "huaiyang_cuisine.json"
+        }
+    ]
+}

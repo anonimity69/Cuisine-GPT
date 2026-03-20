@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some staple ingredients of Indian cuisine?",
+            "Gold Answer": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans).",
+            "Source/Reference": "indian_cuisine.json"
+        },
+        {
+            "Query": "What are some common spices used in Indian cuisine?",
+            "Gold Answer": "The most important and frequently used spices and flavourings in Indian cuisine are whole or powdered chilli pepper (mirch, introduced by the Portuguese from Mexico in the 16th century), black mustard seed (sarso), cardamom (elaichi), cumin (jeera), turmeric (haldi), asafoetida (hing), ginger (adrak), coriander (dhania), and garlic (lasoon).",
+            "Source/Reference": "indian_cuisine.json"
+        },
+        {
+            "Query": "What are some popular desserts in Indian cuisine?",
+            "Gold Answer": "Many Indian desserts, or mithai, are fried foods made with sugar, milk or condensed milk. Ingredients and preferred types of dessert vary by region. In the eastern part of India, for example, most are based on milk products. Many are flavoured with almonds and pistachios, spiced with cardamon, nutmeg, cloves and black pepper, and decorated with nuts, or with gold or silver leaf. Popular Indian desserts include rasogolla, gulab jamun, jalebi, laddu, and peda.",
+            "Source/Reference": "indian_cuisine.json"
+        }
+    ]
+}

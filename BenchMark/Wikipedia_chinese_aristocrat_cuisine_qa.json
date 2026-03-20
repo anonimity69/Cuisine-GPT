@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chinese_aristocrat_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Chinese aristocrat cuisine?",
+            "Gold Answer": "Chinese aristocrat cuisine originated from the Ming and Qing dynasties when imperial officials stationed in Beijing brought their private chefs and different varieties of culinary styles mixed and developed over time.",
+            "Source/Reference": "chinese_aristocrat_cuisine.json"
+        },
+        {
+            "Query": "Which cuisines make up the current Chinese aristocrat cuisine?",
+            "Gold Answer": "The current Chinese aristocrat cuisine is a mixture of Shandong cuisine, Huaiyang cuisine, and Cantonese cuisine.",
+            "Source/Reference": "chinese_aristocrat_cuisine.json"
+        },
+        {
+            "Query": "How many varieties of Chinese aristocrat cuisine are there?",
+            "Gold Answer": "Currently, there are a total of nine varieties of Chinese aristocrat cuisine.",
+            "Source/Reference": "chinese_aristocrat_cuisine.json"
+        }
+    ]
+}

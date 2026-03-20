@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\indo_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Indo cuisine?",
+            "Gold Answer": "Indo cuisine is a fusion cooking and cuisine tradition that consists of original Indonesian cuisine with Eurasian-influences, mainly Dutch, as well as Portuguese, Spanish, French and British influences.",
+            "Source/Reference": "indo_cuisine.json"
+        }
+    ]
+}

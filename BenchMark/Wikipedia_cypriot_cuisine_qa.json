@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\cypriot_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is soumada made from?",
+            "Gold Answer": "Soumada has a very ancient history in Cyprus, stretching back into the Roman period, and it was made from almonds. Soumada has a very ancient history in Cyprus, stretching back into the Roman period, and it was given as an exotic eastern delicacy by King Peter I of Cyprus to King Casimir the Great of Poland at the Congress of Kraków held in Poland in 1364.",
+            "Source/Reference": "cypriot_cuisine.json"
+        }
+    ]
+}

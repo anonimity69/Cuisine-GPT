@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\iranian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the most common ingredients in Iranian cuisine?",
+            "Gold Answer": "The most common ingredients in Iranian cuisine include rice, meat, vegetables, nuts, herbs such as parsley, fenugreek, chives, mint, savory and coriander, and fruits like plums, pomegranates, quince, prunes, apricots, barberries, and raisins.",
+            "Source/Reference": "iranian_cuisine.json"
+        }
+    ]
+}

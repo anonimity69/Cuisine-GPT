@@ -1,0 +1,15 @@
+{
+    "source": "Data\\Wikipedia\\dutch_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional Dutch breakfast and lunch topping?",
+            "Gold Answer": "Sweet bread toppings such as hagelslag, vlokken, and muisjes.",
+            "Source/Reference": "dutch_cuisine.json"
+        },
+        {
+            "Query": "What is the traditional Dutch drink that is made with equal parts black coffee and hot milk?",
+            "Gold Answer": "Koffie verkeerd (literally "
+        },
+        " "
+    ]
+}

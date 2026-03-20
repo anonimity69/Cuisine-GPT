@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\indian_singaporean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Roti Prata?",
+            "Gold Answer": "Roti Prata is a popular supper after leaving nightclubs, and its variations include durian and cheese prata.",
+            "Source/Reference": " indian_singaporean_cuisine.json"
+        }
+    ]
+}

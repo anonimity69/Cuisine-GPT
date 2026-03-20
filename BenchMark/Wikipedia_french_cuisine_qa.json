@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\french_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of ingredients are commonly used in French regional cuisines?",
+            "Gold Answer": "French regional cuisines use locally grown vegetables, such as pomme de terre (potato), blé (wheat), haricots verts (a type of French green bean), carotte (carrot), poireau (leek), navet (turnip), aubergine (eggplant), courgette (zucchini), and γchalotte (shallot).\n\nFrench regional cuisines use locally grown fungi, such as truffe (truffle), champignon de Paris (button mushroom), chanterelle ou girolle (chanterelle), pleurote (en huêtre) (oyster mushrooms), and cépes (porcini).\n\nCommon fruits include oranges, tomatoes, tangerines, peaches, apricots, apples, pears, plums, cherries, strawberries, raspberries, redcurrants, blackberries, grapes, grapefruit, and blackcurrants.\n\nVarieties of meat consumed include poulet (chicken), pigeon (squab), canard (duck), oie (goose, the source of foie gras), bèuf (beef), veau (veal), porc (pork), agneau (lamb), mouton (mutton), caille (quail), cheval (horse), grenouille (frog), and escargot (snails).\n\nCommonly consumed fish and seafood include cod, canned sardines, fresh sardines, canned tuna, fresh tuna, salmon, trout, mussels, herring, oysters, shrimp and calamari.\n\nEggs often eaten as: omelettes, hard-boiled with mayonnaise, scrambled plain, scrambled haute cuisine preparation, éuf à la coque.",
+            "Source/Reference": "french_cuisine.json"
+        }
+    ]
+}

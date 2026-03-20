@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\jewish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Jewish cuisine?",
+            "Gold Answer": "The history of Jewish cuisine begins with the cuisine of the ancient Israelites.",
+            "Source/Reference": "jewish_cuisine.json"
+        },
+        {
+            "Query": "What type of sweets are traditionally served on Rosh Hashanah?",
+            "Gold Answer": "Teiglach, traditionally served on Rosh Hashanah, consists of little balls of dough (about the size of a marble) drenched in a honey syrup.",
+            "Source/Reference": "jewish_cuisine.json"
+        },
+        {
+            "Query": "What is the composition of Tzimmes?",
+            "Gold Answer": "Tzimmes consists generally of cooked vegetables or fruits, sometimes with meat added.",
+            "Source/Reference": "jewish_cuisine.json"
+        }
+    ]
+}

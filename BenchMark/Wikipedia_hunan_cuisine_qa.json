@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\hunan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of the Xiang River style of Hunan cuisine?",
+            "Gold Answer": "Originating from Changsha, Xiangtan and Hengyang.",
+            "Source/Reference": "hunan_cuisine.json"
+        }
+    ]
+}

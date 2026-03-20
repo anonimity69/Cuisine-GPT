@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\greek_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main ingredients in traditional Greek cuisine?",
+            "Gold Answer": "The main ingredients in traditional Greek cuisine include wheat, olive oil, and wine, as well as vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat. Other important ingredients include pasta, cheeses, herbs, lemon juice, olives and olive oil, and yogurt.",
+            "Source/Reference": "greek_cuisine.json"
+        }
+    ]
+}

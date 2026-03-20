@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\israeli_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common ingredients used in Israeli cuisine?",
+            "Gold Answer": "Israeli cuisine primarily comprises dishes brought from the Jewish diaspora, and has more recently been defined by the mixing of Jewish cuisine and Arab cuisine. It also blends together the culinary traditions of the various diaspora groups, namely those of Middle Eastern Jews with roots in Southwest Asia and North Africa, Sephardi Jews from Iberia, and Ashkenazi Jews from Central and Eastern Europe. Spices like za'atar and foods such as falafel, hummus, msabbaha, shakshouka, and couscous are now widely popular in Israel.",
+            "Source/Reference": "israeli_cuisine.json"
+        },
+        {
+            "Query": "What is shakshuka and how is it traditionally served?",
+            "Gold Answer": "Shakshuka is a North-African dish of eggs poached in a spicy tomato sauce. It is traditionally served up in a cast-iron pan with bread to mop up the sauce. Some variations of the dish are cooked with liberal use of ingredients such as eggplant, chili peppers, hot paprika, spinach, feta cheese or safed cheese.",
+            "Source/Reference": "israeli_cuisine.json"
+        },
+        {
+            "Query": "What are some popular desserts in Israeli cuisine?",
+            "Gold Answer": "Popular desserts in Israeli cuisine include baklava, kadaif, halva, ma'amoul, ozne haman, sunflower seeds, bamba, bissli, malabi, and krembo. These desserts often feature ingredients such as nuts, dates, and honey, and are influenced by Middle Eastern and Mediterranean traditions.",
+            "Source/Reference": "israeli_cuisine.json"
+        }
+    ]
+}

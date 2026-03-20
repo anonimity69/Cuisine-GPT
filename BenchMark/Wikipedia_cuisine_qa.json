@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is unique about cuisine?",
+            "Gold Answer": "Regional food preparation techniques, customs and ingredients combine to enable dishes unique to a region.",
+            "Source/Reference": "cuisine.json"
+        }
+    ]
+}

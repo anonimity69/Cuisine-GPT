@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chitrali_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular dish in Chitrali cuisine?",
+            "Gold Answer": "Pilaf, usually of beef which is preboiled until it is extremely tender, is an essential dish at large gatherings; the meat is served lying on top of the rice.",
+            "Source/Reference": "chitrali_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional Chitrali tea?",
+            "Gold Answer": "Salty buttered tea is popular in Chitral, as are green tea and very bitter black tea called troq chai (bitter tea).",
+            "Source/Reference": "chitrali_cuisine.json"
+        },
+        {
+            "Query": "What is a popular Uzbek dish in Chitrali cuisine?",
+            "Gold Answer": "Uzbek dumplings or mantu are also very popular.",
+            "Source/Reference": "chitrali_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\japanese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a staple in Japanese cuisine?",
+            "Gold Answer": "Rice is a staple in Japanese cuisine.",
+            "Source/Reference": "japanese_cuisine.json"
+        },
+        {
+            "Query": "What was the main source of protein in Japanese cuisine before the Meiji Restoration?",
+            "Gold Answer": "Fish was served as the main protein in Japanese cuisine due to Japan being an island nation.",
+            "Source/Reference": "japanese_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional Japanese sweet that contains red bean paste?",
+            "Gold Answer": "Dorayaki are sweet pancakes filled with a sweet red bean paste.",
+            "Source/Reference": "japanese_cuisine.json"
+        }
+    ]
+}

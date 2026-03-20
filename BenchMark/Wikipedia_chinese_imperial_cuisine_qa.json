@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chinese_imperial_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main regions that influenced Chinese imperial cuisine?",
+            "Gold Answer": "Chinese imperial cuisine is derived from a variety of cooking styles of the regions in China, mainly from the cuisines of Shandong and Jiangsu provinces.",
+            "Source/Reference": "chinese_imperial_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of imperial cuisine in Chinese culture?",
+            "Gold Answer": "Imperial cuisine represented a dynasty's best cuisine and comprised the dietetic culture of the Chinese palaces. It also symbolized the efforts of the cooking staff, civil officials, and protocol officials who provided the service and drafted the dietary and culinary principles.",
+            "Source/Reference": "chinese_imperial_cuisine.json"
+        },
+        {
+            "Query": "What are some famous dishes that emerged in the Ming and Qing dynasties?",
+            "Gold Answer": "Many famous dishes emerged in these dynasties, such as Wensi tofu and Peking duck.",
+            "Source/Reference": "chinese_imperial_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\fusion_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What does fusion cuisine mean?",
+            "Gold Answer": "Fusion cuisine is a style of cookery which blends ingredients and methods of preparation from different countries, regions, or ethnic groups; food cooked in this style.",
+            "Source/Reference": "fusion_cuisine.json"
+        },
+        {
+            "Query": "When was the term fusion cuisine added to the Oxford English Dictionary?",
+            "Gold Answer": "The term fusion cuisine, was added to the Oxford English Dictionary in 2002.",
+            "Source/Reference": "fusion_cuisine.json"
+        },
+        {
+            "Query": "When did the concept of fusion cuisine start existing?",
+            "Gold Answer": "Mixtures of different cultures' cuisines have been adapted since the 16th century.",
+            "Source/Reference": "fusion_cuisine.json"
+        }
+    ]
+}

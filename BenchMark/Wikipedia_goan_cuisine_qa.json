@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\goan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main features of Goan cuisine?",
+            "Gold Answer": "Goan cuisine consists of regional foods popular in Goa, India. Rice, seafood, coconut, vegetables, meat, bread, pork and local spices are staples of Goan cuisine. The use of kokum and vinegar is another distinct feature. Goan food is considered incomplete without fish.",
+            "Source/Reference": "goan_cuisine.json"
+        },
+        {
+            "Query": "What is the origin of Goan cuisine?",
+            "Gold Answer": "Goan cuisine originated from its Konkani roots, and was influenced by the 451 years of Portuguese rule and the Sultanate rule that preceded the Portuguese.",
+            "Source/Reference": "goan_cuisine.json"
+        },
+        {
+            "Query": "What are some popular Goan dishes?",
+            "Gold Answer": "Some popular Goan Catholic dishes include: Ambott tîk, Jeerem-meerem, Balchanv (balichão), Mol (mole de peixe), Cafreal, Canja de galinha, Chamuça, Choris (chouriço), Croquettes, Feijoada, Roast beef and beef tongue, Ros omelette, Samarachi koddi, Sanna, Solantule kodi, Sorpotel (Sarapatel), Vindalho, Xacuti (Shâgotî).",
+            "Source/Reference": "goan_cuisine.json"
+        }
+    ]
+}

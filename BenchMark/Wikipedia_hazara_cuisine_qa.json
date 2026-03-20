@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\hazara_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical dining etiquette of the Hazara people?",
+            "Gold Answer": "The Hazara people have a hospitable dining etiquette. In Hazaragi culture, it is customary to prepare special food for guests, and to honor them with the best seats during meal times. Most Hazaras eat food with their hands, as opposed to using cutlery and dining utensils such as forks, knives, or spoons.",
+            "Source/Reference": "hazara_cuisine.json"
+        }
+    ]
+}

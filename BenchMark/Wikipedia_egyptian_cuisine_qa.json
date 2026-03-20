@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\egyptian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the staple ingredients in Egyptian cuisine?",
+            "Gold Answer": "Egyptian cuisine makes heavy use of poultry, legumes, vegetables, and fruit from Egypt's rich Nile Valley and Delta. Examples of Egyptian dishes include rice-stuffed vegetables and grape leaves, hummus, falafel, shawarma, kebab, and kofta.",
+            "Source/Reference": "egyptian_cuisine.json"
+        },
+        {
+            "Query": "What type of cheese is commonly consumed in Egypt?",
+            "Gold Answer": "Domiati is the most popular type of cheese consumed in Egypt, which dates back to the First Dynasty of Egypt.",
+            "Source/Reference": "egyptian_cuisine.json"
+        },
+        {
+            "Query": "What is the most popular alcoholic beverage in Egypt?",
+            "Gold Answer": "Beer is the most common alcoholic beverage in the country, accounting for 54 percent of all alcohol consumed.",
+            "Source/Reference": "egyptian_cuisine.json"
+        }
+    ]
+}

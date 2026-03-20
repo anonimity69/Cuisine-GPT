@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\christmas_island_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Christmas Island's cuisine?",
+            "Gold Answer": "Christmas Island's cuisine is an eclectic combination of traditional Australian cuisine and Asian cuisine, particularly meals from Malaysia and Indonesia.",
+            "Source/Reference": "christmas_island_cuisine.json"
+        },
+        {
+            "Query": "What are some Asian cuisines that have an influence on Christmas Island's cuisine?",
+            "Gold Answer": "Meals from Malaysia and Indonesia have an influence on Christmas Island's cuisine.",
+            "Source/Reference": "christmas_island_cuisine.json"
+        },
+        {
+            "Query": "What is the overall type of cuisine found on Christmas Island?",
+            "Gold Answer": "Christmas Island's cuisine is a blend of traditional Australian cuisine and Asian cuisine.",
+            "Source/Reference": "christmas_island_cuisine.json"
+        }
+    ]
+}

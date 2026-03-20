@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chhattisgarhi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common meal had during the scorching summer in Chhattisgarh?",
+            "Gold Answer": "Bore Baasi (dipped rice from last cooked meal) is a common meal had during the scorching summer, which mainly consists of cooked rice dipped in water/dahi/buttermilk. It is mostly accompanied by pickle and raw onion.",
+            "Source/Reference": "chhattisgarhi_cuisine.json"
+        },
+        {
+            "Query": "What are some traditional dishes of Chhattisgarh?",
+            "Gold Answer": "Some traditional dishes of Chhattisgarh include Iddhar (made with ground Urad dal and kochai patta), Chila (made with rice flour and eaten with spicy or tangy chutney of tomato, chilli and coriander), Phara (made with leftover rice and rice flour by making a dough and then making cylindrical shapes and giving tadka with jeera, mustard, curry leaves, tomato, turmeric, salt and chili).",
+            "Source/Reference": "chhattisgarhi_cuisine.json"
+        },
+        {
+            "Query": "What is used to make fara/muthiya (rice rolls in white sauce)?",
+            "Gold Answer": "Fara/muthiya (rice rolls in white sauce) are made with rice flour.",
+            "Source/Reference": "chhattisgarhi_cuisine.json"
+        }
+    ]
+}

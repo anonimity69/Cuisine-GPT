@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\guizhou_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What makes Guizhou cuisine unique?",
+            "Gold Answer": "Guizhou cuisine is unique for its emphasis of a mixed sour-and-spicy taste, as compared to other cuisines like Sichuan and Hunan.",
+            "Source/Reference": "guizhou_cuisine.json"
+        },
+        {
+            "Query": "What is a notable feature of Guizhou cuisine compared to Shaanxi cuisine?",
+            "Gold Answer": "Guizhou cuisine lacks the emphasis on the salty taste, which is a common trait found in most northern Chinese cuisines.",
+            "Source/Reference": "guizhou_cuisine.json"
+        },
+        {
+            "Query": "How has Guizhou cuisine evolved over time?",
+            "Gold Answer": "Guizhou cuisine has matured since the beginning of the Ming dynasty.",
+            "Source/Reference": "guizhou_cuisine.json"
+        }
+    ]
+}

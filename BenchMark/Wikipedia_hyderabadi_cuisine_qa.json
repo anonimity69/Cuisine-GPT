@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hyderabadi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main ingredients of Hyderabadi cuisine?",
+            "Gold Answer": "Hyderabadi cuisine is an amalgamation of Indian, Mughalai, Turkic, and Arabic cuisines, and it comprises a broad repertoire of rice, wheat, and meat dishes, along with the skilled use of various spices, herbs, and natural edibles.",
+            "Source/Reference": "hyderabadi_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of Hyderabadi cuisine in the region?",
+            "Gold Answer": "Hyderabadi cuisine has become a princely legacy of the Nizams of Hyderabad, and it is promoted along with the native cuisine by the Qutb Shahi dynasty. The cuisine is also influenced by the culinary habits of common people in the Golconda Sultanate.",
+            "Source/Reference": "hyderabadi_cuisine.json"
+        },
+        {
+            "Query": "What are some popular desserts in Hyderabadi cuisine?",
+            "Gold Answer": "Some popular desserts in Hyderabadi cuisine include Qubani ka meetha, Double ka meetha, Sheer korma, Firni, Gil-e-firdaus, Faluda, Aab ka shola, Osmania Biscuit, Hyderabadi Irani tea, and Dum-ke-roat.",
+            "Source/Reference": "hyderabadi_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hainan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cooking style of Hainan cuisine?",
+            "Gold Answer": "Hainan cuisine is derived from the cooking styles of the peoples of Hainan Province in China, characterized as lighter, less oily, and more mildly seasoned.",
+            "Source/Reference": "hainan_cuisine.json"
+        },
+        {
+            "Query": "What types of seafood are commonly used in Hainan cuisine?",
+            "Gold Answer": "Seafood, particularly prawn, crab, and freshwater and ocean fish, are widely available and predominantly used in Hainan cuisine.",
+            "Source/Reference": "hainan_cuisine.json"
+        },
+        {
+            "Query": "What is a common noodle dish in Hainan cuisine?",
+            "Gold Answer": "A fine, vermicelli-type noodle dish with various toppings and gravy is widely eaten in Hainan cuisine.",
+            "Source/Reference": "hainan_cuisine.json"
+        }
+    ]
+}

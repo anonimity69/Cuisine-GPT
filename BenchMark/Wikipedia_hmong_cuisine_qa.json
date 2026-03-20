@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hmong_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the staple elements of Hmong cuisine?",
+            "Gold Answer": "Fresh herbs, vegetables such as leafy greens and hot peppers, steamed rice, and small amounts of meat, often chicken meat.",
+            "Source/Reference": "hmong_cuisine.json"
+        },
+        {
+            "Query": "What forms of cooking are popular in the modern Hmong diaspora?",
+            "Gold Answer": "Stir frying has become common, although traditional forms such as steaming and boiling are still used.",
+            "Source/Reference": "hmong_cuisine.json"
+        },
+        {
+            "Query": "What is the emphasis in Hmong cuisine?",
+            "Gold Answer": "There is an emphasis on fresh ingredients, as many Hmong are farmers and may pick ingredients from a garden just before cooking.",
+            "Source/Reference": "hmong_cuisine.json"
+        }
+    ]
+}

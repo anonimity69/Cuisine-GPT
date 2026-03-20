@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\central_asian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the common ingredients in traditional Central Asian desserts?",
+            "Gold Answer": "The common ingredients in traditional Central Asian desserts include nuts, honey, fruits, and halva. Halva is made from sesame seeds, flour, sugar, milk, and nuts.",
+            "Source/Reference": "central_asian_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional deep-fried dough dish in Central Asian cuisine?",
+            "Gold Answer": "A traditional deep-fried dough dish in Central Asian cuisine includes Kyrgyz boortsog, Turkmenistan's bogursak, and Kazakhstan's baursaq.",
+            "Source/Reference": "central_asian_cuisine.json"
+        },
+        {
+            "Query": "What are some imported fruits in Central Asian cuisine?",
+            "Gold Answer": "Some imported fruits in Central Asian cuisine include pomegranates, figs, peaches, and persimmons.",
+            "Source/Reference": "central_asian_cuisine.json"
+        }
+    ]
+}

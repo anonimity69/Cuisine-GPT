@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\indian_indonesian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between dosa and idli?",
+            "Gold Answer": "Dosa and idli are both rice pancake dishes, but they differ in texture and preparation. Dosa is a thin, fermented crepe made from rice and lentil batter, while idli is a steamed rice cake with a patty-shaped. Idli is usually served with chutney, sambar, or other accompaniments.",
+            "Source/Reference": "indian_indonesian_cuisine.json"
+        }
+    ]
+}

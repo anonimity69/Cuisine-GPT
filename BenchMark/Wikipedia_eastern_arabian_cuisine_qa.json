@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\eastern_arabian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the popular dishes in Eastern Arabian cuisine?",
+            "Gold Answer": "Harees is also a popular dish in the region, along with a diet of dates, wheat, barley, rice and meat, with a heavy emphasis on yogurt products such as \"leben\" (لبن) (yogurt without butterfat).",
+            "Source/Reference": "eastern_arabian_cuisine.json"
+        },
+        {
+            "Query": "Which cuisines have an influence on Eastern Arabian cuisine?",
+            "Gold Answer": "The cuisine of eastern Arabia is different from the cuisine of the Arabs of Hejaz, Yemen, Najd, Oman, and other parts of Arabia. It is a combination of Persian, Indian, Lebanese, and Chinese cooking styles, and many items not originally indigenous to the region were imported on the dhows and caravans.",
+            "Source/Reference": "eastern_arabian_cuisine.json"
+        },
+        {
+            "Query": "What types of spices are commonly used in Eastern Arabian cuisine?",
+            "Gold Answer": "This cuisine also favors vegetables such as cucumbers, eggplants, and onions, and fruits (primarily citrus). Many of the same spices used in eastern Arabia cuisine are also those emphasized in the Indian cuisine, due to heavy trading between the two regions.",
+            "Source/Reference": "eastern_arabian_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\hakka_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Hakka cuisine?",
+            "Gold Answer": "Hakka cuisine is the cooking style of the Hakka people. It is found primarily in the Chinese provinces of Guangdong, Fujian, and Jiangxi, as well as parts of Taiwan and within countries with significant overseas Hakka communities.",
+            "Source/Reference": "hakka_cuisine.json"
+        },
+        {
+            "Query": "Where can Hakka cuisine be found?",
+            "Gold Answer": "Hakka cuisine can be found in mainland China, Taiwan, Hong Kong, Indonesia, Malaysia, Singapore, and Thailand, as well as in the United States and Canada.",
+            "Source/Reference": "hakka_cuisine.json"
+        },
+        {
+            "Query": "What dishes are notable in Hakka cuisine?",
+            "Gold Answer": "Some of the more notable dishes in Hakka cuisine include traditional Taiwanese dishes.",
+            "Source/Reference": "hakka_cuisine.json"
+        }
+    ]
+}

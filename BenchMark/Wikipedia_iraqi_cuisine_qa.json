@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\iraqi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical meat choice in Iraqi cuisine?",
+            "Gold Answer": "Lamb is the favorite meat, but chicken, beef, goat and fish are also eaten.",
+            "Source/Reference": "iraqi_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the traditional Iraqi dessert made from ground sesame seeds?",
+            "Gold Answer": "Tahini (t'heena) is a paste of ground sesame seeds used in cooking.",
+            "Source/Reference": "iraqi_cuisine.json"
+        },
+        {
+            "Query": "Which drink has a strong and bitter taste and is a popular beverage in Iraq?",
+            "Gold Answer": "Arabic coffee, a drink that has a strong and bitter taste, a popular beverage in Iraq.",
+            "Source/Reference": "iraqi_cuisine.json"
+        }
+    ]
+}

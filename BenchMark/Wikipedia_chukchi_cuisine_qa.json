@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\chukchi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Prerem?",
+            "Gold Answer": "Prerem is a dish consisting of thinly sliced chunks of boiled reindeer meat mixed with reindeer lard, topped with bone marrow, and frozen.",
+            "Source/Reference": "chukchi_cuisine.json"
+        },
+        {
+            "Query": "How is Ikiilgyn typically consumed?",
+            "Gold Answer": "Ikiilgyn is typically eaten raw most of the time.",
+            "Source/Reference": "chukchi_cuisine.json"
+        },
+        {
+            "Query": "What is the preparation method of Kopalgyn?",
+            "Gold Answer": "Chunks of walrus or seal meat are placed into a pit and consumed after 6 months.",
+            "Source/Reference": "chukchi_cuisine.json"
+        }
+    ]
+}

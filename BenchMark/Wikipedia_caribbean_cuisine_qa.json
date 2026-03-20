@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\caribbean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common ingredients in Caribbean cuisine?",
+            "Gold Answer": "Common ingredients in most islands' dishes include rice, plantains, beans, cassava, cilantro, bell peppers, chickpeas, tomatoes, sweet potatoes, coconut, and various meats like beef, poultry, pork, goat, or fish.",
+            "Source/Reference": "caribbean_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of sofrito in Caribbean cuisine?",
+            "Gold Answer": "Sofrito is a characteristic seasoning for the region, a green herb-and-oil-based marinade, which is used for a variety of dishes like curries, stews, and roasted meats.",
+            "Source/Reference": "caribbean_cuisine.json"
+        },
+        {
+            "Query": "What are some examples of traditional Caribbean dishes?",
+            "Gold Answer": "Traditional dishes like the local version of Caribbean goat stew, the national dish of Montserrat, and the signature dish of St. Kitts and Nevis, as well as dishes like \"cook-up\", or pelau, and ackee and saltfish, which is unique to Jamaica, reflect the mixed origins of the recipes in Caribbean cuisine.",
+            "Source/Reference": "caribbean_cuisine.json"
+        }
+    ]
+}

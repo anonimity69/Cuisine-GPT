@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\cuisine_of_commander_islands.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Commander cuisine based on?",
+            "Gold Answer": "Commander cuisine is largely based on fish meat, seafood, mushrooms, meat of sea mammals (seals, whales), game meat and vegetable (potato, onion, garlic, carrot) which was brought to the Commander island by Russians.",
+            "Source/Reference": "cuisine_of_commander_islands.json"
+        },
+        {
+            "Query": "What are some typical dishes of Commander cuisine?",
+            "Gold Answer": "The text does not provide specific typical dishes of Commander cuisine.",
+            "Source/Reference": "cuisine_of_commander_islands.json"
+        },
+        {
+            "Query": "What type of people inhabited the Commander Islands?",
+            "Gold Answer": "The Commander Islands were inhabited by Aleut people.",
+            "Source/Reference": "cuisine_of_commander_islands.json"
+        }
+    ]
+}

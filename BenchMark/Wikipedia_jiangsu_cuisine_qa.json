@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\jiangsu_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the characteristic texture of Jiangsu cuisine?",
+            "Gold Answer": "The texture of Jiangsu cuisine is characterized as soft, but not to the point of mushy or falling apart.",
+            "Source/Reference": "jiangsu_cuisine.json"
+        },
+        {
+            "Query": "What role does heating temperature play in Jiangsu cuisine?",
+            "Gold Answer": "Jiangsu cuisine focuses on heating temperature, with meat tasting soft but not separating from the bone when picked up.",
+            "Source/Reference": "jiangsu_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of fish in Jiangsu cuisine?",
+            "Gold Answer": "Fish is a very common ingredient in Jiangsu cuisine, as the style of Jiangsu cuisine is typically practiced near the sea.",
+            "Source/Reference": "jiangsu_cuisine.json"
+        }
+    ]
+}

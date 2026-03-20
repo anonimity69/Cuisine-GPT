@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\jharkhandi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common dish prepared during the Holi festival?",
+            "Gold Answer": "Malpua is a dish usually prepared during the Holi festival, and Arsa roti is a sweet dish prepared during festivals. It is made from rice flour and sugar or jaggery.",
+            "Source/Reference": "jharkhandi_cuisine.json"
+        },
+        {
+            "Query": "What is the main ingredient in the dish Maduwa khassi?",
+            "Gold Answer": "Maduwa khassi is a dish made with smoked mutton with the skin intact. It is served with rice.",
+            "Source/Reference": "jharkhandi_cuisine.json"
+        },
+        {
+            "Query": "What is a type of alcoholic beverage in Jharkhand?",
+            "Gold Answer": "Handia or Handi is a common rice beer in Jharkhand, and Mahua daru is another alcoholic beverage prepared using the flowers of the mahua tree.",
+            "Source/Reference": "jharkhandi_cuisine.json"
+        }
+    ]
+}

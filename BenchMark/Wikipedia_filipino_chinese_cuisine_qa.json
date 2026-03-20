@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\filipino_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some Chinese ingredients commonly used in Filipino Chinese cuisine?",
+            "Gold Answer": "Filipino Chinese cuisine uses soy sauce and other soybean products, such as tokwa, tahuri, miso, tausi, and taho, as well as vegetables like petsay, toge, and mustasa.",
+            "Source/Reference": "filipino_chinese_cuisine.json"
+        }
+    ]
+}

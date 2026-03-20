@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\cuisine_of_karachi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is commonly found in Karachi?",
+            "Gold Answer": "Karachi cuisine is a multicultural cuisine resulting from the city's various ethnic groups from different parts of Pakistan. It is a melting pot of Pakistan's cuisine, influenced by the city's Muhajir population and other regional cuisines.",
+            "Source/Reference": "cuisine_of_karachi.json"
+        },
+        {
+            "Query": "Which regional cuisines have influenced the cuisine of Karachi?",
+            "Gold Answer": "The cuisine of Karachi is influenced by various regional cuisines, including Sindhi cuisine, Punjabi cuisine, Pashtun cuisine, Kalash cuisine, Saraiki cuisine, Kashmiri cuisine, Balochi cuisine, and Chitrali cuisine.",
+            "Source/Reference": "cuisine_of_karachi.json"
+        },
+        {
+            "Query": "Why is Karachi considered a melting pot of Pakistan's cuisine?",
+            "Gold Answer": "Karachi is considered the melting pot of Pakistan's cuisine because it consists of various ethnic groups from different parts of Pakistan, resulting in a multicultural cuisine that is a fusion of different culinary traditions.",
+            "Source/Reference": "cuisine_of_karachi.json"
+        }
+    ]
+}
