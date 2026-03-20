@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\matar_paneer.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Matar Paneer?",
+            "Gold Answer": "Matar Paneer is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Matar_Paneer"
+        },
+        {
+            "Query": "What ingredients are used in Matar Paneer?",
+            "Gold Answer": "The ingredients used in Matar Paneer include paneer, ginger-garlic paste, onions, puréed tomatoes, green chilies, cumin seeds, turmeric powder, red chilli powder, coriander powder, Garam masala, salt, peas, and water.",
+            "Source/Reference": "matar_paneer.json"
+        },
+        {
+            "Query": "How many cups of peas are used in the recipe?",
+            "Gold Answer": "Half a cup of peas are used in the recipe.",
+            "Source/Reference": "matar_paneer.json"
+        }
+    ]
+}

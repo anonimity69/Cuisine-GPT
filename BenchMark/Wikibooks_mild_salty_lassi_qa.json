@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mild_salty_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "How to prepare Mild Salty Lassi?",
+            "Gold Answer": "To prepare Mild Salty Lassi, dry-roast cumin seeds over low heat until fragrant, cool and grind. Then blend cumin seed powder with yoghurt, milk, lemon juice, salt, and ice cubes.",
+            "Source/Reference": "mild_salty_lassi.json"
+        }
+    ]
+}

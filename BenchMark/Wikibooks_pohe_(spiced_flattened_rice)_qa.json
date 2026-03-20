@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pohe_(spiced_flattened_rice).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Pohe?",
+            "Gold Answer": "Pohe is a dish from South Asia.",
+            "Source/Reference": "pohe_(spiced_flattened_rice).json"
+        },
+        {
+            "Query": "What ingredients are required to make Pohe?",
+            "Gold Answer": "The ingredients required to make Pohe include thick pohe (flattened rice), oil, rai (mustard seeds), haldi (turmeric powder), Indian green chiles, medium-size onion, and cilantro (coriander).",
+            "Source/Reference": "pohe_(spiced_flattened_rice).json"
+        },
+        {
+            "Query": "What is the cooking procedure for Pohe?",
+            "Gold Answer": "The cooking procedure for Pohe involves moistening the pohe with cold water, mixing it with oil, mustard seeds, turmeric powder, and other ingredients, and then cooking it in a frying pan with low heat. The pohe must cook in the steam to achieve the right consistency.",
+            "Source/Reference": "pohe_(spiced_flattened_rice).json"
+        }
+    ]
+}

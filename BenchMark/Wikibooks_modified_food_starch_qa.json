@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\modified_food_starch.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary characteristic of modified food starches that distinguishes them from native starches?",
+            "Gold Answer": "Modified food starches are formulated for increased stability, such as under heat, acidity, freezing, and mixing.",
+            "Source/Reference": "modified_food_starch.json"
+        },
+        {
+            "Query": "What is the primary use of instant starches in cooking?",
+            "Gold Answer": "Instant starches are particularly useful for thickening mixtures that would be damaged by heating, such as those containing heat-sensitive fruits, and for last-minute thickening.",
+            "Source/Reference": "modified_food_starch.json"
+        },
+        {
+            "Query": "What is the effect of cross-linking on modified starches?",
+            "Gold Answer": "Cross-linking inhibits swelling and makes the starch more resistant to gelatinization, reducing retrogradation.",
+            "Source/Reference": "modified_food_starch.json"
+        }
+    ]
+}

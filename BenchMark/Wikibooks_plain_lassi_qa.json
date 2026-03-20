@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\plain_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Plain Lassi belong to?",
+            "Gold Answer": "Plain Lassi belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Plain_Lassi"
+        },
+        {
+            "Query": "What main ingredient in Plain Lassi is whipped?",
+            "Gold Answer": "In Plain Lassi, curd (thick plain \"natural\" yogurt) is the main ingredient that is whipped.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Plain_Lassi"
+        },
+        {
+            "Query": "How much water is added to the curd in Plain Lassi?",
+            "Gold Answer": "A quarter as much water as curd is mixed into Plain Lassi.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Plain_Lassi"
+        }
+    ]
+}

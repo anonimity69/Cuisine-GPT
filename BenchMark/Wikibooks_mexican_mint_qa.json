@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mexican_mint.json",
+    "qna_pairs": [
+        {
+            "Query": "Where is Mexican mint used in Caribbean cuisine?",
+            "Gold Answer": "Mexican mint features in Caribbean cuisine, where it is used to season savory preparations like stews, sauces, and marinades.",
+            "Source/Reference": "mexican_mint.json"
+        }
+    ]
+}

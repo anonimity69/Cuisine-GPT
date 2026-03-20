@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\port_wine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is port wine produced from?",
+            "Gold Answer": "Port wine is produced from grapes grown and processed in the Douro region.",
+            "Source/Reference": "port_wine.json"
+        },
+        {
+            "Query": "What is port wine fortified with?",
+            "Gold Answer": "Port wine is fortified with the addition of a Brandy (distilled grape spirits).",
+            "Source/Reference": "port_wine.json"
+        },
+        {
+            "Query": "How did port wine get its name?",
+            "Gold Answer": "Port wine received its name, \"Port\", in the latter half of the 17th century from the seaport city of Porto at the mouth of the Douro River.",
+            "Source/Reference": "port_wine.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\pineapple.json",
+    "qna_pairs": [
+        {
+            "Query": "How do I carve a fresh pineapple?",
+            "Gold Answer": "To carve a fresh pineapple, twist out the top, slice away the skin, carve out the 'eyes', slice the pineapple the long way, cut the core away from each wedge, and chop up the wedges as desired.",
+            "Source/Reference": "pineapple.json"
+        }
+    ]
+}

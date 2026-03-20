@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mustard_and_curry_leaf_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe?",
+            "Gold Answer": "This recipe is from South Asia, specifically the cuisine region of South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mustard_and_Curry_Leaf_Lassi"
+        },
+        {
+            "Query": "What is the primary ingredient in this recipe?",
+            "Gold Answer": "The primary ingredient in this recipe is Curd (thick plain \"natural\" yogurt).",
+            "Source/Reference": "mustard_and_curry_leaf_lassi.json"
+        },
+        {
+            "Query": "What should be done with the mixture after adding the mustard and curry leaf?",
+            "Gold Answer": "After adding the mustard and curry leaf, the mixture should be chilled and served cold.",
+            "Source/Reference": "mustard_and_curry_leaf_lassi.json"
+        }
+    ]
+}

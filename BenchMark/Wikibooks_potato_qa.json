@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\potato.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the best way to cook a potato?",
+            "Gold Answer": "The best way to cook a potato depends on the type of potato and the desired texture and flavor. Starchy potatoes are ideal for frying or baking, while waxy potatoes are better suited for roasting and boiling. All-purpose potatoes can be used for pan-frying, roasting, and stewing. Boiling, mashing, roasting, and baking are popular methods for cooking potatoes, each with its own unique characteristics and flavors.",
+            "Source/Reference": "potato.json"
+        }
+    ]
+}

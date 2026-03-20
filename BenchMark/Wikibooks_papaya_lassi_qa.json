@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\papaya_lassi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Papaya Lassi?",
+            "Gold Answer": "Papaya Lassi is a traditional South Asian recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Papaya_Lassi"
+        },
+        {
+            "Query": "What ingredients are used to make Papaya Lassi?",
+            "Gold Answer": "The ingredients used to make Papaya Lassi are water, plain yogurt, honey, salt, papaya pulp, and ground cinnamon.",
+            "Source/Reference": "papaya_lassi.json"
+        },
+        {
+            "Query": "What is the procedure for making Papaya Lassi?",
+            "Gold Answer": "The procedure for making Papaya Lassi is to combine everything in a blender and blend until smooth.",
+            "Source/Reference": "papaya_lassi.json"
+        }
+    ]
+}

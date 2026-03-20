@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\molasses.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between fancy and dark molasses?",
+            "Gold Answer": "Fancy molasses is light, sweet, and thin, while dark molasses is thicker, darker, and less sweet. The former is derived from the first boiling and crystallization, while the latter comes from the second and third boiling and crystallization.",
+            "Source/Reference": "molasses.json"
+        }
+    ]
+}

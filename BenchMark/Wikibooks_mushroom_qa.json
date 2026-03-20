@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mushroom.json",
+    "qna_pairs": [
+        {
+            "Query": "Can you explain the characteristics of mushroom texture?",
+            "Gold Answer": "The chitin content lends a fairly stable texture even when heated. The texture of mushrooms tends to range from spongy to chewy or meaty.",
+            "Source/Reference": "mushroom.json"
+        },
+        {
+            "Query": "What is the recommended way to store mushrooms?",
+            "Gold Answer": "Mushrooms keep fairly well when dried and stored away from moisture. It is ideal to source them where sold loose so you can examine them and pick the best specimens.",
+            "Source/Reference": "mushroom.json"
+        },
+        {
+            "Query": "How should mushrooms be cooked to achieve browning?",
+            "Gold Answer": "Because mushrooms are mostly water, it can be hard to cook them such that they brown. Two schools of thought exist on how to achieve browning despite this. The first has the cook start the pan extremely hot so that the mushrooms brown before they start to release water and steam. The second school of thought, however, has the cook cover and steam the mushrooms first to quickly force the majority of the liquid out at once in the first 10 minutes.",
+            "Source/Reference": "mushroom.json"
+        }
+    ]
+}

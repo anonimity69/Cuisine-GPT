@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\malpua_(south_asian_sweet_pancake).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the purpose of boiling milk in the malpua recipe?",
+            "Gold Answer": "Boiling milk reduces its volume to half, making it suitable for mixing with flours.",
+            "Source/Reference": "malpua_(south_asian_sweet_pancake).json"
+        },
+        {
+            "Query": "What type of cuisine does malpua belong to?",
+            "Gold Answer": "Malpua is a traditional South Asian sweet pancake.",
+            "Source/Reference": "malpua_(south_asian_sweet_pancake).json"
+        },
+        {
+            "Query": "What is the recommended consistency for the sugar syrup used to dip malpua?",
+            "Gold Answer": "The sugar syrup should have a good consistency.",
+            "Source/Reference": "malpua_(south_asian_sweet_pancake).json"
+        }
+    ]
+}

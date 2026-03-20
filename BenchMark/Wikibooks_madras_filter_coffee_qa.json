@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\madras_filter_coffee.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Madras Filter Coffee?",
+            "Gold Answer": "Madras Filter Coffee is a traditional South Asian coffee recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Madras_Filter_Coffee"
+        }
+    ]
+}

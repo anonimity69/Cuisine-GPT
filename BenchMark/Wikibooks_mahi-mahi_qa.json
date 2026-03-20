@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mahi-mahi.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical weight range of a mahi-mahi fish?",
+            "Gold Answer": "The body is quite long, generally from 4 to 20 pounds (1.8–9 kg).",
+            "Source/Reference": "mahi-mahi.json"
+        }
+    ]
+}

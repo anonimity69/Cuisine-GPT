@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mango_and_yellow_split_pea_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Mango and Yellow Split Pea Curry?",
+            "Gold Answer": "The cuisine type of this recipe is South Asian.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mango_and_Yellow_Split_Pea_Curry"
+        }
+    ]
+}

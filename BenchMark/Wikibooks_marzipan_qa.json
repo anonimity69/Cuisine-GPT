@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\marzipan.json",
+    "qna_pairs": [
+        {
+            "Query": "What is marzipan made of?",
+            "Gold Answer": "Marzipan is a sweetened, workable almond paste, typically made from ground almonds and sugar.",
+            "Source/Reference": "marzipan.json"
+        },
+        {
+            "Query": "How is marzipan used in pastry and confectionery?",
+            "Gold Answer": "Marzipan can be rolled out into sheets to cover cakes, used as a filling for confections, sculpted into small figurines, and colored accordingly.",
+            "Source/Reference": "marzipan.json"
+        },
+        {
+            "Query": "What are some common flavorings for marzipan?",
+            "Gold Answer": "Bitter almonds or flower waters are some common flavorings for marzipan.",
+            "Source/Reference": "marzipan.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\makki_di_roti_(indian_cornmeal_flatbread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Makki di Roti?",
+            "Gold Answer": "Makki di Roti is an Indian Cornmeal Flatbread, specifically from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Makki_di_Roti_(Indian_Cornmeal_Flatbread)"
+        },
+        {
+            "Query": "How do you mix the cornmeal and water into a dough?",
+            "Gold Answer": "To mix the cornmeal and water into a dough, start by making a well and pouring in a small quantity of lukewarm water. Then, mix the cornmeal and water into a dough, adding water in small quantities to retain a moist feel. The final dough should not be sticky, and you can add extra cornmeal if needed to help soak up excess moisture.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Makki_di_Roti_(Indian_Cornmeal_Flatbread)"
+        },
+        {
+            "Query": "What is the purpose of kneading the dough?",
+            "Gold Answer": "Kneading the dough is necessary to incorporate the soft butter into the dough and to give it a final texture. It involves taking a small hand-sized portion of the dough, rolling it into a ball, and then flattening it between your hands while rotating it to achieve an evenly thinned roti. Kneading also helps to repair any cracks that may form on the surface of the roti.",
+            "Source/Reference": "makki_di_roti_(indian_cornmeal_flatbread).json"
+        }
+    ]
+}

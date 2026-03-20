@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\oyster_sauce.json",
+    "qna_pairs": [
+        {
+            "Query": "What are vegetarian substitutes for oyster sauce?",
+            "Gold Answer": "Vegetarian substitutes for oyster sauce exist, and these use alternate ingredients such as mushrooms to produce the desired savory flavor profile.",
+            "Source/Reference": "oyster_sauce.json"
+        }
+    ]
+}

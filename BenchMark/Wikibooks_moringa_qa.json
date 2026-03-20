@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\moringa.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor of the pods of the Moringa tree?",
+            "Gold Answer": "The flavor of the pods is grassy, akin to that of green beans.",
+            "Source/Reference": "moringa.json"
+        },
+        {
+            "Query": "Can Moringa leaves be stored fresh or dried?",
+            "Gold Answer": "Leaves can be stored fresh or dried for longer-term storage.",
+            "Source/Reference": "moringa.json"
+        },
+        {
+            "Query": "What can be made from Moringa seeds?",
+            "Gold Answer": "The seeds can be ground to make so-called ben oil, which can be used in cooking.",
+            "Source/Reference": "moringa.json"
+        }
+    ]
+}

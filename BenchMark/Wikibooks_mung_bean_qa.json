@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mung_bean.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical color of mung bean outer skin?",
+            "Gold Answer": "The outer skin is green, while the flesh is white to light yellow.",
+            "Source/Reference": "mung_bean.json"
+        },
+        {
+            "Query": "What are some ways mung beans can be used?",
+            "Gold Answer": "Mung beans can be cooked for serving whole, such as by simmering in water, and can then be used in both sweet and savory preparations, especially in East and South Asian cuisines. Mung beans can also be sprouted into bean sprouts or refined into mung starch, which can be made into products like glass noodles.",
+            "Source/Reference": "mung_bean.json"
+        },
+        {
+            "Query": "How can mung beans be stored?",
+            "Gold Answer": "Mung beans can be purchased fresh, dried, and dried before splitting into dal. It may also be available powdered.",
+            "Source/Reference": "mung_bean.json"
+        }
+    ]
+}

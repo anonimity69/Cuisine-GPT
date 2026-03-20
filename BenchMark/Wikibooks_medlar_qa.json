@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\medlar.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the texture of medlar fruit when mature but underripe on the tree?",
+            "Gold Answer": "The texture is still firm, but the flesh is greenish or yellow-tinged and inedibly astringent.",
+            "Source/Reference": "medlar.json"
+        },
+        {
+            "Query": "What happens to medlar fruit after it is picked from the tree?",
+            "Gold Answer": "The fruit must go through the process of \"bletting\", an advanced ripening process that softens the texture, browns the color, and sweetens the flavor.",
+            "Source/Reference": "medlar.json"
+        },
+        {
+            "Query": "What is the typical shelf life of bletted medlars?",
+            "Gold Answer": "Once fully bletted, medlars have a short shelf life before they spoil, so they should be used quickly, placed in the fridge for a few days, or frozen for longer storage.",
+            "Source/Reference": "medlar.json"
+        }
+    ]
+}

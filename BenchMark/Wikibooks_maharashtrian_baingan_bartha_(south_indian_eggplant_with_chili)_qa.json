@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\maharashtrian_baingan_bartha_(south_indian_eggplant_with_chili).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Maharashtrian Baingan Bartha?",
+            "Gold Answer": "Maharashtrian Baingan Bartha is a South Indian dish, specifically from the Maharashtrian cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Maharashtrian_Baingan_Bartha_(South_Indian_Eggplant_with_Chili)"
+        },
+        {
+            "Query": "What is the purpose of adding reserved eggplant drippings to the bharta?",
+            "Gold Answer": "The reserved eggplant drippings are added to moisten the bharta if required, maintaining its consistency and flavor.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Maharashtrian_Baingan_Bartha_(South_Indian_Eggplant_with_Chili)"
+        },
+        {
+            "Query": "What are the primary ingredients used in the preparation of Maharashtrian Baingan Bartha?",
+            "Gold Answer": "The primary ingredients used in the preparation of Maharashtrian Baingan Bartha include eggplants, green onion, green garlic, peas, cumin seeds, rai (mustard seed), salt, and green chilies.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Maharashtrian_Baingan_Bartha_(South_Indian_Eggplant_with_Chili)"
+        }
+    ]
+}

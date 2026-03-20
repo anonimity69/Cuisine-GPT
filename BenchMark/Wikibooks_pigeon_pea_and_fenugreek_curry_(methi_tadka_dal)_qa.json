@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pigeon_pea_and_fenugreek_curry_(methi_tadka_dal).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe for?",
+            "Gold Answer": "This recipe is for South Asian cuisine, specifically from the region of South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Pigeon_Pea_and_Fenugreek_Curry_(Methi_Tadka_Dal)"
+        },
+        {
+            "Query": "What is the recommended cooking method for the dal?",
+            "Gold Answer": "The dal should be cooked using an Indian cooker, which would be a pressure cooker, until it reaches 4 whistles.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Pigeon_Pea_and_Fenugreek_Curry_(Methi_Tadka_Dal)"
+        },
+        {
+            "Query": "What is the typical way to serve this dish?",
+            "Gold Answer": "This dish is typically served with hot rice, and an optional touch of Gongura pickle.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Pigeon_Pea_and_Fenugreek_Curry_(Methi_Tadka_Dal)"
+        }
+    ]
+}

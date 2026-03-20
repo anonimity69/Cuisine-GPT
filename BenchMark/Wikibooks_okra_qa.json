@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\okra.json",
+    "qna_pairs": [
+        {
+            "Query": "What is okra also known as in some countries?",
+            "Gold Answer": "Okra is also known as lady fingers, gumbo, bhindi, bamia, and bindi in different countries.",
+            "Source/Reference": "okra.json"
+        }
+    ]
+}

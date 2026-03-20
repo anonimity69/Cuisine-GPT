@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pan_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main purpose of eating pan masala?",
+            "Gold Answer": "Pan masala is often eaten at the end of a meal to aid digestion and sweeten the breath.",
+            "Source/Reference": "pan_masala.json"
+        },
+        {
+            "Query": "What is the effect of pan masala on the body?",
+            "Gold Answer": "Pan masala has a mild stimulating effect.",
+            "Source/Reference": "pan_masala.json"
+        },
+        {
+            "Query": "What spices are typically included in pan masala?",
+            "Gold Answer": "Pan masala is a mixture of spices such as cardamom, lime, menthol, clear catechu, betel nuts and other flavours.",
+            "Source/Reference": "pan_masala.json"
+        }
+    ]
+}

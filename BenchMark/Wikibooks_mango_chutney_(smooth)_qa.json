@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mango_chutney_(smooth).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the mango chutney smooth recipe from?",
+            "Gold Answer": "The mango chutney smooth recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mango_Chutney_(Smooth)"
+        },
+        {
+            "Query": "What are the main ingredients in the mango chutney smooth recipe?",
+            "Gold Answer": "The main ingredients in the mango chutney smooth recipe are a large raw mango, mustard seeds, vegetable oil, asafoetida, dry red chiles, green chiles, lime juice, turmeric powder, and salt.",
+            "Source/Reference": "mango_chutney_(smooth).json"
+        },
+        {
+            "Query": "How do you prepare the mango chutney smooth recipe?",
+            "Gold Answer": "To prepare the mango chutney smooth recipe, heat oil in a frying pan, add mustard seeds, asafoetida, green chiles, and red chiles, wait until the mustard seeds splutter, then remove the pan from the stove, and grind the mixture with mango, lime juice (if needed), turmeric, and salt.",
+            "Source/Reference": "mango_chutney_(smooth).json"
+        }
+    ]
+}

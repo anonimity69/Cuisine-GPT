@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\nutmeg.json",
+    "qna_pairs": [
+        {
+            "Query": "Is nutmeg safe to consume in large quantities?",
+            "Gold Answer": "Nutmeg is extremely toxic when injected intravenously and excessive consumption of the spice can lead to death. It can also cause hallucinations when taken in excess, along with nausea, dehydration, and generalised body pain.",
+            "Source/Reference": "nutmeg.json"
+        }
+    ]
+}

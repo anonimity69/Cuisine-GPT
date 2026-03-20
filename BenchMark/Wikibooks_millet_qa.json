@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\millet.json",
+    "qna_pairs": [
+        {
+            "Query": "What are millets?",
+            "Gold Answer": "Millets are a general agronomic and culinary group of small-seeded cereal grains, widely grown around the world for food and fodder.",
+            "Source/Reference": "millet.json"
+        },
+        {
+            "Query": "What is the protein content of millets?",
+            "Gold Answer": "The grain's protein content is high, though it is gluten-free.",
+            "Source/Reference": "millet.json"
+        },
+        {
+            "Query": "What is the best way to store millet flour?",
+            "Gold Answer": "Storing millet flour in the fridge extends its lifetime.",
+            "Source/Reference": "millet.json"
+        }
+    ]
+}

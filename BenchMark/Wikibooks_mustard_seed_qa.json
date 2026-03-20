@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mustard_seed.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of seeds is used to make dry mustard?",
+            "Gold Answer": "Dry mustard can be classified as either white mustard, brown mustard, or black mustard.",
+            "Source/Reference": "mustard_seed.json"
+        },
+        {
+            "Query": "In which civilizations is mustard seed found?",
+            "Gold Answer": "Mustard seed is among the world's most ancient of flavorings, found in the remnants of Egyptian and Indian civilizations from centuries ago.",
+            "Source/Reference": "mustard_seed.json"
+        },
+        {
+            "Query": "How long ago is mustard seed believed to have originated?",
+            "Gold Answer": "Mustard seed is among the world's most ancient of flavorings, found in the remnants of Egyptian and Indian civilizations from centuries ago.",
+            "Source/Reference": "mustard_seed.json"
+        }
+    ]
+}

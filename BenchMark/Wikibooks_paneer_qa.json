@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\paneer.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cheese is paneer?",
+            "Gold Answer": "Paneer is a variety of fresh curd cheese, originating from and used in South Asia.",
+            "Source/Reference": "paneer.json"
+        },
+        {
+            "Query": "What is paneer typically used for?",
+            "Gold Answer": "Paneer is commonly used in South Asian cuisine for various dishes such as Baingan Bartha, Matar Paneer, and Paneer Butter Masala.",
+            "Source/Reference": "paneer.json"
+        },
+        {
+            "Query": "Is paneer a type of cheese that can be made at home?",
+            "Gold Answer": "Yes, paneer can be made at home, as evident from the 'Homemade Paneer' recipe available in the cookbook.",
+            "Source/Reference": "paneer.json"
+        }
+    ]
+}

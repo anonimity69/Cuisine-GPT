@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\papri_chaat_(crispy_indian_snack_with_potato).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Papri Chaat?",
+            "Gold Answer": "Papri Chaat is a South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Papri_Chaat_(Crispy_Indian_Snack_with_Potato)"
+        },
+        {
+            "Query": "What is Papri Chaat?",
+            "Gold Answer": "Papri Chaat is a crispy Indian snack with potato.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Papri_Chaat_(Crispy_Indian_Snack_with_Potato)"
+        },
+        {
+            "Query": "Where is Papri Chaat from?",
+            "Gold Answer": "Papri Chaat is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Papri_Chaat_(Crispy_Indian_Snack_with_Potato)"
+        }
+    ]
+}

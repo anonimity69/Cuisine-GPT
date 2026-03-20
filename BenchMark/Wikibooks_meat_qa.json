@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\meat.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the three primary types of muscular tissue?",
+            "Gold Answer": "Technically, there are three primary types of muscular tissue: skeletal, cardiac, and smooth. Skeletal muscle is the most abundant and is what some people think of first when it comes to meat—steaks, for example, are made of skeletal muscle. Skeletal muscles are attached to bone, and their contraction allows for movement of the body.",
+            "Source/Reference": "meat.json"
+        },
+        {
+            "Query": "What is the composition of meat?",
+            "Gold Answer": "The bulk of meat is water. After this, the most abundant component is protein of various types, such as structural, metabolic, regulatory, etc. Two classes of protein based on their overall structure are globular proteins and fibrous proteins. Another classification scheme divides meat proteins into contractile/myofibrillar (e.g. actin and myosin), soluble/sarcoplasmic (e.g. myoglobin, enzymes), and stromal/connective (e.g. collagen and elastin). The exact types of protein will vary according to the animal and tissue type.",
+            "Source/Reference": "meat.json"
+        },
+        {
+            "Query": "What is the difference between connective tissue and fatty tissue?",
+            "Gold Answer": "Connective tissue is that which holds together and supports other varieties of tissue. Fatty tissue, on the other hand, is that which stores fats in meat, either for energy or protection. Connective tissues often contain a few major types of proteins: collagen, elastin, and reticulin. Fatty tissue is chewy and generally unpleasant when uncooked, but contributes flavor and juiciness when cooked.",
+            "Source/Reference": "meat.json"
+        }
+    ]
+}

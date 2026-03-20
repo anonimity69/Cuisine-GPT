@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\nondairy_milk.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary characteristic of nondairy milks?",
+            "Gold Answer": "The primary characteristics shared by most nondairy milks are a creamy consistency, neutral or mild flavor, and off-white color.",
+            "Source/Reference": "nondairy_milk.json"
+        }
+    ]
+}

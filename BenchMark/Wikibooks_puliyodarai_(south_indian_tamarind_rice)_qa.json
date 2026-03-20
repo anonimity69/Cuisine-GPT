@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\puliyodarai_(south_indian_tamarind_rice).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Puliyodarai?",
+            "Gold Answer": "Puliyodarai is a traditional South Indian dish.",
+            "Source/Reference": "puliyodarai_(south_indian_tamarind_rice).json"
+        },
+        {
+            "Query": "Where can I find the recipe for Puliyodarai?",
+            "Gold Answer": "Puliyodarai recipe can be found on Wikibooks Cookbook.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Puliyodarai_(South_Indian_Tamarind_Rice)"
+        },
+        {
+            "Query": "What region is Puliyodarai associated with?",
+            "Gold Answer": "Puliyodarai is associated with the South Asia region.",
+            "Source/Reference": "puliyodarai_(south_indian_tamarind_rice).json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mustard.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between yellow mustard and spicy brown mustard?",
+            "Gold Answer": "Yellow mustard is a smooth and relatively mellow variety, while spicy brown mustard is made with brown mustard seeds and has a coarser texture.",
+            "Source/Reference": " mustard.json"
+        }
+    ]
+}

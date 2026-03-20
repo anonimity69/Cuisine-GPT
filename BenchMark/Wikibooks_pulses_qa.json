@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\pulses.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the purpose of soaking legumes?",
+            "Gold Answer": "Soaking helps to draw out lectins and phytates in legumes, as well as activating enzymes that break down indigestible starches and sugars. These starches and sugars are responsible for flatulence, as they ferment in your gut to produce gas.",
+            "Source/Reference": "pulses.json"
+        }
+    ]
+}

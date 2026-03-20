@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\potato_and_cauliflower_curry_(aloo_gobi).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Potato and Cauliflower Curry (Aloo Gobi) from?",
+            "Gold Answer": "The Potato and Cauliflower Curry (Aloo Gobi) is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_and_Cauliflower_Curry_(Aloo_Gobi)"
+        },
+        {
+            "Query": "What spices are typically used in a traditional Potato and Cauliflower Curry (Aloo Gobi)?",
+            "Gold Answer": "The spices typically used in a traditional Potato and Cauliflower Curry (Aloo Gobi) include cumin seeds, ground curcuma (turmeric), ground coriander, and ground chilli.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_and_Cauliflower_Curry_(Aloo_Gobi)"
+        },
+        {
+            "Query": "What is the recommended cooking method for the vegetables in the Potato and Cauliflower Curry (Aloo Gobi)?",
+            "Gold Answer": "The vegetables, specifically cauliflower and potatoes, should be roasted until they turn soft, with occasional stirring.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_and_Cauliflower_Curry_(Aloo_Gobi)"
+        }
+    ]
+}

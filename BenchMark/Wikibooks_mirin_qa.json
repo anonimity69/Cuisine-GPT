@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mirin.json",
+    "qna_pairs": [
+        {
+            "Query": "What is mirin?",
+            "Gold Answer": "Mirin is a sweet Japanese rice-based wine, commonly used in Japanese cooking. It is not the same thing as sake.",
+            "Source/Reference": "mirin.json"
+        },
+        {
+            "Query": "How is mirin produced?",
+            "Gold Answer": "Mirin is produced by combining cooked glutinous rice, koji mold, and shochu (a liquor made from rice wine).",
+            "Source/Reference": "mirin.json"
+        },
+        {
+            "Query": "What is the primary role of mirin in cooking?",
+            "Gold Answer": "Mirin's primary role in cooking is to complement the final dish using its alcohol, sweetness, and the complex flavor from fermentation.",
+            "Source/Reference": "mirin.json"
+        }
+    ]
+}

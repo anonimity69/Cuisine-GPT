@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\malt.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the different types of malt?",
+            "Gold Answer": "Different grains can be malted, but barley and wheat are the most commonly used. Different grains produce malts with different flavor and enzymatic characteristics.",
+            "Source/Reference": "malt.json"
+        },
+        {
+            "Query": "What is malt syrup used for?",
+            "Gold Answer": "Malt syrup can be used as a sweetener in East Asian cuisines.",
+            "Source/Reference": "malt.json"
+        },
+        {
+            "Query": "What is the difference between diastatic and proteolytic malt?",
+            "Gold Answer": "Diastatic malt has enzymes that convert starch into sugars, while proteolytic malt has enzymes that break down proteins.",
+            "Source/Reference": "malt.json"
+        }
+    ]
+}

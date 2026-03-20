@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\murghi_korma_(chicken_korma).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Murghi Korma?",
+            "Gold Answer": "Murghi Korma is a South Asian dish.",
+            "Source/Reference": "murghi_korma_(chicken_korma).json"
+        },
+        {
+            "Query": "How long does it take to marinate the chicken?",
+            "Gold Answer": "It takes 1 to 3 hours to marinate the chicken.",
+            "Source/Reference": "murghi_korma_(chicken_korma).json"
+        },
+        {
+            "Query": "What is added to the chicken when it starts to dry up?",
+            "Gold Answer": "Boiling water is added to the chicken when it starts to dry up.",
+            "Source/Reference": "murghi_korma_(chicken_korma).json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\miso.json",
+    "qna_pairs": [
+        {
+            "Query": "How is miso used in cooking?",
+            "Gold Answer": "Miso is primarily used to bring a depth of savory flavor to dishes, such as soups, sauces, dressings, marinades, pickles, and even desserts.",
+            "Source/Reference": "miso.json"
+        }
+    ]
+}

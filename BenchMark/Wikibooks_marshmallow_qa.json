@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\marshmallow.json",
+    "qna_pairs": [
+        {
+            "Query": "What are marshmallows made of?",
+            "Gold Answer": "Marshmallows are made of stabilized aerated sugar, typically containing gelatin or other stabilizers like agar or gum arabic, and may include egg whites and/or food coloring.",
+            "Source/Reference": "marshmallow.json"
+        }
+    ]
+}

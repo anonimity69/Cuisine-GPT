@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\nopales.json",
+    "qna_pairs": [
+        {
+            "Query": "What do nopales taste like?",
+            "Gold Answer": "Nopales have a taste similar to a slightly tart green bean, asparagus, or green pepper.",
+            "Source/Reference": "nopales.json"
+        },
+        {
+            "Query": "What can be done with cooked nopales?",
+            "Gold Answer": "It can be added to scrambled eggs and omelets, or diced fresh and added to tortillas. It can also be substituted for any cooked green in most dishes.",
+            "Source/Reference": "nopales.json"
+        },
+        {
+            "Query": "How are nopales typically prepared?",
+            "Gold Answer": "To cook, steam over boiling water for just a few minutes. Alternatively, cut and sauté in butter or oil for a few minutes.",
+            "Source/Reference": "nopales.json"
+        }
+    ]
+}

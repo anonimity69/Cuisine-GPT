@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\potato_curry_(aloo_masala).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Potato Curry?",
+            "Gold Answer": "Potato Curry is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_Curry_(Aloo_Masala)"
+        },
+        {
+            "Query": "What is the recommended cooking time for the potatoes in Potato Curry?",
+            "Gold Answer": "The potatoes should become very soft and somewhat mashed after about 5 minutes of cooking on a medium flame.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_Curry_(Aloo_Masala)"
+        },
+        {
+            "Query": "What is added to the curry to give it a yellow color?",
+            "Gold Answer": "Turmeric powder is added to give the curry its characteristic yellow color.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Potato_Curry_(Aloo_Masala)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\milk.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the composition of milk?",
+            "Gold Answer": "The main constituent of milk is water, which comes to over 80% by weight. After this, milk contains a number of nutrients including carbohydrates, proteins, fats, and vitamins/minerals. The bulk of milk's carbohydrates take the form of lactose (milk sugar), which has only a mildly sweet flavor. As far as fat goes, milk fat is largely saturated, especially in milk from ruminants.",
+            "Source/Reference": "milk.json"
+        },
+        {
+            "Query": "How does the fat globules in milk scatter light?",
+            "Gold Answer": "The fat globules in milk scatter light, making milk generally opaque and white in appearance. Milk with a higher proportion of fat has a whiter and more opaque appearance. The fat can also contain carotene, which adds a yellowish hue to the milk, and more fat results in more yellow color.",
+            "Source/Reference": "milk.json"
+        },
+        {
+            "Query": "What happens when milk is heated?",
+            "Gold Answer": "When milk is heated, the fat globules are sturdy enough not to pool and melt together, allowing milk to be significantly reduced by boiling. Heating milk does result in a thin skin at the surface, which is the product of water evaporation concentrating protein at the surface. A similar effect occurs at the bottom of the pan by the heat source, resulting in sticking and scorching.",
+            "Source/Reference": "milk.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\papadam_(black_gram_flatbread).json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine type is Papadam from?",
+            "Gold Answer": "Papadam is from South Asia.",
+            "Source/Reference": "papadam_(black_gram_flatbread).json"
+        },
+        {
+            "Query": "How many balls of dough are typically split for Papadam?",
+            "Gold Answer": "Papadam is typically split into 10-15 balls.",
+            "Source/Reference": "papadam_(black_gram_flatbread).json"
+        },
+        {
+            "Query": "What is the typical method of drying Papadam?",
+            "Gold Answer": "Papadams are dried in the oven at a low temperature (about 100°C or 200°F) for an hour.",
+            "Source/Reference": "papadam_(black_gram_flatbread).json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\malvani_chicken_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Malvani Chicken Curry?",
+            "Gold Answer": "The Malvani Chicken Curry is a South Asian dish, specifically from the Malvani region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Malvani_Chicken_Curry"
+        }
+    ]
+}

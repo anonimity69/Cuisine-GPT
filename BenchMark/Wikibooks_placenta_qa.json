@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\placenta.json",
+    "qna_pairs": [
+        {
+            "Query": "How is the texture of a placenta similar to a human organ?",
+            "Gold Answer": "The texture of a placenta is similar to the heart, but more sponge-like, and has a springy texture.",
+            "Source/Reference": "placenta.json"
+        },
+        {
+            "Query": "How much does a human placenta typically weigh?",
+            "Gold Answer": "A human placenta typically weighs 1/6 of the baby's weight.",
+            "Source/Reference": "placenta.json"
+        },
+        {
+            "Query": "Can uncooked human placenta transmit diseases?",
+            "Gold Answer": "Yes, uncooked human placenta can transmit diseases.",
+            "Source/Reference": "placenta.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\marugbo.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine uses marugbo leaves?",
+            "Gold Answer": "Marugbo leaves are typically used in various soups, making them a part of African cuisine.",
+            "Source/Reference": "marugbo.json"
+        }
+    ]
+}

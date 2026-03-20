@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\paneer_butter_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Paneer Butter Masala?",
+            "Gold Answer": "Paneer Butter Masala is a South Asian recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Paneer_Butter_Masala"
+        },
+        {
+            "Query": "What ingredients are used in Paneer Butter Masala?",
+            "Gold Answer": "Paneer Butter Masala typically includes ingredients such as ghee or oil, paneer, onion, ginger paste, garlic paste, capsicum, tomatoes, ghee, hing powder, cardamom, turmeric, garam masala, chilli powder, cumin, and lemon juice.",
+            "Source/Reference": "paneer_butter_masala.json"
+        },
+        {
+            "Query": "How long does it take to cook Paneer Butter Masala?",
+            "Gold Answer": "The cooking time for Paneer Butter Masala can vary, but it typically requires cooking for 15 minutes on low heat occasionally stirring, and then serving with rotis or naan and rice.",
+            "Source/Reference": "paneer_butter_masala.json"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "source": "Data\\Wikibooks\\pickled_green_mango_(aavakaaya).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the recommended procedure for soaking and drying the raw mangoes?",
+            "Gold Answer": "The raw mangoes should be soaked in water for 10 minutes and then dried with a clean cloth.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Pickled_Green_Mango_(Aavakaaya)"
+        },
+        {
+            "Query": "What is the purpose of mixing the pieces with oil first before adding other ingredients?",
+            "Gold Answer": "Mixing the pieces with oil first helps to retain the firm texture of the mango pieces.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Pickled_Green_Mango_(Aavakaaya)"
+        }
+    ]
+}

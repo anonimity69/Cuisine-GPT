@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\maharashtrian_deep_fried_chickpea_dough_curry_snacks_(pakoda).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the procedure for making the Maharashtrian Deep Fried Chickpea Dough Curry Snacks (Pakoda)?",
+            "Gold Answer": "The procedure for making the Maharashtrian Deep Fried Chickpea Dough Curry Snacks (Pakoda) involves combining onions and chiles, mixing in salt and spices, adding gram flour, and frying the dough in oil until it gets a golden brown colour.",
+            "Source/Reference": "maharashtrian_deep_fried_chickpea_dough_curry_snacks_(pakoda).json"
+        }
+    ]
+}

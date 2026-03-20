@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\north_indian_fermented_bread_(batooru).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Batooru bread from?",
+            "Gold Answer": "The Batooru bread is from North Indian cuisine, specifically from South Asia.",
+            "Source/Reference": "north_indian_fermented_bread_(batooru).json"
+        },
+        {
+            "Query": "How should the Batooru dough be rolled?",
+            "Gold Answer": "The Batooru dough should be rolled slightly thick, unlike a bhatoora which is rolled to be very thin.",
+            "Source/Reference": "north_indian_fermented_bread_(batooru).json"
+        },
+        {
+            "Query": "What is a traditional way to serve the Batooru bread?",
+            "Gold Answer": "The Batooru bread is traditionally served hot, especially with sabzi (spicy cooked vegetables), lassi, and mango pickles.",
+            "Source/Reference": "north_indian_fermented_bread_(batooru).json"
+        }
+    ]
+}

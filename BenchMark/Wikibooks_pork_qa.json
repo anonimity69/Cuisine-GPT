@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pork.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the most common meat eaten by the Chinese?",
+            "Gold Answer": "Pork is one of the most common meats eaten by the Chinese.",
+            "Source/Reference": "pork.json"
+        },
+        {
+            "Query": "What cuts of pork are commonly used in cooking?",
+            "Gold Answer": "There are four basic cuts of pork: shoulder, loin, side, and leg.",
+            "Source/Reference": "pork.json"
+        },
+        {
+            "Query": "Is pork considered inedible under Islamic and Orthodox Jewish law?",
+            "Gold Answer": "Yes, pork is considered inedible under Islamic and Orthodox Jewish law.",
+            "Source/Reference": "pork.json"
+        }
+    ]
+}

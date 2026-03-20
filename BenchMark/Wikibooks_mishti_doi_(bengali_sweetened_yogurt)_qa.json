@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mishti_doi_(bengali_sweetened_yogurt).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Mishti Doi (Bengali Sweetened Yogurt) from?",
+            "Gold Answer": "Mishti Doi is from the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mishti_Doi_(Bengali_Sweetened_Yogurt)"
+        },
+        {
+            "Query": "What is the process of making the caramelized sugar mixture in Mishti Doi?",
+            "Gold Answer": "The process of making the caramelized sugar mixture involves heating the sugar in a pan over medium heat until it gets to the point of a golden bubbly mixture. Then, a tablespoon of water is added to the mixture and poured into the heavy-bottomed pan with milk.",
+            "Source/Reference": "mishti_doi_(bengali_sweetened_yogurt).json"
+        },
+        {
+            "Query": "What happens to the milk after it is heated and reduced by half?",
+            "Gold Answer": "The milk is removed from the heat and kept aside until it cools off. Then, the whisked yoghurt is added to the milk, and the mixture is poured into earthen pots.",
+            "Source/Reference": "mishti_doi_(bengali_sweetened_yogurt).json"
+        }
+    ]
+}

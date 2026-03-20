@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mango.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical shape and size of a mango?",
+            "Gold Answer": "Mangoes are typically rounded or oblong, with a narrower 'beak' at the non-stem end. The size is on the order of a human hand.",
+            "Source/Reference": "mango.json"
+        }
+    ]
+}

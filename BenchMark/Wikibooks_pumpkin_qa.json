@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pumpkin.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical taste of pumpkin compared to sweet potato?",
+            "Gold Answer": "Pumpkin is similar in taste to sweet potato, and some varieties have a slightly sweeter taste than others.",
+            "Source/Reference": "pumpkin.json"
+        },
+        {
+            "Query": "Is it safe to eat carved pumpkins?",
+            "Gold Answer": "It is best to avoid leaving carved pumpkins out for more than 2 days, and to bring them in on Halloween night to minimize the risk of mold and bacteria growth.",
+            "Source/Reference": "pumpkin.json"
+        },
+        {
+            "Query": "What type of squash is typically used in canned pumpkin?",
+            "Gold Answer": "Most canned pumpkin is actually hubbard squash, which has a characteristic rich orange flesh and bold flavor.",
+            "Source/Reference": "pumpkin.json"
+        }
+    ]
+}

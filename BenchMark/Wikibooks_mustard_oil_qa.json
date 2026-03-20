@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mustard_oil.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is mustard oil commonly used in?",
+            "Gold Answer": "Mustard oil is widely used in Indian, Bangladeshi, and Nepali cuisines.",
+            "Source/Reference": "mustard_oil.json"
+        },
+        {
+            "Query": "What is the difference between cold pressed and heat treated mustard oil?",
+            "Gold Answer": "Cold pressed mustard oil is known for its strong, pungent aroma and flavor, while heat treated mustard oil is milder and less pungent due to heat treatment.",
+            "Source/Reference": "mustard_oil.json"
+        },
+        {
+            "Query": "Is mustard oil considered healthy?",
+            "Gold Answer": "Mustard oil is rich in monounsaturated and polyunsaturated fats and is considered healthy, but should be used in moderation.",
+            "Source/Reference": "mustard_oil.json"
+        }
+    ]
+}

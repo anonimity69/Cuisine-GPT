@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\onion.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the different types of onions?",
+            "Gold Answer": "Onions come in a wide variety of forms and colors, including brown, white, and purple. Some varieties have more or less of the eye-watering chemicals, which also makes them taste milder. Spanish onions are much milder than brown onions, making them more suitable for raw use in salads.",
+            "Source/Reference": "onion.json"
+        }
+    ]
+}

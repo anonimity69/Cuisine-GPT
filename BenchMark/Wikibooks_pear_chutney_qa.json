@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pear_chutney.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine region is the Pear Chutney recipe from?",
+            "Gold Answer": "The recipe is from South Asia. Pear Chutney is a popular condiment in many South Asian countries, including India, Pakistan, and Sri Lanka.",
+            "Source/Reference": "pear_chutney.json"
+        },
+        {
+            "Query": "What type of liquid is used to thicken the Pear Chutney recipe?",
+            "Gold Answer": "The recipe uses liquid pectin to thicken the mixture. Pectin is a natural occurring substance found in the cell walls of fruits, particularly in apples and citrus fruits.",
+            "Source/Reference": "pear_chutney.json"
+        },
+        {
+            "Query": "What is the recommended method of adding spices to the Pear Chutney recipe?",
+            "Gold Answer": "The recommended method is to use a string to tie the spices in a cheesecloth bag and add it to the pears while simmering the mixture.",
+            "Source/Reference": "pear_chutney.json"
+        }
+    ]
+}

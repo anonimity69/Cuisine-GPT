@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mint.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary aroma of spearmint?",
+            "Gold Answer": "Spearmint features broad, toothed, bright green leaves and a wrinkled texture, with an aroma characterized by the compound R-carvone, along with other less-abundant compounds.",
+            "Source/Reference": "mint.json"
+        },
+        {
+            "Query": "What is the flavor of peppermint like?",
+            "Gold Answer": "Peppermint has a strongly pungent and cooling flavor, dominated by menthol, which lends a cooling sensation.",
+            "Source/Reference": "mint.json"
+        },
+        {
+            "Query": "Which two varieties of mint are prevalent for culinary use?",
+            "Gold Answer": "The two very prevalent varieties of mint for culinary use are spearmint and peppermint.",
+            "Source/Reference": "mint.json"
+        }
+    ]
+}

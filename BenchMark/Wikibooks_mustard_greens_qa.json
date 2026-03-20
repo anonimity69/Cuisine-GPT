@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mustard_greens.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the edible leaves of the Brassica juncea plant called?",
+            "Gold Answer": "Mustard greens, sometimes called Chinese mustard, Indian mustard, gai choi, or leaf mustard",
+            "Source/Reference": "mustard_greens.json"
+        }
+    ]
+}

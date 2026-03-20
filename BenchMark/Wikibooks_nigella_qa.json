@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\nigella.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Nigella used for?",
+            "Gold Answer": "Nigella is used as a spice across the Middle East and South Asia, providing a bitter taste and a faint smell of strawberries. It is often used in vegetable dishes and sprinkled on top of some types of naan.",
+            "Source/Reference": "nigella.json"
+        },
+        {
+            "Query": "What is the Bengali Five-Spice Mix?",
+            "Gold Answer": "Nigella is one of the spices that make up the Bengali Five-Spice Mix, Panch Puran.",
+            "Source/Reference": "nigella.json"
+        },
+        {
+            "Query": "What cuisine uses Nigella?",
+            "Gold Answer": "Nigella is used in vegetable dishes across the Middle East and South Asia.",
+            "Source/Reference": "nigella.json"
+        }
+    ]
+}

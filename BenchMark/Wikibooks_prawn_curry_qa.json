@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\prawn_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Prawn Curry belong to?",
+            "Gold Answer": "The Prawn Curry belongs to the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Prawn_Curry"
+        },
+        {
+            "Query": "What is the recommended cooking time for prawns in the Prawn Curry recipe?",
+            "Gold Answer": "The recommended cooking time for prawns is 2 minutes over medium-high heat, just until their water dries out and they turn pink in color.",
+            "Source/Reference": "prawn_curry.json"
+        },
+        {
+            "Query": "What additional ingredients are used to enhance the flavor of the Prawn Curry?",
+            "Gold Answer": "The recipe uses garlic paste, ginger paste (optional), red chile powder, turmeric powder, cumin powder, black pepper, salt, garam masala, nutmeg and mace powder to enhance the flavor.",
+            "Source/Reference": "prawn_curry.json"
+        }
+    ]
+}

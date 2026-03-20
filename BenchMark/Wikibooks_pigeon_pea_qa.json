@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\pigeon_pea.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisines use pigeon peas as a primary ingredient?",
+            "Gold Answer": "Pigeon peas are used widely in South Asian cuisines, as well as East Africa and Central America.",
+            "Source/Reference": "pigeon_pea.json"
+        }
+    ]
+}

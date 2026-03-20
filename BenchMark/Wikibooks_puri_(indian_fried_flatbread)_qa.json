@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\puri_(indian_fried_flatbread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Puri (Indian Fried Flatbread) associated with?",
+            "Gold Answer": "Puri (Indian Fried Flatbread) is associated with South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Puri_(Indian_Fried_Flatbread)"
+        },
+        {
+            "Query": "What is the primary ingredient used for frying in Puri (Indian Fried Flatbread)?",
+            "Gold Answer": "About 500 ml (1 pint) of vegetable oil is used for deep frying in Puri (Indian Fried Flatbread).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Puri_(Indian_Fried_Flatbread)"
+        },
+        {
+            "Query": "What type of flour is used in the dough of Puri (Indian Fried Flatbread)?",
+            "Gold Answer": "2 oz (60 g) of whole-wheat flour, 2 oz (60 g) of plain white flour, and 2 oz of fine semolina are used in the dough of Puri (Indian Fried Flatbread).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Puri_(Indian_Fried_Flatbread)"
+        }
+    ]
+}

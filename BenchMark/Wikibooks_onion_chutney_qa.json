@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\onion_chutney.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Onion Chutney belong to?",
+            "Gold Answer": "The Onion Chutney belongs to the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Onion_Chutney"
+        },
+        {
+            "Query": "What is the primary ingredient used to make the onion chutney?",
+            "Gold Answer": "The primary ingredient used to make the onion chutney is onions.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Onion_Chutney"
+        },
+        {
+            "Query": "What is the purpose of adding water to the onion mixture during the blending process?",
+            "Gold Answer": "Adding water to the onion mixture during the blending process is done to achieve the desired consistency of the chutney.",
+            "Source/Reference": "onion_chutney.json"
+        }
+    ]
+}

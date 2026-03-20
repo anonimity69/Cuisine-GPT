@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\masyaura_(nepali_fermented_vegetable_balls).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Masyaura?",
+            "Gold Answer": "Masyaura is a traditional Nepali dish, specifically a fermented vegetable ball, belonging to South Asian cuisine.",
+            "Source/Reference": "masyaura_(nepali_fermented_vegetable_balls).json"
+        },
+        {
+            "Query": "What is the primary ingredient used to make Masyaura?",
+            "Gold Answer": "The primary ingredient used to make Masyaura are black lentil flour and minced vegetables such as taro, yam, or colocasia leaf.",
+            "Source/Reference": "masyaura_(nepali_fermented_vegetable_balls).json"
+        },
+        {
+            "Query": "How long does it take to dry Masyaura in the direct sun?",
+            "Gold Answer": "It takes around three days to completely dry Masyaura in the direct sun, although the drying time may vary depending on the weather conditions.",
+            "Source/Reference": "masyaura_(nepali_fermented_vegetable_balls).json"
+        }
+    ]
+}

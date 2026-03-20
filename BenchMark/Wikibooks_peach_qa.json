@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\peach.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of fruit does a peach belong to?",
+            "Gold Answer": "peach is a stone fruit related to the plum, cherry, almond, apricot, and nectarine.",
+            "Source/Reference": "peach.json"
+        },
+        {
+            "Query": "How do freestone peaches differ from cling peaches?",
+            "Gold Answer": "Freestone peaches have flesh that separates easily from the pit, while cling peaches have flesh that clings to the pit.",
+            "Source/Reference": "peach.json"
+        },
+        {
+            "Query": "What should be done to peaches to preserve their taste and smell?",
+            "Gold Answer": "Do not refrigerate peaches.",
+            "Source/Reference": "peach.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\mango_and_coconut_chutney_(am_ki_chatni).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Mango and Coconut Chutney (Am ki Chatni) from?",
+            "Gold Answer": "The Mango and Coconut Chutney (Am ki Chatni) is a recipe from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mango_and_Coconut_Chutney_(Am_ki_Chatni)"
+        },
+        {
+            "Query": "What ingredients are used in the Mango and Coconut Chutney (Am ki Chatni)?",
+            "Gold Answer": "The recipe includes 2 almost-ripe mangoes, 1 Tbsp fresh or canned coconut, finely chopped, 1 tsp cilantro or mint, chopped, 1 Tbsp fresh ginger, scraped and finely chopped, 1 tsp salt, 1/2 tsp cayenne pepper, and 2-3 Tbsp fresh orange juice, or a mixture of orange and lime juice.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mango_and_Coconut_Chutney_(Am_ki_Chatni)"
+        },
+        {
+            "Query": "Is the recipe for Mango and Coconut Chutney (Am ki Chatni) suitable for a specific type of cuisine?",
+            "Gold Answer": "Yes, the recipe is suitable for South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Mango_and_Coconut_Chutney_(Am_ki_Chatni)"
+        }
+    ]
+}

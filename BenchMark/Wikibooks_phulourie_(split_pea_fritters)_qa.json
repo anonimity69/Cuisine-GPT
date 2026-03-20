@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\phulourie_(split_pea_fritters).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Phulourie belong to?",
+            "Gold Answer": "Phulourie belongs to South Asian cuisine.",
+            "Source/Reference": "phulourie_(split_pea_fritters).json"
+        },
+        {
+            "Query": "What is the purpose of soaking split peas before making Phulourie?",
+            "Gold Answer": "Soaking split peas overnight in lightly salted cold water helps to rehydrate the split peas, making them easier to grind into a fine flour.",
+            "Source/Reference": "phulourie_(split_pea_fritters).json"
+        },
+        {
+            "Query": "What is the recommended consistency of the batter for making Phulourie?",
+            "Gold Answer": "The batter should have a dropping consistency, meaning it should be thick enough to hold its shape but still flow easily off a spoon.",
+            "Source/Reference": "phulourie_(split_pea_fritters).json"
+        }
+    ]
+}

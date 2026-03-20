@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\masala_chai_ii.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Masala Chai II?",
+            "Gold Answer": "Masala Chai II is a South Asian recipe.",
+            "Source/Reference": "masala_chai_ii.json"
+        },
+        {
+            "Query": "How long should the ingredients steep in the recipe?",
+            "Gold Answer": "The ingredients should steep for about 5 minutes.",
+            "Source/Reference": "masala_chai_ii.json"
+        },
+        {
+            "Query": "What is the purpose of the vanilla sugar in the recipe?",
+            "Gold Answer": "The vanilla sugar is used to add sweetness to the Masala Chai II recipe.",
+            "Source/Reference": "masala_chai_ii.json"
+        }
+    ]
+}

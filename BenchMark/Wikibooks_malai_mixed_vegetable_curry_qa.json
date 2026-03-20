@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\malai_mixed_vegetable_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Malai Mixed Vegetable Curry?",
+            "Gold Answer": "The Malai Mixed Vegetable Curry is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Malai_Mixed_Vegetable_Curry"
+        }
+    ]
+}

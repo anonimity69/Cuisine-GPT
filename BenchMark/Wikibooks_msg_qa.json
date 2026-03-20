@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\msg.json",
+    "qna_pairs": [
+        {
+            "Query": "What is MSG used for in cooking?",
+            "Gold Answer": "MSG is used as a flavor enhancer in cooking.",
+            "Source/Reference": "msg.json"
+        },
+        {
+            "Query": "What does MSG look like in its pure form?",
+            "Gold Answer": "In its pure form, MSG indeed looks a lot like table salt, taking the form of a white crystalline powder.",
+            "Source/Reference": "msg.json"
+        },
+        {
+            "Query": "What happens when MSG is added to food in small quantities?",
+            "Gold Answer": "When added to food in small quantities, the glutamate component of MSG acts as a savory flavor enhancer, increasing our perception of savory flavors and making them seem more intense.",
+            "Source/Reference": "msg.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\pickle.json",
+    "qna_pairs": [
+        {
+            "Query": "What does a kosher pickle taste like?",
+            "Gold Answer": "A kosher pickle has a zesty, garlic brine, made with kosher salt.",
+            "Source/Reference": "pickle.json"
+        }
+    ]
+}

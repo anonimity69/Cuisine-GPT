@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\naan.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Naan recipe belong to?",
+            "Gold Answer": "Naan is a type of flatbread that belongs to South Asian cuisine.",
+            "Source/Reference": "naan.json"
+        },
+        {
+            "Query": "What is the ideal water content for the dough in the Naan recipe?",
+            "Gold Answer": "The ideal water content for the dough in the Naan recipe is approximately half a cup, but some judgement is required.",
+            "Source/Reference": "naan.json"
+        },
+        {
+            "Query": "What is the recommended oven temperature for baking Naan?",
+            "Gold Answer": "The recommended oven temperature for baking Naan is as hot as your oven will go, but in a tandoor it is typically used.",
+            "Source/Reference": "naan.json"
+        }
+    ]
+}

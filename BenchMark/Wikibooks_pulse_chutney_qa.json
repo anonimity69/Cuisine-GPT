@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\pulse_chutney.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Pulse Chutney recipe from?",
+            "Gold Answer": "The Pulse Chutney recipe is from South Asia cuisine.",
+            "Source/Reference": "pulse_chutney.json"
+        },
+        {
+            "Query": "What is the primary ingredient in the Pulse Chutney recipe?",
+            "Gold Answer": "The primary ingredient in the Pulse Chutney recipe is green mung beans.",
+            "Source/Reference": "pulse_chutney.json"
+        },
+        {
+            "Query": "What tool is used to grind the ingredients in the Pulse Chutney recipe?",
+            "Gold Answer": "The ingredients in the Pulse Chutney recipe are ground using a mortar and pestle or a food processor.",
+            "Source/Reference": "pulse_chutney.json"
+        }
+    ]
+}

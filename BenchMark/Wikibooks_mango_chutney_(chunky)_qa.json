@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\mango_chutney_(chunky).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine of Mango Chutney (Chunky)?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "mango_chutney_(chunky).json"
+        }
+    ]
+}

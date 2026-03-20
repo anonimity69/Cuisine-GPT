@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\murgh_musallam_(indian_stewed_spiced_chicken).json",
+    "qna_pairs": [
+        {
+            "Query": "What does Murgh Musallam consist of?",
+            "Gold Answer": "Murgh Musallam is a stew made with marinated chicken cooked in a rich and spicy sauce. The exact ingredients may vary depending on the recipe, but it typically includes a combination of spices, herbs, and aromatics.",
+            "Source/Reference": "murgh_musallam_(indian_stewed_spiced_chicken).json"
+        }
+    ]
+}

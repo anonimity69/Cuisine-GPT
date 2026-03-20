@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\margarine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is margarine?",
+            "Gold Answer": "Margarine is a synthetic butter substitute used in cooking and baking.",
+            "Source/Reference": "margarine.json"
+        }
+    ]
+}
