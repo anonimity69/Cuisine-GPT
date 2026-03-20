@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_46.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional origin of poke and which Polynesian cuisine does it belong to?",
+            "Gold Answer": "Poke is believed to have originated from native Polynesians who seasoned raw fish with salt, seaweed, and crushed candlenut. It belongs to Hawaiian Polynesian cuisine.",
+            "Source/Reference": "Poke bowl"
+        },
+        {
+            "Query": "Which Polynesian island is associated with the chicken curry 'kale moa' that uses Indian spices?",
+            "Gold Answer": "Kale moa is associated with Samoan Polynesian cuisine and incorporates Indian spices due to 19th-century immigration of Indian laborers to Samoa.",
+            "Source/Reference": "Kale moa"
+        },
+        {
+            "Query": "How is oka ita prepared without heat, and which Polynesian cuisines feature this dish?",
+            "Gold Answer": "Oka ita uses lime juice to denature fish proteins, effectively 'cooking' the fish without heat. This dish is commonly featured in Tongan and Samoan Polynesian cuisines.",
+            "Source/Reference": "Oka ita"
+        }
+    ]
+}

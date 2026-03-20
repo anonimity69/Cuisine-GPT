@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bonda_(south_indian_vegetable_fritter).json",
+    "qna_pairs": [
+        {
+            "Query": "What is Bonda?",
+            "Gold Answer": "Bonda is a South Indian vegetable fritter, a traditional dish from South Asia. It is typically prepared by deep-frying a mixture of lentils, potatoes, and other vegetables in a batter until crispy.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bonda_(South_Indian_Vegetable_Fritter)"
+        },
+        {
+            "Query": "What cuisine region does Bonda belong to?",
+            "Gold Answer": "Bonda belongs to South Asian cuisine, specifically South Indian culinary traditions.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bonda_(South_Indian_Vegetable_Fritter)"
+        },
+        {
+            "Query": "Where can I find the official recipe for Bonda on Wikibooks?",
+            "Gold Answer": "The official recipe for Bonda (South Indian Vegetable Fritter) is available on Wikibooks at the URL: https://en.wikibooks.org/wiki/Cookbook:Bonda_(South_Indian_Vegetable_Fritter)",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bonda_(South_Indian_Vegetable_Fritter)"
+        }
+    ]
+}

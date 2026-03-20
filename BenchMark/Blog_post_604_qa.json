@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_604.json",
+    "qna_pairs": [
+        {
+            "Query": "What country is most famously associated with the origin of ceviche?",
+            "Gold Answer": "Peru (Peruvian cuisine)",
+            "Source/Reference": "ceviche"
+        },
+        {
+            "Query": "What is the primary ingredient used in the sauce of Peruvian aji de gallina?",
+            "Gold Answer": "Aji amarillo (Peruvian yellow pepper) paste (Peruvian cuisine)",
+            "Source/Reference": "aji_de_gallina"
+        },
+        {
+            "Query": "According to the text, what is the likely origin of the name \"causa\" in Peruvian cuisine?",
+            "Gold Answer": "A native Quechian word \"kausay\" meaning \"sustenance of life\" (Peruvian cuisine)",
+            "Source/Reference": "causa"
+        }
+    ]
+}

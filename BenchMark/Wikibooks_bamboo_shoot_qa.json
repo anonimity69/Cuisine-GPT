@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bamboo_shoot.json",
+    "qna_pairs": [
+        {
+            "Query": "In which cuisine are bamboo shoots used to make a dish called 'gulai rebung'?",
+            "Gold Answer": "In Indonesian cuisine, bamboo shoots are used to make a dish called *gulai rebung*, which is prepared by thinly slicing the bamboo shoots and boiling them with coconut milk and spices.",
+            "Source/Reference": "bamboo_shoot.json"
+        },
+        {
+            "Query": "What is a traditional Vietnamese dish that uses shredded bamboo shoots as a key ingredient?",
+            "Gold Answer": "In Vietnamese cuisine, shredded bamboo shoots are used in many stir-fried vegetable dishes and also as the sole vegetable ingredient in pork chop soup.",
+            "Source/Reference": "bamboo_shoot.json"
+        },
+        {
+            "Query": "What is the name of bamboo shoots in Philippine cuisine and what are two popular dishes that use them?",
+            "Gold Answer": "In Philippine cuisine, bamboo shoots are called *labong*. Two of the most popular dishes featuring bamboo shoots are *ginataang labong* (a dish of labong cooked with coconut milk and chilies) and *dinengdeng na labong* (a dish of labong cooked with fish *bagoong*, string beans, *saluyot*, and *tinapa*).",
+            "Source/Reference": "bamboo_shoot.json"
+        }
+    ]
+}

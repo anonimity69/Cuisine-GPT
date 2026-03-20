@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\acorn.json",
+    "qna_pairs": [
+        {
+            "query": "What is the cuisine type that uses acorn starch jelly?",
+            "gold_answer": "Acorn starch jelly is used in Korean cuisine.",
+            "source": "acorn.json"
+        },
+        {
+            "query": "How can tannins in acorns be leached?",
+            "gold_answer": "Tannins in acorns can be leached using either a hot method (which is faster but cooks the starch) or a cold method (which involves either flushing the acorns in a toilet tank or grinding and soaking in cold water). This leaching process is used in traditional cuisines around the world, including Korean cuisine for acorn starch jelly.",
+            "source": "acorn.json"
+        },
+        {
+            "query": "What is the best way to store acorns to prevent rancidity?",
+            "gold_answer": "Freezing is the best way to store acorns, both before and after processing, as it keeps them fresh and prevents the oils from turning rancid. This storage method is used in various traditional cuisines, including Korean cuisine.",
+            "source": "acorn.json"
+        }
+    ]
+}

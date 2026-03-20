@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\aloo_tikki_(spiced_potato_patties).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Aloo Tikki (Spiced Potato Patties)?",
+            "Gold Answer": "The cuisine region for Aloo Tikki (Spiced Potato Patties) is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Aloo_Tikki_(Spiced_Potato_Patties)"
+        },
+        {
+            "Query": "What are the main ingredients needed to make Aloo Tikki (Spiced Potato Patties)?",
+            "Gold Answer": "The main ingredients for Aloo Tikki (Spiced Potato Patties) in South Asian cuisine are: 8 potatoes (peeled and halved), 2½ teaspoons of red chile powder, 1 teaspoon of coriander powder, 1 teaspoon of mango powder, vegetable oil, and salt to taste.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Aloo_Tikki_(Spiced_Potato_Patties)"
+        },
+        {
+            "Query": "What is the step-by-step procedure for preparing Aloo Tikki (Spiced Potato Patties) in South Asian cooking?",
+            "Gold Answer": "The step-by-step procedure for preparing Aloo Tikki (Spiced Potato Patties) in South Asian cuisine is: 1. Salt the potatoes. 2. Heat enough oil for deep frying. Add the potatoes and deep fry over low heat until tender, then cool. 3. Using the palm of your hand, flatten the potatoes on a board with a light hand. 4. Deep fry the potatoes again until golden. 5. Garnish each with a little chile powder, mango powder, and coriander.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Aloo_Tikki_(Spiced_Potato_Patties)"
+        }
+    ]
+}

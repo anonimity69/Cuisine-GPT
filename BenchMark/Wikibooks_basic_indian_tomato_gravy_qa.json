@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\basic_indian_tomato_gravy.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of the Basic Indian Tomato Gravy recipe?",
+            "Gold Answer": "The Basic Indian Tomato Gravy is a South Asian cuisine dish, originating from Indian cooking traditions where it serves as a foundational gravy for various dishes such as eggs, fish, chicken, or meat.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basic_Indian_Tomato_Gravy"
+        },
+        {
+            "Query": "What spices are essential in the Basic Indian Tomato Gravy recipe?",
+            "Gold Answer": "The essential spices in this South Asian cuisine recipe include chile powder, coriander powder, cumin powder, and turmeric powder, which are blended with ginger and garlic to create a flavorful base for the gravy.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basic_Indian_Tomato_Gravy"
+        },
+        {
+            "Query": "What is the primary cooking method described in the Basic Indian Tomato Gravy recipe?",
+            "Gold Answer": "The primary cooking method involves frying onions in hot ghee until they start to brown, then adding ginger, garlic, and spices before simmering with tomatoes for ten minutes to form a thick, spicy gravy — a technique characteristic of South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basic_Indian_Tomato_Gravy"
+        }
+    ]
+}

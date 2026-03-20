@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\brown_sugar.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine type is associated with the recipe \"Anzac Biscuits\"?",
+            "Gold Answer": "Australian cuisine",
+            "Source/Reference": "Reference 1: Understanding Baking: The Art and Science of Baking"
+        },
+        {
+            "Query": "What cuisine type is associated with the recipe \"Barbecue Sauce (Kansas City-style)\"?",
+            "Gold Answer": "American cuisine",
+            "Source/Reference": "Reference 1: Understanding Baking: The Art and Science of Baking"
+        },
+        {
+            "Query": "What cuisine type is associated with the recipe \"Zwiebelrostbraten with Red Wine Onion Gravy\"?",
+            "Gold Answer": "German cuisine",
+            "Source/Reference": "Reference 1: Understanding Baking: The Art and Science of Baking"
+        }
+    ]
+}

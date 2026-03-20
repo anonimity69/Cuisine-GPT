@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\basil.json",
+    "qna_pairs": [
+        {
+            "query": "In which cuisine is basil commonly used as a key herb?",
+            "answer": "Basil is a key herb in Italian cuisine.",
+            "source": "basil.json"
+        },
+        {
+            "query": "What cuisine type uses Thai basil?",
+            "answer": "Thai cuisine",
+            "source": "basil.json"
+        },
+        {
+            "query": "Which cuisine type is mentioned in the reference for Thai basil?",
+            "answer": "Thai cuisine",
+            "source": "basil.json"
+        }
+    ]
+}

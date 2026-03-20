@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_506.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the Cambodian national dish that is a fish curry traditionally steamed in banana leaves and uses catfish?",
+            "Gold Answer": "Amok trey is a Cambodian national dish that is a fish curry (specifically with catfish) traditionally steamed in banana leaves. It is part of the 'amok' family of dishes, which are a staple in Cambodia and also popular in Laos and Thailand.",
+            "Source/Reference": "post_506.json"
+        },
+        {
+            "Query": "Which cuisine uses sticky rice as a dietary staple that Lao people refer to themselves as 'the descendants of sticky rice'?",
+            "Gold Answer": "Laotian cuisine uses sticky rice (khao niao) as a dietary staple, which Lao people refer to themselves as 'the descendants of sticky rice.' This type of rice has been a staple in Laos for over 1000 years and is central to Laotian identity and culture.",
+            "Source/Reference": "post_506.json"
+        },
+        {
+            "Query": "What Cambodian breakfast dish is sold by roadside vendors and consists of grilled pork marinated in garlic, soy sauce, and coconut milk?",
+            "Gold Answer": "Bai sach chrouk is a Cambodian breakfast dish sold by roadside vendors that consists of thinly sliced pork marinated in garlic, soy sauce, sugar, lime, fish sauce, and coconut milk, then slow-grilled until golden and caramelized. It is typically served with pickled vegetables and is a popular early-morning meal in Cambodia.",
+            "Source/Reference": "post_506.json"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1150.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "What is the traditional Mongolian dumpling that is filled with meat (most commonly ground lamb) and is especially associated with Tsagaan Saar, the Mongolian Lunar New Year?",
+                "Gold Answer": "Buuz is a Mongolian dumpling filled with meat, most commonly ground lamb. The filling is flavoured with onion, salt, and possibly garlic, with subtle hints of fennel or seasonal herbs. The mixture is wrapped in wheat dough, sealed, and steamed until cooked. It is particularly traditional during Tsagaan Saar, the Mongolian Lunar New Year.",
+                "Source/Reference": "post_1150.json"
+            },
+            {
+                "Query": "What is the Mongolian dish that is a stir-fried meal of noodles with mixed vegetables and meat, and is described as a great equalizer in Mongolian society?",
+                "Gold Answer": "Tsuivan is a stir-fried meal of noodles with mixed vegetables and meat. It is often described as a great equalizer in Mongolian society.",
+                "Source/Reference": "post_1150.json"
+            },
+            {
+                "Query": "What is the traditional Mongolian cooking technique that involves heating hot stones and water with meat and vegetables, and is distinct from the Western concept of 'Mongolian barbecue'?",
+                "Gold Answer": "Khorkhog is the traditional Mongolian cooking technique that \u0648\u0623\u0643\u062f involves heating hot stones and water with meat and vegetables. It is distinct from the Western concept of 'Mongolian barbecue', which is a different preparation method.",
+                "Source/Reference": "post_1150.json"
+            }
+        ]
+    }
+}

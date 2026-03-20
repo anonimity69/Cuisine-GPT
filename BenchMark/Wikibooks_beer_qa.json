@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\beer.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Rwandan dish that uses beer?",
+            "Gold Answer": "Ibiwungu (Rwandan Banana Beer) is a traditional Rwandan dish that uses beer.",
+            "Source": "Cookbook:Ibiwungu (Rwandan Banana Beer)"
+        },
+        {
+            "Query": "In which cuisine is beer used to make Bonda?",
+            "Gold Answer": "In South Indian cuisine, beer is used to make Bonda (a South Indian Vegetable Fritter).",
+            "Source": "Cookbook:Bonda (South Indian Vegetable Fritter)"
+        },
+        {
+            "Query": "What is a beer-based dish that is used in Dutch cuisine?",
+            "Gold Answer": "In Dutch cuisine, beer is used to make Hachee (a Dutch beef stew).",
+            "Source": "Cookbook:Hachee (Dutch Beef Stew)"
+        }
+    ]
+}

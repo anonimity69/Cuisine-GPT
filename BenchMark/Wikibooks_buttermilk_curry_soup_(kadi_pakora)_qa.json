@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\buttermilk_curry_soup_(kadi_pakora).json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine region is Buttermilk Curry Soup (Kadi Pakora) from?",
+            "Gold Answer": "Buttermilk Curry Soup (Kadi Pakora) is a traditional soup originating from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Buttermilk_Curry_Soup_(Kadi_Pakora)"
+        },
+        {
+            "Query": "What is Buttermilk Curry Soup (Kadi Pakora) and what cuisine region does it belong to?",
+            "Gold Answer": "Buttermilk Curry Soup (Kadi Pakora) is a South Asian soup that is typically served as a curry.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Buttermilk_Curry_Soup_(Kadi_Pakora)"
+        },
+        {
+            "Query": "Where does Buttermilk Curry Soup (Kadi Pakora) originate from?",
+            "Gold Answer": "Buttermilk Curry Soup (Kadi Pakora) originates from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Buttermilk_Curry_Soup_(Kadi_Pakora)"
+        }
+    ]
+}

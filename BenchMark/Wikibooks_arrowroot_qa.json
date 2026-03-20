@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\arrowroot.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary culinary use of arrowroot?",
+            "Gold Answer": "Arrowroot is primarily used as a thickener and stabilizer in cooking, especially for acidic foods and to create smooth gels. It is commonly used in Southeast Asian and East Asian cuisines, such as in durian pancakes and oriental sweet and sour sauces.",
+            "Source/Reference": "arrowroot.json"
+        },
+        {
+            "Query": "Why is arrowroot suitable for use in acidic dishes?",
+            "Gold Answer": "Arrowroot is more stable in acidic mixtures than other thickeners like cornstarch or wheat flour. It thickens at a lower temperature and does not break down in acidic conditions, making it ideal for acidic dishes such as oriental sweet and sour sauces, which are common in Southeast Asian and East Asian cuisines.",
+            "Source/Reference": "arrowroot.json"
+        },
+        {
+            "Query": "How does arrowroot improve the texture of ice cream?",
+            "Gold Answer": "Arrowroot prevents the formation of ice crystals in ice cream, resulting in a smoother and creamier texture. This property is particularly valued in Southeast Asian and East Asian ice cream preparations where it helps maintain a consistent texture without altering the flavor.",
+            "Source/Reference": "arrowroot.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_472.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the nickname for gua bao and what does it translate to in English?",
+            "Gold Answer": "The nickname for gua bao is 'hó͘-kā-ti', which translates to 'tiger bites pig'. This name derives from the bun's shape resembling a tiger's mouth with a piece of pork inside. Gua bao is a traditional Taiwanese snack.",
+            "Source/Reference": "Gua bao"
+        },
+        {
+            "Query": "Which dish is considered a national dish in Taiwan with an annual festival where chefs compete for the title of best dish?",
+            "Gold Answer": "Niu rou mian (beef noodle soup) is considered a national dish in Taiwan and features an annual festival where chefs and restaurants compete for the title of best dish. This dish is distinguished by the addition of soy sauce, which is reputedly invented by Chinese veterans who fled to Taiwan during the Chinese civil war.",
+            "Source/Reference": "Niu rou mian"
+        },
+        {
+            "Query": "What is the origin of the oyster omelette in Taiwanese cuisine?",
+            "Gold Answer": "The oyster omelette is thought to have originated from the Teochew diaspora out of the eastern Guangdong province of China. It became popular in Taiwan as a night market treat, where it is cooked with whisked eggs and sweet potato starch to create a thick consistency, garnished with spring onions and topped with a spicy sauce.",
+            "Source/Reference": "Oyster omelette and fried chicken"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\baingan_bartha_(south_indian_eggplant_with_chili)_ii.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Baingan Bartha?",
+            "Gold Answer": "Baingan Bartha is a South Indian dish that belongs to the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Baingan_Bartha_(South_Indian_Eggplant_with_Chili)_II"
+        },
+        {
+            "Query": "What is the primary ingredient used in Baingan Bartha?",
+            "Gold Answer": "The primary ingredient in Baingan Bartha, a South Indian dish from South Asia, is eggplant (aubergine), which is peeled and steamed until tender.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Baingan_Bartha_(South_Indian_Eggplant_with_Chili)_II"
+        },
+        {
+            "Query": "What is the traditional method to enhance the flavor of Baingan Bartha?",
+            "Gold Answer": "To enhance the flavor of Baingan Bartha, a South Indian dish from South Asia, one can smoke it by lighting a small piece of charcoal and placing it over a piece of foil inside the dish. Then, pour about 1/4 teaspoon of oil and cover the dish immediately to allow the smoke to infuse.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Baingan_Bartha_(South_Indian_Eggplant_with_Chili)_II"
+        }
+    ]
+}

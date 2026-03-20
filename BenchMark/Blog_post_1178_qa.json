@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1178.json",
+    "qna_pairs": {
+        "benchmarks": [
+            {
+                "Query": "What are the two main theories about the origin of the name 'pho'?",
+                "Gold Answer": "In Vietnamese cuisine, there are two main theories about the origin of the name 'pho': some argue that it comes from the French phrase 'pot-au-feu' meaning 'pot on the fire', while others claim it originated from a Cantonese phrase meaning 'cow meat noodles'.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/24/78-vietnam/"
+            },
+            {
+                "Query": "How did the Banh mi sandwich originate in Vietnamese cuisine?",
+                "Gold Answer": "The Banh mi sandwich originated in Vietnamese cuisine as a result of French colonization in the 1800s. Initially, bread was an expensive and scarce commodity in Vietnam, reserved for the French colonists. However, after World War I, the closure of some large German import companies in Vietnam led to an influx of bread and other exclusive products like cold cuts and cheese becoming available to the local population. The sandwich was first sold by a couple named Mr. and Mrs. Le, who are credited as the first to sell the sandwiches, and their family still owns a restaurant in Vietnam today.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/24/78-vietnam/"
+            },
+            {
+                "Query": "Why is broken rice significant in Vietnamese cuisine?",
+                "Gold Answer": "Broken rice is significant in Vietnamese cuisine because it arose out of poverty and necessity; poor rice farmers would eat and sell the broken pieces of rice at a cheaper price rather than throw them away. It also saves money on fuel by taking less time to cook and forms a softer consistency that better absorbs the flavors of accompanying foods, such as the sweet and savory juices from lemongrass pork chops.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/24/78-vietnam/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\black_cardamom.json",
+    "qna_pairs": [
+        {
+            "query": "In which cuisines is black cardamom typically used?",
+            "answer": "Black cardamom is commonly used in Vietnamese soups, South Asian spice mixes, Chinese meat dishes, and Afghani pilafs.",
+            "source": "1"
+        },
+        {
+            "query": "What is the primary flavor characteristic of black cardamom and in which cuisines is it typically applied?",
+            "answer": "Black cardamom has a smoky flavor profile dominated by cineole, with other distinct flavor compounds, and is typically used in savory dishes across cuisines including Vietnamese, South Asian, Chinese, and Afghani.",
+            "source": "1"
+        },
+        {
+            "query": "How should black cardamom be prepared before cooking to maximize its flavor profile?",
+            "answer": "Black cardamom should be gently crushed right before use to release its smoky flavors, as the primary smoky characteristics are found in the pod rather than the seeds, and this technique is employed in various cuisines such as Vietnamese, South Asian, Chinese, and Afghani.",
+            "source": "1"
+        }
+    ]
+}

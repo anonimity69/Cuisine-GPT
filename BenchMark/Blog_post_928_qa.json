@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_928.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the historical origin of haleem in Pakistani cuisine?",
+            "Gold Answer": "The origins of haleem can be traced back to a cookbook scribed in the 10th century, which listed recipes popular among the lords and leaders of Baghdad, and is thought to be the oldest surviving Arabic cook book. The version of haleem (then called harees/jareesh) from this cookbook is very similar to those cooked in Pakistan today, after being introduced some six centuries later and slightly modified to suit the local palates and ingredients. This dish is a key part of Pakistani cuisine.",
+            "Source/Reference": "post_928.json"
+        },
+        {
+            "Query": "How does regional variation in Pakistani cuisine influence food preferences?",
+            "Gold Answer": "There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis, with the eastern part of the country favoring strongly seasoned and spicy food similar to their Indian neighbors, whereas the western part favors milder recipes that resemble their Central Asian neighbors. This regional variation is a defining characteristic of Pakistani cuisine.",
+            "Source/Reference": "post_928.json"
+        },
+        {
+            "Query": "Why is nihari considered a national dish in Pakistani culture?",
+            "Gold Answer": "Nihari is often touted as the national dish of Pakistan, typically made with shank meat from beef, lamb, mutton, or goat. It became particularly popular in Pakistan after independence and the subsequent mass migration of Muslims from northern India. The dish is also a popular breakfast/brunch option, with the name 'nihari' meaning 'dawn,' and some restaurants incorporate leftovers from the previous day (called taar) to create a sourdough-like starter effect. This dish is a key part of Pakistani cuisine.",
+            "Source/Reference": "post_928.json"
+        }
+    ]
+}

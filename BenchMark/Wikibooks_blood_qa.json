@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\blood.json",
+    "qna_pairs": [
+        {
+            "Query": "In which cuisine is blood traditionally used in dishes like pork blood stew?",
+            "Gold Answer": "Filipino cuisine, as the dish Dinuguan (pork blood stew) is a well-known traditional food in the Philippines.",
+            "Source/Reference": "Cookbook:Dinuguan (Pork Blood Stew)"
+        },
+        {
+            "Query": "Which cuisine incorporates blood into traditional bread and pancake recipes?",
+            "Gold Answer": "Scandinavian cuisine, where blood is a traditional ingredient in certain breads and pancakes.",
+            "Source/Reference": "Use section"
+        },
+        {
+            "Query": "How does the flavor of chicken blood differ from beef blood, and in which cuisine is this distinction particularly relevant?",
+            "Gold Answer": "Chicken blood is mild in flavor, while beef blood has a more 'gamey' quality. This distinctionἶ is particularly relevant in Filipino cuisine, where chicken blood is sometimes used in dishes like soups, and in European cuisines, where beef blood is commonly used in traditional stews.",
+            "Source/Reference": "Use section"
+        }
+    ]
+}

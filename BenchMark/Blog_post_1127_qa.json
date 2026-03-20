@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1127.json",
+    "qna_pairs": {
+        "benchmarks": [
+            {
+                "Query": "What is the national dish of Colombia according to the blog post?",
+                "Gold Answer": "According to the blog post, bandeja paisa is often considered the national dish of Colombia, though there has been debate and a push by the Colombian government to rename it 'bandeja monta\u00f1era' to make it less region-specific (as it originates from the Paisa region in northwest Colombia). Despite this pushback, bandeja paisa remains widely recognized as the national dish.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/16/73-colombia/"
+            },
+            {
+                "Query": "What are the key influences on Colombian cuisine?",
+                "Gold Answer": "Colombian cuisine is influenced by indigenous peoples, Spanish, African, and Arabic culinary traditions, as well as the country's diverse geography including the Atlantic and Pacific Oceans, the Caribbean Sea, the Amazon rainforest, the Andes mountain range, and expansive grassy plains.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/16/73-colombia/"
+            },
+            {
+                "Query": "Describe the dish 'Bandeja Paisa' and its significance in Colombian culture.",
+                "Gold Answer": "Bandeja paisa is a traditional Colombian dish originating from the Paisa region in northwest Colombia. It is a platter containing cooked beans (kidney or pinto), carne molida (spiced ground beef), chorizo and/or morcilla (blood sausage), chicharr\u00f3n (fried pork belly), fried plantain banana, hogao (spiced tomato and spring onion sauce), white rice, avocado, arepa (fried cornmeal flat bread), and a fried egg. It holds national significance in Colombia as a symbol of cultural identity, representing indigenous, Spanish, and African culinary influences, and is often considered the national dish despite regional origins.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/16/73-colombia/"
+            }
+        ]
+    }
+}

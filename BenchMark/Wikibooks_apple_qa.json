@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\apple.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical season for apples in the northern hemisphere?",
+            "Gold Answer": "In the northern hemisphere, the apple season starts in July with early cultivars (harvested until August) and extends to October for later cultivars. This seasonality is critical for Western desserts, as apples are a key ingredient in fall and winter dishes across North American and European culinary traditions.",
+            "Source/Reference": "apple.json"
+        },
+        {
+            "Query": "Which apple cultivar is most commonly associated with commercial production in the United States?",
+            "Gold Answer": "Golden Delicious is the most commonly associated apple cultivar with commercial production in the United States. It is widely utilized in Western cuisine for its sweet flavor profile and versatility in fresh consumption, pies, sauces, and baked goods, making it a staple in American agricultural and culinary practices.",
+            "Source/Reference": "apple.json"
+        },
+        {
+            "Query": "What are some traditional desserts that use apples in Western cuisine?",
+            "Gold Answer": "Traditional Western desserts that use apples include apple pie (a classic American dessert), apple crumble (popular in British and Irish cuisines), and apple cake (common in European baking traditions). These dishes are particularly associated with fall and winter seasons in Western culinary practices, where apples provide essential flavor and texture.",
+            "Source/Reference": "apple.json"
+        }
+    ]
+}

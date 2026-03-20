@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\buffaloberry.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular preparation of buffaloberries that uses their saponin content to create foam?",
+            "Gold Answer": "Indian ice cream (a North American cuisine preparation that utilizes saponin to generate foam)",
+            "Source/Reference": "aihd.ku.edu"
+        },
+        {
+            "Query": "What is the typical flavor profile of buffaloberries?",
+            "Gold Answer": "Bitter and sour, commonly used in North American cuisine for preserves and syrups",
+            "Source/Reference": "aihd.ku.edu"
+        },
+        {
+            "Query": "During which season can buffaloberries be harvested?",
+            "Gold Answer": "Summer to winter (when the berries remain on the bushes, typical in North American cuisine)",
+            "Source/Reference": "www.hort.cornell.edu"
+        }
+    ]
+}

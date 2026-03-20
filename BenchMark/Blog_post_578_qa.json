@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_578.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin story of the term \"Full Monty\" in British breakfast culture?",
+            "Gold Answer": "The term \"Full Monty\" for the full breakfast originated from an urban legend linking it to British Army Field Marshal Bernard Montgomery, who was nicknamed \"Monty\" and reportedly declared his daily affection for the dish while campaigning in North Africa during World War II. This phrase began to be used in Britain after World War II, though Wikipedia lists other possible origins. The cuisine type here is British breakfast.",
+            "Source/Reference": "post_578.json"
+        },
+        {
+            "Query": "What historical context influenced the development of beef Wellington as a British dish?",
+            "Gold Answer": "Beef Wellington emerged in the early 20th century as a \"patriotic rebranding of French culinary ideas and cooking techniques,\" reflecting Britain's longstanding appreciation for pasty-encoated proteins. The dish was first documented in recipes during this period, with no clear historical connection to the Duke of Wellington, and its popularity is tied to the cultural fusion of French gastronomy with British culinary traditions. The cuisine type here is British cuisine.",
+            "Source/Reference": "post_578.json"
+        },
+        {
+            "Query": "Which Harry Potter book describes a character eating chicken and ham pie with boiled potatoes and salad?",
+            "Gold Answer": "The text specifies that the author's interest in chicken and ham pie was sparked on July 8, 2000, the release date of *Harry Potter and the Goblet of Fire* (the fourth book in the series), where the character consumes this meal. This dish is part of British cuisine, as it reflects traditional British breakfast elements adapted within the context of the book.",
+            "Source/Reference": "post_578.json"
+        }
+    ]
+}

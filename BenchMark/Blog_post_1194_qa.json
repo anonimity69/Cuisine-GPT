@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1194.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "Why does the author describe Australian cuisine as having a 'dearth of original culinary tradition'?",
+                "Gold Answer": "The author describes Australian cuisine as having a 'dearth of original culinary tradition' because Australia was settled by British colonists in 1788, leading to the systematic slaughter of Indigenous Australians and the complete extinction of Tasmanian Aborigines. The Indigenous cultural traditions were not integrated into modern colonial customs, and the British settlement began with convicts, resulting in a lack of time and original expertise to develop a distinct indigenous cuisine. This has made Australia a 'thief-extraordinaire' in the culinary world, with modern Australian food being a mix of international cuisines rather than a unique tradition. The cuisine type is Australian.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/31/79-australia-part-1/"
+            },
+            {
+                "Query": "What is the Mango, prawn and avo salad and why is it considered a classic Australian dish?",
+                "Gold Answer": "The Mango, prawn and avo salad is a classic Australian summer dish that features tropical fruits like mango, prawn, and avocado, prepared with a South-East Asian-inspired dressing made from fresh ripe mangoes, oil, lemon juice, sweet chilli sauce, and dill. It is considered a classic Australian dish because it typifies the food that the author's mother loves to cook and is a staple during hot Australian summers and Christmas dinners, reflecting the adapted culinary practices of modern Australia. The cuisine type is Australian.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/31/79-australia-part-1/"
+            },
+            {
+                "Query": "How is Vegemite traditionally consumed in Australia and what is its cultural significance?",
+                "Gold Answer": "Vegemite is traditionally consumed in Australia by spreading it very thinly on a piece of toast with a ratio of butter-to-Vegemite of at least 2:1. Culturally, it is a divisive yet iconic Australian spread that has been a staple comfort food for decades, especially when sick, and is part of the national identity through stories passed down through generations. The cuisine type is Australian.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/31/79-australia-part-1/"
+            }
+        ]
+    }
+}

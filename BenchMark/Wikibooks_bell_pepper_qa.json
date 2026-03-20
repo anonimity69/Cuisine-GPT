@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bell_pepper.json",
+    "qna_pairs": [
+        {
+            "query": "What is the cuisine type for the dish 'Yetakelt Wot'?",
+            "gold_answer": "Ethiopian cuisine",
+            "source": "Cookbook:Yetakelt Wot (Ethiopian Spiced Vegetable Stew)"
+        },
+        {
+            "query": "What is the cuisine type for the dish 'Shakshuka bil Lahm'?",
+            "gold_answer": "Libyan cuisine",
+            "source": "Cookbook:Shakshuka bil Lahm (Libyan Meat Shakshuka)"
+        },
+        {
+            "query": "What is the cuisine type for the dish 'Entula'?",
+            "gold_answer": "Ugandan cuisine",
+            "source": "Cookbook:Entula (Ugandan Eggplant Stew)"
+        }
+    ]
+}

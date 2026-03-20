@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\butter_tea.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine region is Butter Tea associated with?",
+            "Gold Answer": "Butter Tea is a traditional beverage originating from South Asia, typically prepared using Nepalese or Indian black tea leaves, whole milk, and unsalted butter.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Butter_Tea"
+        },
+        {
+            "Query": "What are the key ingredients required for Butter Tea?",
+            "Gold Answer": "The key ingredients for Butter Tea, a South Asian recipe, include 1 tablespoon of regular black tea leaves (preferably Nepalese or Indian), 3 cups of whole milk (or 1.5 cups half-and-half plus 1.5 cups water), 2 tablespoons of unsalted butter, and salt to taste.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Butter_Tea"
+        },
+        {
+            "Query": "How long should the tea and milk mixture be boiled for Butter Tea?",
+            "Gold Answer": "The tea and milk mixture should be boiled for 2 to 10 minutes, depending on the desired strength of the tea, as part of traditional South Asian Butter Tea preparation.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Butter_Tea"
+        }
+    ]
+}

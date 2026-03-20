@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_820.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of duck à l'orange and which country is it most associated with?",
+            "Gold Answer": "Duck à l'orange is undoubtedly synonymous with France nowadays, though some (mostly Italians) claim it originated in Naples. This dish is a classic example of French cuisine.",
+            "Source/Reference": "post_820.json"
+        },
+        {
+            "Query": "Where does boeuf bourguignon originate from?",
+            "Gold Answer": "Boeuf bourguignon hails from the Burgundy region of France, which is renowned for its production of red wines and is a key part of French cuisine.",
+            "Source/Reference": "post_820.json"
+        },
+        {
+            "Query": "What is the traditional origin of quiche Lorraine?",
+            "Gold Answer": "Quiche Lorraine originated from the medieval kingdom of Lothrigen (later renamed Lorraine), which is in what is now France, and the dish has been a part of French cuisine for centuries.",
+            "Source/Reference": "post_820.json"
+        }
+    ]
+}

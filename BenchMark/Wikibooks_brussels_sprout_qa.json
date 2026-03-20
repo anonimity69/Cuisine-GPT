@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\brussels_sprout.json",
+    "qna_pairs": [
+        {
+            "question": "What is the origin of the name 'Brussels sprouts'?",
+            "answer": "Brussels sprouts are named after Brussels, Belgium, as they were believed to have been first cultivated in the region. They belong to the vegetable category, specifically brassicas.",
+            "source": "https://www.thekitchn.com/brussels-sprouts-ingredient-intelligence-213752"
+        },
+        {
+            "question": "What is the typical season for Brussels sprouts in the Northern Hemisphere?",
+            "answer": "Brussels sprouts are typically available from October onwards in the Northern Hemisphere, with their prime season starting in November. They are considered a winter vegetable, and frost is often beneficial for improving flavor.",
+            "source": "https://www.thekitchn.com/brussels-sprouts-ingredient-intelligence-213752"
+        },
+        {
+            "question": "How should Brussels sprouts be prepared to avoid overcooking?",
+            "answer": "To avoid overcooking, Brussels sprouts should be roasted or fried with oil and seasonings to caramelize and develop a nutty flavor without becoming soggy. If boiling, monitor closely for 4–10 minutes to ensure they remain bright green and tender.",
+            "source": "brussels_sprout.json"
+        }
+    ]
+}

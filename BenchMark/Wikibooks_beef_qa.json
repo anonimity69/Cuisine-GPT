@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\beef.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Kobe beef and how is it produced?",
+            "Gold Answer": "Kobe beef is a special kind of beef produced in Japan from Wagyu breed cattle. It is hand-raised, fed on a diet of beer and quality grain, and given regular massages. This produces super-tender beef with lots of marbled fat. Kobe beef sells at a premium price due to the higher costs of feed and production.",
+            "Source/Reference": "beef.json"
+        },
+        {
+            "Query": "How do beef cuts differ between American and British systems?",
+            "Gold Answer": "In the United States, beef is divided into primal cuts such as brisket, chuck, flank, loin, plate, rib, round, and shank. In contrast, the British system (and continental Europe) typically has cuts derived from single muscle groups, resulting in more consistent flavor and texture across the cut, whereas in the UK and North America, some cuts may consist of multiple muscle groups.",
+            "Source/Reference": "beef.json"
+        },
+        {
+            "Query": "What is a South African dish that features beef?",
+            "Gold Answer": "Boerewors is a South African sausage that contains beef.",
+            "Source/Reference": "beef.json"
+        }
+    ]
+}

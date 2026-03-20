@@ -1,0 +1,8 @@
+{
+    "source": "Data\\Blog\\post_1158.json",
+    "qna_pairs": {
+        "Query": "What is the cuisine type for the dish \"pepperpot\"?",
+        "Gold Answer": "Pepperpot is a traditional dish from Guyana, which is part of the Guyana-Suriname-French Guiana fusion cuisine that blends Indian, African, Caribbean, and European culinary traditions. This cuisine type results from the region's colonial history and cultural diversity.",
+        "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/12/23/76-guyana-suriname-and-french-guiana/"
+    }
+}

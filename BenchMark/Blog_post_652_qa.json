@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_652.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary staple carbohydrate in southern Chinese cuisine?",
+            "Gold Answer": "Southern Chinese cuisine relies predominantly on rice as the staple carbohydrate, including dishes such as steamed white rice and congee. This is due to the warm and rainy climate of southern China, which is ideal for rice cultivation.",
+            "Source/Reference": "post_652.json"
+        },
+        {
+            "Query": "What is a distinctive flavor characteristic of Sichuan cuisine?",
+            "Gold Answer": "Sichuan cuisine is distinguished by the use of Sichuan pepper, which produces a tingling, numbing sensation followed by extreme heat, and is known for its strong, spicy flavors. This characteristic is particularly associated with Sichuan province in south-western China.",
+            "Source/Reference": "post_652.json"
+        },
+        {
+            "Query": "Why is steamed whole fish a traditional dish during Chinese New Year in China?",
+            "Gold Answer": "Steamed whole fish is a traditional dish during Chinese New Year because the Chinese word for fish (yu) sounds similar to 'abundance' (yu), which is believed to portend good luck and prosperity for the coming year. This dish is popular across Chinese cuisine, especially in the context of New Year celebrations.",
+            "Source/Reference": "post_652.json"
+        }
+    ]
+}

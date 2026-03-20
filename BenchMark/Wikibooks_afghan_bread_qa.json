@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\afghan_bread.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region for Afghan bread?",
+            "Gold Answer": "Afghan bread is a traditional dish from the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Afghan_Bread"
+        },
+        {
+            "Query": "How long should the dough rise for in the Afghan bread recipe?",
+            "Gold Answer": "The dough needs to rise for 1.5 hours as part of the South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Afghan_Bread"
+        },
+        {
+            "Query": "What is the primary ingredient by weight in the dough of Afghan bread?",
+            "Gold Answer": "All-purpose flour, which makes up 100% of the dough by weight, is the primary ingredient in the South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Afghan_Bread"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bacon.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between American or streaky bacon and Italian bacon (pancetta)?",
+            "Gold Answer": "American or streaky bacon is made by curing the pork belly/side with sugar, salt, pepper, and other spices for at least three days, then cold smoking it, and has long 'streaks' of fat. Italian bacon (pancetta) is made by removing the skin and seasoning the meat with salt, pepper, juniper berries, muscot nuts, cloves, and cinnamon, then cured for two weeks and rolled up and packed into a skin like salami.",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "What type of bacon is Canadian bacon and how is it characterized?",
+            "Gold Answer": "Canadian bacon is a type of bacon made from the back/loin of a hog, which is much leaner than pork belly bacon and has a texture similar to ham. It is part of Canadian cuisine.",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "How should bacon be cooked to avoid burning and achieve the best flavor?",
+            "Gold Answer": "Bacon, especially fatty varieties, should be cooked slowly over low heat in an oven or skillet to allow rendering and crisping. Avoid high heat, as it can singe the bacon and convert curing agents into unpleasant byproducts. This cooking method is common in American and British breakfast cuisines.",
+            "Source/Reference": "2"
+        }
+    ]
+}

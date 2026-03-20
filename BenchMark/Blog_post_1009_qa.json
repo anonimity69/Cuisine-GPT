@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1009.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "What is the origin of the term 'jerk' in Jamaican cuisine?",
+                "Gold Answer": "The term 'jerk' could in part arise from the word 'charqui', which is a Spanish interpretation of a Quechua word for dried meat (also leading to the English term 'jerky'). Alternatively, 'jerk' may refer to the action of poking holes into meat to enhance its marination. This term is used in Caribbean cuisine, specifically in Jamaican cooking.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/07/31/61-paraguay-and-uruguay/"
+            },
+            {
+                "Query": "Which Caribbean dish is made with ackee and saltfish, and what are the key ingredients?",
+                "Gold Answer": "Ackee and saltfish is a Jamaican dish made by stir-frying ackee (a yellow squishy tropical fruit) and saltfish (salted cod) with scotch bonnet peppers, thyme, onion, garlic, tomatoes, and bell peppers. This dish is part of Caribbean cuisine, specifically from Jamaica.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/07/31/61-paraguay-and-uruguay/"
+            },
+            {
+                "Query": "What is the role of scotch bonnet peppers in traditional Caribbean cooking?",
+                "Gold Answer": "Scotch bonnet peppers are used widely in Caribbean cuisine to add an aromatic heat to almost every meal. They are a fundamental ingredient in many dishes across the region, including Jamaican jerk chicken and ackee and saltfish.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/07/31/61-paraguay-and-uruguay/"
+            }
+        ]
+    }
+}

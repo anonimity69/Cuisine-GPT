@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_897.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of the term 'sisig' and how has it evolved in Filipino cuisine?",
+            "Gold Answer": "The word 'sisig' originally meant 'to snack on something sour' and 'salad'. In modern Filipino cuisine, it has evolved to refer to a meat dish made from finely chopped pig meats (such as head and liver), seasoned with calamansi, chilies, and onions, and served as a pulutan (finger food). The dish gained significant popularity and was revitalized in the 1970s by Lucia Cunanan, who introduced a hot-plate method to achieve a crispy texture.",
+            "Source/Reference": "post_897.json"
+        },
+        {
+            "Query": "Why did the author choose to make lechón liempo instead of the national dish of the Philippines?",
+            "Gold Answer": "The author chose to make lechón liempo (roasted pork belly) instead of the national dish lechón because lechón requires a whole pig, a spit-roasting process, and a large gathering of people to eat it, which was impractical for the author due to the constraints of having a rented property and limited resources.",
+            "Source/Reference": "post_897.json"
+        },
+        {
+            "Query": "What is the concept of 'counterpoint' in Filipino cooking and how does it contribute to flavor balance?",
+            "Gold Answer": "In Filipino cuisine, 'counterpoint' refers to the presentation of meals with contrasting flavors, such as sweet with salty. This concept is part of the broader ethos that emphasizes the balance of sweet (tamis), sour (asim), and salty (alat) flavors. For example, calamansi (a citrus fruit) is commonly used to add a sweet-sour note and help achieve this balance in dishes.",
+            "Source/Reference": "post_897.json"
+        }
+    ]
+}

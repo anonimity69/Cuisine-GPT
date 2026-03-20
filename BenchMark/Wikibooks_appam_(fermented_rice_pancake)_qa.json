@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\appam_(fermented_rice_pancake).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region associated with the Appam recipe?",
+            "Gold Answer": "Appam is a traditional fermented rice pancake originating from South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Appam_(Fermented_Rice_Pancake)"
+        },
+        {
+            "Query": "What optional ingredient can be used to start the fermentation process in the Appam recipe?",
+            "Gold Answer": "Yeast or kefir (South Asian cuisine) is an optional ingredient used to initiate fermentation in the Appam recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Appam_(Fermented_Rice_Pancake)"
+        },
+        {
+            "Query": "How long should the Appam batter be left to rise before adding salt and refrigerating?",
+            "Gold Answer": "The batter should be left to rise overnight in a wide open container before adding salt and refrigerating (South Asian cuisine).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Appam_(Fermented_Rice_Pancake)"
+        }
+    ]
+}

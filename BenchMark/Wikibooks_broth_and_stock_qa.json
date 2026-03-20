@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\broth_and_stock.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between stock and broth?",
+            "Gold Answer": "In Western cuisine, stock is a full-bodied liquid made by simmering bones and vegetables in liquid for a long time, with a focus on high gelatin content. Broth, in contrast, is typically characterized by shorter cooking times and stronger flavors, using meat rather than bones for flavor, and is closer to the final product.",
+            "Source/Reference": "broth_and_stock.json"
+        },
+        {
+            "Query": "What is a mirepoix and what vegetables are typically used in it?",
+            "Gold Answer": "In Western cuisine, a mirepoix is a classic combination of celery, carrots, and onions, typically used in the preparation of stocks and broths, with a basic ratio of 2 parts onion to 1 part carrot to 1 part celery by weight.",
+            "Source/Reference": "broth_and_stock.json"
+        },
+        {
+            "Query": "How do brown stocks differ from white stocks in Western cuisine?",
+            "Gold Answer": "In Western cuisine, brown stocks are made by roasting the components before simmering to develop a complex savory flavor and brown color through Maillard browning, and may sometimes incorporate tomato. White stocks, in contrast, incorporate no browned ingredients and are much paler and milder as a result.",
+            "Source/Reference": "broth_and_stock.json"
+        }
+    ]
+}

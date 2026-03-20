@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\arisa_pitha_(fried_indian_sweet_rice_pastry).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Arisa Pitha?",
+            "Gold Answer": "Arisa Pitha is a traditional South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Arisa_Pitha_(Fried_Indian_Sweet_Rice_Pastry)"
+        },
+        {
+            "Query": "How is the filling for Arisa Pitha prepared?",
+            "Gold Answer": "The filling for Arisa Pitha, a South Asian dish, is prepared by melting ghee in a pan over medium heat, adding coconut and sugar, and cooking until the coconut turns golden brown.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Arisa_Pitha_(Fried_Indian_Sweet_Rice_Pastry)"
+        },
+        {
+            "Query": "What is the texture of the dough used in Arisa Pitha?",
+            "Gold Answer": "The dough for Arisa Pitha has a texture similar to chapati dough, which is a South Asian bread.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Arisa_Pitha_(Fried_Indian_Sweet_Rice_Pastry)"
+        }
+    ]
+}

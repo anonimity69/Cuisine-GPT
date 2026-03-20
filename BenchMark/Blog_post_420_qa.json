@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_420.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of the name 'Lamprais' and what are the key components of this dish?",
+            "Gold Answer": "The name 'Lamprais' originates from the Dutch word 'lomprijst', meaning 'food/rice packet'. It is a Sri Lankan dish that was influenced by the Dutch occupation during the 17th and 18th centuries. The key components include a curry made with lamb, beef, and pork, blachan (a spicy paste of chillies and dried shrimps), frikkadels (Dutch-style breaded meatballs), seeni sambol (a spicy coconut-based paste), deep-fried banana leaves, brinjal moju (a mix of fried eggplant, red onion, mustard seeds, and green chilies), and short-grained rice cooked in a style reminiscent of Italian risotto with ghee. The dish is wrapped in a banana leaf and baked to meld the flavors.",
+            "Source/Reference": "post_420.json"
+        },
+        {
+            "Query": "What is the traditional Maldivian breakfast dish 'Mas huni' and what are its variations?",
+            "Gold Answer": "Mas huni is a traditional Maldivian breakfast dish that consists of smoked tuna, chilli, onions, shredded fresh coconut, and lime juice. It is typically served with roshi, an unleavened flatbread. Variations include 'copyfathu mas huni' which adds leafy green vegetables (such as kale) and 'baraboa mas huni' which uses mashed pumpkin. The dish is celebrated for its balanced flavors: the sweetness of the coconut and onion, acidity of the limes, heat of the chilli, and umami of the smoked tuna.",
+            "Source/Reference": "post_420.json"
+        },
+        {
+            "Query": "What challenges did the author face while attempting to make 'Egg hopper' and what is this dish?",
+            "Gold Answer": "The author faced multiple challenges while attempting to make 'Egg hopper', a Sri Lankan dish of fermented rice flour pancakes. These challenges included: searching for a hopper pan (which was unavailable in regular shops and online), a pantry moth infestation in the rice flour, the closure of the only Sri Lankan restaurant that could make it due to a fire, and a chef who couldn't make it due to a sticky batter. Despite these obstacles, the author made the batter and attempted to fry it in various vessels. The egg hopper is a type of fermented rice flour pancake that is part of a larger family of dishes called 'appam' in Sri Lanka and Southern India.",
+            "Source/Reference": "post_420.json"
+        }
+    ]
+}

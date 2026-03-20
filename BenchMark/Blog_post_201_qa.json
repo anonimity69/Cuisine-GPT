@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_201.json",
+    "qna_pairs": [
+        {
+            "Query": "In the context of Indonesian cuisine, what is the significance of the top of the tumpeng being removed first during a traditional tumpeng ceremony?",
+            "Gold Answer": "In Indonesian cuisine, the top of the tumpeng is removed first and served to the most important and/or celebrated guest during a traditional tumpeng ceremony (a tumpengan). This practice symbolizes respect and hierarchy, as the most honored guest is given the highest part of the dish first, reflecting the cultural importance of social structure and guest relations.",
+            "Source/Reference": "post_201.json"
+        },
+        {
+            "Query": "What is the traditional ingredient used to sweeten the scrambled-egg omelette in nasi goreng?",
+            "Gold Answer": "In Indonesian cuisine, kecap manis, a sweet soy sauce, is traditionally used to sweeten the scrambled-egg omelette in nasi goreng, which is a common breakfast dish in Indonesia.",
+            "Source/Reference": "post_201.json"
+        },
+        {
+            "Query": "What are the typical vegetables used in gado gado?",
+            "Gold Answer": "In Indonesian cuisine, gado gado traditionally includes a wide variety of raw, steamed, or blanched vegetables such as potato, carrot, cabbage, green beans, tomato, cucumber, sugar snaps, radishes, and beansprouts.",
+            "Source/Reference": "post_201.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_351.json",
+    "qna_pairs": [
+        {
+            "Query": "What does the term \"Polvo a lagareiro\" refer to in Portuguese cuisine?",
+            "Gold Answer": "Polvo a lagareiro is a traditional Portuguese dish that translates to 'octopus with olive oil mill' but is actually a preparation of octopus cooked with potatoes, olive oil, and garlic. The dish involves boiling a whole octopus with an onion (without salt) for an extended period and then baking it with baby potatoes, chopped coriander, garlic, and abundant olive oil. It is a dish that exemplifies the Mediterranean and Portuguese culinary traditions, particularly the use of fresh seafood and olive oil.",
+            "Source/Reference": "post_351.json"
+        },
+        {
+            "Query": "Why is bacalhau considered a national ingredient in Portuguese cuisine?",
+            "Gold Answer": "Bacalhau, or salted cod, is considered a national ingredient in Portuguese cuisine because it has been a staple for centuries, dating back to around 500 years ago. It was historically important to Portuguese explorers and colonists due to its ability to be preserved without refrigeration, and it has become deeply integrated into Portuguese culture, earning the nickname \"fiel amigo\" (loyal friend). There are hundreds of Portuguese dishes that feature bacalhau, including Bacalhau à brás, which is a classic dish made with salted cod, caramelized onions, beaten eggs, and fried potatoes.",
+            "Source/Reference": "post_351.json"
+        },
+        {
+            "Query": "What is the origin of the piri piri marinade used in Portuguese chicken (frango Português) and how is it prepared?",
+            "Gold Answer": "The piri piri marinade used in Portuguese chicken (frango Português) originates from southern Africa, where it is a chili pepper sauce made from a variety of chili peppers (known as piri piri) and ingredients such as onion, lemon, paprika, basil, and oregano. This marinade is applied to large pieces of chicken that are then cooked over hot coals. It is a key element of Portuguese cuisine that has been adapted from African culinary traditions, particularly through the historical interactions of the Portuguese Empire with Africa.",
+            "Source/Reference": "post_351.json"
+        }
+    ]
+}

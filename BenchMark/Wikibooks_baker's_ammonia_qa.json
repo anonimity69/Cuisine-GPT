@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\baker's_ammonia.json",
+    "qna_pairs": [
+        {
+            "Query": "What is baker's ammonia and what are its alternative names?",
+            "Gold Answer": "Baker's ammonia is a leavening agent with the chemical name ammonium (bi)carbonate, also known as horn salt, hartshorn, or vol. It is primarily used in baking and pastry preparation.",
+            "Source/Reference": "www.americastestkitchen.com"
+        },
+        {
+            "Query": "What are the key characteristics of baker's ammonia that affect its use in baked goods?",
+            "Gold Answer": "Baker's ammonia is an alkaline white powder with a strong ammonia odor that decomposes above 40°C, producing water, ammonia, and carbon dioxide. This process leaves no salt residues but can cause off-flavors if insufficient water is driven off during baking. It is bench-tolerant and ideal for low-moisture products.",
+            "Source/Reference": "www.americastestkitchen.com"
+        },
+        {
+            "Query": "In which types of baked goods is baker's ammonia typically used, and why?",
+            "Gold Answer": "Baker's ammonia is typically used in low-moisture baked goods such as crackers, crisp cookies, and choux pastries because it produces a fine, light, and tender crumb without salt residues. It is unsuitable for moist products like quickbreads due to potential bitter taste from residual ammonia.",
+            "Source/Reference": "www.americastestkitchen.com"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\baking_soda.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type associated with the traditional dish 'Anzac Biscuits' that uses baking soda as a leavening agent?",
+            "Gold Answer": "Anzac Biscuits are a traditional Australian biscuit that uses baking soda as a leavening agent. This dish is part of Australian cuisine.",
+            "Source/Reference": "baking_soda.json"
+        },
+        {
+            "Query": "Which cuisine uses baking soda in the preparation of 'Boxty'?",
+            "Gold Answer": "Boxty is a traditional Irish potato cake that uses baking soda as a leavening agent. This dish is part of Irish cuisine.",
+            "Source/Reference": "baking_soda.json"
+        },
+        {
+            "Query": "What cuisine is associated with the dish 'Welsh Fruit Bread (Bara Brith)' that uses baking soda?",
+            "Gold Answer": "Welsh Fruit Bread (Bara Brith) is a traditional Welsh dessert that uses baking soda as a leavening agent. This dish is part of Welsh cuisine.",
+            "Source/Reference": "baking_soda.json"
+        }
+    ]
+}

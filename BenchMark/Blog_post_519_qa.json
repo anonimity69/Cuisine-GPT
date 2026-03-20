@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_519.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Seswaa and where is it traditionally from?",
+            "Gold Answer": "Seswaa is a traditional Southern African dish from Botswana made from tough cuts of beef and goat still on the bone, boiled with salt until tender, then pounded to tenderize. It is traditionally cooked in a three-legged cast iron potjie over an open fire and is commonly served at community events such as weddings and funerals.",
+            "Source/Reference": "post_519.json"
+        },
+        {
+            "Query": "Which country's soup includes tangerines as a key ingredient?",
+            "Gold Answer": "Butha-buthe is a traditional Southern African soup from Lesotho that includes fresh tangerines (either their juice, zest, or whole fruit) to add a sweet tangy flavor, along with yellow split peas, spinach, onions, turmeric, coriander, parsley, and rice flour.",
+            "Source/Reference": "post_519.json"
+        },
+        {
+            "Query": "What is the historical significance of Bobotie in South African cuisine?",
+            "Gold Answer": "Bobotie has ancient roots, with a variant purportedly appearing in the 4th century AD Roman cook book 'Apicius'. The name 'bobotie' was first referenced in a Dutch cook book from the 1600s and may originate from either the Malayan word 'boemboe' (referring to curry spices) or the Indonesian word 'bobotok'.",
+            "Source/Reference": "post_519.json"
+        }
+    ]
+}

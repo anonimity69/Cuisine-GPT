@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1168.json",
+    "qna_pairs": {
+        "benchmarks": [
+            {
+                "Query": "What is the traditional Finnish Christmas dish that is a smoked ham, often prepared with mustard sauce and breadcrumbs, and is the centerpiece of the yule table?",
+                "Gold Answer": "The traditional Finnish Christmas dish is joulukinkku (Christmas ham). It is prepared by scoring the surface of the smoked ham, coating it with a mustard sauce made from hot mustard powder, cream, sugar, and apple cider vinegar, then being coated with breadcrumbs and sugar and studded with cloves before baking. This dish is the centerpiece of the Finnish yule table (joulup\u00f6yt\u00e4) and is a key part of Finnish cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/04/77-finland/"
+            },
+            {
+                "Query": "What is the name of the Finnish dish that is a type of pie with a thin rye crust and a filling of rice porridge, and is traditionally associated with the Karelian region?",
+                "Gold Answer": "The dish is karjalanpiirakka (Karelian pies). It is a traditional Finnish pie with a thin rye crust encasing a savory filling of rice porridge. This dish originated in the Karelian region (which historically lay between Finland and Russia) and is part of Finnish cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/04/77-finland/"
+            },
+            {
+                "Query": "Describe the traditional Finnish soup that is made with salmon, potatoes, carrots, and fish stock, and is typically prepared during the cold winter months in Finland.",
+                "Gold Answer": "Lohikeitto is the traditional Finnish soup made with salmon, potatoes, carrots, and fish stock. It is a classic winter dish in Finland, where green vegetables were not traditionally available. The soup is prepared by frying leeks and onion in butter, adding cubed potatoes and carrots, fish stock, bay leaf, allspice, and cream, then simmering until the flavors are well combined and finishing with chopped salmon fillets. This soup is part of Finnish cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2019/01/04/77-finland/"
+            }
+        ]
+    }
+}

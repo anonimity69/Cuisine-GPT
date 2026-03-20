@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\amchoor.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Amchoor made from?",
+            "Gold Answer": "Amchoor is made from dry unripe (green) mangoes and is commonly used in Indian and Pakistani cooking.",
+            "Source/Reference": "amchoor.json"
+        },
+        {
+            "Query": "What is the flavor profile of Amchoor?",
+            "Gold Answer": "Amchoor has a tangy and sour flavor that is not sweet, and it is best added near the end of cooking. It is commonly used in Indian and Pakistani cooking.",
+            "Source/Reference": "amchoor.json"
+        },
+        {
+            "Query": "In which cuisines is Amchoor traditionally used as a seasoning?",
+            "Gold Answer": "Amchoor is traditionally used in Indian and Pakistani cooking as a seasoning and tenderizing agent.",
+            "Source/Reference": "amchoor.json"
+        }
+    ]
+}

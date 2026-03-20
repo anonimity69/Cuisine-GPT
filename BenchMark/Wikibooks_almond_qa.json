@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\almond.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the two main types of almonds and how do they differ in terms of safety for consumption?",
+            "Gold Answer": "The two main types of almonds are sweet almonds and bitter almonds. Sweet almonds are safe for consumption and are commonly used in culinary applications such as baking, confectionery, and as a snack. Bitter almonds, on the other hand, contain cyanide and are toxic if consumed raw, which is why they are not sold raw in the U.S. This safety difference is critical in culinary contexts: sweet almonds are widely used in European and Middle Eastern cuisines for their mild flavor and versatility, while bitter almonds are typically used in small quantities in traditional European and Middle Eastern dishes for their intense flavor profile (but are not consumed raw due to toxicity).",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "How are almonds processed in culinary applications to enhance flavor and texture?",
+            "Gold Answer": "In culinary applications, almonds are processed through techniques such as blanching (soaking in water to remove the skin and improve texture) and toasting (which enhances flavor by removing moisture and developing Maillard reactions). These processes are critical for achieving the desired taste and texture in dishes. For example, toasted almonds are commonly used in baking and as a garnish in desserts, while blanched almonds are preferred in some traditional European and Middle Eastern cuisines for their softer texture. The use of almonds in these processes is particularly common in patisserie and confectionery, where they are used to add crunch and nuttiness to pastries and desserts.",
+            "Source/Reference": "5"
+        },
+        {
+            "Query": "What is the primary use of almonds in global cuisines, and which cuisines feature them most prominently?",
+            "Gold Answer": "Almonds are primarily used in global cuisines for their rich flavor and nutritional profile, especially in baking and confectionery. They are most prominently featured in Middle Eastern, South Asian, and European cuisines. For instance, in Middle Eastern cuisine, almonds are a key ingredient in desserts like baklava and used as a garnish in rice dishes; in South Asian cuisine, they are used in sweets such as halva and in Indian cuisine for both savory and sweet dishes; and in European cuisines, particularly in patisserie, almonds are used in desserts such as almond croissants and pralines. The context highlights that almonds are a staple in these regions for both their taste and versatility.",
+            "Source/Reference": "3"
+        }
+    ]
+}

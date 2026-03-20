@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_777.json",
+    "qna_pairs": [
+        {
+            "Query": "According to the text, what is the claimed origin of Hokkien mee and what key ingredients define it in Singaporean cuisine?",
+            "Gold Answer": "Hokkien mee was purportedly invented by Chinese sailors working in Singaporean factories who fried noodles over charcoal during their lunch hour. It is a staple in Singaporean cuisine, characterized by a stock made from garlic, shallots, prawn shells, fish sauce, and shrimp paste, stir-fried with thick egg noodles, prawns, squid, bok choy, Chinese sausage, beansprouts, egg, and other vegetables.",
+            "Source/Reference": "post_777.json"
+        },
+        {
+            "Query": "What is the origin story of chilli crab as described in the text, and why is it considered a national dish in Singapore?",
+            "Gold Answer": "Chilli crab is purportedly originated in Palm Beach, Singapore, from a pushcart food vendor, though it is also claimed to be a Malaysian dish. Despite being widely considered Singapore’s national dish, it is notable for its unique preparation using mud crabs, tomato passata, fish stock, palm sugar, white vinegar, soy sauce, butter, chilli, and fresh herbs, which balance the sweet and spicy flavors without being overly spicy.",
+            "Source/Reference": "post_777.json"
+        },
+        {
+            "Query": "How does curry laksa fit into Singaporean cuisine, including its main varieties and preparation?",
+            "Gold Answer": "Curry laksa is a spicy noodle soup that is a contentious dish due to debated origins between Indonesia, Malaysia, and Singapore. In Singaporean cuisine, the curry variety (using coconut milk and curry powder) is the most popular, prepared with a stock made from garlic, shallots, and other aromatic ingredients, and stir-fried with vegetables and meat, reflecting the fusion of Chinese, Malay, and Indian culinary influences.",
+            "Source/Reference": "post_777.json"
+        }
+    ]
+}

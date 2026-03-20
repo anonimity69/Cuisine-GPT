@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\apple_cider.json",
+    "qna_pairs": [
+        {
+            "Query": "What is apple cider?",
+            "Gold Answer": "Apple cider is a nonalcoholic beverage made from apples, distinct from hard cider and apple juice. It is cloudy with sediment and rarely pasteurized or sweetened. In American cuisine, it is traditionally consumed as a seasonal fall beverage, often hot and mulled with spices.",
+            "Source/Reference": "apple_cider.json"
+        },
+        {
+            "Query": "What are the common culinary uses of apple cider?",
+            "Gold Answer": "Apple cider is used in both savory and sweet dishes to lend an apple flavor and add moisture in American cuisine. It can also be boiled down to make apple cider syrup, which is commonly used in glazes for meats and desserts.",
+            "Source/Reference": "apple_cider.json"
+        },
+        {
+            "Query": "What is the primary season for which apple cider is typically consumed?",
+            "Gold Answer": "Apple cider is typically consumed as a fall beverage in American cuisine, often hot and mulled with spices to enhance its flavor profile during the autumn season.",
+            "Source/Reference": "apple_cider.json"
+        }
+    ]
+}

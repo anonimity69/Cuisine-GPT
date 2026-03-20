@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_127.json",
+    "qna_pairs": {
+        "benchmarks": [
+            {
+                "Query": "What is the meaning of 'Bayenetu' in the context of the dish described?",
+                "Gold Answer": "Bayenetu means a collection of meat-free dishes. It includes atilt wot (cabbage, carrots and potatoes in turmeric sauce), azifa (green lentil salad), gomen (saut\u00e9ed leafy greens), Inguday tibs (mushroom curry), mesir wot (red lentils in berbere sauce), fasolia (green beans and carrots), kik alicha (yellow split peas in turmeric), beetroot and potato salad, buticha (chickpea and lemon mash), timatim salata (tomato salad), and a green salad. This cuisine is part of Eastern African culinary traditions.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/22/5-east-africa/"
+            },
+            {
+                "Query": "What is the national dish of The Comoros?",
+                "Gold Answer": "The national dish of The Comoros is 'langouste \u00e1 la vanille' (lobster with vanilla). This dish features freshly caught rock lobster (or substitutes like prawns, langoustines, or scallops) grilled with olive oil and topped with a sauce made from cream, wine, vanilla beans, shallots, and butter. This dish is part of Eastern African cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/22/5-east-africa/"
+            },
+            {
+                "Query": "What is the significance of the name 'sukuma wiki'?",
+                "Gold Answer": "The name 'sukuma wiki' translates from Swahili to 'stretch the week', referring to the practice of frugal cooks using garden greens to extend the life of their groceries, especially during periods of scarcity. This dish is part of Eastern African cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/22/5-east-africa/"
+            }
+        ]
+    }
+}

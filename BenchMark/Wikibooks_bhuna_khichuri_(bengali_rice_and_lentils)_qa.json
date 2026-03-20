@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bhuna_khichuri_(bengali_rice_and_lentils).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Bhuna Khichuri (Bengali Rice and Lentils)?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bhuna_Khichuri_(Bengali_Rice_and_Lentils)"
+        },
+        {
+            "Query": "What are the typical garnishes for Bhuna Khichuri?",
+            "Gold Answer": "South Asia. The typical garnishes for Bhuna Khichuri include 1 medium or 2 small onions, thinly sliced, and 2 tablespoons butter (preferably ghee) along with 1 bunch of coarsely chopped fresh coriander leaves.",
+            "Source/Reference友们": "https://en.wikibooks.org/wiki/Cookbook:Bhuna_Khichuri_(Bengali_Rice_and_Lentels)"
+        },
+        {
+            "Query": "What spices are used to season Bhuna Khichuri?",
+            "Gold Answer": "South Asia. The spices used to season Bhuna Khichuri include 2 bay leaves, 4 green cardamom pods, 4 whole cloves, 2 sticks of cinnamon (1 inch long), 1/4 teaspoon cumin seeds, and 2 cm piece of ginger, finely chopped.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bhuna_Khichuri_(Bengali_Rice_and_Lentels)"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1119.json",
+    "qna_pairs": {
+        "data": [
+            {
+                "Query": "What is the national dish of Iraq according to the blog post, and what is it made from?",
+                "Gold Answer": "Masgouf is the national dish of Iraq, consisting of grilled carp. The whole fish is butterflied and seasoned with oil, salt, tamarind, and turmeric before being grilled over fire for several hours until crispy. The cuisine type is Arabian Peninsula.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/10/72-arabian-peninsula/"
+            },
+            {
+                "Query": "What is the origin of mutabbaq and what ingredients are used in its preparation?",
+                "Gold Answer": "Mutabbaq is believed to have originated in Yemen, where it was invented by a large Indian population inspired by Indian breads such as roti. The dish is made from a thin dough of flour, water, egg, and salt, which is rolled and wrapped around a filling of precooked ground beef, spring onions, leeks, garlic, and spices including cumin and chili powder. The cuisine type is Arabian Peninsula.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/10/72-arabian-peninsula/"
+            },
+            {
+                "Query": "What is tharid and what are its key ingredients?",
+                "Gold Answer": "Tharid is a slow-cooked stew made with lamb, tomatoes, carrots, potatoes, eggplant, and chickpeas. It is traditionally served with flatbread, which is essential to the dish. The cuisine type is Arabian Peninsula.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/11/10/72-arabian-peninsula/"
+            }
+        ]
+    }
+}

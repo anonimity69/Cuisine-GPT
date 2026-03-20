@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\buttermilk.json",
+    "qna_pairs": [
+        {
+            "Query": "What is buttermilk?",
+            "Gold Answer": "Buttermilk is a tangy liquid dairy product that originally referred to the liquid left behind after churning butter. Today, commercial cultured buttermilk is made by inoculating low-fat milk with lactic acid bacteria. It is sour and thicker than milk due to the acid's effect on the dairy. Buttermilk is used in various cuisines including Indian (as lassi), Irish (in soda bread and pancakes), and Danish (in æbleskiver).",
+            "Source/Reference": "buttermilk.json"
+        },
+        {
+            "Query": "What are acceptable substitutes for buttermilk?",
+            "Gold Answer": "Plain kefir is a very similar substitute that can be used exactly. Sour milk can be made by adding a little vinegar or lemon/lime juice to milk, which will contribute acidity. However, this method produces a different flavor profile and thickness. To avoid this, you can dilute yogurt or sour cream with milk until the correct consistency. These substitutes are commonly used in Indian and American baking.",
+            "Source/Reference": "buttermilk.json"
+        },
+        {
+            "Query": "How does buttermilk benefit baked goods?",
+            "Gold Answer": "Buttermilk tenderizes baked goods, contributes flavor, and acts as a leavening agent when combined with baking soda. It is particularly popular in American, Indian, and Irish cuisines for dishes such as banana bread, buttermilk biscuits, and khandvi.",
+            "Source/Reference": "buttermilk.json"
+        }
+    ]
+}

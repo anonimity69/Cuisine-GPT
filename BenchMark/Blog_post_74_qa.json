@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_74.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Silpancho and where does it originate?",
+            "Gold Answer": "Silpancho is a Bolivian dish originating from Cochabamba, Bolivia, meaning \"flat and thin\" in Quechua. It consists of adobo-spiced breaded veal steak topped with tomato, onion, lemon, coriander salsa, fried potatoes, fluffy white rice, and a fried egg. The dish holds historical significance in Cochabamba, where restaurants traditionally use lights to signal its availability.",
+            "Source/Reference": "post_74.json"
+        },
+        {
+            "Query": "Describe the origin story of Sopa Paraguaya",
+            "Gold Answer": "Sopa Paraguaya is a Paraguayan cornbread-like dish that originated from a fusion of Spanish settlers and indigenous Guaraní people. The name comes from a story involving Paraguay's first constitutional president, Carlos Antonio López, who accidentally created it when he added too much corn flour to his soup, which cooked into a dense bread in a clay oven.",
+            "Source/Reference": "post_74.json"
+        },
+        {
+            "Query": "How is quinoa used in Bolivian cuisine, and what is Pastel de quinoa?",
+            "Gold Answer": "Quinoa, an ancient Andean grain, is a staple in Bolivian cuisine. Pastel de quinoa is a Bolivian quinoa pie made by boiling quinoa with onions, tomatoes, chili, garlic, spinach, green beans, grated carrots, egg, and assorted spices, then baked with cheese. This dish reflects Bolivia's indigenous culinary heritage and is commonly consumed as a side dish or main course.",
+            "Source/Reference": "post_74.json"
+        }
+    ]
+}

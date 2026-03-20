@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_377.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Lavangi and what cuisine does it belong to?",
+            "Gold Answer": "Lavangi is an Azerbaijani national dish that can be prepared with either chicken or fish. The dish involves stuffing the internal cavity of the animal with a paste of walnuts, onions, and a sour fruit syrup (such as pomegranate), followed by baking. This traditional preparation reflects the historical cross-cultural influences in the Transcaucasian region, which has been shaped by the Silk Road and the diverse culinary traditions of Armenia, Georgia, and Azerbaijan.",
+            "Source/Reference": "post_377.json"
+        },
+        {
+            "Query": "How is shirin plov prepared and what makes it unique in Azerbaijani cuisine?",
+            "Gold Answer": "Shirin plov is a sweet variant of plov (a spiced rice dish) that is distinguished by the addition of dried fruits, nuts, and saffron. It is prepared by cooking rice with these ingredients and forming a crust called \"qazmaq\" on the bottom of the pan. The dish is traditionally served at Azerbaijani weddings, where it is sometimes accompanied by pyrotechnic displays involving the rice itself. Shirin plov is thought to have originated from Indian and Iranian culinary traditions, reflecting the historical exchange of flavors along the Silk Road.",
+            "Source/Reference": "post_377.json"
+        },
+        {
+            "Query": "What is khachipuri and why is it considered a national dish of Georgia?",
+            "Gold Answer": "Khachipuri is the national dish of Georgia, consisting of a bread boat filled with a mixture of cheese and a runny egg. The dish is prepared by baking a wheat-based dough with cheese and a cracked egg, which is cooked until the yolk remains runny. Khachipuri is celebrated for its simplicity and the unique combination of textures and flavors, making it a staple of Georgian cuisine that has been influenced by the region's historical interactions along the Silk Road.",
+            "Source/Reference": "post_377.json"
+        }
+    ]
+}

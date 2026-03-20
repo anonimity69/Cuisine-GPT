@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bay_leaf.json",
+    "qna_pairs": [
+        {
+            "query": "In which cuisine is bay leaf traditionally included in the bouquet garni?",
+            "answer": "French cuisine",
+            "source": "Use"
+        },
+        {
+            "query": "Which cuisine uses the Indianمسه (tej pat) for a flavor similar to cinnamon but milder?",
+            "answer": "Indian cuisine",
+            "source": "Varieties"
+        },
+        {
+            "query": "In which cuisine is the bay leaf known as daun salam used without a good substitute?",
+            "answer": "Indonesian cuisine",
+            "source": "Varieties"
+        }
+    ]
+}

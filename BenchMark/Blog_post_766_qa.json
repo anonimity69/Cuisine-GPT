@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_766.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cultural significance of the dastarkhan in Afghan cuisine?",
+            "Gold Answer": "In Afghan cuisine, the dastarkhan is a traditional arrangement of dishes on a tablecloth placed on the floor, which serves as a central element in social gatherings. It is typically accompanied by a tea-pouring ritual, and it is considered the height of rudeness to step on or over the dastarkhan. The best dishes are placed near the guests, reflecting the importance of hospitality and respect in Afghan cultural practices.",
+            "Source/Reference": "post_766.json"
+        },
+        {
+            "Query": "How is Kabuli pulao traditionally prepared in Afghan cuisine?",
+            "Gold Answer": "Kabuli pulao, considered the national dish of Afghan cuisine, is traditionally prepared by parboiling rice and then steaming it with a mixture of raisins, onion, garlic, carrots, almonds, pistachios, and lamb. A spiced syrup is infused through the rice using sugar, lamb stock, garam masala, and cardamom. The dish is cooked without stirring, and at the end, hot oil is poured over the rice to create a crust, which is achieved by placing a tea towel under the lid to absorb moisture.",
+            "Source/Reference": "post_766.json"
+        },
+        {
+            "Query": "Describe the ingredients and variations of Aush in Afghan cuisine.",
+            "Gold Answer": "Aush, which translates to 'noodle' in Afghani, is a versatile soup in Afghan cuisine that primarily uses fresh herbs, pantry staples such as fettuccine spaghetti, vegetable stock, legumes (like chickpeas, lentils, and red kidney beans), and spinach. The dish can be adapted for vegetarians and vegans by omitting the meat. Traditional variations include the addition of lamb keema (minced meat) and a yoghurt sauce, but it is also commonly found in neighboring countries like Iran and Turkey under different names.",
+            "Source/Reference": "post_766.json"
+        }
+    ]
+}

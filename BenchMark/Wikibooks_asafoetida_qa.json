@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\asafoetida.json",
+    "qna_pairs": [
+        {
+            "Query": "What is asafoetida?",
+            "Gold Answer": "Asafoetida, also known as hing, is a dark amber resin derived from the dried sap of wild fennel (Ferula asafoetida/Ferula foetida) stems and roots. It is a spice commonly used in Indian cuisine, particularly in South Indian dishes.",
+            "Source/Reference": "asafoetida.json"
+        },
+        {
+            "Query": "Where is wild fennel primarily grown for asafoetida production?",
+            "Gold Answer": "Wild fennel for asafoetida is mainly grown in Iran, Afghanistan, and Kashmir. This spice is used in Indian cuisine, especially in South Indian cooking.",
+            "Source/Reference": "asafoetida.json"
+        },
+        {
+            "Query": "What is the primary use of asafoetida in traditional cooking?",
+            "Gold Answer": "Asafoetida is primarily used in Indian cuisine as a digestive aid and in pickles, particularly by the Brahmin caste of Hindus and adherents of Jainism who avoid onions.",
+            "Source/Reference": "asafoetida.json"
+        }
+    ]
+}

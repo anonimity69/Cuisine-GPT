@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bread.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the primary ingredients used to make bread?",
+            "Gold Answer": "Bread is a staple food made from a dough of flour, water, yeast, and salt. These ingredients are essential for the fermentation process and the development of the bread's structure.",
+            "Source/Reference": "bread.json"
+        },
+        {
+            "Query": "What is the purpose of the first rise (bulk fermentation) in bread making?",
+            "Gold Answer": "The first rise, also known as bulk fermentation or proofing, is a critical step where the dough undergoes fermentation. This process generates organic molecules such as alcohols and acids that add complex flavors to the bread. Additionally, it tenderizes the gluten network, improving the dough's structure and mouthfeel, and traps carbon dioxide to create a lighter crumb.",
+            "Source/Reference": "bread.json"
+        },
+        {
+            "Query": "What are the two main types of leavening agents used in bread production?",
+            "Gold Answer": "The two main types of leavening agents used in bread production are commercial yeast and sourdough starter. Commercial yeast is a purified culture of yeast that ferments sugars to produce carbon dioxide and alcohol, while sourdough starter is a natural, living mixture of wild yeast and bacteria that has been maintained over time and contributes complex, sour flavors to the bread.",
+            "Source/Reference": "bread.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\butter.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical fat content range for North American commercial butter?",
+            "Gold Answer": "North American commercial butter typically contains 80–82% fat. This composition is higher in fat compared to European butter, which ranges from 82–86% fat. The remaining portion consists of water and milk proteins emulsified with the fat. Cuisine type: Dairy",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "What is the primary method of butter production, and what tools are traditionally used?",
+            "Gold Answer": "Butter is produced by agitating cream to merge fat droplets and separate them from the liquid portion. Historically, butter churns were used for this process, but modern production employs mechanized churning machines. Cuisine type: Dairy",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "Why is butter not suitable for high-heat cooking, and what alternative is recommended?",
+            "Gold Answer": "Butter has a low smoke point of approximately 260°F (127°C) due to its milk proteins, which can burn at high temperatures. For high-heat cooking, clarified butter is recommended as it has the milk proteins removed, resulting in a higher smoke point and better suitability for frying. Cuisine type: Dairy",
+            "Source/Reference": "3"
+        }
+    ]
+}

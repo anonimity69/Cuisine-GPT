@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_849.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional South Indian meal that combines multiple vegetarian dishes served on a banana leaf during celebratory events?",
+            "Gold Answer": "Sadhya, a vegetarian banquet originating from Kerala, traditionally served at weddings with up to 24 dishes. The text describes Sadhya as a ceremonial meal served on banana leaves during significant events like weddings, distinct from Tamil Nadu's Thali which is plate-based.",
+            "Source/Reference": "post_849.json"
+        },
+        {
+            "Query": "What South Indian street snack consists of a hollowed puri filled with a spicy mixture of potatoes, chickpeas, and other ingredients?",
+            "Gold Answer": "Pani puri, a street snack made from deep-fried puri (wheat and semolina dough) filled with a mixture of boiled potatoes, chickpeas, onions, coriander leaves, and spices. The text mentions the author preparing this snack using ready-to-fry puris as part of their exploration of South Indian street food.",
+            "Source/Reference": "post_849.json"
+        },
+        {
+            "Query": "Which South Indian dish, originating from Goan cuisine, is known for its spicy and tangy flavor profile and is typically made with a vinegar-based marinade?",
+            "Gold Answer": "Recheado masala fish and prawn vindaloo, a Goan dish that uses a spicy, tangy paste made from vinegar, ginger, garlic, and spices to flavor fish or prawns. The text explicitly states that vindaloo is a Goan-origin dish with a very spicy profile, distinct from North Indian biriyani.",
+            "Source/Reference": "post_849.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\banana_blossom.json",
+    "qna_pairs": [
+        {
+            "question": "What is the flavor profile of banana blossoms?",
+            "answer": "Banana blossoms have a mild flavor that is somewhat similar to artichokes or hearts of palm, with a distinct mild floral taste. They are commonly used in Filipino, Vietnamese, and Indian cuisines.",
+            "source": "banana_blossom.json"
+        },
+        {
+            "question": "How long can fresh banana blossoms be stored in the refrigerator?",
+            "answer": "Fresh banana blossoms can be stored in plastic in the refrigerator for up to three days without peeling. This storage method helps maintain freshness for use in various dishes, including Filipino and Indian recipes.",
+            "source": "banana_blossom.json"
+        },
+        {
+            "question": "What are some traditional dishes that incorporate banana blossoms?",
+            "answer": "Banana blossoms are used in traditional dishes such as Kare-Kare (a Filipino dish), Vietnamese Rice Noodle and Beef Soup (Bún bò Huế), and Indian dishes like Kerala-style banana flower fry.",
+            "source": "banana_blossom.json"
+        }
+    ]
+}

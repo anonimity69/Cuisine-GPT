@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bitter_melon.json",
+    "qna_pairs": [
+        {
+            "question": "What are the common names for bitter melon?",
+            "answer": "Bitter melon, also known as foo qua, balsam pear, and bitter melon.",
+            "source": "bitter_melon.json"
+        },
+        {
+            "question": "In which cuisines is bitter melon used?",
+            "answer": "Indian, Nepali, Chinese, Japanese, Burmese, Pakistani, Bangladeshi, Indonesian, Vietnamese, Thai, and other cuisines.",
+            "source": "bitter_melon.json"
+        },
+        {
+            "question": "What are the typical methods of preparation for bitter melon in Indian cuisine?",
+            "answer": "It can be steamed, fried, pickled, blanched, baked, stuffed, stir-fried, juiced, and used in soups.",
+            "source": "bitter_melon.json"
+        }
+    ]
+}

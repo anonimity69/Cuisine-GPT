@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_391.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of meat mixture is used in koobideh kabobs, and which cuisine features this dish?",
+            "Gold Answer": "Koobideh kabobs use a mixture of lamb and beef mince spiced with onion, coriander, garlic, turmeric, sumac, and cumin, which is a characteristic dish of Iranian cuisine.",
+            "Source/Reference": "post_391.json"
+        },
+        {
+            "Query": "What is the significance of the 'tadig' in zereshk polow, and how does it contribute to the dish's texture?",
+            "Gold Answer": "The tadig is the golden crust formed by parboiling rice and layering it with oil, saffron, and potatoes before slow cooking, which provides a crunchy texture and is a key technique in Iranian cuisine.",
+            "Source/Reference": "post_391.json"
+        },
+        {
+            "Query": "How does sabzi khordan promote health and flavor in Iranian meals, according to the text?",
+            "Gold Answer": "Sabzi khordan is a side dish of fresh herbs, vegetables, nuts, and cheese served daily to encourage the consumption of healthy ingredients and enhance the flavor of meals, which is a traditional practice in Iranian cuisine.",
+            "Source/Reference": "post_391.json"
+        }
+    ]
+}

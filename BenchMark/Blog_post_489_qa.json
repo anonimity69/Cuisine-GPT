@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_489.json",
+    "qna_pairs": [
+        {
+            "query": "What are blinis and shuba, and what traditional toppings are used for blinis?",
+            "answer": "Blinis are little pancakes made with buckwheat, milk, egg, and yeast, and are traditionally topped with sour cream, smoked salmon, radish, dill, caviars, and chives. Shuba is a cold Russian salad also known as \"herring under a fur coat\" salad, which is made with pickled herring, grated onion, hardboiled egg, grated carrot, grated beetroot, and grated boiled potato, garnished with pepper and dill, and served with a dressing of sour cream and mayonnaise. These dishes are part of Russian cuisine.",
+            "source": "post_489.json"
+        },
+        {
+            "query": "What is the historical origin of beef stroganoff, and what are the key ingredients in the original 19th-century recipe?",
+            "answer": "Beef stroganoff's original recipe was recorded in the 19th century and combined cubes of floured beef with mustard, broth, and sour cream. The dish is named after the Stroganov family, who were among the richest dynasties of merchants and businessmen in Russia, eventually marrying into the nobility. This dish is part of Russian cuisine.",
+            "source": "post_489.json"
+        },
+        {
+            "query": "Describe the origins and key characteristics of pelmeni, and how they differ from pierogi?",
+            "answer": "Pelmeni are dumplings with a thin dough made from flour and water and a filling of minced meat (traditionally pork and beef, spiced with pepper, onions, and garlic). They are thought to have originated from Chinese wontons via Mongolia and are a staple of Russian cuisine. Pelmeni differ from Polish pierogi in their much thinner dough, resembling Italian ravioli.",
+            "source": "post_489.json"
+        }
+    ]
+}

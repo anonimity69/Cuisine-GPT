@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_323.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a tagine and how is it traditionally prepared in North African cuisine?",
+            "Gold Answer": "A tagine is a slow-cooked spiced meat stew traditionally prepared in an earthenware pot with a conical lid. The pot is designed to conserve steam, which is particularly important in water-scarce regions of North Africa. The cooking process involves placing the pot over hot charcoal for many hours (though electric stoves can be used on low heat). The stew typically includes lamb, chickpeas, tomatoes, almonds, butternut squash, sweet potato, carrots, olives, preserved lemon, dried apricots, and dates, seasoned with cumin, cinnamon, ginger, paprika, garlic, and coriander.",
+            "Source/Reference": "post_323.json"
+        },
+        {
+            "Query": "What is kemia and what dishes did the author prepare for their kemia?",
+            "Gold Answer": "Kemia is a North African term for a meal consisting of small, varied plates, similar to Spanish tapas or Eastern European meze. The author prepared six dishes for their kemia: Moroccan green salad, beetroot salad, spiced couscous, lhzina (an orange and olive salad), bakoula (stewed greens), and taktouka (stewed capsicum and tomato salad).",
+            "Source/Reference": "post_323.json"
+        },
+        {
+            "Query": "What are ful medames and koshari, and how are they described in the context of Egyptian cuisine?",
+            "Gold Answer": "Ful medames (literally 'buried beans') are made from boiled fava beans that are mashed to a thick, creamy consistency and served hot with olive oil, parsley, tomato, boiled eggs, cumin, and raw garlic. Koshari is a dish that originated in the 1800s in Egypt, combining macaroni pasta, lentils, rice, chickpeas, and a garlicky tomato and vinegar sauce. Both dishes are deeply rooted in North African culinary traditions, with ful medames having evidence of consumption dating back to Ancient Egypt.",
+            "Source/Reference": "post_323.json"
+        }
+    ]
+}

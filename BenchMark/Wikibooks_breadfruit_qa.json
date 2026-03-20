@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\breadfruit.json",
+    "qna_pairs": [
+        {
+            "Query": "What is breadfruit commonly known as in some regions?",
+            "Gold Answer": "Breadfruit is sometimes called tree potato. In West African cuisine, particularly in Nigeria, it is known as 'ukwa'.",
+            "Source/Reference": "breadfruit.json"
+        },
+        {
+            "Query": "What are the culinary uses of underripe and ripe breadfruit?",
+            "Gold Answer": "Underripe breadfruit (firm, greenish yellow) is starchy and must be cooked (e.g., roasted, boiled, stewed, fried) in savory dishes, often in Pacific Islander and West African cuisines, where it has a potato-like taste. Ripe breadfruit is sweet and can be eaten raw or used in desserts like pies and custards in tropical cuisines.",
+            "Source/Reference": "breadfruit.json"
+        },
+        {
+            "Query": "How should breadfruit be prepared before cooking to remove sap?",
+            "Gold Answer": "Breadfruit should be soaked in cold water for a few minutes to remove residual sap, then the stem is snapped off and the fruit is turned upside down to allow sap to drain for a full day. This preparation is essential in traditional tropical cuisines, such as Pacific Islander and West African cooking, to prevent bitterness and ensure better cooking results.",
+            "Source/Reference": "breadfruit.json"
+        }
+    ]
+}

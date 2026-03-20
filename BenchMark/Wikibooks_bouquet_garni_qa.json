@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bouquet_garni.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a bouquet garni?",
+            "Gold Answer": "A bouquet garni is a bundle of herbs commonly used to flavor soups, stews, casseroles, and sauces. It is traditionally used in French cooking.",
+            "Source/Reference": "bouquet_garni.json"
+        },
+        {
+            "Query": "What are the traditional base components of a bouquet garni?",
+            "Gold Answer": "The traditional base components of a bouquet garni are parsley, thyme, and bay leaf, as these are the essential herbs in French culinary tradition.",
+            "Source/Reference": "bouquet_garni.json"
+        },
+        {
+            "Query": "How is a bouquet garni typically prepared and used in cooking?",
+            "Gold Answer": "A bouquet garni is typically prepared by tying the base herbs (parsley, thyme, and bay leaf) in a bundle with string or cheesecloth to prevent them from dispersing when added to the dish. It is traditionally used in French cooking for flavoring soups, stews, and other dishes, and is removed after cooking.",
+            "Source/Reference": "bouquet_garnin.json"
+        }
+    ]
+}

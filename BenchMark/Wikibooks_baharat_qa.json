@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\baharat.json",
+    "qna_pairs": [
+        {
+            "Query": "What is baharat?",
+            "Gold Answer": "Baharat (literally 'spices') is a spice mixture typically used in the countries surrounding the Arabian Gulf and is the most-used spice in Arabic cuisine. It is a multipurpose spice blend commonly found in Middle Eastern cuisines.",
+            "Source/Reference": "baharat.json"
+        },
+        {
+            "Query": "What are the typical ingredients of baharat?",
+            "Gold Answer": "Typical ingredients of baharat include cloves, paprika, cardamom, cumin, coriander, black pepper, nutmeg, and cinnamon. Mint may be included in Turkish variations, and North African blends may include dried rosebuds. Additionally, sumac, saffron, turmeric, and chili may be added to some variations.",
+            "Source/Reference": "baharat.json"
+        },
+        {
+            "Query": "How is baharat used in cooking?",
+            "Gold Answer": "Baharat is a multipurpose spice blend used in Middle Eastern cuisines, much like garam masala in other cuisines. It can be rubbed onto meats, used to flavor dishes during cooking, or sprinkled on dishes after serving.",
+            "Source/Reference": "baharat.json"
+        }
+    ]
+}

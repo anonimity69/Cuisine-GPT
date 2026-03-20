@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_718.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Brazil's national dish, and what are its typical ingredients and sides?",
+            "Gold Answer": "Brazil's national dish is feijoada, a stew made with black beans and a mixture of salted pork or beef. It is traditionally served with white rice, oranges (to aid digestion), and farofa (a coarse powder of toasted cassava flour).",
+            "Source/Reference": "post_718.json"
+        },
+        {
+            "Query": "Where does Moqueca de camarão originate, and how does it differ from other Brazilian stews?",
+            "Gold Answer": "Moqueca de camarão originates from the state of Espírito Santo in Brazil, where it is known as moqueca capixaba. It differs from other Brazilian stews by using olive oil instead of palm oil, which is common in most Brazil-wide moquecas.",
+            "Source/Reference": "post_718.json"
+        },
+        {
+            "Query": "What is the historical origin of Acarajé, and which region is it most associated with?",
+            "Gold Answer": "Acarajé has historical origins from the influx of West African slaves to Brazil in the 16th century, where it evolved from the dish 'akara'. It is most associated with the state of Bahia, where female vendors called baianas prepare it.",
+            "Source/Reference": "post_718.json"
+        }
+    ]
+}

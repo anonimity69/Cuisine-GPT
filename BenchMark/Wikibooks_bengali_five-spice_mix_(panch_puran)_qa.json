@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bengali_five-spice_mix_(panch_puran).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the Bengali Five-Spice Mix (Panch Puran) also known as?",
+            "Gold Answer": "Panch Puran is also known as Panch Phoran, Panch Phoron, or Bengali Five-Spice Mix. It is a spice mixture used in Bengali cuisine, which is a part of Indian cuisine.",
+            "Source/Reference": "bengali_five-spice_mix_(panch_puran).json"
+        },
+        {
+            "Query": "What are the five primary spices that constitute the Bengali Five-Spice Mix (Panch Puran)?",
+            "Gold Answer": "The five primary spices are fenugreek seed (*methi*), nigella seed (*kalo jira*), mustard seed (*rai* or *shorshe*), fennel seed (*mouri*), and cumin seed (*jeera*). In some variations, wild onion is used in place of cumin, and radhuni seed may be added. This spice mix is used in Bengali cuisine, which is part of Indian cuisine.",
+            "Source/Reference": "bengali_five-spice_mix_(panch_puran).json"
+        },
+        {
+            "Query": "How is Panch Puran typically prepared and what are its common uses in Bengali cuisine?",
+            "Gold Answer": "In Bengali cuisine, the seeds are typically fried in oil (or ghee) until they start crackling. After frying, vegetables (especially potatoes), dal (lentils), or fish are added. It is not used with meat. This spice mix is a key component of Bengali cuisine, which falls under Indian cuisine.",
+            "Source/Reference": "bengali_five-spice_mix_(panch_puran).json"
+        }
+    ]
+}

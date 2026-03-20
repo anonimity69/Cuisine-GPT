@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bean_sprout.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisines are bean sprouts particularly associated with?",
+            "Gold Answer": "Bean sprouts are particularly associated with Chinese cuisine and East Asian cuisine in general.",
+            "Source/Reference": "2"
+        },
+        {
+            "Query": "What is the typical flavor profile of bean sprouts?",
+            "Gold Answer": "Bean sprouts have an extremely mild, if ever-so-slightly bitter flavor profile and are particularly associated with Chinese and East Asian cuisines.",
+            "Source/Reference": "2"
+        },
+        {
+            "Query": "How should bean sprouts be stored after purchase to maintain freshness?",
+            "Gold Answer": "Bean sprouts should be kept dry in an airtight container in the refrigerator and not washed until immediately prior to use, which is crucial for maintaining their quality in Chinese and East Unterstüted cuisines.",
+            "Source/Reference": "2"
+        }
+    ]
+}

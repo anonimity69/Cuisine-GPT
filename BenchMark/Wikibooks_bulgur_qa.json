@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bulgur.json",
+    "qna_pairs": [
+        {
+            "Query": "What is bulgur?",
+            "Gold Answer": "Bulgur, also called burghul, is wheat that has been prepared by steaming to partially cook it, then drying and grinding coarsely with the outer bran removed. It is a light brown grain commonly used in Mediterranean, Middle Eastern, and Indian cuisine.",
+            "Source/Reference": "bulgur.json"
+        },
+        {
+            "Query": "How is bulgur produced?",
+            "Gold Answer": "Bulgur is produced by steaming wheat to partially cook it, followed by drying and grinding coarsely while removing the outer part of the bran. This process results in small grains that take less time to cook than whole, raw grains.",
+            "Source/Reference": "bulgur.json"
+        },
+        {
+            "Query": "What are some common dishes that use bulgur?",
+            "Gold Answer": "Bulgur is commonly used in Mediterranean, Middle Eastern, and Indian dishes such as falafel, tabouli, pilaf, and kibbeh. It is often mixed with ground meat and can be used similarly to rice to add flavor and texture.",
+            "Source/Reference": "bulgur.json"
+        }
+    ]
+}

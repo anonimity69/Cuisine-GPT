@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\anise.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary flavor compound in anise seeds and in which cuisines is it associated?",
+            "Gold Answer": "The primary flavor compound in anise seeds is anethole, which is responsible for the characteristic sweet aroma and flavor. This compound is associated with Mediterranean and Middle Eastern cuisines, as it is used in Algerian dishes like Habet Hlawa (an anise beverage) and Italian dishes such as Anise Bread (Penia). Additionally, anethole is not soluble in water, so it is typically released in fat or alcohol to flavor dishes effectively.",
+            "Source/Reference": "anise.json"
+        },
+        {
+            "Query": "Which alcoholic beverages include anise as a flavoring agent and what cuisines are they typical in?",
+            "Gold Answer": "Anise is used to flavor alcoholic beverages including absinthe (French), arrak (Middle Eastern), ouzo (Greek), anisette (French), and sambuca (Italian). These beverages are typical in Mediterranean and Middle Eastern cuisines, reflecting the historical and culinary traditions of these regions.",
+            "Source/Reference": "anise.json"
+        },
+        {
+            "Query": "What are some common dishes that use anise seeds and what cuisines do they belong to?",
+            "Gold Answer": "Common dishes that use anise seeds include Algerian Habet Hlawa (an anise beverage) and Italian Anise Bread (Penia). These dishes belong to Mediterranean and Middle Eastern cuisines, with Habet Hlawa originating from Algeria and Anise Bread being a traditional Italian bread. The seeds are often dried and ground for use in cooking, and they can also be used in stir-fries and as an herb.",
+            "Source/Reference": "anise.json"
+        }
+    ]
+}

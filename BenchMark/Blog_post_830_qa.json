@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_830.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical base used for most meals in Western African cuisine?",
+            "Gold Answer": "In Western African cuisine, most meals start with a base of tomatoes, onions, and chillies, which is then built upon with whatever ingredients are to hand.",
+            "Source": "post_830.json"
+        },
+        {
+            "Query": "Why is plain water considered culturally important in Western Africa?",
+            "Gold Answer": "In Western African cuisine, plain water is one of the most culturally important drinks, especially in drought-stricken areas, because it has ceremonial significance and is customarily the first thing offered to guests.",
+            "Source": "post_830.json"
+        },
+        {
+            "Query": "Which countries are in dispute over the origin of Jollof rice, a dish in Western African cuisine?",
+            "Gold Answer": "In Western African cuisine, Nigeria and Ghana are in dispute over the origin of Jollof rice, as well as which country's recipe and presentation is superior, even organizing internationally-judged competitions to settle the argument.",
+            "Source": "post_830.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\bengal_potatoes.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine region does the Bengal Potatoes recipe belong to?",
+            "Gold Answer": "The Bengal Potatoes recipe belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bengal_Potatoes"
+        },
+        {
+            "Query": "What type of chile powder is recommended for Bengal Potatoes and why?",
+            "Gold Answer": "Kashmiri chile (preferably not too hot) is recommended for Bengal Potatoes in South Asian cuisine to avoid an overly spicy flavor, as the recipe specifies that the chile powder should be mild.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bengal_Potatoes"
+        },
+        {
+            "Query": "How can the potatoes be cooked in the Bengal Potatoes recipe?",
+            "Gold Answer": "In South Asian cuisine, the potatoes can be cooked by either (1) covering the pan with a lid, reducing the heat, and allowing the potatoes to cook in their own steam until tender (with minimal water added if necessary), or (2) transferring the spiced potatoes to a hot oven until cooked through.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Bengal_Potatoes"
+        }
+    ]
+}

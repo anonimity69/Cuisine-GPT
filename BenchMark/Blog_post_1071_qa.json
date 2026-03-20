@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1071.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "What is considered the national dish of Trinidad and Tobago according to the text?",
+                "Gold Answer": "Crab and callaloo is considered the national dish of Trinidad and Tobago, a soup made from stewed indigenous leaf vegetables (such as amaranth, taro, or xanthosome) combined with onion, garlic, scotch bonnet peppers, coconut milk, thyme, and okra, and typically served with crab. This dish has roots in the 16th century and is a vibrant example of Caribbean cuisine.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/09/25/67-the-caribbean/"
+            },
+            {
+                "Query": "What is the origin story of the dish 'Doubles' in Trinidad and Tobago?",
+                "Gold Answer": "Doubles originated in Trinidad and Tobago as a street food created by an entrepreneur named Mamoodeen. The dish began when Mamoodeen sold curried chickpeas on a single 'bara' (a type of flatbread), but customers often requested a second 'bara' to form the dish. It is now a popular dish consisting of two portions of curried chickpeas served with rice and vegetables, and is a key example of Caribbean street food culture.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/09/25/67-the-caribbean/"
+            },
+            {
+                "Query": "What is 'Goat water' and what health benefits does it provide?",
+                "Gold Answer": "Goat water is a traditional dish from Montserrat in the Caribbean, made by cooking goat meat with vegetables such as potatoes, carrots, squash, and unripe plantains, along with spices like allspice, garlic, thyme, and scotch bonnet peppers. It is often served with rice or soft dumplings. Health benefits of goat water include being lower in calories, saturated fat, and cholesterol compared to many common meats, higher in protein than beef, and rich in iron and various vitamins. Additionally, goats require less pasture area than cows, making them a sustainable meat source for future environmental challenges.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/09/25/67-the-caribbean/"
+            }
+        ]
+    }
+}

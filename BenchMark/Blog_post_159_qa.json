@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_159.json",
+    "qna_pairs": {
+        "queries": [
+            {
+                "query": "What are the key differences in eating habits between North and South India?",
+                "answer": "The people of the north, living in a drier, colder climate with more pasture and less sea access, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes, and pulses. In the north, sourness is imparted using amchoor (a dry mango powder) and pre-mixed dry spice powders are used for flavouring, whereas the south prefers tamarind and roasts spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East.",
+                "source": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/24/6-northern-india/"
+            },
+            {
+                "query": "What is the historical origin of samosas and how are they related to North Indian cuisine?",
+                "answer": "Samosas are thought to have originated in the Middle East and then spread via merchants to Africa, Southeast Asia, South Asia, and Central Asia, with an estimated arrival in India between 1200 and 1302 AD. They are a typical North Indian appetiser made with a dough of plain wheat flour, oil, and water, rolled thin, and filled with mashed potato and vegetables mixed with Indian spices.",
+                "source": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/24/6-northern-india/"
+            },
+            {
+                "query": "How does North Indian cuisine differ from South Indian cuisine in terms of spice usage and staple ingredients?",
+                "answer": "In North Indian cuisine, sourness is imparted using amchoor (a dry mango powder) and pre-mixed dry spice powders are used for flavouring, whereas South Indian cuisine prefers tamarind and roasts spices fresh for each meal. The north consumes more wheat than rice as their staple carbohydrate, more meat and less seafood, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries, more coconut, vegetarian dishes, and pulses.",
+                "source": "https://aroundtheworldin80cuisinesblog.wordpress.com/2017/04/24/6-northern-india/"
+            }
+        ]
+    }
+}

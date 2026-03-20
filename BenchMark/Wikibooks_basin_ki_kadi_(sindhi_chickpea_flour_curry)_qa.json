@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\basin_ki_kadi_(sindhi_chickpea_flour_curry).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type for Basin Ki Kadi?",
+            "Gold Answer": "Basin Ki Kadi is a Sindhi Chickpea Flour Curry that belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basin_Ki_Kadi_(Sindhi_Chickpea_Flour_Curry)"
+        },
+        {
+            "Query": "What are the key ingredients in Basin Ki Kadi?",
+            "Gold Answer": "Basin Ki Kadi, a South Asian dish, uses key ingredients such as oil, cumin seeds, mustard seeds, curry leaves, chiles, besan (chickpea flour), water, coriander leaves, tomatoes, salt, red chile powder, and turmeric.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basin_Ki_Kadi_(Sindhi_Chickpea_Flour_Curry)"
+        },
+        {
+            "Query": "How is Basin Ki Kadi traditionally served?",
+            "Gold Answer": "Basin Ki Kadi is traditionally served hot with white rice and fried potatoes, making it a popular South Asian curry dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Basin_Ki_Kadi_(Sindhi_Chickpea_Flour_Curry)"
+        }
+    ]
+}

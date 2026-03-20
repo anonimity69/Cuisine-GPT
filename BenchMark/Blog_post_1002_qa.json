@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1002.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "What countries does the author classify under the East Balkan Peninsula?",
+                "Gold Answer": "The author classifies the East Balkan Peninsula as including Albania (despite being situated on the west), Bulgaria, Moldova, and Romania. This classification is based on the fact that Albania is not part of former Yugoslavia and shares culinary similarities with these countries, resulting in a distinct regional cuisine that is a blend of Mediterranean, Slavic, and Middle Eastern influences.",
+                "Source/Reference": "post_1002.json"
+            },
+            {
+                "Query": "What is the historical origin of Tave kosi and what are its key ingredients?",
+                "Gold Answer": "Tave kosi is a casserole dish from Albania, widely regarded as the national dish of the East Balkan cuisine. It is made with slow-cooked lamb chunks, garlic, oregano, rice, and a topping of plain yoghurt (traditionally made from goat or sheep milk) mixed with beaten eggs and a roux (butter and flour). Historically, it originated in the 1400s when the Ottoman Sultan Memed discovered it during a siege in Elbasan.",
+                "Source/Reference": "post_1002.json"
+            },
+            {
+                "Query": "What is the cultural significance of banitsa in Bulgarian tradition?",
+                "Gold Answer": "Banitsa is a traditional Bulgarian pastry that holds cultural significance as the vehicle for 'kusmeti' (lucky charms) placed inside the pie. This practice is especially common around Christmas and New Year's Eve in the East Balkan cuisine, where kusmeti can include coins, pieces of dogwood branch (symbolizing health), or written notes folded in aluminum foil. Each family member takes a piece to discover their fortunes for the coming year, with common predictions including health, wealth, baby, and love.",
+                "Source/Reference": "post_1002.json"
+            }
+        ]
+    }
+}

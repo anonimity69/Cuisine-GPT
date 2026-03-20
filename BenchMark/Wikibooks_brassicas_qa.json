@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\brassicas.json",
+    "qna_pairs": [
+        {
+            "Query": "What are Brassicas?",
+            "Gold Answer": "Brassicas are a large group of vegetables (cuisine type: vegetables) that are also known as cruciform vegetables because the leaves of a seedling form a cross.",
+            "Source/Reference": "brassicas.json"
+        },
+        {
+            "Query": "What are the common examples of Brassicas?",
+            "Gold Answer": "Common examples of Brassicas include kale, cabbage, collard greens, broccoli, cauliflower, gai-lan, Brussels sprouts, kohlrabi, broccolini, broccoflower (from *Brassica oleracea*), Napa cabbage, turnip, rapini, komatsuna, bok choy, broccoli rabe (from *Brassica rapa*), Asian mustard (from *Brassica tournefortii*), rapeseed and canola (from *Brassica napus*), and Indian mustard (from *Brassica juncea*).",
+            "Source/Reference": "brassicas.json"
+        },
+        {
+            "Query": "What is the typical flavor characteristic of Brassicas when cooked?",
+            "Gold Answer": "Several, though not all, Brassicas have a bitter or peppery flavor, and when browned, many develop a sweet, nutty flavor. However, overcooking can lead to unpleasant sulfurous flavors.",
+            "Source/Reference": "brassicas.json"
+        }
+    ]
+}

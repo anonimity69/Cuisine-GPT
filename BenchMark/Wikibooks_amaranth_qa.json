@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\amaranth.json",
+    "qna_pairs": [
+        {
+            "Query": "In what Caribbean dish are amaranth leaves traditionally used?",
+            "Gold Answer": "Amaranth leaves are traditionally used in pepperpot soup in Caribbean cuisine.",
+            "Source/Reference": "amaranth.json"
+        },
+        {
+            "Query": "How is amaranth commonly consumed in West African cuisine?",
+            "Gold Answer": "In West African cuisine, amaranth leaves are frequently eaten in soups or alongside cooked starches.",
+            "Source/Reference": "amaranth.json"
+        },
+        {
+            "Query": "What is the Vietnamese name for amaranth leaves?",
+            "Gold Answer": "The Vietnamese name for amaranth leaves is 'rau dền' in Vietnamese cuisine.",
+            "Source/Reference": "amaranth.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\avocado.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine category commonly uses avocados as a meat substitute?",
+            "Gold Answer": "Avocados are very popular in vegetarian cuisine, making a good substitute for meats and cheeses in sandwiches because of their high fat content.",
+            "Source/Reference": "avocado.json"
+        },
+        {
+            "Query": "What is the typical peak season for avocados, and which cuisine type benefits from their use?",
+            "Gold Answer": "Nearly all avocado varieties reach their peak season around spring, and they are commonly used in vegetarian cuisine.",
+            "Source/Reference": "avocado.json"
+        },
+        {
+            "Query": "How do avocado varieties differ based on their growing conditions?",
+            "Gold Answer": "Avocado varieties grown in dry areas have a rough dark skin which may be almost black and are creamier, while those grown in wet areas have a bright green skin and are larger; both are used in vegetarian cuisine.",
+            "Source/Reference": "avocado.json"
+        }
+    ]
+}

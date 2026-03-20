@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Blog\\post_435.json",
+    "qna_pairs": [
+        {
+            "query": "What is Pabellón criollo and what are its key ingredients?",
+            "answer": "Pabellón criollo is a national dish of Venezuelan cuisine, consisting of rice, stewed black beans with onions and capsicum, and shredded beef. Variations include \"con barandas\" (fried plantain bananas) and \"a caballo\" (fried egg on top).",
+            "source": "post_435.json"
+        },
+        {
+            "query": "What challenges did the author face in sourcing the correct corn meal for Venezuelan arepas in Brisbane?",
+            "answer": "The author encountered difficulties distinguishing between different types of corn flour (e.g., polenta, teff flour, and arepa flour) and struggled to find the coarse corn meal required for Venezuelan arepas, eventually sourcing it from a Latin-American deli.",
+            "source": "post_435.json"
+        },
+        {
+            "query": "How do hallacas reflect the cultural and culinary influences of Venezuela, particularly during Christmas?",
+            "answer": "Hallacas are a traditional Venezuelan Christmas dish that embodies the fusion of indigenous (corn and anatto), European (olives, raisins, and spices), and African (banana leaves) influences, traditionally made as a family bonding activity to freeze and consume throughout the new year.",
+            "source": "post_435.json"
+        }
+    ]
+}

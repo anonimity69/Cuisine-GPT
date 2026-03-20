@@ -1,0 +1,22 @@
+{
+    "source": "Data\\Blog\\post_1102.json",
+    "qna_pairs": {
+        "result": [
+            {
+                "Query": "What is the primary difference between Northern and Southern Mexican cuisine as described in the blog post?",
+                "Gold Answer": "Northern Mexican cuisine is characterized by a drier climate and grassy plains that support ranch culture and the production of wheat, beef, and dairy (especially cheeses), whereas Southern Mexican cuisine is rich in corn-based products. This division is part of the broader Mexican culinary tradition.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/10/27/70-northern-mexico/"
+            },
+            {
+                "Query": "What historical background does the blog post mention for the origin of pozole, and what is the green variety (pozole verde) made with?",
+                "Gold Answer": "The blog post states that pozole has roots in Aztec cuisine, where it was originally made with hominy and meat that, in some historical accounts, was thought to be human flesh from sacrificial victims. The green variety (pozole verde) is made with tomatillos, jalape\u00f1os, and cilantro, and it is a dish that has been adapted by Spanish colonists (with pork substituted for human flesh in the historical context). This dish is part of the Mexican cuisine tradition.",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/10/27/70-northern-mexico/"
+            },
+            {
+                "Query": "According to the blog post, where did the Caesar salad originate and what is its connection to Mexican cuisine?",
+                "Gold Answer": "The Caesar salad originated in Mexico in 1924, created by an Italian immigrant named Caesar Cardini. The blog post connects it to the Baja California region of Mexico, which is part of the broader Mexican culinary tradition and features dishes such as fish tacos and stuffed clams (almejas brujas).",
+                "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2018/10/27/70-northern-mexico/"
+            }
+        ]
+    }
+}

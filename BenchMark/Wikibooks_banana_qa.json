@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\banana.json",
+    "qna_pairs": [
+        {
+            "query": "In which months are bananas typically available in the northern hemisphere?",
+            "answer": "Bananas are a fruit (category: Fruits) that are available fresh all year in the northern hemisphere.",
+            "source": "banana.json"
+        },
+        {
+            "query": "What are the key nutritional benefits of bananas?",
+            "answer": "Bananas are a fruit (category: Fruits) that are nutrient-dense and provide potassium, calcium, carotene, vitamin C, and vitamin B6. A medium banana has about 110 calories (460 kilojoules) and helps prevent both constipation and diarrhea.",
+            "source": "banana.json"
+        },
+        {
+            "query": "What is the best method to store bananas long-term without significant loss of quality?",
+            "answer": "Bananas are a fruit (category: Fruits) that can be stored long-term by freezing them either in the peel or peeled in an airtight bag/container. When frozen, the banana peel will turn dark brown but the inside remains unaffected. Avoid refrigerating bananas.",
+            "source": "banana.json"
+        }
+    ]
+}

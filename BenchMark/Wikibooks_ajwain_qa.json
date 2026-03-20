@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\ajwain.json",
+    "qna_pairs": [
+        {
+            "Query": "In which cuisines is Ajwain commonly used?",
+            "Gold Answer": "South Asian, Middle Eastern, and North/East African cooking.",
+            "Source/Reference": "The Spruce Eats"
+        },
+        {
+            "Query": "What are the alternative names for Ajwain?",
+            "Gold Answer": "Ajwain is also known as ajowan, carom seeds, and oregano, and it is commonly used in South Asian, Middle Eastern, and North/East African cooking.",
+            "Source/Reference": "The Spruce Eats"
+        },
+        {
+            "Query": "How is Ajwain typically prepared before use in cooking?",
+            "Gold Answer": "Ajwain is typically either toasted or oil-fried before use, and it is commonly used in South Asian, Middle Eastern, and North/East African cooking.",
+            "Source/Reference": "The Spruce Eats"
+        }
+    ]
+}

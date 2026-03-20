@@ -1,0 +1,8 @@
+{
+    "source": "Data\\Blog\\post_1081.json",
+    "qna_pairs": {
+        "Query": "What is the national dish of Malaysia?",
+        "Gold Answer": "Nasi lemak is frequently touted as Malaysia's national dish, thought to be Malay in origin. It is a dish of jasmine rice steamed with coconut milk and aromatics such as pandan leaf, lemongrass and ginger, served with accompaniments like hard-boiled egg, ikan bilis (fried anchovies), sambal (a spicy and slightly-sweet chilli sauce), sliced cucumber and roasted peanuts. This dish is part of Malaysian cuisine.",
+        "Source/Reference": "https://aroundtheworldin80cuisinesblog.wordpress.com/2:2018/10/06/68-malaysia/"
+    }
+}
