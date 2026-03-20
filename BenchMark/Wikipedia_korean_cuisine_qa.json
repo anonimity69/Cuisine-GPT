@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\korean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the common ingredients used in Korean cuisine?",
+            "Gold Answer": "Commonly used ingredients include sesame oil, doenjang (fermented bean paste), soy sauce, salt, garlic, ginger, gochugaru (pepper flakes), gochujang (fermented red chili paste) and napa cabbage.",
+            "Source/Reference": "korean_cuisine.json"
+        },
+        {
+            "Query": "What are the main categories of Korean food?",
+            "Gold Answer": "Korean foods can be largely categorized into groups of 'main staple foods' (주식), 'subsidiary dishes' (부식), and 'dessert' (후식).",
+            "Source/Reference": "korean_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Korean and Western beers?",
+            "Gold Answer": "Korean beers are brewed from rice, rather than barley, making them lighter, sweeter and having less head than Western beers.",
+            "Source/Reference": "korean_cuisine.json"
+        }
+    ]
+}

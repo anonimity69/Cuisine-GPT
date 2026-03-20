@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\korean_royal_court_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the name of the style of cookery traditionally consumed at the court of the Joseon Dynasty?",
+            "Gold Answer": "Korean royal court cuisine",
+            "Source/Reference": "korean_royal_court_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the room where the king and queen would take meals in the royal palace?",
+            "Gold Answer": "surakan (수라간)",
+            "Source/Reference": "korean_royal_court_cuisine.json"
+        },
+        {
+            "Query": "How many side dishes were traditionally served with the meals in the royal palace?",
+            "Gold Answer": "twelve (12)",
+            "Source/Reference": "korean_royal_court_cuisine.json"
+        }
+    ]
+}

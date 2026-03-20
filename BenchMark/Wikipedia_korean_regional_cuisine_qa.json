@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\korean_regional_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the eight provinces of Korea's administrative districts during the Joseon period?",
+            "Gold Answer": "The eight provinces consisted of the Hamgyong, Pyongan, and Hwanghae Provinces in the northern region, the Gyeonggi, Chungcheong, and Kangwon provinces in the central region, and the Gyeongsang and Jeolla Provinces in the southern region.",
+            "Source/Reference": "korean_regional_cuisine.json"
+        },
+        {
+            "Query": "What has happened to Korean regional cuisines in terms of transportation networks and foreign influences?",
+            "Gold Answer": "Korean regional cuisines have tended to overlap and integrate due to the modern development of transportation and the introduction of foreign foods.",
+            "Source/Reference": "korean_regional_cuisine.json"
+        },
+        {
+            "Query": "Why are there differences in local specialty foodstuffs in Korean regional cuisine?",
+            "Gold Answer": "Geographic differences are reflected by the local specialty foodstuffs depending on the climate and types of agriculture, as well as the natural foods available.",
+            "Source/Reference": "korean_regional_cuisine.json"
+        }
+    ]
+}

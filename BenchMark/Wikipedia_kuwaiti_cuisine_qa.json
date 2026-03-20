@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kuwaiti_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is commonly associated with Kuwaiti dishes?",
+            "Gold Answer": "Kuwaiti cuisine is an amalgamation of primarily Arabian and Iranian, with modern influences from Indian.",
+            "Source/Reference": "kuwaiti_cuisine.json"
+        },
+        {
+            "Query": "What is a national dish in Kuwait?",
+            "Gold Answer": "Mutabbaq samak is a national dish in Kuwait. It is a dish made with fish served over rice, cooked in well-spiced fish stock.",
+            "Source/Reference": "kuwaiti_cuisine.json"
+        },
+        {
+            "Query": "What type of flatbread is commonly served in Kuwaiti cuisine?",
+            "Gold Answer": "Khubz is a traditional flatbread baked in a special oven and is often topped with sesame seeds.",
+            "Source/Reference": "kuwaiti_cuisine.json"
+        }
+    ]
+}

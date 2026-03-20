@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\regional_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What defines regional cuisine?",
+            "Gold Answer": "Regional cuisine is cuisine based upon national, state or local regions. Regional cuisines may vary based upon food availability and trade, varying climates, cooking traditions and practices, and cultural differences.",
+            "Source/Reference": "regional_cuisine.json"
+        },
+        {
+            "Query": "What is traditional cuisine?",
+            "Gold Answer": "A traditional cuisine is a coherent tradition of food preparation that rises from the daily lives and kitchens of a people over an extended period in a specific region of a country, or a specific country, and which, when localized, has notable distinctions from the cuisine of the country as a whole.",
+            "Source/Reference": "regional_cuisine.json"
+        },
+        {
+            "Query": "Why are regional cuisines unique?",
+            "Gold Answer": "Regional cuisines are often unique due to the combination of regional food preparation traditions, customs and ingredients.",
+            "Source/Reference": "regional_cuisine.json"
+        }
+    ]
+}

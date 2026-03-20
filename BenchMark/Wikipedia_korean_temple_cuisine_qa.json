@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\korean_temple_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some famous Korean temple cuisine dishes?",
+            "Gold Answer": "Baek kimchi (white kimchi), bossam kimchi (boiled and wrapped kimchi), gosu kimchi (coriander kimchi), godeulppagi kimchi (kimchi made with Youngia sonchifolia), gat kimchi (kimchi made with Brassica juncea var. integrifolia), and juksun kimchi (bamboo shoot kimchi) are famous in Buddhist temples of Korea.",
+            "Source/Reference": "korean_temple_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of garlic, scallions, and jeotgal in Korean temple cuisine?",
+            "Gold Answer": "Garlic, scallions, and jeotgal are generally avoided in Korean temple cuisine as foods in the genus Allium are often avoided by traditional Buddhist monks and nuns of China, Korea, Vietnam, Japan, and India.",
+            "Source/Reference": "korean_temple_cuisine.json"
+        },
+        {
+            "Query": "What are some famous dishes of the Tongdosa temple in South Gyeongsang Province?",
+            "Gold Answer": "Some famous dishes of the Tongdosa temple include dureup muchim (sauteed shoots of Aralia elata), pyeogobap (shiitake rice), nokdu chalpyeon (steamed tteok), kimchi, saengchae (cold salad), twigak (fried dish), and jeon (pancake) made with young shoots of Toona sinensis.",
+            "Source/Reference": "korean_temple_cuisine.json"
+        }
+    ]
+}

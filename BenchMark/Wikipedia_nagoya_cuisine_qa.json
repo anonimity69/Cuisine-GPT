@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\nagoya_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a type of noodle commonly eaten in Nagoya?",
+            "Gold Answer": "Kishimen: Flat udon noodles with a slippery texture, dipped in a light soy sauce soup and with sliced leek or other toppings.",
+            "Source/Reference": "nagoya_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kerala_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the spices commonly used in Kerala cuisine?",
+            "Gold Answer": "Chillies, curry leaves, coconut, mustard seeds, turmeric, tamarind, asafoetida and other spices are used in Kerala cuisine.",
+            "Source/Reference": "kerala_cuisine.json"
+        },
+        {
+            "Query": "What does Kerala cuisine typically include?",
+            "Gold Answer": "Kerala cuisine includes both vegetarian and non-vegetarian dishes prepared using fish, poultry and red meat, with rice as a typical accompaniment.",
+            "Source/Reference": "kerala_cuisine.json"
+        },
+        {
+            "Query": "Why is Kerala referred to as the \"Land of Spices\"?",
+            "Gold Answer": "Kerala is known as the \"Land of Spices\" because it traded spices with Europe as well as with many ancient civilizations, with the oldest historical records of the Sumerians from 3000 BCE.",
+            "Source/Reference": "kerala_cuisine.json"
+        }
+    ]
+}

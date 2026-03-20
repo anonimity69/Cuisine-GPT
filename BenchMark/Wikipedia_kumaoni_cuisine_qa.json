@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kumaoni_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the nature of Kumauni cuisine?",
+            "Gold Answer": "Kumauni cuisine is simple and nutritious, suited to the harsh environment of the Himalayas.",
+            "Source/Reference": "kumaoni_cuisine.json"
+        },
+        {
+            "Query": "What types of pulses are commonly used in Kumauni cuisine?",
+            "Gold Answer": "Pulses like gouhat (or kulath, a local type of bean) are fashioned into different preparations like, Kumaoni raitaa, Bal Mithai, ras bhaat, chain, faanda and thatwaani.",
+            "Source/Reference": "kumaoni_cuisine.json"
+        },
+        {
+            "Query": "How does meat preparation differ in Kumaoni cuisine compared to North Indian cuisine?",
+            "Gold Answer": "Meat is also prepared but the recipe is quite similar to the way it is prepared in most of North India, only the gravy is thinner.",
+            "Source/Reference": "kumaoni_cuisine.json"
+        }
+    ]
+}

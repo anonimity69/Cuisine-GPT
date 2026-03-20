@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\okinawan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common dishes in modern Okinawan cuisine?",
+            "Gold Answer": "Some common dishes in modern Okinawan cuisine include Chanpurü (Okinawan stir fry), Jůshī (noodle soup), Rafute (stewed pork belly), Taco rice, Minudaru (steamed pork), and Keihan (chicken rice). Side dishes include Mimigá (pig's ear), Umi-budō (seafood soup), and Naaberaa Nbushii (miso-flavored luffa stir-fry). Alcoholic beverages like Awamori and Orion beer are also popular.",
+            "Source/Reference": "okinawan_cuisine.json"
+        }
+    ]
+}

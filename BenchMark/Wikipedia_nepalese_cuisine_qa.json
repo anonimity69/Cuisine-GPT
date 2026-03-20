@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\nepalese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the national dish of Nepal?",
+            "Gold Answer": "Dhindo, primarily made from flour of millet and is served with achar of gundruk 'dried spinach'",
+            "Source/Reference": "nepalese_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the popular Nepali dumpling?",
+            "Gold Answer": "Momo is a Himalayan dumpling, filled with minced meat in a flour dough, given different shapes and then cooked by steaming",
+            "Source/Reference": "nepalese_cuisine.json"
+        },
+        {
+            "Query": "What is the typical Nepali dessert eaten during festivals?",
+            "Gold Answer": "Sel roti is a traditional Nepali homemade ring-shaped rice bread which is sweet to taste, and is eaten during festivals such as Tihar",
+            "Source/Reference": "nepalese_cuisine.json"
+        }
+    ]
+}

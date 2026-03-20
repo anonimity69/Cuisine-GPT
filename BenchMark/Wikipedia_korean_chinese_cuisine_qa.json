@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\korean_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between Korean-Chinese cuisine and Chinese cuisine?",
+            "Gold Answer": "Korean-Chinese cuisine consists of unique dishes with Korean flavors and ingredients, making it a hybrid cuisine. Despite originally being derived from Chinese cuisine, Korean-Chinese cuisine has its own distinct characteristics.",
+            "Source/Reference": "korean_chinese_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\list_of_plants_used_in_indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Indian cuisine predominantly?",
+            "Gold Answer": "Indian cuisine is overwhelmingly vegetarian friendly and employs a variety of different fruits, vegetables, grains, and spices which vary in name from region to region within the country.",
+            "Source/Reference": "list_of_plants_used_in_indian_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the South Indian dish commonly served in limited Indian restaurants?",
+            "Gold Answer": "Some South Indian dishes like Dosa are commonly served in limited Indian restaurants.",
+            "Source/Reference": "list_of_plants_used_in_indian_cuisine.json"
+        },
+        {
+            "Query": "Why is it confusing to identify specific Indian ingredients for international consumers?",
+            "Gold Answer": "The variety of region-specific names used for identifying the food items can be mind-boggling for international consumers/expatriates, especially when the food suppliers/packagers mostly use sub-ethnic, region-specific item/ingredient names on the respective signs/labels.",
+            "Source/Reference": "list_of_plants_used_in_indian_cuisine.json"
+        }
+    ]
+}

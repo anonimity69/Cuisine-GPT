@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\madurese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the Madurese cuisine known for in Indonesia?",
+            "Gold Answer": "The Madurese cuisine is known for its salty flavor, being a leading salt production center in the Indonesian archipelago, and has significant Javanese influences.",
+            "Source/Reference": "madurese_cuisine.json"
+        },
+        {
+            "Query": "What is petis ikan made of?",
+            "Gold Answer": "Petis ikan is made from shrimp, despite its name indicating it's made from fish.",
+            "Source/Reference": "madurese_cuisine.json"
+        },
+        {
+            "Query": "What is the most popular satay variant in Indonesia?",
+            "Gold Answer": "The Madurese-style satay is probably the most popular satay variant in Indonesia.",
+            "Source/Reference": "madurese_cuisine.json"
+        }
+    ]
+}

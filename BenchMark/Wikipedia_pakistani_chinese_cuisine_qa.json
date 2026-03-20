@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\pakistani_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Pakistani Chinese cuisine?",
+            "Gold Answer": "Pakistani Chinese cuisine is a style and variations of Chinese cuisine that are cooked and consumed in Pakistan. It has a history going back to the 1930s and is a blend of Chinese cooking with Pakistani style influences.",
+            "Source/Reference": "pakistani_chinese_cuisine.json"
+        }
+    ]
+}

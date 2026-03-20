@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\lahori_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Lahore cuisine a part of?",
+            "Gold Answer": "Lahore cuisine is a part of regional Punjabi cuisine.",
+            "Source/Reference": "lahori_cuisine.json"
+        },
+        {
+            "Query": "What is Gosht karahi cooked with?",
+            "Gold Answer": "Gosht karahi is cooked with a spicy tomato-based gravy.",
+            "Source/Reference": "lahori_cuisine.json"
+        },
+        {
+            "Query": "What is Murgh Cholay/Channay cooked with?",
+            "Gold Answer": "Murgh Cholay/Channay is cooked with chickpeas.",
+            "Source/Reference": "lahori_cuisine.json"
+        }
+    ]
+}

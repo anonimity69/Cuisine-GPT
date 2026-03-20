@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\maharashtrian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some popular desserts in Maharashtrian cuisine?",
+            "Gold Answer": "Some popular desserts in Maharashtrian cuisine include puran poli with stuffed lentil and jaggery mix, shrikhand made from strained yogurt, basundi made from evaporated milk, semolina and sugar-based kheer, and steamed dumplings called modak, which are often prepared during special occasions such as festivals.",
+            "Source/Reference": "maharashtrian_cuisine.json"
+        }
+    ]
+}

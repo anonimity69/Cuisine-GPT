@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\kalash_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some ingredients commonly found in Kalash traditional dishes?",
+            "Gold Answer": "Foods such as apricots, grapes, mulberries, walnuts and wheat are commonly used in Kalash traditional dishes.",
+            "Source/Reference": "kalash_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\levantine_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a typical Levantine dish?",
+            "Gold Answer": "A typical Levantine dish is often a mezze, a small dish, or a main dish, which can include items such as ful medames, hummus, tabbouleh, and kibbeh.",
+            "Source/Reference": "levantine_cuisine.json"
+        },
+        {
+            "Query": "What is the history of Levantine cuisine?",
+            "Gold Answer": "The history of Levantine cuisine can be traced back to the early civilizations that flourished in the region, such as the Arameans, Canaanites, Israelites, Phoenicians, Hittites, and Arabians. These ancient cultures developed complex agricultural systems, producing grains, legumes, fruits, and vegetables that would become staples of the Levantine diet.",
+            "Source/Reference": "levantine_cuisine.json"
+        },
+        {
+            "Query": "What is a Levantine sweet pastry?",
+            "Gold Answer": "A Levantine sweet pastry is a dessert made with shredded filo and melted cheese soaked in a sugary syrup, commonly known as knafeh.",
+            "Source/Reference": "levantine_cuisine.json"
+        }
+    ]
+}

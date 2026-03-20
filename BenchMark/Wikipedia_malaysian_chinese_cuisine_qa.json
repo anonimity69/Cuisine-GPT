@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\malaysian_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Hakka mee?",
+            "Gold Answer": "Hakka mee is a simple dish of noodles topped with a ground meat gravy, with its origins in Dabu County (Chinese: 大埔县), the center of Hakka culture in mainland China.",
+            "Source/Reference": "malaysian_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Penang Hokkien mee and Hokkien char mee?",
+            "Gold Answer": "Penang Hokkien mee, also known as hae mee in other parts of Malaysia, is a noodle soup with yellow and rice noodles immersed in a spicy stock made from prawns and pork, while Hokkien char mee is a dish of thick yellow noodles braised, fried with thick black soy sauce and added with crispy lardons.",
+            "Source/Reference": "malaysian_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is Kolo mee or mee kolok?",
+            "Gold Answer": "Kolo mee or mee kolok is a dish of springy egg noodles tossed in a sweet and savoury shallot, lard and vinegar dressing, and topped with seasoned minced pork and char siu.",
+            "Source/Reference": "malaysian_chinese_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\palembang_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of fish are commonly used in Palembangese cuisine?",
+            "Gold Answer": "Palembangese cuisine primarily uses freshwater fish such as patin (Pangasius), baung (Hemibagrus), lais (Kryptopterus cryptopterus), lele (catfish), gabus (snakehead), mas (carp) and gurame (gourami).",
+            "Source/Reference": "palembang_cuisine.json"
+        },
+        {
+            "Query": "What is the typical flavor profile of Palembangese cuisine?",
+            "Gold Answer": "Palembang cuisine is noted for its preference to the sour and sweet flavour. Examples include pindang fish soup, funky-smelled tempoyak-based dish made from fermented durian, and also kuah cuko spicy sweet vinegar sauce of pempek fishcake.",
+            "Source/Reference": "palembang_cuisine.json"
+        },
+        {
+            "Query": "What are some popular dishes in Palembangese cuisine?",
+            "Gold Answer": "Examples of Palembang's favourite dishes include Pempek, Tekwan, Model, Laksan, Celimpungan, Mie Celor, Burgo, Lakso, Ragit, Martabak HAR, Nasi gemuk, Nasi minyak, Pindang Patin, Pindang Tulang, Malbi, Tempoyak, Brengkes Tempoyak Ikan Patin, Otak-otak, and various sweets such as Kue Maksuba, Kue Delapan Jam, Kue Bolu Kojo, Kue Srikayo, Engkak Ketan, and Gulo Puan.",
+            "Source/Reference": "palembang_cuisine.json"
+        }
+    ]
+}

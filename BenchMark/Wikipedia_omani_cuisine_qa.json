@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\omani_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some key ingredients in Omani cuisine?",
+            "Gold Answer": "Omani cuisine is based on chicken, fish, and lamb, as well as the staple of rice. Most dishes contain a rich mixture of spices, herbs, and marinades.",
+            "Source/Reference": "omani_cuisine.json"
+        }
+    ]
+}

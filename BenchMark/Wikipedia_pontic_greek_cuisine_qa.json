@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\pontic_greek_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common way of serving food among Pontians?",
+            "Gold Answer": "Families in rural Pontos ate around low wooden tables. Pontians also served food in deep copper plates, specifically called shahan.",
+            "Source/Reference": "pontic_greek_cuisine.json"
+        }
+    ]
+}

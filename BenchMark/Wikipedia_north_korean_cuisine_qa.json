@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\north_korean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Korean sweet dish?",
+            "Gold Answer": "Yakpap is a traditional sweet dish prepared using steamed glutinous rice, chestnuts, dates, honey and other ingredients.",
+            "Source/Reference": "north_korean_cuisine.json"
+        }
+    ]
+}

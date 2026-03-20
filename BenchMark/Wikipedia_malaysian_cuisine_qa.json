@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\malaysian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the most common ingredients in Malaysian cuisine?",
+            "Gold Answer": "Chilli peppers, belacan, coconut, soy sauce, lemongrass, pandan, turmeric, and dried seafood products are essential ingredients in Malaysian cuisine.",
+            "Source/Reference": "malaysian_cuisine.json"
+        },
+        {
+            "Query": "What are some popular desserts in Malaysian cuisine?",
+            "Gold Answer": "Malaysian desserts often feature coconut milk, gula melaka, and pandan leaves, with popular desserts including agar agar, ais kacang, aiskrim potong, batik cake, bolu cocu, bubur cha cha, bubur kacang hijau, bubur pulut hitam, cendol, and dodol.",
+            "Source/Reference": "malaysian_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of belacan in Malaysian cuisine?",
+            "Gold Answer": "Belacan is a type of shrimp paste that is essential to Malaysian cooking, with its pungent smell and flavor mellowing when cooked, and is often used to make sambal belacan, a popular relish in Malaysia.",
+            "Source/Reference": "malaysian_cuisine.json"
+        }
+    ]
+}

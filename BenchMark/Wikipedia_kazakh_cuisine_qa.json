@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\kazakh_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What traditional drinks are consumed in Kazakhstan?",
+            "Gold Answer": "Traditional drinks include fermented mare's milk (qymyz), camel's milk (shubat), cow's milk (ayran), and sheep's milk, as well as their products qaymaq (sour cream), qatyq or ayran (buttermilk), qurt (which is made from dried cheese and whey rolled into balls), and irimshik (dried sour milk product similar to qurt, but not rolled into balls).",
+            "Source/Reference": "kazakh_cuisine.json"
+        }
+    ]
+}

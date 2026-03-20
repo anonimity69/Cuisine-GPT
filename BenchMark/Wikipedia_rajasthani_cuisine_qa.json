@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\rajasthani_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular Rajasthani dessert made by deep frying batter of wheat flour in ghee and then soaking it in sugar syrup?",
+            "Gold Answer": "Ghevar is a honeycombed shaped cake made by deep frying batter of wheat flour in ghee and then soaking it in sugar syrup.",
+            "Source/Reference": "rajasthani_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional Ayurvedic barley based drink that is commonly prepared on Mekh Sakrant festival?",
+            "Gold Answer": "Sattu Panna is a traditional Ayurvedic barley based drink which is also commonly prepared on Mekh Sakrant festival.",
+            "Source/Reference": "rajasthani_cuisine.json"
+        },
+        {
+            "Query": "What is a popular Rajasthani drink made with tamarind pulp, perked up with spices like pepper and cardamom?",
+            "Gold Answer": "Amlana is a Rajasthani beverage prepared with tamarind pulp, perked up with spices like pepper and cardamom.",
+            "Source/Reference": "rajasthani_cuisine.json"
+        }
+    ]
+}

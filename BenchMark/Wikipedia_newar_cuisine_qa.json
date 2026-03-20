@@ -1,0 +1,15 @@
+{
+    "source": "Data\\Wikipedia\\newar_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the Newa cuisine recognized as in South Asia?",
+            "Gold Answer": "Newa cuisine is recognized as one of the oldest food cultures in South Asia.",
+            "Source/Reference": "newar_cuisine.json"
+        },
+        {
+            "Query": "What dishes are typically served in a 'Jā Neu/जा नेउ' meal?",
+            "Gold Answer": "Daily meals in Newa cuisine are commonly referred to as 'Jā Neu/जा नेउ' or 'Newa Thali' (also known as 'Newa Jā Bhu/जा भु'). These meals typically consist of Taichin rice, lentil soup, a variety of green vegetables, assorted vegetable dishes, and meat items, accompanied by pickles.",
+            "Source/Reference": "newar_cuisine.json"
+        }
+    ]
+}

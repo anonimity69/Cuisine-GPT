@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\meghalayan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple carbohydrate in Meghalayan cuisine?",
+            "Gold Answer": "Rice is the staple carbohydrate in Meghalayan cuisine, accompanied by foraged vegetables and fermented dishes.",
+            "Source/Reference": "meghalayan_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of potato in Meghalayan cuisine?",
+            "Gold Answer": "Potato was introduced to Meghalaya by the British colonialism to feed its bureaucracy and military, and has since become an important part of the cuisine.",
+            "Source/Reference": "meghalayan_cuisine.json"
+        },
+        {
+            "Query": "What is the Ark of Taste catalogue in Meghalayan cuisine?",
+            "Gold Answer": "Many Indigenous dishes in Meghalaya are now recognized by the Slow Food movement and are part of the Ark of Taste catalogue.",
+            "Source/Reference": "meghalayan_cuisine.json"
+        }
+    ]
+}

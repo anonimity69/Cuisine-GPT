@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\mongolian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of food are commonly consumed in Mongolian cuisine?",
+            "Gold Answer": "Mongolian cuisine predominantly consists of dairy products, meat, and animal fats, with cooked mutton being a popular rural dish. In the city, steamed dumplings filled with meat called \"buuz\" are popular. Due to the extreme continental climate and low population density, the traditional diet is limited in vegetables and spices.",
+            "Source/Reference": "mongolian_cuisine.json"
+        },
+        {
+            "Query": "What staple food does the Mongolian people prefer over rice?",
+            "Gold Answer": "The Mongolian people prefer to eat meat as their staple food rather than rice, with wheat, barley, and buckwheat being more commonly consumed than rice.",
+            "Source/Reference": "mongolian_cuisine.json"
+        },
+        {
+            "Query": "What historical document provides evidence of the cultural influence of the Middle East on Mongol food culture?",
+            "Gold Answer": "The Yinshan zhengyao is a historical document that provides evidence of the cultural influence of the Middle East on Mongol food culture, presented to Tugh Temür in 1330.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Yinshan_zhengyao"
+        }
+    ]
+}

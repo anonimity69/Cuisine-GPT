@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\kashmiri_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of the term \"kabab\" in Kashmiri cuisine?",
+            "Gold Answer": "The term \"kabab\" is of Arabic origin in Kashmiri cuisine.",
+            "Source/Reference": "kashmiri_cuisine.json"
+        }
+    ]
+}

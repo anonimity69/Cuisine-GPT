@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\mughlai_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Mughlai cuisine?",
+            "Gold Answer": "Mughlai cuisine consists of delicately-spiced dishes developed or popularised in the early-modern Indo-Persian cultural centres of the Mughal Empire. It represents a combination of cuisine of the Indian subcontinent with the cooking styles and recipes of Persian cuisine.",
+            "Source/Reference": "mughlai_cuisine.json"
+        }
+    ]
+}

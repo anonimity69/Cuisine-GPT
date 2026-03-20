@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\pashtun_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the staple ingredients of Pashtun cuisine?",
+            "Gold Answer": "Meat dishes, including mutton, beef, chicken, and fish, as well as rice and some other vegetables.",
+            "Source/Reference": "pashtun_cuisine.json"
+        },
+        {
+            "Query": "What are some common dairy products in Pashtun cuisine?",
+            "Gold Answer": "Yogurt, whey, and cheeses.",
+            "Source/Reference": "pashtun_cuisine.json"
+        },
+        {
+            "Query": "Which cities are considered centers of Pashtun cuisine?",
+            "Gold Answer": "Peshawar, Kabul, Bannu, Quetta, Kandahar and Mardan.",
+            "Source/Reference": "pashtun_cuisine.json"
+        }
+    ]
+}

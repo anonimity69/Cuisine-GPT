@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\muhajir_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Muhajir cuisine?",
+            "Gold Answer": "Muhajir cuisine refers to the food and culinary style of the Muhajir people in Pakistan, the descendants of Muslim migrants from India who migrated to Pakistan following the partition of India.",
+            "Source/Reference": "muhajir_cuisine.json"
+        },
+        {
+            "Query": "How has Muhajir cuisine been affected?",
+            "Gold Answer": "Muhajir cuisine has been greatly affected by the urban culture of Muhajirs, and the Muhajir culinary dishes are mostly prepared by modern cooking appliances.",
+            "Source/Reference": "muhajir_cuisine.json"
+        },
+        {
+            "Query": "Where are most Muhajirs based?",
+            "Gold Answer": "Most Muhajirs have traditionally been based in Karachi, hence the city being known for Muhajir tastes in its cuisine.",
+            "Source/Reference": "muhajir_cuisine.json"
+        }
+    ]
+}

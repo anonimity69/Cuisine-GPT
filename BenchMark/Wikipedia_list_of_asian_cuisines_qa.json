@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\list_of_asian_cuisines.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a cuisine?",
+            "Gold Answer": "A cuisine is a characteristic style of cooking practices and traditions, usually associated with a specific culture or region.",
+            "Source/Reference": "list_of_asian_cuisines.json"
+        },
+        {
+            "Query": "Why is Asia a great place for cuisines?",
+            "Gold Answer": "Asia is the largest, most populous and culturally diverse continent, which means it has a great diversity of cuisines associated with its different regions.",
+            "Source/Reference": "list_of_asian_cuisines.json"
+        },
+        {
+            "Query": "What is a cuisine region?",
+            "Gold Answer": "A cuisine is usually associated with a specific culture or region.",
+            "Source/Reference": "list_of_asian_cuisines.json"
+        }
+    ]
+}

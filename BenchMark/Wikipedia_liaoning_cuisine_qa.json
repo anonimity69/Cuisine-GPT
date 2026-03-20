@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\liaoning_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Liaoning cuisine?",
+            "Gold Answer": "Liaoning cuisine is the most famous Northeastern Chinese cuisine.",
+            "Source/Reference": "liaoning_cuisine.json"
+        },
+        {
+            "Query": "What region is Liaoning cuisine derived from?",
+            "Gold Answer": "Liaoning cuisine is derived from the native cooking styles of the Liaoning Province in China.",
+            "Source/Reference": "liaoning_cuisine.json"
+        },
+        {
+            "Query": "What is notable about Liaoning cuisine?",
+            "Gold Answer": "It is the most famous Northeastern Chinese cuisine.",
+            "Source/Reference": "liaoning_cuisine.json"
+        }
+    ]
+}

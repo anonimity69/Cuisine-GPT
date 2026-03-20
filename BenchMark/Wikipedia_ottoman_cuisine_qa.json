@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\ottoman_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What were some new ingredients introduced to the Ottoman cuisine?",
+            "Gold Answer": "Ottoman trade introduced new ingredients such as rice, sesame and maize to the empire’s regional cuisines.\n\nThe text also mentions that tomatoes had entered the cuisine by the 1690s, but they are not found in the few recipe manuscripts that survive from the 18th century.",
+            "Source/Reference": "ottoman_cuisine.json"
+        }
+    ]
+}

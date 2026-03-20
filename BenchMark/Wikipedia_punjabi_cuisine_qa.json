@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\punjabi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "When did Harappan civilization record the existence of a dish similar to tandoori chicken?",
+            "Gold Answer": "The earliest evidence for a dish similar to tandoori chicken dates back to 3000 BC, according to the archeologist Professor Vasant Shinde.",
+            "Source/Reference": "punjabi_cuisine.json"
+        }
+    ]
+}

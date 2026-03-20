@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\malaysian_indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical ingredient used in Malaysian Indian cooking?",
+            "Gold Answer": "The typical ingredient used in Malaysian Indian cooking is curry leaves, whole and powdered spices, and fresh coconut, as well as ghee, vegetable oils, and refined palm oils.",
+            "Source/Reference": "malaysian_indian_cuisine.json"
+        }
+    ]
+}

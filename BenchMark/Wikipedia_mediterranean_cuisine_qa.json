@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\mediterranean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the three core elements of Mediterranean cuisine?",
+            "Gold Answer": "The three core elements of Mediterranean cuisine are the olive, wheat, and the grape, yielding olive oil, bread, and wine respectively.",
+            "Source/Reference": "mediterranean_cuisine.json"
+        },
+        {
+            "Query": "What cuisines are part of the Mediterranean region?",
+            "Gold Answer": "The Mediterranean region includes cuisines such as Maghrebi, Egyptian, Levantine, Ottoman (Turkish), Greek, Italian, French (Provençal), and Spanish, among others.",
+            "Source/Reference": "mediterranean_cuisine.json"
+        },
+        {
+            "Query": "What is the Mediterranean diet?",
+            "Gold Answer": "The Mediterranean diet is a diet rich in olive oil, wheat and other grains, fruits, vegetables, and a certain amount of seafood, but low in meat and dairy products, and is not the same as Mediterranean cuisine.",
+            "Source/Reference": "mediterranean_cuisine.json"
+        }
+    ]
+}

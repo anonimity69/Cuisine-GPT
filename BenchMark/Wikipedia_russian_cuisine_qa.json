@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\russian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main food groups in Old Russian cuisine?",
+            "Gold Answer": "The main food groups in Old Russian cuisine were bread, grains, and other foods that contained starch. Women baked pies with many different fillings, such as mushrooms or berries.",
+            "Source/Reference": " russian_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between pirozhki and pierogi?",
+            "Gold Answer": "Pirozhki are small stuffed buns (pies) made of either yeast dough or short pastry, filled with one of many different fillings and either baked or shallow-fried. Polish pierogi (type: dumplings) are not really related to Russian 'pirogi' (type: pies) and 'pirozhki' (type: buns, small pies).",
+            "Source/Reference": " russian_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between zefir and pastila?",
+            "Gold Answer": "Zefir is a type of soft confectionery made by whipping fruit and berry purée with sugar and egg whites with subsequent addition of a gelling agent. Pastila is a fruit confectionery made from cooked fruit and sugar, without a gelling agent. Both have a delicate airy consistency, but zefir is derived from pastila with added egg white foam and a gelling agent.",
+            "Source/Reference": " russian_cuisine.json"
+        }
+    ]
+}

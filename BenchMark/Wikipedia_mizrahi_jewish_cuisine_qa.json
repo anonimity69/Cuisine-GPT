@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\mizrahi_jewish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the name of the Yemenite spice mixture?",
+            "Gold Answer": "Hawaij is a Yemenite spice mixture that comes in two varieties, one containing powdered ginger, cinnamon, cloves and cardamom, and the other containing turmeric, black pepper, onion, cumin, cardamom and cloves.",
+            "Source/Reference": "mizrahi_jewish_cuisine.json"
+        }
+    ]
+}

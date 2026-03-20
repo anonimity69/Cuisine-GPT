@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\middle_eastern_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common ingredients in Middle Eastern cuisine?",
+            "Gold Answer": "Olives and olive oil, pitas, honey, sesame seeds, dates, sumac, chickpeas, mint, rice and parsley.",
+            "Source/Reference": "middle_eastern_cuisine.json"
+        },
+        {
+            "Query": "What influences have shaped Middle Eastern cuisine?",
+            "Gold Answer": "Middle Eastern cuisine has been influenced by dumplings from Mongol invaders, turmeric and other spices from India, cloves, peppercorns and allspice from the Spice Islands, okra from Africa, and tomatoes from the New World.",
+            "Source/Reference": "middle_eastern_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of yogurt in Middle Eastern cuisine?",
+            "Gold Answer": "Yogurt is commonly consumed plain, used in cooking as in salad dressing, or diluted as a drink, and is a staple in the region's diet.",
+            "Source/Reference": "middle_eastern_cuisine.json"
+        }
+    ]
+}

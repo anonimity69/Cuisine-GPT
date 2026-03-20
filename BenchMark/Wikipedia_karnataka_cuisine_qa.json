@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\karnataka_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of cuisine are similar to Karnataka cuisine?",
+            "Gold Answer": "Karnataka cuisine is similar to the cuisine of neighboring states Goa, Maharashtra, Telangana, Andhra Pradesh, and Tamil Nadu.",
+            "Source/Reference": "karnataka_cuisine.json"
+        },
+        {
+            "Query": "What is a common way to serve Karnataka cuisine?",
+            "Gold Answer": "Karnataka cuisine is commonly served on a banana leaf, especially for special occasions.",
+            "Source/Reference": "karnataka_cuisine.json"
+        },
+        {
+            "Query": "What is a popular Karnataka dish that originated in Mysore?",
+            "Gold Answer": "Bisi bele bath is a spicy rice-based dish that originated in Mysore, Karnataka and from there spread across South India.",
+            "Source/Reference": "karnataka_cuisine.json"
+        }
+    ]
+}

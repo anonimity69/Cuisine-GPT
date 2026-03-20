@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\northeastern_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Northeastern Chinese cuisine?",
+            "Gold Answer": "Northeastern Chinese cuisine is a style of Chinese cuisine in Northeast China. It is also influenced by the cuisines of Russia, Beijing, Mongolia, and North Korea.",
+            "Source/Reference": "northeastern_chinese_cuisine.json"
+        },
+        {
+            "Query": "What cooking techniques are commonly used in Northeastern Chinese cuisine?",
+            "Gold Answer": "Simmering, braising and sautéing are ubiquitous cooking techniques used in the Northeast, producing many of the region's signature dishes.",
+            "Source/Reference": "northeastern_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is a distinctive feature of Northeastern Chinese cuisine?",
+            "Gold Answer": "A distinctive feature that distinguishes Northeastern cuisine from other Chinese cuisines is the serving of more raw vegetables and raw seafood in the coastal areas.",
+            "Source/Reference": "northeastern_chinese_cuisine.json"
+        }
+    ]
+}

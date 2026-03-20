@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\ossetian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine referred to as in the text?",
+            "Gold Answer": "Ossetian cuisine",
+            "Source/Reference": "ossetian_cuisine.json"
+        },
+        {
+            "Query": "What type of dish is unique to South Ossetia?",
+            "Gold Answer": "A dish made by wrapping one half of a boiled egg in a serving of ground beef and frying it in tomato sauce, similar to a Scotch egg or nargesi kebab.",
+            "Source/Reference": "ossetian_cuisine.json"
+        },
+        {
+            "Query": "What is the origin of the cuisine?",
+            "Gold Answer": "The cuisine of the Ossetians of the Caucasus.",
+            "Source/Reference": "ossetian_cuisine.json"
+        }
+    ]
+}

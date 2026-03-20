@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\northeast_india.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the approximate percentage of India's land area covered by Northeast India?",
+            "Gold Answer": "Almost 8 per cent of India's land area.",
+            "Source/Reference": "northeast_india.json"
+        },
+        {
+            "Query": "In what year was India's first oil well dug in Northeast India?",
+            "Gold Answer": "1865, in Digboi in Assam. The region houses one of the notable ophiolites in the world.",
+            "Source/Reference": "northeast_india.json"
+        },
+        {
+            "Query": "According to Xuanzang, what was the description of the people in Kamarupa in the 7th century CE?",
+            "Gold Answer": "Xuanzang, a travelling Chinese Buddhist monk, described the people as \"short in stature and black-looking\", whose speech differed a little from mid-India and who were of simple but violent disposition.",
+            "Source/Reference": "northeast_india.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\malvani_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Malvani cuisine?",
+            "Gold Answer": "Malvani cuisine is the standard cuisine of the South Konkan region of the Indian states of Maharashtra and Goa, predominantly non-vegetarian but with many vegetarian dishes. It overlaps with Maharashtrian cuisine and Goan cuisine.",
+            "Source/Reference": "malvani_cuisine.json"
+        },
+        {
+            "Query": "What is a key ingredient in Malvani cuisine?",
+            "Gold Answer": "Coconut is a key ingredient in Malvani cuisine, used in various forms such as grated, dry-grated, fried, coconut paste, and coconut milk.",
+            "Source/Reference": "malvani_cuisine.json"
+        },
+        {
+            "Query": "What is a common dish in Malvani cuisine?",
+            "Gold Answer": "Fish dishes dominate Malvani cuisine, with Solkadhi being a pink-colored drink made from kokam fruit and coconut milk.",
+            "Source/Reference": "malvani_cuisine.json"
+        }
+    ]
+}

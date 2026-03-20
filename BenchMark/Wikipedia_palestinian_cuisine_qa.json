@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\palestinian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the common ingredients in Palestinian cuisine?",
+            "Gold Answer": "Palestinian cuisine is a diffusion of the cultures of civilizations that settled in the region of Palestine, and common ingredients include rice, bulgur, meat, lentils, fish, and olive oil. It also features a variety of nuts such as almonds, walnuts, and pistachios.",
+            "Source/Reference": "palestinian_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kyrgyz_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the favorite meats in Kyrgyz cuisine?",
+            "Gold Answer": "Mutton and beef are the favorite meats in Kyrgyz cuisine.",
+            "Source/Reference": "kyrgyz_cuisine.json"
+        },
+        {
+            "Query": "What is maksym?",
+            "Gold Answer": "Maksym is a slightly fizzy drink made by fermenting grains.",
+            "Source/Reference": "kyrgyz_cuisine.json"
+        },
+        {
+            "Query": "What is kymyz?",
+            "Gold Answer": "Kymyz is a slightly alcoholic drink made by fermenting mare's milk, and it is considered to be the signature drink of Euroasian nomadic culture.",
+            "Source/Reference": "kyrgyz_cuisine.json"
+        }
+    ]
+}

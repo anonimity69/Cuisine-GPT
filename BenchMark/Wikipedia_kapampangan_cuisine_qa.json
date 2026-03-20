@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kapampangan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some popular Kapampangan dishes?",
+            "Gold Answer": "Some popular Kapampangan dishes include sisig, morcon, menudo, caldereta, estofado, embotido, asado, lengua, lechon, chicharon, afritada, sipo egg, bringhi (paella), tabang talangka (crab meat), the “tocino’ or pindang including pindang damulag or carabao’s meat tocino and their native version of the longganisa.",
+            "Source/Reference": "kapampangan_cuisine.json"
+        },
+        {
+            "Query": "What is nasing biringyi?",
+            "Gold Answer": "Nasing biringyi is a unique Kapampangan dish that is well enjoyed by other ethnic groups. It is chicken saffron rice that is difficult to prepare, and can only be enjoyed during fiestas in Pampanga. It is comparable to Malaysian nasi biryani.",
+            "Source/Reference": "kapampangan_cuisine.json"
+        },
+        {
+            "Query": "What are some unusual Kapampangan dishes?",
+            "Gold Answer": "Some unusual Kapampangan dishes include balo balo or burung bulig (mudfish fermented in rice) from Candaba, betute tugak (stuffed frogs) from Mexico (Pampanga) and Magalang, adobung kamaru (mole crickets sautéed in vinegar and garlic), calderetang barag (spicy monitor lizard stew), kubang asu (sweet and spicy dog stew) from Macabebe, and tidtad itik (duck stewed in blood) from Masantol.",
+            "Source/Reference": "kapampangan_cuisine.json"
+        }
+    ]
+}

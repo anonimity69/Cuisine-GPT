@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\peranakan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main ingredient in the Peranakan dish 'Asam Laksa'?",
+            "Gold Answer": "A soup noodle dish consisting of a bowl of translucent al dente white rice noodles served in a spicy soup made of fish (usually mackerel), tamarind (both asam jawa and asam gelugor), and daun kesum.",
+            "Source/Reference": "peranakan_cuisine.json"
+        },
+        {
+            "Query": "What is the main ingredient in the Peranakan dish 'Ayam Buah Keluak'?",
+            "Gold Answer": "The buah keluak is dug out and sauteed with aromatics and seasonings, before it is stuffed back into the nuts and braised with the chicken or pork rib pieces.",
+            "Source/Reference": "peranakan_cuisine.json"
+        },
+        {
+            "Query": "What type of noodle is served in the Peranakan dish 'Lam Mee'?",
+            "Gold Answer": "Long yellow noodles cooked in a rich gravy made from a stock of prawns and chicken.",
+            "Source/Reference": "peranakan_cuisine.json"
+        }
+    ]
+}

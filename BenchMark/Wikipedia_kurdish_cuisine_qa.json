@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\kurdish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some Kurdish rice dishes?",
+            "Gold Answer": "Kurdish rice dishes include Perde pelav, Biryanî, Birinca sor (red rice), and Birinc bi maş (mung beans and rice).",
+            "Source/Reference": "kurdish_cuisine.json"
+        },
+        {
+            "Query": "What are some popular non-alcoholic beverages in Kurdish cuisine?",
+            "Gold Answer": "Kurdish non-alcoholic beverages include various options, but none are specifically mentioned in the provided text.",
+            "Source/Reference": "kurdish_cuisine.json"
+        },
+        {
+            "Query": "Are there any regional similarities between Kurdish cuisine and its neighboring countries?",
+            "Gold Answer": "Yes, Kurdish cuisine has culinary and cultural similarities with its neighbors in Iran, Iraq, Syria, Greece, Armenia, and Turkey.",
+            "Source/Reference": "kurdish_cuisine.json"
+        }
+    ]
+}

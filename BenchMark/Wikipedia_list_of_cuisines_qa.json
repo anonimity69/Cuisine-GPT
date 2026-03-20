@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\list_of_cuisines.json",
+    "qna_pairs": [
+        {
+            "Query": "What defines a specific set of cooking traditions and practices?",
+            "Gold Answer": "A specific set of cooking traditions and practices, often associated with a specific culture or region.",
+            "Source/Reference": "list_of_cuisines.json"
+        },
+        {
+            "Query": "What influences the preparation of food in a cuisine?",
+            "Gold Answer": "The ingredients that are available locally or through trade, as well as religious food laws can also exercise a strong influence.",
+            "Source/Reference": "list_of_cuisines.json"
+        },
+        {
+            "Query": "Why are cuisines often named after their region or place of origin?",
+            "Gold Answer": "Cuisines are often named after the region or place where they originated.",
+            "Source/Reference": "list_of_cuisines.json"
+        }
+    ]
+}

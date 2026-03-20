@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\naga_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular beverage among the Angami and Chakhesang Nagas?",
+            "Gold Answer": "A popular beverage among the Angami and Chakhesang Nagas is Thuthse, a fermented drink made from sticky rice. It is thicker, stronger and sweeter than Zutho.",
+            "Source/Reference": "naga_cuisine.json"
+        }
+    ]
+}

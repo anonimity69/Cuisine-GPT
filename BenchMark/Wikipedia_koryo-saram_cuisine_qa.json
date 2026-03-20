@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\koryo-saram_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Koryo-saram cuisine?",
+            "Gold Answer": "Koryo-saram cuisine is descended from Korean cuisine and influenced by the cuisines of various countries they have lived in.",
+            "Source/Reference": "koryo-saram_cuisine.json"
+        },
+        {
+            "Query": "Is Koryo-saram cuisine similar to South Korean cuisine?",
+            "Gold Answer": "Some consider it to differ significantly from South Korean cuisine, especially as it descends primarily from the cuisine of regions now in North Korea.",
+            "Source/Reference": "koryo-saram_cuisine.json"
+        },
+        {
+            "Query": "What dishes are popular in Koryo-saram cuisine?",
+            "Gold Answer": "Some popular dishes include morkovcha, which is widely available in grocery stores throughout the former Soviet Union.",
+            "Source/Reference": "koryo-saram_cuisine.json"
+        }
+    ]
+}

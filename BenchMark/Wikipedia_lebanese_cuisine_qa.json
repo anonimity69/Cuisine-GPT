@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\lebanese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common dishes in Lebanese cuisine?",
+            "Gold Answer": "Some common dishes in Lebanese cuisine include baba ghanouj, tabbouleh, sfeeha, falafel, and shawarma. Lebanese cuisine also includes dishes such as hummus, ful, mujaddara, and various types of stuffed dishes, aubergine-based dishes, and bean and legume dishes.",
+            "Source/Reference": "lebanese_cuisine.json"
+        },
+        {
+            "Query": "What is the Lebanese national drink?",
+            "Gold Answer": "The Lebanese national drink is Arak, an anise-flavored liquor, and another historic and traditional drink is Lebanese wine.",
+            "Source/Reference": "lebanese_cuisine.json"
+        },
+        {
+            "Query": "What are some popular Lebanese desserts?",
+            "Gold Answer": "Some popular Lebanese desserts include baklawa, sfouf, ka'ak, and muhallebi, a milk pudding made with rice, milk, and sugar. Lebanese desserts have also been influenced by Ottoman cuisine and share many similarities with other neighbouring countries.",
+            "Source/Reference": "lebanese_cuisine.json"
+        }
+    ]
+}

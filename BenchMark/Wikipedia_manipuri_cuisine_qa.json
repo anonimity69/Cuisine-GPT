@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\manipuri_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple ingredient in Manipuri cuisine?",
+            "Gold Answer": "Fish is an essential part of the diet in Manipuri cuisine, appearing in every meal, either as ngaari or as roasted or fried pieces.",
+            "Source/Reference": "manipuri_cuisine.json"
+        }
+    ]
+}

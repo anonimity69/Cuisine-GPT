@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\lao_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple food of the Lao people?",
+            "Gold Answer": "The staple food of the Lao people is sticky rice (Lao: ເຂົ້າໜຽວ, khao niao, [kôw nòaw]), which is deeply ingrained in the culture, religious tradition, and national identity of Laos.",
+            "Source/Reference": "lao_cuisine.json"
+        }
+    ]
+}

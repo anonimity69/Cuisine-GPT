@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\north_indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the sub-types of North Indian cuisine?",
+            "Gold Answer": "Sub-types of North Indian cuisine include Awadhi cuisine, Bhojpuri cuisine, Cuisine of Bihar, Braj cuisine, Chhattisgarhi cuisine, Dogri cuisine, Haryanvi cuisine, Kashmiri cuisine, Kumaoni cuisine, Malvani cuisine, Mughlai cuisine, Punjabi cuisine, Rajasthani cuisine, Saraswat cuisine, Sindhi cuisine, Cuisine of Uttarakhand, and Cuisine of Uttar Pradesh.",
+            "Source/Reference": "north_indian_cuisine.json"
+        },
+        {
+            "Query": "What cuisine has Central Asian influences?",
+            "Gold Answer": "North Indian cuisine has Central Asian influences introduced during the Mughal Empire.",
+            "Source/Reference": "north_indian_cuisine.json"
+        },
+        {
+            "Query": "What regions are included in North Indian cuisine?",
+            "Gold Answer": "North Indian cuisine includes the cuisines of Jammu and Kashmir, Punjab, Haryana, Himachal Pradesh, Rajasthan, Uttarakhand, Delhi, and Uttar Pradesh.",
+            "Source/Reference": "north_indian_cuisine.json"
+        }
+    ]
+}

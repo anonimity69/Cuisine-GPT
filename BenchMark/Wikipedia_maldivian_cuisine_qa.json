@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\maldivian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main ingredients in Maldivian cuisine?",
+            "Gold Answer": "Maldivian cuisine is based on three main items and their derivatives: coconuts, fish, and starches. These ingredients are the core of the traditional cuisine.",
+            "Source/Reference": "maldivian_cuisine.json"
+        },
+        {
+            "Query": "What is the national dish of the Maldives?",
+            "Gold Answer": "The national dish of the Maldives is Garudhiya, which is fish broth, most commonly with boiled tuna or skipjack tuna.",
+            "Source/Reference": "maldivian_cuisine.json"
+        },
+        {
+            "Query": "What is Maldives fish, and how is it prepared?",
+            "Gold Answer": "Maldives fish is a tarry black color with a dry texture. It is prepared by gutting and skinning fish, boiling, smoking, and sun drying the fillets.",
+            "Source/Reference": "maldivian_cuisine.json"
+        }
+    ]
+}

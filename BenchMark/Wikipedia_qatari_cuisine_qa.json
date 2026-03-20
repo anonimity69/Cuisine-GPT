@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\qatari_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the national dish of Qatar?",
+            "Gold Answer": "The national dish in Qatar is Machbūs, a meal consisting of rice, meat, and vegetables, typically made with either lamb or chicken and slow-cooked to give it a depth of flavour.",
+            "Source/Reference": "qatari_cuisine.json"
+        },
+        {
+            "Query": "Where can you find ingredients for traditional Qatari dishes?",
+            "Gold Answer": "Ingredients for traditional Qatari dishes can be purchased in local souqs, such as Souq Waqif, which includes a spice souq.",
+            "Source/Reference": "qatari_cuisine.json"
+        },
+        {
+            "Query": "What type of cuisine is Qatari cuisine?",
+            "Gold Answer": "Qatari cuisine is made up of traditional Arab cuisine.",
+            "Source/Reference": "qatari_cuisine.json"
+        }
+    ]
+}

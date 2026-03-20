@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\parsi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "Where did the influence of faluda and kulfi come from?",
+            "Gold Answer": "Faluda and kulfi are adoptions from the cuisines of the Irani and Persian-speaking communities.",
+            "Source/Reference": "parsi_cuisine.json"
+        }
+    ]
+}

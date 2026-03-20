@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\minahasan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Minahasan cuisine?",
+            "Gold Answer": "Minahasan cuisine or Manado cuisine is the cooking tradition of the Minahasan people of North Sulawesi, Indonesia.",
+            "Source/Reference": "minahasan_cuisine.json"
+        },
+        {
+            "Query": "What is popular in Minahasan cuisine?",
+            "Gold Answer": "Manadonese cuisine is popularly known as Manadonese cuisine after Manado, the capital of the province, although other cities in Northern Sulawesi, such as Bitung, Tomohon and Tondano, are also known as Minahasan culinary hotspots.",
+            "Source/Reference": "minahasan_cuisine.json"
+        },
+        {
+            "Query": "What is known for in Minahasan cuisine?",
+            "Gold Answer": "Manadonese cuisine is known for its rich variations in seafood, generous amount of spices, extra-hot condiments, exotic meats, and European-influenced cakes and pastries.",
+            "Source/Reference": "minahasan_cuisine.json"
+        }
+    ]
+}

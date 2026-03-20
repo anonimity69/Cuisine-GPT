@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\makassar_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Coto Makassar?",
+            "Gold Answer": "Coto Makassar is a stew made from the mixture of nuts, spices, and selected offal which may include beef brain, tongue, and intestine.",
+            "Source/Reference": "makassar_cuisine.json"
+        },
+        {
+            "Query": "What is Ayam goreng sulawesi?",
+            "Gold Answer": "Ayam goreng sulawesi, or Celebes fried chicken, is a dish where the chicken is marinated with a traditional soy sauce recipe for up to 24 hours before being fried to a golden colour.",
+            "Source/Reference": "makassar_cuisine.json"
+        },
+        {
+            "Query": "What is the main ingredient of Kapurung from Palopo?",
+            "Gold Answer": "There is no information in the provided text about the main ingredient of Kapurung from Palopo.",
+            "Source/Reference": "makassar_cuisine.json"
+        }
+    ]
+}

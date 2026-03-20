@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\mizo_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is fermented Bekang?",
+            "Gold Answer": "Fermented Bekang is a fermented soybean dish similar to Japanese Nattó.",
+            "Source/Reference": "mizo_cuisine.json"
+        }
+    ]
+}

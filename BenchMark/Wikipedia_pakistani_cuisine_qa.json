@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\pakistani_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some popular Pakistani desserts?",
+            "Gold Answer": "Popular desserts include Peshawari ice cream, sheer khurma, qulfi, falooda, kheer, Firni, zarda, shahi tukray and rabri. Pakistani desserts also include a long list of halva.",
+            "Source/Reference": "pakistani_cuisine.json"
+        }
+    ]
+}

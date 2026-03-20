@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\malay_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the significance of spices in traditional Malay cuisine?",
+            "Gold Answer": "The main characteristic of traditional Malay cuisine is the generous use of spices. This use of spices is significant as it gives Malay dishes their rich, creamy character and distinguishes it from other cuisines.",
+            "Source/Reference": "malay_cuisine.json"
+        }
+    ]
+}

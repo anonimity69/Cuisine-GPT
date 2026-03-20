@@ -1,0 +1,23 @@
+{
+    "source": "Data\\Wikipedia\\maithil_cuisine.json",
+    "qna_pairs": [
+        {
+            "name": "What is the staple food of Maithil cuisine?",
+            "Query": "What is the staple food of Maithil cuisine?",
+            "Gold Answer": "The staple food of Maithil cuisine is bhat (boiled rice), dal, roti, tarkari and achar, prepared from rice, lentils, wheat flour, vegetables, and pickles.",
+            "Source/Reference": "maithil_cuisine.json"
+        },
+        {
+            "name": "What is the traditional cooking medium used in Maithil cuisine?",
+            "Query": "What is the traditional cooking medium used in Maithil cuisine?",
+            "Gold Answer": "The traditional cooking medium used in Maithil cuisine is mustard oil.",
+            "Source/Reference": "maithil_cuisine.json"
+        },
+        {
+            "name": "What is the name of the blend of five spices used in Maithil cuisine?",
+            "Query": "What is the name of the blend of five spices used in Maithil cuisine?",
+            "Gold Answer": "The blend of five spices used in Maithil cuisine is called Panchforan, which consists of jeer, ajwain, mangrail, sounf, and methi.",
+            "Source/Reference": "maithil_cuisine.json"
+        }
+    ]
+}
