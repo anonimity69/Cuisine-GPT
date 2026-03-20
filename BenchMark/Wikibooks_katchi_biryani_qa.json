@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\katchi_biryani.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Katchi Biryani?",
+            "Gold Answer": "Katchi Biryani is a South Asian cuisine dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Katchi_Biryani"
+        },
+        {
+            "Query": "What ingredients are needed for Katchi Biryani?",
+            "Gold Answer": "The ingredients needed for Katchi Biryani are fried onions, yoghurt, chopped green peppers, chopped mint leaves, ghee, garam masala powder, salt, ginger garlic paste, cardamom, black cumin, peppercorns, cinnamon stick, oil, saffron, milk, butter, and whole chiles.",
+            "Source/Reference": "katchi_biryani.json"
+        },
+        {
+            "Query": "How long does it take to cook Katchi Biryani?",
+            "Gold Answer": "Katchi Biryani takes around 30-35 minutes to cook, with the initial cooking time of 10 minutes and the remaining cooking time of 30-35 minutes.",
+            "Source/Reference": "katchi_biryani.json"
+        }
+    ]
+}

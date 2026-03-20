@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_rice.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Indian Rice recipe?",
+            "Gold Answer": "The Indian Rice recipe is a South Asian cuisine recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Rice"
+        },
+        {
+            "Query": "What is the total amount of water used in the Indian Rice recipe?",
+            "Gold Answer": "The total amount of water used in the Indian Rice recipe is 4 cups.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Rice"
+        },
+        {
+            "Query": "What is the cooking time for the Indian Rice recipe?",
+            "Gold Answer": "The cooking time for the Indian Rice recipe is 12 minutes.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Rice"
+        }
+    ]
+}

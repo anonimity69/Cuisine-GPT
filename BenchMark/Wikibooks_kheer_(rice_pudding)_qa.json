@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kheer_(rice_pudding).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the recommended type of rice for making Kheer?",
+            "Gold Answer": "Long grain white rice is recommended for making Kheer.",
+            "Source/Reference": "kheer_(rice_pudding).json"
+        },
+        {
+            "Query": "What is the typical preparation time for Kheer?",
+            "Gold Answer": "Kheer typically takes about 20 minutes to prepare after bringing the milk to a boil.",
+            "Source/Reference": "kheer_(rice_pudding).json"
+        },
+        {
+            "Query": "In which region of South Asia is Kheer commonly prepared?",
+            "Gold Answer": "Kheer is commonly prepared in the South Asian region.",
+            "Source/Reference": "kheer_(rice_pudding).json"
+        }
+    ]
+}

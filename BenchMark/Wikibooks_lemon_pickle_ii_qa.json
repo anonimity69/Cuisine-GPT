@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lemon_pickle_ii.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Lemon Pickle II recipe from?",
+            "Gold Answer": "The Lemon Pickle II recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pickle_II"
+        },
+        {
+            "Query": "What is the recommended time for soaking the lemons in salt?",
+            "Gold Answer": "The recommended time for soaking the lemons in salt is at least 4 hours, but 24 hours is better.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pickle_II"
+        },
+        {
+            "Query": "What is the purpose of adding water to the lemon juice if there isn't enough?",
+            "Gold Answer": "If there isn't enough juice, adding 1-2 tablespoons of water helps to achieve the desired consistency.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pickle_II"
+        }
+    ]
+}

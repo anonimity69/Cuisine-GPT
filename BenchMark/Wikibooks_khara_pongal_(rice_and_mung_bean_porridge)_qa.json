@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\khara_pongal_(rice_and_mung_bean_porridge).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Khara Pongal?",
+            "Gold Answer": "Khara Pongal is a South Asian dish.",
+            "Source/Reference": "khara_pongal_(rice_and_mung_bean_porridge).json"
+        },
+        {
+            "Query": "What ingredients are used in Khara Pongal?",
+            "Gold Answer": "Khara Pongal is made with white rice, moong dhal, turmeric powder, cashew nuts, curry leaves, black pepper, cumin seeds, green chillies, oil, ghee, and salt.",
+            "Source/Reference": "khara_pongal_(rice_and_mung_bean_porridge).json"
+        },
+        {
+            "Query": "How is Khara Pongal cooked?",
+            "Gold Answer": "Khara Pongal is cooked by cooking the rice and dhal together with turmeric powder in a pot or pressure cooker until mushy. Then, the cashew nuts are browned, and the rest of the spices are added to create the dish.",
+            "Source/Reference": "khara_pongal_(rice_and_mung_bean_porridge).json"
+        }
+    ]
+}

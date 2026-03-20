@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kaffir_lime.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor/aroma of the color green in kaffir lime leaves?",
+            "Gold Answer": "The flavor/aroma has lemony notes from the citronellal, citronellol, and limonene content.",
+            "Source/Reference": "kaffir_lime.json"
+        },
+        {
+            "Query": "Can kaffir lime leaves be used in applications where they are cut in a chiffonade?",
+            "Gold Answer": "No, dried leaves work best in applications where they are used whole and left to infuse in the dish—they cannot be cut in a chiffonade.",
+            "Source/Reference": "kaffir_lime.json"
+        },
+        {
+            "Query": "What is the best substitute for kaffir lime and its leaves in recipes?",
+            "Gold Answer": "The best, though still imperfect, substitute for kaffir lime and its leaves is persian lime zest.",
+            "Source/Reference": "kaffir_lime.json"
+        }
+    ]
+}

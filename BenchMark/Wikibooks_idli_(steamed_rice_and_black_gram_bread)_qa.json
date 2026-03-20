@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\idli_(steamed_rice_and_black_gram_bread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is idli?",
+            "Gold Answer": "Idli is a traditional South Asian cuisine.",
+            "Source/Reference": "idli_(steamed_rice_and_black_gram_bread).json"
+        },
+        {
+            "Query": "What ingredients are required for idli?",
+            "Gold Answer": "The ingredients required for idli are parboiled short-grain rice, skinless white urad dal, non-iodised salt, and fenugreek seeds.",
+            "Source/Reference": "idli_(steamed_rice_and_black_gram_bread).json"
+        },
+        {
+            "Query": "How is idli prepared?",
+            "Gold Answer": "The preparation method for idli is not provided in the given text.",
+            "Source/Reference": "idli_(steamed_rice_and_black_gram_bread).json"
+        }
+    ]
+}

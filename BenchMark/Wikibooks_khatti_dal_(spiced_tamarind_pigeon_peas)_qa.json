@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\khatti_dal_(spiced_tamarind_pigeon_peas).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Khatti Dal belong to?",
+            "Gold Answer": "Khatti Dal is a South Asian dish, specifically originating from the cuisine region of South Asia.",
+            "Source/Reference": "khatti_dal_(spiced_tamarind_pigeon_peas).json"
+        },
+        {
+            "Query": "What is the main ingredient used in Khatti Dal?",
+            "Gold Answer": "The main ingredient used in Khatti Dal is toor daal, also known as split pigeon peas.",
+            "Source/Reference": "khatti_dal_(spiced_tamarind_pigeon_peas).json"
+        },
+        {
+            "Query": "What is the recommended serving option for Khatti Dal?",
+            "Gold Answer": "Khatti Dal can be served with a roti or poured over rice.",
+            "Source/Reference": "khatti_dal_(spiced_tamarind_pigeon_peas).json"
+        }
+    ]
+}

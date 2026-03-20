@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jalebi_(fritters_in_syrup).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the type of cuisine this recipe belongs to?",
+            "Gold Answer": "This recipe belongs to South Asian cuisine.",
+            "Source/Reference": "jalebi_(fritters_in_syrup).json"
+        },
+        {
+            "Query": "What is the primary ingredient to be added to the syrup in this recipe?",
+            "Gold Answer": "The primary ingredient added to the syrup is sugar, along with water and cream of tartar.",
+            "Source/Reference": "jalebi_(fritters_in_syrup).json"
+        },
+        {
+            "Query": "What is the ideal temperature for heating the vegetable oil in this recipe?",
+            "Gold Answer": "The ideal temperature for heating the vegetable oil is about 350°F (175°C).",
+            "Source/Reference": "jalebi_(fritters_in_syrup).json"
+        }
+    ]
+}

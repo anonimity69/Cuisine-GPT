@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kefir.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of milk is used to make kefir?",
+            "Gold Answer": "Cow, goat, and sheep kefirs are all attested.",
+            "Source/Reference": "kefir.json"
+        },
+        {
+            "Query": "How to store kefir grains?",
+            "Gold Answer": "Kefir grains may be stored wet or dry. For the former, they can be refrigerated (~4°C) in water for up to 8–10 days. For the latter, they may be wrapped in cheesecloth and allowed to dry at room temperature for 36–48 hours.",
+            "Source/Reference": "kefir.json"
+        },
+        {
+            "Query": "Can kefir be substituted with buttermilk?",
+            "Gold Answer": "Buttermilk and kefir can generally serve as reasonable substitutes for each other.",
+            "Source/Reference": "kefir.json"
+        }
+    ]
+}

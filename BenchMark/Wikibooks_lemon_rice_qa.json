@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lemon_rice.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe for?",
+            "Gold Answer": "This recipe is for South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Rice"
+        },
+        {
+            "Query": "What is the main ingredient of this recipe?",
+            "Gold Answer": "The main ingredients of this recipe are cooked white rice and lemons.",
+            "Source/Reference": "lemon_rice.json"
+        },
+        {
+            "Query": "What type of oil is used in this recipe?",
+            "Gold Answer": "The recipe uses sesame oil (also called til/gingely oil or NaLEnnai).",
+            "Source/Reference": "lemon_rice.json"
+        }
+    ]
+}

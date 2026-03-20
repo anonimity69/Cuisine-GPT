@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\indian_beans.json",
+    "qna_pairs": [
+        {
+            "Query": "How long does the dish need to be cooked?",
+            "Gold Answer": "The dish needs to be cooked for 20 minutes over medium heat.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Beans"
+        }
+    ]
+}

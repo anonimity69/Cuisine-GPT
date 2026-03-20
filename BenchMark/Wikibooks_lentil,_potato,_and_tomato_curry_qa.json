@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lentil,_potato,_and_tomato_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Lentil, Potato, and Tomato Curry?",
+            "Gold Answer": "The recipe is for a South Asian Lentil, Potato, and Tomato Curry.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lentil,_Potato,_and_Tomato_Curry"
+        },
+        {
+            "Query": "What ingredients are used in the Lentil, Potato, and Tomato Curry?",
+            "Gold Answer": "The recipe uses red split lentils, potatoes, bay leaves, margarine or butter, olive oil, turmeric, cayenne pepper, canned diced tomatoes, garam masala, and honey or sugar.",
+            "Source/Reference": "lentil,_potato,_and_tomato_curry.json"
+        },
+        {
+            "Query": "How long does it take to cook the Lentil, Potato, and Tomato Curry?",
+            "Gold Answer": "The cooking time is not specified, but the potatoes are cooked until they are soft and tender.",
+            "Source/Reference": "lentil,_potato,_and_tomato_curry.json"
+        }
+    ]
+}

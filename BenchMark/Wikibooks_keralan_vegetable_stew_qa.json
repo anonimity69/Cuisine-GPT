@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\keralan_vegetable_stew.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Keralan Vegetable Stew?",
+            "Gold Answer": "The cuisine type of Keralan Vegetable Stew is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Keralan_Vegetable_Stew"
+        }
+    ]
+}

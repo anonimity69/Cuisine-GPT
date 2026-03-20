@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\idiyappam_(south_indian_rice_noodles).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical source of rice flour for Idiyappam?",
+            "Gold Answer": "Raw rice flour, typically from South Asia.",
+            "Source/Reference": "Cookbook:Idiyappam (South Indian Rice Noodles).json"
+        },
+        {
+            "Query": "How long should Idiyappam be steamed for?",
+            "Gold Answer": "5–10 minutes.",
+            "Source/Reference": "Cookbook:Idiyappam (South Indian Rice Noodles).json"
+        },
+        {
+            "Query": "What is the preferred method of pressing Idiyappam onto the pan?",
+            "Gold Answer": "Press it directly onto an idli pan without banana leaves, or press it through an idiyappam presser or sieve onto banana leaves sprinkled with a little grated coconut.",
+            "Source/Reference": "Cookbook:Idiyappam (South Indian Rice Noodles).json"
+        }
+    ]
+}

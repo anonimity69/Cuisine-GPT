@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jal-jeera_(cumin_mango_lemonade).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Jal-jeera recipe belong to?",
+            "Gold Answer": "The Jal-jeera recipe belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jal-jeera_(Cumin_Mango_Lemonade)"
+        },
+        {
+            "Query": "What main ingredient in Jal-jeera gives it its distinct flavor?",
+            "Gold Answer": "Cumin powder is the main ingredient that gives Jal-jeera its distinct flavor.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jal-jeera_(Cumin_Mango_Lemonade)"
+        },
+        {
+            "Query": "What type of salt is recommended to be used in the recipe?",
+            "Gold Answer": "Himalayan black salt is recommended to be used in the Jal-jeera recipe.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jal-jeera_(Cumin_Mango_Lemonade)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_butter_chicken_i.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Indian Butter Chicken?",
+            "Gold Answer": "Indian Butter Chicken is a South Asian cuisine dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Butter_Chicken_I"
+        },
+        {
+            "Query": "How long should the chicken be marinated?",
+            "Gold Answer": "The chicken should be marinated for at least 1/2 an hour.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Butter_Chicken_I"
+        },
+        {
+            "Query": "How long should the dish be simmered?",
+            "Gold Answer": "The dish should be simmered for just over 10 minutes.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Butter_Chicken_I"
+        }
+    ]
+}

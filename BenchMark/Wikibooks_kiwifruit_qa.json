@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kiwifruit.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical size and shape of a kiwi fruit?",
+            "Gold Answer": "The kiwi fruit is approximately the size and shape of a large chicken egg, being oblong and only a few inches/centimeters long.",
+            "Source/Reference": "kiwifruit.json"
+        },
+        {
+            "Query": "What is the flavor and texture of kiwi flesh like?",
+            "Gold Answer": "The kiwi flesh is said to taste and feel vaguely like strawberries, melon, and pineapple, with a sweet tartness.",
+            "Source/Reference": "kiwifruit.json"
+        },
+        {
+            "Query": "Where are kiwis commercially cultivated?",
+            "Gold Answer": "Kiwis are commercially cultivated largely in California and New Zealand.",
+            "Source/Reference": "kiwifruit.json"
+        }
+    ]
+}

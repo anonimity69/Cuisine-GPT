@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jackfruit.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the neutral flavor and dense texture of jackfruit like?",
+            "Gold Answer": "The unripe fruit is often cooked in savory preparations (e.g. curries), sometimes as a deliberate meat substitute. Some liken the texture to that of pulled pork.",
+            "Source/Reference": "jackfruit.json"
+        },
+        {
+            "Query": "Where is jackfruit commonly found?",
+            "Gold Answer": "Outside of the region of cultivation, jackfruit is more commonly found at specialized Asian grocery stores or markets.",
+            "Source/Reference": "jackfruit.json"
+        },
+        {
+            "Query": "What is an acceptable substitute for jackfruit?",
+            "Gold Answer": "Artichoke hearts may be an acceptable substitute for jackfruit.",
+            "Source/Reference": "jackfruit.json"
+        }
+    ]
+}

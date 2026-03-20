@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kulfi_(south_asian_frozen_custard).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does kulfi belong to?",
+            "Gold Answer": "Kulfi belongs to South Asian cuisine.",
+            "Source/Reference": "kulfi_(south_asian_frozen_custard).json"
+        },
+        {
+            "Query": "How long does it take for kulfi to thicken and reduce?",
+            "Gold Answer": "It takes about 40-45 minutes for the milk to thicken and reduce to 1/4 cup.",
+            "Source/Reference": "kulfi_(south_asian_frozen_custard).json"
+        },
+        {
+            "Query": "What type of utensil is recommended to unmold kulfi?",
+            "Gold Answer": "A sharp knife dipped in hot water is recommended to unmold kulfi.",
+            "Source/Reference": "kulfi_(south_asian_frozen_custard).json"
+        }
+    ]
+}

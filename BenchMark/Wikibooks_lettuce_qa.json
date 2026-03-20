@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lettuce.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the best variety of lettuce for cooking?",
+            "Gold Answer": "Sturdier varieties of lettuce, such as romaine or a-choy, are best suited for cooking, as they will withstand the heat better.",
+            "Source/Reference": "Culinary Herbs and Spices of the World by Van Wyk, Ben-Erik"
+        },
+        {
+            "Query": "How should lettuce be stored?",
+            "Gold Answer": "Lettuce should be stored, unwashed and uncut, in the refrigerator. Excess moisture will speed rot, so it's best to wrap it in plastic or damp towels to prevent wilting.",
+            "Source/Reference": "The Culinarian: A Kitchen Desk Reference by Kipfer, Barbara Ann"
+        },
+        {
+            "Query": "What is the purpose of lettuce in Korean cuisine?",
+            "Gold Answer": "In Korean cuisine, lettuce is used to wrap or contain other foods, such as *ssam*.",
+            "Source/Reference": "The Oxford Companion to Food by Davidson, Alan"
+        }
+    ]
+}

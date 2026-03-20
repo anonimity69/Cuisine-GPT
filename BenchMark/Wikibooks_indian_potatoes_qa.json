@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_potatoes.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is this recipe from?",
+            "Gold Answer": "This recipe is from South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Potatoes"
+        },
+        {
+            "Query": "What is the cooking time for the potatoes in the recipe?",
+            "Gold Answer": "The potatoes should become fairly soft; check with a fork.",
+            "Source/Reference": "indian_potatoes.json"
+        },
+        {
+            "Query": "What is the recommended heat level for cooking the recipe?",
+            "Gold Answer": "Cook over low-medium heat.",
+            "Source/Reference": "indian_potatoes.json"
+        }
+    ]
+}

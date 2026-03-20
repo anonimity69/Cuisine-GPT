@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\kimchi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does kimchi come from?",
+            "Gold Answer": "Kimchi is a class of Korean fermented or pickled vegetables, and it features prominently in the cuisine of Korea.",
+            "Source/Reference": "kimchi.json"
+        }
+    ]
+}

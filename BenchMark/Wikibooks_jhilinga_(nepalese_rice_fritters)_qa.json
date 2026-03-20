@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jhilinga_(nepalese_rice_fritters).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Jhilinga?",
+            "Gold Answer": "Jhilinga is a traditional dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jhilinga_(Nepalese_Rice_Fritters)"
+        },
+        {
+            "Query": "What is used to add color to Jhilinga?",
+            "Gold Answer": "Food coloring is used to add various colors to the Jhilinga.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jhilinga_(Nepalese_Rice_Fritters)"
+        },
+        {
+            "Query": "What happens to the dough after it is cooked?",
+            "Gold Answer": "The dough is then processed through a noodle machine to make thin strips, and then dried in the sun for a few days.",
+            "Source/Reference": "jhilinga_(nepalese_rice_fritters).json"
+        }
+    ]
+}

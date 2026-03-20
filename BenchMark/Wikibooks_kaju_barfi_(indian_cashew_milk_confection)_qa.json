@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kaju_barfi_(indian_cashew_milk_confection).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Kaju Barfi?",
+            "Gold Answer": "Kaju Barfi is a traditional confectionery from South Asia.",
+            "Source/Reference": "kaju_barfi_(indian_cashew_milk_confection).json"
+        },
+        {
+            "Query": "What does Kaju Barfi consist of?",
+            "Gold Answer": "Kaju Barfi is made with water, sugar, ghee, cashew nut powder, and edible silver leaf/foil.",
+            "Source/Reference": "kaju_barfi_(indian_cashew_milk_confection).json"
+        },
+        {
+            "Query": "What is the typical thickness of Kaju Barfi?",
+            "Gold Answer": "The typical thickness of Kaju Barfi is 0.5 cm.",
+            "Source/Reference": "kaju_barfi_(indian_cashew_milk_confection).json"
+        }
+    ]
+}

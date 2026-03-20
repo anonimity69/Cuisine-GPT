@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lentil.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the defining feature of the lentil?",
+            "Gold Answer": "The defining feature of the lentil is its small, round, flattened shape.",
+            "Source/Reference": "lentil.json"
+        },
+        {
+            "Query": "How do I cook lentils?",
+            "Gold Answer": "Lentils can be cooked simply by simmering in water or another flavorful liquid.",
+            "Source/Reference": "lentil.json"
+        },
+        {
+            "Query": "Can I substitute brown lentils for green Laird lentils?",
+            "Gold Answer": "Yes, brown lentils and green Laird lentils can be substituted for each other.",
+            "Source/Reference": "lentil.json"
+        }
+    ]
+}

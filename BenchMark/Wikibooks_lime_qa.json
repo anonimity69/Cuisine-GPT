@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lime.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the characteristic trait of limes?",
+            "Gold Answer": "Limes have the characteristic traits of other citrus fruits, including their dimpled skin and juicy flesh.",
+            "Source/Reference": "lime.json"
+        },
+        {
+            "Query": "Can limes and lemons be substituted for each other?",
+            "Gold Answer": "In some cases limes and lemons can be substituted for each other, however note that the specific aromatic profiles are quite different. The colors may also differ, which can be relevant when using as a garnish.",
+            "Source/Reference": "lime.json"
+        },
+        {
+            "Query": "How are limes typically stored?",
+            "Gold Answer": "Store whole limes in plastic in the fridge, where they will keep for up to several weeks.",
+            "Source/Reference": "lime.json"
+        }
+    ]
+}

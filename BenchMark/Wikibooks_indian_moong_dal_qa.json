@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_moong_dal.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Indian Moong Dal?",
+            "Gold Answer": "Indian Moong Dal is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Moong_Dal"
+        },
+        {
+            "Query": "What is used to add flavor to Indian Moong Dal?",
+            "Gold Answer": "Jeera (cumin) and curry leaves are used to add flavor to Indian Moong Dal.",
+            "Source/Reference": "indian_moong_dal.json"
+        },
+        {
+            "Query": "What is Indian Moong Dal typically served with?",
+            "Gold Answer": "Indian Moong Dal is typically served with rice or rotis.",
+            "Source/Reference": "indian_moong_dal.json"
+        }
+    ]
+}

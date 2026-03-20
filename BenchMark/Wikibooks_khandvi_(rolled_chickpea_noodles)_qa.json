@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\khandvi_(rolled_chickpea_noodles).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the purpose of rolling up Khandvi?",
+            "Gold Answer": "Rolling up Khandvi is done to test if the mixture is ready, and if not, it needs to be cooked more.",
+            "Source/Reference": "khandvi_(rolled_chickpea_noodles).json"
+        }
+    ]
+}

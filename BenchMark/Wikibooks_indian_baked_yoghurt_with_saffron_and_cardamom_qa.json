@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_baked_yoghurt_with_saffron_and_cardamom.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the recipe Indian Baked Yoghurt with Saffron and Cardamom belong to?",
+            "Gold Answer": "The recipe Indian Baked Yoghurt with Saffron and Cardamom belongs to South Asia cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Baked_Yoghurt_with_Saffron_and_Cardamom"
+        },
+        {
+            "Query": "What temperature should the oven be preheated to?",
+            "Gold Answer": "The oven should be preheated to 150°C (130°C fan oven), mark 2.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Baked_Yoghurt_with_Saffron_and_Cardamom"
+        },
+        {
+            "Query": "How long should the baked puddings be baked for?",
+            "Gold Answer": "The baked puddings should be baked in the oven for 40–45 minutes until set.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Baked_Yoghurt_with_Saffron_and_Cardamom"
+        }
+    ]
+}

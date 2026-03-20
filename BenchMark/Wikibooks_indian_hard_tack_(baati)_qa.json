@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_hard_tack_(baati).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Indian Hard Tack (Baati) from?",
+            "Gold Answer": "Baati is a traditional South Asian dish, originating from the cuisine of South Asia.",
+            "Source/Reference": "indian_hard_tack_(baati).json"
+        },
+        {
+            "Query": "What is the best way to knead the dough to make it stick together in a ball?",
+            "Gold Answer": "The dough must be kneaded very hard to make it stick together in a ball. The more compact the dough, the better and denser the baati will be.",
+            "Source/Reference": "indian_hard_tack_(baati).json"
+        },
+        {
+            "Query": "How should the baati be cooked?",
+            "Gold Answer": "The baati should be cooked in a dry metal pan on a low flame, flipping it once when the bottom begins to harden, then pinching it to create a bumpy texture on one side.",
+            "Source/Reference": "indian_hard_tack_(baati).json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kal_kals_(sweet_curled_fritters).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Kal Kals?",
+            "Gold Answer": "Kal Kals are a traditional sweet treat from South Asia.",
+            "Source/Reference": "kal_kals_(sweet_curled_fritters).json"
+        },
+        {
+            "Query": "What is the typical oil temperature for frying Kal Kals?",
+            "Gold Answer": "The ideal temperature for frying Kal Kals is around 350°F/180°C.",
+            "Source/Reference": "kal_kals_(sweet_curled_fritters).json"
+        },
+        {
+            "Query": "How many Kal Kals can be fried at once?",
+            "Gold Answer": "Six Kal Kals can be fried at a time.",
+            "Source/Reference": "kal_kals_(sweet_curled_fritters).json"
+        }
+    ]
+}

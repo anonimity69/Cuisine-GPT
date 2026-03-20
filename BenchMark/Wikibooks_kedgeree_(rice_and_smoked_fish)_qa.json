@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kedgeree_(rice_and_smoked_fish).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Kedgeree?",
+            "Gold Answer": "Kedgeree is a dish from South Asia.",
+            "Source/Reference": "kedgeree_(rice_and_smoked_fish).json"
+        },
+        {
+            "Query": "What type of fish is used in Kedgeree?",
+            "Gold Answer": "Smoked haddock is a key ingredient in Kedgeree.",
+            "Source/Reference": "kedgeree_(rice_and_smoked_fish).json"
+        },
+        {
+            "Query": "How is Kedgeree traditionally prepared?",
+            "Gold Answer": "Kedgeree is traditionally prepared by steaming smoked haddock in rice with chicken stock, and then mixing in various ingredients.",
+            "Source/Reference": "kedgeree_(rice_and_smoked_fish).json"
+        }
+    ]
+}

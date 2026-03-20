@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\keralan_prawns.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Keralan Prawns recipe belong to?",
+            "Gold Answer": "The Keralan Prawns recipe belongs to South Asian cuisine, specifically from the region of Kerala.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Keralan_Prawns"
+        },
+        {
+            "Query": "What is the main cooking liquid used for the prawns?",
+            "Gold Answer": "The main cooking liquid used for the prawns is a combination of water, ginger, salt, curry leaves, green chilies, kudampuli (Malabar tamarind), and coconut.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Keralan_Prawns"
+        },
+        {
+            "Query": "What is the desired consistency of the final dish?",
+            "Gold Answer": "The final dish is desired to reach a semi-dry consistency.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Keralan_Prawns"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jigarthanda_milk.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Jigarthanda Milk?",
+            "Gold Answer": "Jigarthanda Milk is a traditional South Asian dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jigarthanda_Milk"
+        },
+        {
+            "Query": "What type of dish is Jigarthanda Milk?",
+            "Gold Answer": "Jigarthanda Milk is a milk-based dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jigarthanda_Milk"
+        },
+        {
+            "Query": "Where is Jigarthanda Milk from?",
+            "Gold Answer": "Jigarthanda Milk originates from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Jigarthanda_Milk"
+        }
+    ]
+}

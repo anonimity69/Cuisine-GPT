@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\khus_khus_halwa.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Khus Khus Halwa?",
+            "Gold Answer": "Khus Khus Halwa is a South Asian dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Khus_Khus_Halwa"
+        },
+        {
+            "Query": "What is the typical preparation method for Khus Khus Halwa?",
+            "Gold Answer": "Khus Khus Halwa is typically made by blending mango flesh, sugar, milk, vanilla, and cinnamon powder, then adding maida and frying bread slices in the batter.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Khus_Khus_Halwa"
+        },
+        {
+            "Query": "What is the main ingredient used to thicken the batter in Khus Khus Halwa?",
+            "Gold Answer": "The main ingredient used to thicken the batter in Khus Khus Halwa is maida (all-purpose flour).",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Khus_Khus_Halwa"
+        }
+    ]
+}

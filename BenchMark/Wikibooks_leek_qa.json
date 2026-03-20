@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\leek.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical texture of leeks?",
+            "Gold Answer": "The texture of leeks is fibrous and very slightly mucilaginous.",
+            "Source/Reference": "leek.json"
+        },
+        {
+            "Query": "What are leeks typically used for?",
+            "Gold Answer": "Leeks are typically cooked and used to flavor stocks and broths, and they form an integral component of dishes such as potato-leek soup, pot-au-feu, and cock-a-leekie.",
+            "Source/Reference": "leek.json"
+        },
+        {
+            "Query": "How are leeks usually stored?",
+            "Gold Answer": "Leeks will keep well in the fridge for a couple weeks, wrapped in a towel or plastic to prevent wilting.",
+            "Source/Reference": "leek.json"
+        }
+    ]
+}

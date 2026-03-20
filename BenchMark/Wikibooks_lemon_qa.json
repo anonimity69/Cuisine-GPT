@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lemon.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical diameter of a lemon?",
+            "Gold Answer": "A few inches/centimeters in diameter",
+            "Source/Reference": "lemon.json"
+        },
+        {
+            "Query": "What is the flavor profile of lemons?",
+            "Gold Answer": "Generally characterized as fresh and bright",
+            "Source/Reference": "lemon.json"
+        },
+        {
+            "Query": "How is lemon juice used in cooking?",
+            "Gold Answer": "Lemons are widely used in cooking for their flavor and acidity, as the central flavor, zest and juice are both used to flavor cakes, cookies, soufflêlæs, beverages, confections, sauces, marinades, and more",
+            "Source/Reference": "lemon.json"
+        }
+    ]
+}

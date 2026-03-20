@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lemon_pickle_i.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Lemon Pickle I recipe?",
+            "Gold Answer": "South Asian cuisine",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pickle_I"
+        },
+        {
+            "Query": "What ingredients are required for the Lemon Pickle I recipe?",
+            "Gold Answer": "12 small or 6 large lemons, 1/2 cup salt, 1/4 cup red chile powder, 1/2 cup sugar, 3 tsp turmeric powder, 1 tsp fenugreek seed, 1 tsp black mustard seed, 1/4 tsp asafoetida powder (optional)",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pickle_I"
+        },
+        {
+            "Query": "What is the purpose of the procedure in the Lemon Pickle I recipe?",
+            "Gold Answer": "There is no procedure listed in the recipe",
+            "Source/Reference": "lemon_pickle_i.json"
+        }
+    ]
+}

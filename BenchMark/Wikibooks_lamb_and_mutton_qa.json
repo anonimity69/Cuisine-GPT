@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lamb_and_mutton.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does lamb and mutton play a significant role in?",
+            "Gold Answer": "Lamb and mutton play a significant role in the cuisines of North Africa, the Middle East, and Central Asia.",
+            "Source/Reference": "lamb_and_mutton.json"
+        },
+        {
+            "Query": "What is the best way to cook lamb chops?",
+            "Gold Answer": "Lamb chops are best cooked quickly by grilling, broiling, or searing.",
+            "Source/Reference": "lamb_and_mutton.json"
+        },
+        {
+            "Query": "What type of cut of meat is lamb and mutton often paired with strong flavors like seasonings and acids?",
+            "Gold Answer": "Lamb and mutton are often paired with strong flavors like seasonings and acids, due to their strong flavor and fatty texture.",
+            "Source/Reference": "lamb_and_mutton.json"
+        }
+    ]
+}

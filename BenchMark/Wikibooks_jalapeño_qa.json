@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\jalapeño.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical shape of a jalapeáo pepper?",
+            "Gold Answer": "The shape is smoothly tapered and blunt.",
+            "Source/Reference": "jalapeáo.json"
+        }
+    ]
+}

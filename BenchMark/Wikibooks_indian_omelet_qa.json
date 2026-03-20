@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_omelet.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the Indian Omelet recipe belong to?",
+            "Gold Answer": "The Indian Omelet recipe belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Omelet"
+        },
+        {
+            "Query": "What ingredients are required for the Indian Omelet recipe?",
+            "Gold Answer": "The Indian Omelet recipe requires 4 large eggs, 1/2 cup finely-chopped onion, 1/2 cup chopped tomatoes, 1/4 teaspoon salt, 1/4 teaspoon pepper, 1/4 teaspoon cumin seeds, finely-chopped coriander leaves, finely-chopped hot green chiles, and red chile powder.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Omelet"
+        },
+        {
+            "Query": "What is the cooking procedure for the Indian Omelet recipe?",
+            "Gold Answer": "The cooking procedure for the Indian Omelet recipe involves whisking eggs, adding ingredients, setting a skillet on stove, smearing oil, pouring contents into skillet, lightly browning one side, and then the other side.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Omelet"
+        }
+    ]
+}

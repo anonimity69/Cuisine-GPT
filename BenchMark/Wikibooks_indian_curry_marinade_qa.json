@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\indian_curry_marinade.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Indian Curry Marinade?",
+            "Gold Answer": "Indian Curry Marinade is from the South Asia cuisine region.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Curry_Marinade"
+        },
+        {
+            "Query": "How long can Indian Curry Marinade be stored?",
+            "Gold Answer": "Indian Curry Marinade can be stored in the refrigerator for up to 1 1/2 weeks.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Curry_Marinade"
+        },
+        {
+            "Query": "What should be done with the ground spices after toasting?",
+            "Gold Answer": "The ground spices should be pulsed with the bay leaf in a spice grinder until finely ground, then combined with the remaining ingredients.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Indian_Curry_Marinade"
+        }
+    ]
+}

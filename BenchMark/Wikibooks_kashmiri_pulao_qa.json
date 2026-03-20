@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\kashmiri_pulao.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Kashmiri Pulao?",
+            "Gold Answer": "Kashmiri Pulao is a dish from South Asia, specifically from the region of Kashmir.",
+            "Source/Reference": "kashmiropulao.json"
+        },
+        {
+            "Query": "What ingredients are used in the recipe?",
+            "Gold Answer": "The ingredients used in the recipe include basmati rice, ghee or butter, green cardamom, cinnamon, onion, ginger-garlic paste, green chillies, salt, saffron, milk, dried dates, white raisins, cashew nuts, pistachio nuts, and almonds.",
+            "Source/Reference": "kashmiropulao.json"
+        },
+        {
+            "Query": "How to serve Kashmiri Pulao?",
+            "Gold Answer": "Kashmiri Pulao is traditionally served with a gravy such as the basic tomato gravy.",
+            "Source/Reference": "kashmiropulao.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\jaggery.json",
+    "qna_pairs": [
+        {
+            "Query": "What can be used as a substitute for jaggery in recipes?",
+            "Gold Answer": "If you can’t get jaggery specifically, other unrefined sugars may be used as a substitute.\nBe conscious, however, of the moisture level called for in your recipe, and make adjustments as necessary.\nSoft varieties of jaggery may be used instead of modern brown sugar.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Jaggery"
+        }
+    ]
+}

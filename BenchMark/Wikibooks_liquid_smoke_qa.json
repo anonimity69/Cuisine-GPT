@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\liquid_smoke.json",
+    "qna_pairs": [
+        {
+            "Query": "What ingredients are in liquid smoke?",
+            "Gold Answer": "When purchasing commercial liquid smoke, look preferentially for those whose ingredients are just smoke and water.",
+            "Source/Reference": "liquid_smoke.json"
+        }
+    ]
+}

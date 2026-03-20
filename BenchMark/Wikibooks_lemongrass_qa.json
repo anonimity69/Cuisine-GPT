@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\lemongrass.json",
+    "qna_pairs": [
+        {
+            "Query": "What is lemongrass used for in cooking?",
+            "Gold Answer": "Lemongrass is used as an aromatic herb in South(east) Asian cooking, where it flavors anything from soups, stir-fries, tisanes, salads, curry pastes, meat dishes, and more.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Lemongrass"
+        }
+    ]
+}

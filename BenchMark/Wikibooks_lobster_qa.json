@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\lobster.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the ideal cooking temperature for lobster meat?",
+            "Gold Answer": "The ideal target temperature for cooking lobster meat is 135–145°F (57–63°C) in the center of the tail.",
+            "Source/Reference": "lobster.json"
+        },
+        {
+            "Query": "What is the best way to cook lobster?",
+            "Gold Answer": "One of the most straightforward ways to cook lobster is by boiling in a covered pot of salted, and sometimes more complexly flavored, water. Recommended cooking times range from 5 to 8 minutes per pound (450 g).",
+            "Source/Reference": "lobster.json"
+        },
+        {
+            "Query": "What is the difference between Northern lobster and Spiny lobster?",
+            "Gold Answer": "Northern lobster, also called Maine lobster, American lobster, European lobster, or common lobster, is a group of lobsters found in cooler waters of the northern Atlantic ocean. It is a crustacean somewhat akin to shrimp, crab, and crayfish. Spiny lobster, on the other hand, is not technically a lobster in the biological sense, but it is considered a lobster culinarily. It is often referred to as a 'wild lobster' or 'northern lobster' in some regions, but it is a different species from the Northern lobster.",
+            "Source/Reference": "lobster.json"
+        }
+    ]
+}

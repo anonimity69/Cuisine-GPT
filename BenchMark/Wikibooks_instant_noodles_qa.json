@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\instant_noodles.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical shape of the noodles in instant noodles?",
+            "Gold Answer": "A vast array of instant noodles can be found, with variations in shape, color, and flavor.",
+            "Source/Reference": "instant_noodles.json"
+        },
+        {
+            "Query": "Can instant noodles be used as an ingredient in a more complex final dish?",
+            "Gold Answer": "They are often prepared as specified by the manufacturer directions, but many recipes exist that use instant noodles as an ingredient in a more complex final dish.",
+            "Source/Reference": "instant_noodles.json"
+        },
+        {
+            "Query": "What is the purpose of the alkaline solution called kansui in the dough of instant noodles?",
+            "Gold Answer": "The alkaline solution called kansui increases the chewy texture of the noodles.",
+            "Source/Reference": "instant_noodles.json"
+        }
+    ]
+}

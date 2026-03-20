@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\ice_cream.json",
+    "qna_pairs": [
+        {
+            "Query": "What determines the structure of ice cream?",
+            "Gold Answer": "The structure of ice cream and other churned desserts depends on the specific proportions of ingredients in the base, but it is generally a colloid composed primarily of three parts: ice crystals, tiny pockets of air, and a concentrated unfrozen liquid matrix.",
+            "Source/Reference": "ice_cream.json"
+        },
+        {
+            "Query": "How does the overrun in ice cream affect its texture?",
+            "Gold Answer": "The overrun in ice cream affects its density and softness, with more air impeding the formation of large ice crystals and resulting in a lighter, softer texture. However, excessive overrun weakens the flavor and texture of the ice cream.",
+            "Source/Reference": "ice_cream.json"
+        },
+        {
+            "Query": "What role do stabilizers play in ice cream?",
+            "Gold Answer": "Stabilizers, such as sugar, eggs, cold temperatures, and specific additives, play a role in maintaining the texture and structure of ice cream. Excessive use of stabilizers can lead to separation after melting, while a lack of stabilizers can result in a soft or watery texture.",
+            "Source/Reference": "ice_cream.json"
+        }
+    ]
+}

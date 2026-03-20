@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\jicama.json",
+    "qna_pairs": [
+        {
+            "Query": "Where can jicama be found in the world?",
+            "Gold Answer": "Jicama is a popular dietary staple in Latin America and is widely grown in Mexico and Central America, and it also has a presence in China and the United States.",
+            "Source/Reference": "jicama.json"
+        },
+        {
+            "Query": "What can be substituted for jicama in recipes?",
+            "Gold Answer": "Jicama and water chestnut can sometimes be substituted for each other due to their similar textures, though the flavor is different.",
+            "Source/Reference": "jicama.json"
+        },
+        {
+            "Query": "How long can whole jicama be stored?",
+            "Gold Answer": "Whole jicama will keep for several days at room temperature and up to several weeks in the refrigerator.",
+            "Source/Reference": "jicama.json"
+        }
+    ]
+}
