@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\yunnan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some of the unique ingredients in Yunnan cuisine?",
+            "Gold Answer": "Yunnan cuisine features mushrooms, flowers, ferns, algae, and insects as unique ingredients, as well as cheeses like Rubing and Rushan cheese made by the Bai people.",
+            "Source/Reference": "yunnan_cuisine.json"
+        },
+        {
+            "Query": "What is the connection between Yunnan cuisine and Southeast Asia?",
+            "Gold Answer": "Yunnan cuisine is often compared to Southeast Asian cuisine due to the province's proximity to the region and the presence of ethnic minority groups with cultural ties to Southeast Asia.",
+            "Source/Reference": "yunnan_cuisine.json"
+        },
+        {
+            "Query": "What are some of the famous products of Yunnan Province?",
+            "Gold Answer": "The renowned Pu'er tea, Xuanwei ham, and guoqiao (crossing the bridge) rice noodle soup with chicken, pig's kidney and liver, fish and pickled pork are three of the province's most famous products.",
+            "Source/Reference": "yunnan_cuisine.json"
+        }
+    ]
+}

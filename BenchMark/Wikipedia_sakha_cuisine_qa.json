@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\sakha_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Sakha dish made from horse or beef blood and intestines?",
+            "Gold Answer": "A type of blood sausage called khaan.",
+            "Source/Reference": "sakha_cuisine.json"
+        },
+        {
+            "Query": "How was Sakha people's diet historically composed?",
+            "Gold Answer": "Dairy products made up the most important part of their diet, including milk, butter, curds, kumis, and suorat.",
+            "Source/Reference": "sakha_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the famous salad developed by Sakha chef Innokenti Tarbakhov?",
+            "Gold Answer": "Indigirka salad, made with frozen fish cut in cubes and dressed with salt, pepper and onion, with caviar topping.",
+            "Source/Reference": "sakha_cuisine.json"
+        }
+    ]
+}

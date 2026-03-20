@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\saraswat_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Konkani cuisine?",
+            "Gold Answer": "Konkani cuisine is the cuisine of the Saraswat Brahmins from the Konkan region on the western coast of India. It is a variant of Indian cuisine, with different variations within the Saraswat Brahmin subsects and within the Konkan-Canara region. Konkani cuisine is usually pesco-vegetarian, except acharyas and purohits who follow a strictly saatvik vegetarian diet.",
+            "Source/Reference": "saraswat_cuisine.json"
+        },
+        {
+            "Query": "What is considered as sea vegetables in Konkani folklore?",
+            "Gold Answer": "According to Konkani folklore, fish and meats are regarded as sea vegetables. Historically, they have refrained from eating any terrestrial animals in general.",
+            "Source/Reference": "saraswat_cuisine.json"
+        },
+        {
+            "Query": "Where is Konkani cuisine popularly served?",
+            "Gold Answer": "Konkani cuisine is popularly served in many restaurants throughout the western coast of India, and especially in the cities of Bombay and Bangalore.",
+            "Source/Reference": "saraswat_cuisine.json"
+        }
+    ]
+}

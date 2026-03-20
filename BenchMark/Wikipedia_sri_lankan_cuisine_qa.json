@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\sri_lankan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common ingredients in Sri Lankan cuisine?",
+            "Gold Answer": "Sri Lankan cuisine is characterized by unique spice blends with heavy use of Sri Lankan cinnamon and black pepper, as well as by the use of ingredients such as Maldives fish, goraka (Garcinia cambogia), pandan leaf, lemongrass, and jaggery made from kithul palm syrup.",
+            "Source/Reference": "sri_lankan_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\tripuri_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Tripuri cuisine?",
+            "Gold Answer": "Tripuri cuisine is the traditional food type of the Tripuri people, served mainly in the northeastern region of India (Tripura) and Bangladesh. It reflects the organic lifestyle and evolving cultural trend with times from its natural Jhum (Huk) to now settled farming.",
+            "Source/Reference": "tripuri_cuisine.json"
+        },
+        {
+            "Query": "What is Chuak?",
+            "Gold Answer": "Chuak is a traditional Tripuri rice-beer.",
+            "Source/Reference": "tripuri_cuisine.json"
+        },
+        {
+            "Query": "Where is Tripuri cuisine mainly served?",
+            "Gold Answer": "Tripuri cuisine is mainly served in the northeastern region of India (mainly Tripura) and Bangladesh.",
+            "Source/Reference": "tripuri_cuisine.json"
+        }
+    ]
+}

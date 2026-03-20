@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\telangana_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of topography affects Telangana cuisine?",
+            "Gold Answer": "The topography of the Deccan plateau affects Telangana cuisine, with a focus on millets and roti-based dishes.",
+            "Source/Reference": "telangana_cuisine.json"
+        },
+        {
+            "Query": "Which grains feature prominently in Telangana cuisine?",
+            "Gold Answer": "Jowar and Bajra are two grains that feature prominently in Telangana cuisine.",
+            "Source/Reference": "telangana_cuisine.json"
+        },
+        {
+            "Query": "What region is Telangana located in?",
+            "Gold Answer": "Telangana is located in the Indian state of Telangana, which lies on the Deccan plateau.",
+            "Source/Reference": "telangana_cuisine.json"
+        }
+    ]
+}

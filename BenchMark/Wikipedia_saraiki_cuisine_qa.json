@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\saraiki_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional dish of the Saraiki belts of Damaan and other Saraiki belts of Bhakkar, Layyah, Tonsa, Vehoa, and Dera Ghazi Khan?",
+            "Gold Answer": "Sohbat is a food of the Saraiki belts of Khyber Pakhtunkhwa, Pakistan and south Punjab, Pakistan. It is the traditional dish of Damaan and other Saraiki belts of Bhakkar, Layyah, Tonsa, Vehoa, and Dera Ghazi Khan.",
+            "Source/Reference": "saraiki_cuisine.json"
+        }
+    ]
+}

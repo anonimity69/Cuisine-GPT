@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\yamal_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary component of Yamal cuisine?",
+            "Gold Answer": "The primary component of Yamal cuisine is warm and hot dishes, particularly those made from reindeer meat, fish, and mushrooms.",
+            "Source/Reference": "yamal_cuisine.json"
+        },
+        {
+            "Query": "What is the traditional Yamal beverage?",
+            "Gold Answer": "The traditional Yamal beverage is tea, which has become a national drink in Yamal, originating from Russia.",
+            "Source/Reference": "yamal_cuisine.json"
+        },
+        {
+            "Query": "Which fish is commonly used in Fish Soup in Yamal cuisine?",
+            "Gold Answer": "Fish Soup in Yamal cuisine is made from burbot.",
+            "Source/Reference": "yamal_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\uzbek_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine of Uzbekistan based on?",
+            "Gold Answer": "The cuisine of Uzbekistan is based on traditional and modern cuisines of Uzbekistan, sharing culinary traditions of peoples across Central Asia, with grain farming being widespread.",
+            "Source/Reference": "uzbek_cuisine.json"
+        }
+    ]
+}

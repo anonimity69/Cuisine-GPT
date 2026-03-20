@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\yupʼik_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the primary food sources for Yup'ik Eskimos?",
+            "Gold Answer": "Fish as food, especially Salmonidae species such as salmon and whitefish, are primary food sources for Yup'ik Eskimos.",
+            "Source/Reference": "yupʼik_cuisine.json"
+        },
+        {
+            "Query": "What are some traditional Yup'ik delicacies?",
+            "Gold Answer": "Akutaq (Eskimo ice cream), tepa (stinkheads), and mangtak (muktuk) are some of the most well-known traditional Yup'ik delicacies.",
+            "Source/Reference": "yupʼik_cuisine.json"
+        },
+        {
+            "Query": "What are the primary methods of food preservation for Yup'ik cuisine?",
+            "Gold Answer": "Food preservation methods are mostly drying and less often freezing.",
+            "Source/Reference": "yupʼik_cuisine.json"
+        }
+    ]
+}

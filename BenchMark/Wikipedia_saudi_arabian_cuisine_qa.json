@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\saudi_arabian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common ingredient in Saudi Arabian cuisine?",
+            "Gold Answer": "Most food ingredients, such as wheat, dates, ghee, meat, fish and vegetables, are sourced locally.",
+            "Source/Reference": "saudi_arabian_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional drink in Saudi Arabia?",
+            "Gold Answer": "Serving Gahwah (Coffee) in Saudi Arabia is a sign of hospitality and generosity. Traditionally, the coffee beans were roasted, cooled and ground in front of the guests using a mortar and pestle.",
+            "Source/Reference": "saudi_arabian_cuisine.json"
+        },
+        {
+            "Query": "What is the cultural significance of food in Saudi Arabia?",
+            "Gold Answer": "Serving these dishes to guests is a way of expressing generosity and the renowned hospitality of the people of Saudi Arabia. These dishes are typically enjoyed during festive seasons, Hajj, special occasions, weddings, and the arrival of a newborn.",
+            "Source/Reference": "saudi_arabian_cuisine.json"
+        }
+    ]
+}

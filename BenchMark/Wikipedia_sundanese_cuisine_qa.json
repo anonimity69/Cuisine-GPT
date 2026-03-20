@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\sundanese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of dish is Nasi timbel?",
+            "Gold Answer": "Nasi timbel is a style of cooking where one wraps cooked hot steamed rice in a banana leaf, producing a unique aroma.",
+            "Source/Reference": "sundanese_cuisine.json"
+        }
+    ]
+}

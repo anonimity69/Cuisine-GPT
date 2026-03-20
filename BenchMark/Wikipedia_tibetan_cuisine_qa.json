@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\tibetan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple food of Tibet?",
+            "Gold Answer": "The staple food of Tibet is barley, which is made into a flour product called tsampa.",
+            "Source/Reference": "tibetan_cuisine.json"
+        },
+        {
+            "Query": "What is traditional Tibetan cuisine served with?",
+            "Gold Answer": "Traditional Tibetan cuisine is served with silverware, in contrast to other Himalayan cuisines which are eaten by hand.",
+            "Source/Reference": "tibetan_cuisine.json"
+        },
+        {
+            "Query": "What is the national beverage of Tibet?",
+            "Gold Answer": "Butter tea is the national beverage of Tibet, although black tea is also fairly popular.",
+            "Source/Reference": "tibetan_cuisine.json"
+        }
+    ]
+}

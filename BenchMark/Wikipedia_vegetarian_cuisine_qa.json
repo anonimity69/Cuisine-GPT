@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\vegetarian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary source of protein in vegetarian cuisine?",
+            "Gold Answer": "Legumes, nuts, and grains are the primary sources of protein in vegetarian cuisine.",
+            "Source/Reference": "vegetarian_cuisine.json"
+        },
+        {
+            "Query": "What type of desserts are mostly vegan?",
+            "Gold Answer": "Eastern confectionery and desserts, such as halva and Turkish delight, are mostly vegan.",
+            "Source/Reference": "vegetarian_cuisine.json"
+        },
+        {
+            "Query": "What is the type of vegetarian that consumes dairy and eggs?",
+            "Gold Answer": "Ovo-lacto vegetarian, a style of vegetarian that consumes dairy and eggs.",
+            "Source/Reference": "vegetarian_cuisine.json"
+        }
+    ]
+}

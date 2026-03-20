@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\taiwanese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the common ingredients of Taiwanese cuisine?",
+            "Gold Answer": "Pork, seafood, chicken, rice, and soy are common ingredients of Taiwanese cuisine.",
+            "Source/Reference": "taiwanese_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Japanese and Taiwanese rice preferences?",
+            "Gold Answer": "The Taiwanese generally prefer rice that is plump, aromatic, slightly firm, and sweet, whereas the Japanese prefer a more subtle and pure taste and smell.",
+            "Source/Reference": "taiwanese_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of xiaochi in Taiwanese cuisine?",
+            "Gold Answer": "Xiaochi is an important part of Taiwanese cuisine, substantial snacks that have gained much reputation internationally and can be found in both night markets and luxury restaurants.",
+            "Source/Reference": "taiwanese_cuisine.json"
+        }
+    ]
+}

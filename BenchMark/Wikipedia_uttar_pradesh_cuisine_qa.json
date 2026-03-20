@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\uttar_pradesh_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the famous subtypes of cuisine of Uttar Pradesh?",
+            "Gold Answer": "Braj, Mughlai, Awadhi, Kannuaji, Kauravi, Bundeli, Bagheli and Bhojpuri.",
+            "Source/Reference": "uttar_pradesh_cuisine.json"
+        },
+        {
+            "Query": "What is the traditional dessert 'Gulab jamun' made of?",
+            "Gold Answer": "Gulab jamun is a traditional dessert, it is not specified what it is made of in the text, however, it is mentioned in the list of desserts.",
+            "Source/Reference": "uttar_pradesh_cuisine.json"
+        },
+        {
+            "Query": "Which beverage is commonly consumed in Uttar Pradesh?",
+            "Gold Answer": "Several beverages are commonly consumed in Uttar Pradesh, including Lassi, Chhaas, Raita, Sharbat, Thandai, and Falooda.",
+            "Source/Reference": "uttar_pradesh_cuisine.json"
+        }
+    ]
+}

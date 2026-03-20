@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\turkish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the different types of Turkish desserts?",
+            "Gold Answer": "Turkish desserts include baklava, kadayıf, künefe, katmer, muhallebi, sütlaç, haytalı, helva, revani, şekerpare, dilber dudağı, vezir parmağı, hanım göbeği, kemalpaşa, tulumba, zerde, lokma, güllaç, aşure, ayva tatlısı, incir tatlısı, kabak tatlısı, elma tatlısı, armut tatlısı, kurabiye, acıbadem kurabiyesi, un kurabiyesi, cevizli kurabiye, ay çöreği, tahin-pekmez, lokum, cezerye, cevizli sucuk, pestil, marzipan, and macun.",
+            "Source/Reference": "turkish_cuisine.json"
+        }
+    ]
+}

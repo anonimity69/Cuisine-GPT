@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\sakhalin_korean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Pyanse?",
+            "Gold Answer": "Pyanse is a type of steamed bun invented in the early 1980s as an adaptation of wang-mandu, popular in Vladivostok since the 1990s and later brought to Moscow and other cities.",
+            "Source/Reference": "sakhalin_korean_cuisine.json"
+        },
+        {
+            "Query": "What is Morskaya kapusta?",
+            "Gold Answer": "Morskaya kapusta is a boiled seaweed salad.",
+            "Source/Reference": "sakhalin_korean_cuisine.json"
+        },
+        {
+            "Query": "What is Hemultan?",
+            "Gold Answer": "Hemultan is a spicy seafood stew descended from haemultang.",
+            "Source/Reference": "sakhalin_korean_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\tianjin_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main focus of Tianjin cuisine?",
+            "Gold Answer": "The main focus of Tianjin cuisine is seafood, and it is categorized by its freshness, saltiness and soft and crispy textures.",
+            "Source/Reference": "tianjin_cuisine.json"
+        },
+        {
+            "Query": "How many Great Stews does Tianjin cuisine refer to?",
+            "Gold Answer": "The Four Great Stews refers to a very large number of stews, including chicken, duck, seafood, beef, and mutton.",
+            "Source/Reference": "tianjin_cuisine.json"
+        },
+        {
+            "Query": "What is the main cooking method used in Tianjin cuisine?",
+            "Gold Answer": "The cooking methods include grilling, simmering, sautéing and steaming.",
+            "Source/Reference": "tianjin_cuisine.json"
+        }
+    ]
+}

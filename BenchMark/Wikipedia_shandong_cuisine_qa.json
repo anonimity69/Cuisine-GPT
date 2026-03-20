@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\shandong_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Shandong cuisine?",
+            "Gold Answer": "Shandong cuisine is one of the Eight Culinary Traditions of Chinese cuisine and one of the Four Great Traditions. It is derived from the native cooking style of Shandong Province, a northern coastal province of China.",
+            "Source/Reference": "shandong_cuisine.json"
+        },
+        {
+            "Query": "What ingredients are commonly used in Shandong cuisine?",
+            "Gold Answer": "Shandong cuisine is noted for its variety of seafood, including scallop, prawn and shrimp, clam, sea cucumber and squid.",
+            "Source/Reference": "shandong_cuisine.json"
+        },
+        {
+            "Query": "Why is Shandong cuisine different from other Chinese cuisines?",
+            "Gold Answer": "Although modern transportation has increased the availability of ingredients throughout China, Shandong cuisine remains rooted in tradition.",
+            "Source/Reference": "shandong_cuisine.json"
+        }
+    ]
+}

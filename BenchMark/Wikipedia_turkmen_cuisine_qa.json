@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\turkmen_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the traditional drink made from fermented camel's milk?",
+            "Gold Answer": "The traditional drink made from fermented camel's milk in Turkmenistan is called 'chal' or 'chal', which is a white sparkling beverage with a sour flavor.",
+            "Source/Reference": "turkmen_cuisine.json"
+        }
+    ]
+}

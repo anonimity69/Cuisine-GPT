@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\thalassery_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the name of the first bakery in Thalassery?",
+            "Gold Answer": "The first bakery was started by Mambally Bapu in 1880.",
+            "Source/Reference": "thalassery_cuisine.json"
+        }
+    ]
+}

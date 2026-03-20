@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\udupi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main type of cuisine of Udupi?",
+            "Gold Answer": "Udupi cuisine is strictly vegetarian, but other elements of Udupi cuisine are non-vegetarian and common to Mangalorean cuisine.",
+            "Source/Reference": "udupi_cuisine.json"
+        },
+        {
+            "Query": "Where does the Udupi cuisine originate from?",
+            "Gold Answer": "Udupi cuisine originates from the Udupi Sri Krishna Matha founded by Madhvacharya.",
+            "Source/Reference": "udupi_cuisine.json"
+        },
+        {
+            "Query": "What is a hallmark of Udupi cuisine?",
+            "Gold Answer": "A hallmark of the Udupi cuisine involves the use of locally available ingredients.",
+            "Source/Reference": "udupi_cuisine.json"
+        }
+    ]
+}

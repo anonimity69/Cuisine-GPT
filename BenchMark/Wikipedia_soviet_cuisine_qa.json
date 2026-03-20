@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\soviet_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine was prevalent in canteens throughout the Soviet Union?",
+            "Gold Answer": "Soviet cuisine was formed by the integration of various national cuisines, characterized by a limited number of ingredients and simplified cooking, and was prevalent in canteens everywhere in the Soviet Union.",
+            "Source/Reference": "soviet_cuisine.json"
+        },
+        {
+            "Query": "What cuisines influenced Soviet cuisine?",
+            "Gold Answer": "Soviet cuisine was shaped by French, Russian, Austro-Hungarian cuisines, and cuisines from other Eastern Bloc nations, with Caucasian cuisines, particularly Georgian cuisine, also contributing.",
+            "Source/Reference": "soviet_cuisine.json"
+        },
+        {
+            "Query": "What influential book reflected the formation of Soviet cuisine?",
+            "Gold Answer": "The Book of Tasty and Healthy Food, first printed in 1939, following the directions of Anastas Mikoyan, reflected the formation of Soviet cuisine to a significant extent.",
+            "Source/Reference": "soviet_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\teochew_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What region in Guangdong Province is the origin of Teochew cuisine?",
+            "Gold Answer": "The Chaoshan region in the eastern part of China's Guangdong Province.",
+            "Source/Reference": "teochew_cuisine.json"
+        },
+        {
+            "Query": "How similar is Teochew cuisine to Fujian cuisine?",
+            "Gold Answer": "Teochew cuisine bears more similarities to that of Fujian cuisine, particularly Southern Min cuisine, due to the similarity of Teochew's and Fujian's culture, language, and their geographic proximity to each other.",
+            "Source/Reference": "teochew_cuisine.json"
+        },
+        {
+            "Query": "What cuisine is Teochew cuisine also influenced by in style and technique?",
+            "Gold Answer": "Teochew cuisine is also influenced by Cantonese cuisine in its style and technique.",
+            "Source/Reference": "teochew_cuisine.json"
+        }
+    ]
+}

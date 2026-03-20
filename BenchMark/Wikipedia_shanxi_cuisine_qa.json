@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\shanxi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Shanxi cuisine famous for?",
+            "Gold Answer": "Shanxi cuisine is famous for noodles, fried flatbread (da bing), and sour tastes. It is also famed for using its locally produced vinegar.",
+            "Source/Reference": "shanxi_cuisine.json"
+        },
+        {
+            "Query": "What types of meat are commonly used in Shanxi cuisine?",
+            "Gold Answer": "Pork and chicken are common in Shanxi, but one of the most popular meat sources is lamb. Goat and sheep offal is also often used.",
+            "Source/Reference": "shanxi_cuisine.json"
+        },
+        {
+            "Query": "What staples are commonly used in Shanxi cuisine?",
+            "Gold Answer": "The main staples of Shanxi cuisine reflect the crops commonly grown in Shanxi: millet, sorghum, and wheat. Pork, mushrooms, potatoes, and turnips are frequently used in dishes.",
+            "Source/Reference": "shanxi_cuisine.json"
+        }
+    ]
+}

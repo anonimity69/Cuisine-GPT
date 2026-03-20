@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\sarawakian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical ingredient used in Sarawakian cuisine?",
+            "Gold Answer": "The typical ingredient used in Sarawakian cuisine is rice, which is often steamed and served with meat, fish and vegetable dishes.",
+            "Source/Reference": "sarawakian_cuisine.json"
+        }
+    ]
+}

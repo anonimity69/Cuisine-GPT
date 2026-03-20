@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\syrian_jewish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Syrian Jewish cuisine?",
+            "Gold Answer": "The cuisine type of Syrian Jewish cuisine is distinct from Ashkenazi Jewish cuisine, and it often differs from other regional Jewish foodways. It contains rice, dried fruits, and other seasonings that are not found in other cuisines.",
+            "Source/Reference": "syrian_jewish_cuisine.json"
+        },
+        {
+            "Query": "What were some influences on Syrian Jewish cuisine?",
+            "Gold Answer": "Syrian Jewish cuisine was influenced by the Sephardim from Spain, the so-called Francos from Italy, and the local Syrian Mizrahi and Musta'arabi Jewish cuisine. These influences created new flavors and styles, and the Syrian Jews also created their own versions of Syrian dishes, emphasizing fruit and sweet-sour flavors.",
+            "Source/Reference": "syrian_jewish_cuisine.json"
+        },
+        {
+            "Query": "What is unique about Syrian Jewish cuisine's use of oils in fried foods?",
+            "Gold Answer": "Syrian Jewish cuisine differs from standard Syrian cuisine because it uses oil instead of butter or lamb fat in fried foods, due to the kosher dietary law that prohibits mixing meat and dairy.",
+            "Source/Reference": "syrian_jewish_cuisine.json"
+        }
+    ]
+}

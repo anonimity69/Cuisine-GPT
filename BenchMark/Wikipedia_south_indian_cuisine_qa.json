@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\south_indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the southern states of India included in South Indian cuisine?",
+            "Gold Answer": "The five southern states of India— Andhra Pradesh, Karnataka, Kerala, Telangana, Tamil Nadu, and the union territory of Lakshadweep.",
+            "Source/Reference": "south_indian_cuisine.json"
+        },
+        {
+            "Query": "What are some sub-cuisines within South Indian cuisine?",
+            "Gold Answer": "Sub-cuisines within these include Udupi, Chettinad, Hyderabadi, Thalassery, Saraswat, and Mangalorean Catholic.",
+            "Source/Reference": "south_indian_cuisine.json"
+        },
+        {
+            "Query": "What geographical locations are similar to South Indian cuisine?",
+            "Gold Answer": "South Indian cuisine shares similarities with the cuisines of Sri Lanka and the Maldives due to a similar geographic location and culture.",
+            "Source/Reference": "south_indian_cuisine.json"
+        }
+    ]
+}

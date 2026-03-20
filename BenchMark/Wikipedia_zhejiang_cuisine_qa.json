@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\zhejiang_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Zhejiang?",
+            "Gold Answer": "Zhejiang cuisine is one of the Eight Culinary Traditions of Chinese cuisine.",
+            "Source/Reference": "zhejiang_cuisine.json"
+        },
+        {
+            "Query": "What styles of cuisine does Zhejiang have?",
+            "Gold Answer": "Zhejiang cuisine contains four different styles: Hangzhou, Shaoxing, Ningbo, and Wenzhou (also known as Ou cuisine).",
+            "Source/Reference": "zhejiang_cuisine.json"
+        },
+        {
+            "Query": "What is a notable characteristic of Ningbo cuisine?",
+            "Gold Answer": "Ningbo cuisine is regarded as rather salty.",
+            "Source/Reference": "zhejiang_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\tajik_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the national dish of Tajikistan?",
+            "Gold Answer": "Palav or osh, generically known as plov (pilaf), is a rice dish made with julienned carrot, and pieces of meat, all fried together in vegetable oil or mutton fat in a special cookware called deg (a wok-shaped cauldron) over an open flame.",
+            "Source/Reference": "tajik_cuisine.json"
+        },
+        {
+            "Query": "What is the traditional way of eating in Tajikistan?",
+            "Gold Answer": "The dish is eaten communally from a single large plate placed at the center of the table, often in with one's hands.",
+            "Source/Reference": "tajik_cuisine.json"
+        },
+        {
+            "Query": "What is a common beverage in Tajikistan?",
+            "Gold Answer": "Tea is the common national drink, served hot in a china pot with a lid, and is drunk with sugar from small saucer-less cups without handles.",
+            "Source/Reference": "tajik_cuisine.json"
+        }
+    ]
+}

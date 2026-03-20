@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\yemeni_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of dishes are commonly served at breakfast in Yemen?",
+            "Gold Answer": "Yemeni people prefer to have warm dishes in the morning. Typically, the meal consists of different types of pastries with a cup of Yemeni coffee or tea. Dishes common at breakfast include masoub, fatoot, ful medames, mutabbaq, and shakshouka.",
+            "Source/Reference": "yemeni_cuisine.json"
+        }
+    ]
+}

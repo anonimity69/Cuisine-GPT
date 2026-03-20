@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\thai_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the four main categories of traditional Thai cuisine?",
+            "Gold Answer": "The four categories are tom (boiled dishes), yam (spicy salads), tam (pounded foods), and kaeng (curries).",
+            "Source/Reference": "thai_cuisine.json"
+        }
+    ]
+}

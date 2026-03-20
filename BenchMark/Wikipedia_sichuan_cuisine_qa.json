@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\sichuan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Sichuan cuisine?",
+            "Gold Answer": "Sichuan cuisine is thought to have originated during the Spring and Autumn period and the Warring States period, the beginning of Qin and Han dynasties, and the formation of classical Sichuan cuisine in Han and Jin dynasties.",
+            "Source/Reference": "sichuan_cuisine.json"
+        }
+    ]
+}

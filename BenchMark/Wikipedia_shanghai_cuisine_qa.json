@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\shanghai_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the historical age of Shanghai cuisine?",
+            "Gold Answer": "Shanghai cuisine is the youngest of the ten major cuisines of China, although it still has more than 400 years of history.",
+            "Source/Reference": "shanghai_cuisine.json"
+        },
+        {
+            "Query": "What cooking style is known as Haipai cuisine?",
+            "Gold Answer": "Haipai cuisine is a unique cooking style developed under the influence of Western cuisine, which resulted from the adoption of Western influence in Shanghai cuisine.",
+            "Source/Reference": "shanghai_cuisine.json"
+        },
+        {
+            "Query": "Which type of sweet dumpling is popular in Qibao?",
+            "Gold Answer": "Tangyuan is a type of sweet dumpling made of glutinous rice flour and stuffed with black sesame, which is popular in Qibao.",
+            "Source/Reference": "shanghai_cuisine.json"
+        }
+    ]
+}

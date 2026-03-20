@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\vietnamese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the name of the fermented meat dish made from pork meat, coated by fried rice, mixed with pork skin and then wrapped in country gooseberry leaves?",
+            "Gold Answer": "Nem chua, a Vietnamese fermented meat served as is or fried.",
+            "Source/Reference": "vietnamese_cuisine.json"
+        },
+        {
+            "Query": "What are some common ingredients used in Vietnamese cuisine?",
+            "Gold Answer": "Herbs and spices such as coriander and green onion leaves, lemongrass and chili pepper, and coconut water.",
+            "Source/Reference": "vietnamese_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the fermented fish sauce made from fish and shrimp?",
+            "Gold Answer": "Fish sauce, and fermented rươi sauce.",
+            "Source/Reference": "vietnamese_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\tamil_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple food of most Tamil people?",
+            "Gold Answer": "Rice is the staple food of most Tamil people. It is generally eaten during lunch and sometimes dinner.",
+            "Source/Reference": "tamil_cuisine.json"
+        },
+        {
+            "Query": "What are some popular breakfast dishes in Tamil cuisine?",
+            "Gold Answer": "Some popular breakfast dishes in Tamil cuisine include idli, dosa, vadai, pongal, upma, paniyaram, appam, uthappam, puttu, kozhakkattai, and sevai or idiyappam.",
+            "Source/Reference": "tamil_cuisine.json"
+        },
+        {
+            "Query": "What is sambar?",
+            "Gold Answer": "Sambar is a lentil-based vegetable stew or chowder made with tamarind, broth, freshly grounded spices, vegetables and lentils.",
+            "Source/Reference": "tamil_cuisine.json"
+        }
+    ]
+}

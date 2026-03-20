@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\singaporean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a typical food court or hawker centre dessert stall in Singapore usually have?",
+            "Gold Answer": "A large variety of desserts available, including but not limited to: Bubur cha cha, Chendol, Cheng tng, Ice kacang, Kuih or kueh, Kueh laddu, Kueh lapis, Lapis sagu, Orh-nee, Pulut hitam, Tau suan, and Tang yuan.",
+            "Source/Reference": " singaporean_cuisine.json"
+        },
+        {
+            "Query": "What is a popular Singaporean drink?",
+            "Gold Answer": "Bandung, which is rose syrup with evaporated milk. Other popular drinks include Chin chow drink, grass jelly made into a sweet beverage, and a variety of coffee drinks such as Kopi, Kopi-O, and Horlicks.",
+            "Source/Reference": " singaporean_cuisine.json"
+        },
+        {
+            "Query": "What is a Singaporean dish that is not found in Singapore?",
+            "Gold Answer": "Singapore-style noodles, which features fried rice vermicelli flavoured with yellow curry powder, is an American Chinese dish commonly found in Hong Kong. The close relative to this dish is fried bee hoon, a dish featuring thin rice noodles.",
+            "Source/Reference": " singaporean_cuisine.json"
+        }
+    ]
+}

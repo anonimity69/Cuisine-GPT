@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\shaanxi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Shaanxi cuisine derived from?",
+            "Gold Answer": "Shaanxi cuisine is derived from the native cooking styles of Shaanxi Province and parts of northwestern China.",
+            "Source/Reference": "shaanxi_cuisine.json"
+        },
+        {
+            "Query": "What type of cuisine is Shaanxi cuisine?",
+            "Gold Answer": "Shaanxi cuisine is a type of Qin cuisine.",
+            "Source/Reference": "shaanxi_cuisine.json"
+        },
+        {
+            "Query": "What is listed as a selected list of dishes in Shaanxi cuisine?",
+            "Gold Answer": "The following is a selected list of dishes in Shaanxi cuisine.",
+            "Source/Reference": "shaanxi_cuisine.json"
+        }
+    ]
+}

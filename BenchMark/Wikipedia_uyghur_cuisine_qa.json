@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\uyghur_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the significance of tea in Uyghur custom?",
+            "Gold Answer": "Tea is considered a universal medicine (chay dora) and plays an important role in many ceremonies. It is also seen as an indispensable part of good customer service and for successful business negotiations. Uyghurs prefer black tea (qara chai), which is often drunk with milk to make süt chay (milk tea).",
+            "Source/Reference": "uyghur_cuisine.json"
+        }
+    ]
+}

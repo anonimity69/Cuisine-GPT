@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\syrian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main ingredients in Syrian cuisine?",
+            "Gold Answer": "Syrian cuisine primarily uses ingredients like eggplant, zucchini, garlic, meat (mostly lamb and sheep), sesame seeds, rice, chickpeas, fava beans, lentils, steak, cabbage, cauliflower, vine leaves, pickled turnips, cucumbers, tomatoes, olive oil, lemon juice, mint, pistachios, honey and fruits.",
+            "Source/Reference": "syrian_cuisine.json"
+        },
+        {
+            "Query": "What is served after the main course in Syrian cuisine?",
+            "Gold Answer": "After the main course, Syrian cuisine typically serves coffee, along with sweet confections or fruits at will.",
+            "Source/Reference": "syrian_cuisine.json"
+        },
+        {
+            "Query": "When did many Syrian recipes start dating from?",
+            "Gold Answer": "Many recipes in Syrian cuisine date back to at least the 13th century.",
+            "Source/Reference": "syrian_cuisine.json"
+        }
+    ]
+}

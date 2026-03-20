@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\south_korean_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a staple food in South Korean cuisine?",
+            "Gold Answer": "Rice dishes and kimchi are staple Korean foods.",
+            "Source/Reference": "south_korean_cuisine.json"
+        },
+        {
+            "Query": "What is a traditional Korean spirit?",
+            "Gold Answer": "Soju liquor is the best-known traditional Korean spirit.",
+            "Source/Reference": "south_korean_cuisine.json"
+        },
+        {
+            "Query": "What are commonly consumed in South Korea along with drinking?",
+            "Gold Answer": "Alcoholic beverages are consumed in South Korea, and drinking is a part of the culture of South Korea.",
+            "Source/Reference": "south_korean_cuisine.json"
+        }
+    ]
+}

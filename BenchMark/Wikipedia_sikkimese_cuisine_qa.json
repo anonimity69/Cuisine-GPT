@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\sikkimese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple food in Sikkimese cuisine?",
+            "Gold Answer": "Rice is the staple food in Sikkimese cuisine.",
+            "Source/Reference": "sikkimese_cuisine.json"
+        },
+        {
+            "Query": "What percentage of total food consumption in Sikkim is comprised of fermented foods?",
+            "Gold Answer": "Fermented foods constitute 12.6% of total food consumption in the state of Sikkim.",
+            "Source/Reference": "sikkimese_cuisine.json"
+        },
+        {
+            "Query": "What is the traditional pattern of Sikkimese meals?",
+            "Gold Answer": "Sikkimese meals typically follow a bhat-dal-tharkari-achar (rice-pulses-curry-pickle) pattern.",
+            "Source/Reference": "sikkimese_cuisine.json"
+        }
+    ]
+}
