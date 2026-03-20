@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\turkey.json",
+    "qna_pairs": [
+        {
+            "Query": "How to defrost a frozen turkey?",
+            "Gold Answer": "The bird should be placed in a tray in the bottom of a refrigerator, and left for at least 5 hours per pound. A typical turkey will take around three days to defrost.",
+            "Source/Reference": "turkey.json"
+        },
+        {
+            "Query": "How to cook a turkey for safety and uniform doneness?",
+            "Gold Answer": "Use a food thermometer to check the internal temperature in the innermost part of the thigh without touching bone. The internal temperature should reach a minimum of 165 °F. For optimum safety and uniform doneness, it is recommended to cook stuffing outside the bird.",
+            "Source/Reference": "turkey.json"
+        },
+        {
+            "Query": "What is the best method to roast a turkey?",
+            "Gold Answer": "The Brown bag (grocery bag) Roasting method is a fool-proof method for perfectly roasting a moist, golden-brown turkey. Simply place the completely thawed and rinsed bird into a thoroughly greased paper bag, seal the bag, and bake in a pre-heated oven at 500 °F for the first hour, then reduce the oven's temperature to 400 °F for the second hour, then down to 300 °F for the final hour.",
+            "Source/Reference": "turkey.json"
+        }
+    ]
+}

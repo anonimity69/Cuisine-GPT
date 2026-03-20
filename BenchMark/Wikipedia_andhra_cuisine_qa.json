@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\andhra_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary flavor profile of Andhra cuisine?",
+            "Gold Answer": "The primary flavor profile of Andhra cuisine is tangy, hot, and spicy.",
+            "Source/Reference": "andhra_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Andhra biryani and Hyderabadi biryani?",
+            "Gold Answer": "Andhra biryani and Hyderabadi biryani are two different types of biryani dishes. Andhra biryani is made with a variety of meats, including shrimp, chicken, and mutton, while Hyderabadi biryani is made with basmati rice and a specific blend of spices.",
+            "Source/Reference": "andhra_cuisine.json"
+        },
+        {
+            "Query": "What is Gongura Endu Royyalu?",
+            "Gold Answer": "Gongura Endu Royyalu is a curry made with gongura leaves, sun-dried prawns and various spices. It is a unique dish in Andhra cuisine, and the use of sun-dried prawns gives it a distinct flavor.",
+            "Source/Reference": "andhra_cuisine.json"
+        }
+    ]
+}

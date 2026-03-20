@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\yeast.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the three types of yeast commercially available?",
+            "Gold Answer": "The three yeast types commercially available are baker's yeast, brewer's yeast, and nutritional yeast.",
+            "Source/Reference": "yeast.json"
+        },
+        {
+            "Query": "What is the optimal temperature range for baker's yeast to grow?",
+            "Gold Answer": "The optimal temperature range for baker's yeast to grow is 21–29.5°C (70–85°F), with 26–27°C (79–81°F) being the best.",
+            "Source/Reference": "yeast.json"
+        },
+        {
+            "Query": "What is nutritional yeast used for?",
+            "Gold Answer": "Nutritional yeast is used as a nutritional supplement, a food ingredient, and a condiment. It is a source of protein and vitamins, especially the B-complex vitamins, and has a strong flavor described as nutty, cheesy, or creamy.",
+            "Source/Reference": "yeast.json"
+        }
+    ]
+}

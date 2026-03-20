@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\anhui_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is notable about Anhui cuisine in terms of cooking techniques?",
+            "Gold Answer": "Braising and stewing are common cooking techniques, with frying and stir frying used much less frequently compared to other Chinese culinary traditions.",
+            "Source/Reference": "anhui_cuisine.json"
+        },
+        {
+            "Query": "Where is hairy tofu commonly found?",
+            "Gold Answer": "Hairy tofu is a popular snack in Anhui, which is considered the home of hairy tofu.",
+            "Source/Reference": "anhui_cuisine.json"
+        },
+        {
+            "Query": "What type of cuisine is derived from the native cooking styles of the Huangshan region?",
+            "Gold Answer": "Anhui cuisine, alternatively referred to as Hui cuisine, is one of the Eight Culinary Traditions of Chinese cuisine derived from the native cooking styles of the Huangshan region.",
+            "Source/Reference": "anhui_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\thai_chili_paste.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Thai chili paste?",
+            "Gold Answer": "Thai chili paste is a spicy condiment used in Thai cooking.",
+            "Source/Reference": "thai_chili_paste.json"
+        },
+        {
+            "Query": "What ingredients are typically used to make Thai chili paste?",
+            "Gold Answer": "Thai chili paste generally consists of chili peppers, garlic, oil, and onion or shallot. It may also sometimes contain fish sauce, tamarind, or other flavorings.",
+            "Source/Reference": "thai_chili_paste.json"
+        },
+        {
+            "Query": "How can Thai chili paste be prepared?",
+            "Gold Answer": "Thai chili paste may be purchased commercially or made at home.",
+            "Source/Reference": "thai_chili_paste.json"
+        }
+    ]
+}

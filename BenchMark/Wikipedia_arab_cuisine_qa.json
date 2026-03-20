@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\arab_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is lauzinaj mugharraq?",
+            "Gold Answer": "Lauzinaj mugharraq is an earlier version of the Ottoman dish baklava, made by filling thin pastry dough with a mixture of ground almond (and sometimes other nuts like pistachio or walnut), rose water, and sometimes luxury flavorings like mastic, ambergris, or musk.",
+            "Source/Reference": "arab_cuisine.json"
+        },
+        {
+            "Query": "What is lauzinaj yabis?",
+            "Gold Answer": "Lauzinaj yabis is made with ground almonds cooked in boiling honey or sugar until reaching a taffy-like consistency.",
+            "Source/Reference": "arab_cuisine.json"
+        },
+        {
+            "Query": "What is the special confection made especially for Ramadan?",
+            "Gold Answer": "Qatayef is a confection made especially for Ramadan, in addition to other sweets like kanafeh, baklava, and basbousa.",
+            "Source/Reference": "arab_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\zest.json",
+    "qna_pairs": [
+        {
+            "Query": "What is zest?",
+            "Gold Answer": "Zest is the coloured outer surface of citrus fruit; zesting is the act of scraping the zest from the fruit.",
+            "Source/Reference": "zest.json"
+        },
+        {
+            "Query": "How is bitterness associated with zest removed?",
+            "Gold Answer": "The bitterness comes from the raw white layer of the peel, when a zester digs deeper than the surface zest. This can be removed by blanching the zest, preferably twice.",
+            "Source/Reference": "zest.json"
+        },
+        {
+            "Query": "What are some popular recipes that use lemon zest?",
+            "Gold Answer": "Some popular recipes that use lemon zest include Lemon Curd, Lemon Squares, Lemon Meringue Pie, and Spaghetti alle Vongole.",
+            "Source/Reference": "zest.json"
+        }
+    ]
+}

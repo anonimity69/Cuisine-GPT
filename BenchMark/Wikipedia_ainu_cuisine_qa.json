@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\ainu_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Ainu cuisine like compared to Japanese cuisine?",
+            "Gold Answer": "Ainu cuisine differs markedly from that of the majority Yamato people of Japan. It uses methods such as boiling, roasting, and curing to prepare meat, and rarely serves raw meat like sashimi.",
+            "Source/Reference": "ainu_cuisine.json"
+        },
+        {
+            "Query": "What ingredients does Ainu cuisine use?",
+            "Gold Answer": "No specific ingredients are mentioned in the text, however modern Ainu cuisine may use miso, soy sauce, and sugar.",
+            "Source/Reference": "ainu_cuisine.json"
+        },
+        {
+            "Query": "Where can you find Ainu restaurants?",
+            "Gold Answer": "There are few Ainu restaurants in the world, but some examples include Haru Koro (Harukor) in Shinjuku, Tokyo, Ashiri Kotan Nakanoshima in Sapporo, and Poron'no and Marukibune in Akan, Hokkaidō.",
+            "Source/Reference": "ainu_cuisine.json"
+        }
+    ]
+}

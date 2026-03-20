@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\assamese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is unique about the cooking style of Assam?",
+            "Gold Answer": "The cooking style of Assam is characterized by very little use of spices and strong flavor due to the use of endemic exotic fruits and vegetables that are either fresh, dried or fermented. The practice of bhuna, the gentle frying of spices before the addition of the main ingredients, is absent in the cuisine of Assam.",
+            "Source/Reference": "assamese_cuisine.json"
+        }
+    ]
+}

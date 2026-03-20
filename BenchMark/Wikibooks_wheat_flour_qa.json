@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\wheat_flour.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main ingredient in most types of breads and pastries?",
+            "Gold Answer": "Wheat flour is the main ingredient in most types of breads and pastries, due to its ability to develop a complex protein called gluten when mixed with water, resulting in an elastic structure.",
+            "Source/Reference": "wheat_flour.json"
+        }
+    ]
+}

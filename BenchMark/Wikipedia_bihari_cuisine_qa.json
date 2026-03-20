@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\bihari_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the difference between Bihar's sweets and Oriya and Bengali sweets?",
+            "Gold Answer": "Unlike Oriya and Bengali sweets, which are soaked in syrups made of sugar and are therefore wet, Bihar's sweets are mostly dry.",
+            "Source/Reference": "bihari_cuisine.json"
+        }
+    ]
+}

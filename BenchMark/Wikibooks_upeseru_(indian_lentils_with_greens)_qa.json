@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\upeseru_(indian_lentils_with_greens).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Upeseru belong to?",
+            "Gold Answer": "Upeseru is a traditional South Asian dish, specifically originating from India.",
+            "Source/Reference": "Cookbook:Upeseru_(Indian_Lentils_with_Greens).json"
+        },
+        {
+            "Query": "What are the ingredients used in Upeseru?",
+            "Gold Answer": "No specific ingredients are mentioned in the provided metadata.",
+            "Source/Reference": "Cookbook:Upeseru_(Indian_Lentils_with_Greens).json"
+        },
+        {
+            "Query": "What is the procedure for making Upeseru?",
+            "Gold Answer": "No specific procedure is mentioned in the provided metadata.",
+            "Source/Reference": "Cookbook:Upeseru_(Indian_Lentils_with_Greens).json"
+        }
+    ]
+}

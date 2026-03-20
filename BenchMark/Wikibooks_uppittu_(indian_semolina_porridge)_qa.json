@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\uppittu_(indian_semolina_porridge).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Uppittu?",
+            "Gold Answer": "Uppittu is a traditional South Asian semolina porridge dish.",
+            "Source/Reference": "Cookbook:Uppittu (Indian Semolina Porridge), https://en.wikibooks.org/wiki/Cookbook:Uppittu_(Indian_Semolina_Porridge)"
+        },
+        {
+            "Query": "What ingredients are required to make Uppittu?",
+            "Gold Answer": "Uppittu requires 4 tbsp of oil, 1 cup of upma rava, 1 tsp of mustard seeds, 1 tsp of finely-chopped ginger, 1 tsp of finely-chopped garlic, 1 medium-sized onion, 1 medium-sized tomato, 4-5 finely-chopped green chilli peppers, salt, and 2 cups of water.",
+            "Source/Reference": "Cookbook:Uppittu (Indian Semolina Porridge), https://en.wikibooks.org/wiki/Cookbook:Uppittu_(Indian_Semolina_Porridge)"
+        },
+        {
+            "Query": "How is Uppittu made?",
+            "Gold Answer": "Uppittu is made by heating oil in a pan, adding mustard seeds, and then adding the rava, which is stirred until it browns. The rava is then added to the water, and the mixture is stirred continuously to prevent lumps. The heat is then turned off, and lemon juice is added, resulting in a crispy yet tender porridge.",
+            "Source/Reference": "Cookbook:Uppittu (Indian Semolina Porridge), https://en.wikibooks.org/wiki/Cookbook:Uppittu_(Indian_Semolina_Porridge)"
+        }
+    ]
+}

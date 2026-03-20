@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\balinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a characteristic of Balinese cuisine?",
+            "Gold Answer": "Balinese cuisine is a cuisine tradition of Balinese people from the volcanic island of Bali, and it demonstrates indigenous traditions, as well as influences from other Indonesian regional cuisine, Chinese and Indian. The island's inhabitants are predominantly Hindu, and culinary traditions are somewhat distinct with the rest of Indonesia, with festivals and religious celebrations including many special foods prepared as the offerings for the deities, as well as other dishes consumed communally during the celebrations.",
+            "Source/Reference": "balinese_cuisine.json"
+        },
+        {
+            "Query": "What is the primary grain consumed in Balinese cuisine?",
+            "Gold Answer": "Steamed rice is commonly consumed in every meal in Balinese cuisine.",
+            "Source/Reference": "balinese_cuisine.json"
+        },
+        {
+            "Query": "What type of drink is commonly consumed in Bali?",
+            "Gold Answer": "Balinese coffee, Kopi Bali, and hot tea, teh panas are popular, while cold drinks such as iced tea are more commonly consumed than hot drinks.",
+            "Source/Reference": "balinese_cuisine.json"
+        }
+    ]
+}

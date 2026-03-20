@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\teff.json",
+    "qna_pairs": [
+        {
+            "Query": "What is teff used for?",
+            "Gold Answer": "Teff is used to make injera in Ethiopia and Eritrea, and as a food grain in India, Australia, the Netherlands, and the United States, as well as cattle feed in South Africa.",
+            "Source/Reference": "teff.json"
+        },
+        {
+            "Query": "What is teff high in?",
+            "Gold Answer": "Teff is high in protein, and contains high levels of phosphorus, iron, copper, aluminum, barium, and thiamine. It is also high in carbohydrates and fiber.",
+            "Source/Reference": "teff.json"
+        },
+        {
+            "Query": "What is the diameter of a teff grain?",
+            "Gold Answer": "The teff grain is the world's smallest cereal, with each grain being less than 1/32 in (0.8 mm) in diameter.",
+            "Source/Reference": "teff.json"
+        }
+    ]
+}

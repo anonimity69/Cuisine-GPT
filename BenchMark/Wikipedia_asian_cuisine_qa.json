@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\asian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main taste factor in Asian cuisine?",
+            "Gold Answer": "A key taste factor in Asian cuisine is ‘umami’ flavor, a strong savoriness prominent in Asian cooking, which can be achieved through fermented food or meat extract.",
+            "Source/Reference": "asian_cuisine.json"
+        },
+        {
+            "Query": "What cooking methods are common to Asian cuisine?",
+            "Gold Answer": "Common cooking methods in Asian cuisine include stir frying, steaming, and deep frying.",
+            "Source/Reference": "asian_cuisine.json"
+        },
+        {
+            "Query": "What is the main ingredient that differentiates the rice varieties in various Asian regions?",
+            "Gold Answer": "While rice is common to most Asian cuisines, different varieties are popular in the various regions. Glutinous rice is ingrained in the culture, religious tradition and national identity of Laos. Basmati rice is popular in the Indian subcontinent, jasmine rice is often found across Southeast Asia, while long-grain rice is popular in China and short-grain in Japan and Korea.",
+            "Source/Reference": "asian_cuisine.json"
+        }
+    ]
+}

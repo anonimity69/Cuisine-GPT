@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tamil_spice_mix_(milagai_podi).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Tamil Spice Mix?",
+            "Gold Answer": "Tamil Spice Mix is a spice mix commonly used in South Asian cuisine.",
+            "Source/Reference": "tamil_spice_mix_(milagai_podi).json"
+        },
+        {
+            "Query": "What are the ingredients of Tamil Spice Mix?",
+            "Gold Answer": "The ingredients of Tamil Spice Mix include red chile powder, salt, ground turmeric, garlic cloves, and ghee.",
+            "Source/Reference": "tamil_spice_mix_(milagai_podi).json"
+        },
+        {
+            "Query": "What is the procedure for making Tamil Spice Mix?",
+            "Gold Answer": "The procedure for making Tamil Spice Mix involves mixing all the ingredients and letting it sit for 3 minutes.",
+            "Source/Reference": "tamil_spice_mix_(milagai_podi).json"
+        }
+    ]
+}

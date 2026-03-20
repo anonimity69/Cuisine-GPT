@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\wheat_modak_(coconut_pastries).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Wheat Modak (Coconut Pastries)?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "wheat_modak_(coconut_pastries).json"
+        },
+        {
+            "Query": "What should the mixture be like after sautéing the coconut?",
+            "Gold Answer": "very thick and almost dry",
+            "Source/Reference": "wheat_modak_(coconut_pastries).json"
+        },
+        {
+            "Query": "What should the dough be like when rolling it out?",
+            "Gold Answer": "dry but a little sticky",
+            "Source/Reference": "wheat_modak_(coconut_pastries).json"
+        }
+    ]
+}

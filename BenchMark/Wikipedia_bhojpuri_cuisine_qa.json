@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\bhojpuri_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some common rice dishes in Bhojpuri cuisine?",
+            "Gold Answer": "Some common rice dishes in Bhojpuri cuisine include Noon jaauri, Meeth jaauri, Dahi jaauri, Doodh jauri, and Khichdi.",
+            "Source/Reference": "bhojpuri_cuisine.json"
+        }
+    ]
+}

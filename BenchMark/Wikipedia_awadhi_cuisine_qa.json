@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\awadhi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "How is Biryani cooked in Awadhi cuisine?",
+            "Gold Answer": "Biryani is cooked by first making pilau with basmati rice in ghee with warm, aromatic spices, then layering it with meat curry or marinade, sealing it, and cooking it over low heat (dum cooking) until done.",
+            "Source/Reference": "awadhi_cuisine.json"
+        }
+    ]
+}

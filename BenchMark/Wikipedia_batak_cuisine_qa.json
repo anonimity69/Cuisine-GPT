@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\batak_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the unique spices used in Batak cuisine?",
+            "Gold Answer": "The most common Batak spicy sauce is called arsik - it is a Batak sauce made from the mixture of andaliman, turmeric, garlic and candlenut. Other spices commonly used in Batak cuisine includes kaffir lime, Indonesian bay leaves, coriander, onion, garlic, chili pepper, pepper, lemongrass, ginger, galangal and turmeric.",
+            "Source/Reference": "batak_cuisine.json"
+        }
+    ]
+}

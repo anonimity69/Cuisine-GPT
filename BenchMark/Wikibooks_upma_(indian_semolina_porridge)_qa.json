@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\upma_(indian_semolina_porridge).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does Upma belong to?",
+            "Gold Answer": "Upma belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Upma_(Indian_Semolina_Porridge)"
+        },
+        {
+            "Query": "What is the main ingredient in Upma?",
+            "Gold Answer": "The main ingredient in Upma is semolina.",
+            "Source/Reference": "upma_(indian_semolina_porridge).json"
+        },
+        {
+            "Query": "What is the cooking process for Upma?",
+            "Gold Answer": "The cooking process for Upma involves lightly toasting semolina, adding various seasonings and veggies, and then simmering the mixture with water and semolina.",
+            "Source/Reference": "upma_(indian_semolina_porridge).json"
+        }
+    ]
+}

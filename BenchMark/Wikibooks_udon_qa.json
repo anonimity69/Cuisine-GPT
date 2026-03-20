@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\udon.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical thickness of udon noodles?",
+            "Gold Answer": "Udon noodles are thick and white, usually just under ¼ inch thick.",
+            "Source/Reference": "udon.json"
+        },
+        {
+            "Query": "How are udon noodles usually cooked?",
+            "Gold Answer": "Udon noodles are generally boiled in water to cook them before incorporation into the final dish.",
+            "Source/Reference": "udon.json"
+        },
+        {
+            "Query": "What is the name of the type of udon noodle soup that consists of udon in a kakejiru broth made of dashi, soy sauce, and mirin?",
+            "Gold Answer": "Kake udon soup consists of udon in a *kakejiru* broth made of dashi, soy sauce (shōyu), and mirin.",
+            "Source/Reference": "udon.json"
+        }
+    ]
+}

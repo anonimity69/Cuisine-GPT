@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\acehnese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main ingredient in a traditional Acehnese porridge called kanji asyura?",
+            "Gold Answer": "Kanji asyura is made from grains.",
+            "Source/Reference": "acehnese_cuisine.json"
+        }
+    ]
+}

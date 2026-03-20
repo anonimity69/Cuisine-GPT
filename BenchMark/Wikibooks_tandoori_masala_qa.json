@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\tandoori_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What can be used instead of chicken in tandoori masala?",
+            "Gold Answer": "Tandoori masala can be used with meat other than chicken, for example, in tandoori fish or paneer tikka.",
+            "Source/Reference": "tandoori_masala.json"
+        }
+    ]
+}

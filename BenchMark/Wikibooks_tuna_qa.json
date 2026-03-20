@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\tuna.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of tuna are there?",
+            "Gold Answer": "There are several types of tuna, including bluefin, yellowfin, albacore, bigeye, and bonito. Bluefin can grow up to 1,500 lb (680 kg).",
+            "Source/Reference": "tuna.json"
+        }
+    ]
+}

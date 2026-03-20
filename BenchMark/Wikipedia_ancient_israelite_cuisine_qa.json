@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\ancient_israelite_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What were the dietary staples of ancient Israelite cuisine?",
+            "Gold Answer": "Bread, wine, and olive oil, along with legumes, fruits and vegetables, dairy products, and fish and other meat.",
+            "Source/Reference": "ancient_israelite_cuisine.json"
+        },
+        {
+            "Query": "What animals were excluded from the Israelite diet?",
+            "Gold Answer": "Pigs, camels, predators, and scavengers, as well as food that contained blood.",
+            "Source/Reference": "ancient_israelite_cuisine.json"
+        },
+        {
+            "Query": "What was the significance of the Seven Species in ancient Israelite cuisine?",
+            "Gold Answer": "The Seven Species are listed in the Hebrew Bible as being special agricultural products of the Land of Israel, indicating their importance in the Israelite diet.",
+            "Source/Reference": "ancient_israelite_cuisine.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\vinegar.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main ingredient of traditional balsamic vinegar?",
+            "Gold Answer": "The main ingredient of traditional balsamic vinegar is the concentrated juice, or must, of white Trebbiano grapes.",
+            "Source/Reference": "vinegar.json"
+        }
+    ]
+}

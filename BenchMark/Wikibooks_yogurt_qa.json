@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\yogurt.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary bacteria used in the production of yogurt?",
+            "Gold Answer": "Lactobacillus delbrueckii bulgaricus and Streptococcus salivarius thermophilus",
+            "Source/Reference": "yogurt.json"
+        }
+    ]
+}

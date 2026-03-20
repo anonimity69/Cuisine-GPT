@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tandoori_tofu.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the recommended temperature for baking tofu?",
+            "Gold Answer": "The recommended temperature for baking tofu is 170–190 °C (340–370 °F).",
+            "Source/Reference": "tandoori_tofu.json"
+        },
+        {
+            "Query": "What is the recommended marinating time for tofu?",
+            "Gold Answer": "The recommended marinating time for tofu is about 8 hours, preferably in the refrigerator.",
+            "Source/Reference": "tandoori_tofu.json"
+        },
+        {
+            "Query": "What type of cuisine is Tandoori Tofu associated with?",
+            "Gold Answer": "Tandoori Tofu is associated with South Asian cuisine.",
+            "Source/Reference": "tandoori_tofu.json"
+        }
+    ]
+}

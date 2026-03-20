@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\assyrian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the primary ingredients of Assyrian cuisine?",
+            "Gold Answer": "Assyrian cuisine is rich in grains such as barley, meat, tomato, herbs, spices, and potato, as well as fermented dairy products, and pickles.",
+            "Source/Reference": "assyrian_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between Nazoochi and Kadeh?",
+            "Gold Answer": "Nazoochi is sweeter and cut into a triangle shape, whereas Kadeh is a thick yellowish flat bread that contains plenty of butter, eggs, and sugar.",
+            "Source/Reference": "assyrian_cuisine.json"
+        },
+        {
+            "Query": "What types of beverages are traditionally consumed in the Assyrian community?",
+            "Gold Answer": "Assyrian traditional beverages include Arak, organic wheat beer, and wine, as well as yogurt drinks like Daweh and tea, including black tea, dried lime tea, and Turkish coffee.",
+            "Source/Reference": "assyrian_cuisine.json"
+        }
+    ]
+}

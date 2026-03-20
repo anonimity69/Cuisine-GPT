@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tibetan_meat_momos.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine are momos?",
+            "Gold Answer": "Momos are a traditional dish from South Asia, specifically from Tibetan cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tibetan_Meat_Momos"
+        },
+        {
+            "Query": "What is the source of the momos recipe?",
+            "Gold Answer": "The momos recipe comes from the Wikibooks Cookbook, specifically from the 'Cookbook:Tibetan Meat Momos' page.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tibetan_Meat_Momos"
+        },
+        {
+            "Query": "What region is the momos recipe from?",
+            "Gold Answer": "The momos recipe is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tibetan_Meat_Momos"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\afghan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the main types of cuisine that influence Afghan cuisine?",
+            "Gold Answer": "Afghan cuisine is influenced by Persian, Turkish, Central Asian and South Asian cuisines due to Afghanistan's close proximity and cultural ties.",
+            "Source/Reference": "afghan_cuisine.json"
+        },
+        {
+            "Query": "What is the national dish of Afghanistan?",
+            "Gold Answer": "The national dish of Afghanistan is Kabuli palaw, a rice dish cooked with raisins, carrots, nuts, and lamb or beef.",
+            "Source/Reference": "afghan_cuisine.json"
+        },
+        {
+            "Query": "What are some common desserts eaten in Afghanistan?",
+            "Gold Answer": "Some common desserts eaten in Afghanistan include Afghan cake, Baklava, Bastani, Cream roll, Falooda or Faloodeh, Firini, Fernea, Kolcha, Sheer khurma, and Sholeh Zard.",
+            "Source/Reference": "afghan_cuisine.json"
+        }
+    ]
+}

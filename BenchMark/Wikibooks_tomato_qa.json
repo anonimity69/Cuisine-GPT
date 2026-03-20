@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\tomato.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the different types of tomatoes?",
+            "Gold Answer": "There are several varieties of tomatoes, including Round, Plum, Cherry and grape, and Beefsteak tomatoes.",
+            "Source/Reference": "tomato.json"
+        }
+    ]
+}

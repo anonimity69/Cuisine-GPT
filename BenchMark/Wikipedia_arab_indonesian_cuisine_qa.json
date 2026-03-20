@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\arab_indonesian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Arab Indonesian cuisine?",
+            "Gold Answer": "Arab Indonesian cuisine is a mixture of Middle Eastern cuisine with local Indonesian-style cuisine.",
+            "Source/Reference": "arab_indonesian_cuisine.json"
+        }
+    ]
+}

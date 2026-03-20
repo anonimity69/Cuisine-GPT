@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\watalappam_(sri_lankan_coconut_custard).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the typical cuisine region associated with Watalappam?",
+            "Gold Answer": "Watalappam is a traditional South Asian dessert, specifically originating from Sri Lanka.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Watalappam_(Sri_Lankan_Coconut_Custard)"
+        },
+        {
+            "Query": "What is the primary ingredient used to make the custard part of Watalappam?",
+            "Gold Answer": "The primary ingredient used to make the custard part of Watalappam is thick coconut milk.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Watalappam_(Sri_Lankan_Coconut_Custard)"
+        },
+        {
+            "Query": "What type of spice is often used to flavor Watalappam?",
+            "Gold Answer": "Ground cardamom is often used to flavor Watalappam, adding a unique and aromatic flavor to the dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Watalappam_(Sri_Lankan_Coconut_Custard)"
+        }
+    ]
+}

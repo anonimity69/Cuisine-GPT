@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\beijing_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the notable dish of Beijing cuisine?",
+            "Gold Answer": "Beijing cuisine is known for its notable dishes such as meat and poultry dishes and fish and seafood dishes.",
+            "Source/Reference": "beijing_cuisine.json"
+        },
+        {
+            "Query": "When did the stratification of food services in Beijing officially end?",
+            "Gold Answer": "The official stratification of food services in Beijing was finally abolished officially after the end of the Qing dynasty.",
+            "Source/Reference": "beijing_cuisine.json"
+        },
+        {
+            "Query": "What was the impact of chefs switching jobs on Beijing cuisine?",
+            "Gold Answer": "Chefs freely switching between jobs offered by different establishments brought their skills and further enriched and developed Beijing cuisine.",
+            "Source/Reference": "beijing_cuisine.json"
+        }
+    ]
+}

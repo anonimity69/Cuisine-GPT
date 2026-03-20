@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\buddhist_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of Buddhist food?",
+            "Gold Answer": "Buddhist food is an Asian cuisine that is followed by monks and many believers from areas historically influenced by Mahayana Buddhism. It is vegetarian or vegan, and it is based on the Dharmic concept of ahimsa (non-violence). The origin of Buddhist food is tied to monasteries, where one member of the community would have the duty of being the head cook and supplying meals that paid respect to the strictures of Buddhist precepts.",
+            "Source/Reference": "buddhist_cuisine.json"
+        }
+    ]
+}

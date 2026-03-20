@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tadka_dhal_(spiced_lentil_curry)_ii.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does the recipe Tadka Dhal (Spiced Lentil Curry) II belong to?",
+            "Gold Answer": "The recipe Tadka Dhal (Spiced Lentil Curry) II belongs to South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tadka_Dhal_(Spiced_Lentil_Curry)_II"
+        },
+        {
+            "Query": "What is the cooking time for the dhal and water in an open pot?",
+            "Gold Answer": "The cooking time for the dhal and water in an open pot can take 30 minutes to an hour, or 10-12 minutes using a pressure cooker.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tadka_Dhal_(Spiced_Lentil_Curry)_II"
+        },
+        {
+            "Query": "How long does it take for the tomatoes to fry in the hot oil?",
+            "Gold Answer": "It takes 2-3 minutes for the tomatoes to fry in the hot oil, allowing them to pick up flavors from the spices and cool down the hot frying process.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tadka_Dhal_(Spiced_Lentil_Curry)_II"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\thalassery_biryani.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Thalassery Biryani?",
+            "Gold Answer": "Thalassery Biryani is a type of South Asian biryani cuisine. It originates from the Malabar region in Kerala, India.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Thalassery_Biryani"
+        },
+        {
+            "Query": "What region is Thalassery Biryani from?",
+            "Gold Answer": "Thalassery Biryani is from the South Asia region, specifically the Malabar region in Kerala, India.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Thalassery_Biryani"
+        },
+        {
+            "Query": "What type of cuisine is Thalassery Biryani?",
+            "Gold Answer": "Thalassery Biryani is a type of South Asian biryani cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Thalassery_Biryani"
+        }
+    ]
+}

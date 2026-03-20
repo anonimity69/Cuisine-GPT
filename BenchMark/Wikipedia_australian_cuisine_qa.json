@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\australian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Australian bread prepared by swagmen, drovers and other travellers?",
+            "Gold Answer": "Damper is a traditional Australian bread prepared by swagmen, drovers and other travellers.",
+            "Source/Reference": "australian_cuisine.json"
+        },
+        {
+            "Query": "What is a classic Australian biscuit?",
+            "Gold Answer": "A classic Australian biscuit is the ANZAC biscuit, which are often homemade and so-called as they were sent by families and friends to Australian soldiers fighting in Europe and the Dardanelles in the First World War.",
+            "Source/Reference": "australian_cuisine.json"
+        },
+        {
+            "Query": "What is the name of a meringue-based dessert that is claimed by both Australia and New Zealand?",
+            "Gold Answer": "The pavlova, a meringue-based dessert; however, the origins of this are contested as New Zealand also lays claim to its invention.",
+            "Source/Reference": "australian_cuisine.json"
+        }
+    ]
+}

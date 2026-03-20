@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\bengali_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are some popular proteins in Bengali cuisine?",
+            "Gold Answer": "In Bengali cuisine, fish is traditionally the most common protein, with freshwater fish preferred to marine fish. Meat, such as chicken and mutton, is also popular, while beef is popular within the Muslim community. However, meat from any source is consumed far less than fish in Bangladesh.",
+            "Source/Reference": "bengali_cuisine.json"
+        },
+        {
+            "Query": "What are some popular sweets in Bengali cuisine?",
+            "Gold Answer": "Bengali sweets have a long history and include popular sweets like falooda, shahi jilapi, shemai, chhanar jilapi, kalo jam, raghobshai, pantua, jolbhora shondesh, roshbhora, lord chomchom, payesh, bundiya, nalengurer shôndesh, malpoa, shor bhaja, langcha, babarsa, and many others.",
+            "Source/Reference": "bengali_cuisine.json"
+        },
+        {
+            "Query": "What are some popular beverages in Bengali cuisine?",
+            "Gold Answer": "Common beverages in Bengali cuisine include shorbot, lachhi, ghol, matha, falooda, and Rooh Afza. Bengali tea is also popular, with two main types being dudh cha (milk tea) and masala cha. Traditional fruit juices, such as sugarcane juice, mango juice, and palm fruit juice, are also drunk.",
+            "Source/Reference": "bengali_cuisine.json"
+        }
+    ]
+}

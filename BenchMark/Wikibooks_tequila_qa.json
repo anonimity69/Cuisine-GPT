@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tequila.json",
+    "qna_pairs": [
+        {
+            "Query": "What is tequila made from?",
+            "Gold Answer": "Tequila is a distilled alcohol made from the heart of the Weber blue agave.",
+            "Source/Reference": "tequila.json"
+        },
+        {
+            "Query": "What is the minimum aging requirement for tequila?",
+            "Gold Answer": "The minimum aging requirement for tequila is at least 14 days, with some types requiring longer ages.",
+            "Source/Reference": "tequila.json"
+        },
+        {
+            "Query": "What is the typical flavor profile of tequila?",
+            "Gold Answer": "Tequila is generally characterized as earthy, with its flavor profile depending on its aging.",
+            "Source/Reference": "tequila.json"
+        }
+    ]
+}

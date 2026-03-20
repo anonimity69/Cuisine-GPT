@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\bruneian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the staple foods of Bruneian cuisine?",
+            "Gold Answer": "Fish and rice are staple foods in Bruneian cuisine.",
+            "Source/Reference": "bruneian_cuisine.json"
+        },
+        {
+            "Query": "What is ambuyat?",
+            "Gold Answer": "Ambuyat is a sticky ball of flavourless sago starch, which is wrapped around a bamboo fork and dipped into a spicy and sour gravy.",
+            "Source/Reference": "bruneian_cuisine.json"
+        },
+        {
+            "Query": "What is the significance of halal in Bruneian cuisine?",
+            "Gold Answer": "Due to the predominance of the Islamic religion, the food in Brunei is halal and pork is avoided.",
+            "Source/Reference": "bruneian_cuisine.json"
+        }
+    ]
+}

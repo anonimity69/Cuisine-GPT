@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\buryat_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What are common ingredients in Buryat cuisine?",
+            "Gold Answer": "Most dishes are lamb- or beef-based, but fish dishes are common especially around Lake Baikal.",
+            "Source/Reference": "buryat_cuisine.json"
+        },
+        {
+            "Query": "What type of dumpling is popular among the Buryats?",
+            "Gold Answer": "Buzuz, a type of steamed dumpling.",
+            "Source/Reference": "buryat_cuisine.json"
+        },
+        {
+            "Query": "What are some characteristics of Buryat cuisine?",
+            "Gold Answer": "Buryat cuisine is simple and hearty with very little spice.",
+            "Source/Reference": "buryat_cuisine.json"
+        }
+    ]
+}

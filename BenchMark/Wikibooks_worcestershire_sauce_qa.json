@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\worcestershire_sauce.json",
+    "qna_pairs": [
+        {
+            "Query": "When was the first batch of Worcestershire Sauce made?",
+            "Gold Answer": "First made by Lea & Perrins in 1835. The company still makes the sauce in the same way today.",
+            "Source/Reference": "worcestershire_sauce.json"
+        },
+        {
+            "Query": "What is a typical ingredient in Worcestershire Sauce?",
+            "Gold Answer": "Anchovies, tamarind extract, onions, garlic, spice and flavourings.",
+            "Source/Reference": "worcestershire_sauce.json"
+        },
+        {
+            "Query": "What is the purpose of Worcestershire Sauce in cooking?",
+            "Gold Answer": "Worcestershire Sauce is invaluable for spicing up savoury dishes.",
+            "Source/Reference": "worcestershire_sauce.json"
+        }
+    ]
+}

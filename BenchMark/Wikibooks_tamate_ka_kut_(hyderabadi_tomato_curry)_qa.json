@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tamate_ka_kut_(hyderabadi_tomato_curry).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Tamate Ka Kut (Hyderabadi Tomato Curry)?",
+            "Gold Answer": "Tamate Ka Kut (Hyderabadi Tomato Curry) is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tamate_Ka_Kut_(Hyderabadi_Tomato_Curry)"
+        },
+        {
+            "Query": "What ingredients are required for Tamate Ka Kut (Hyderabadi Tomato Curry)?",
+            "Gold Answer": "The ingredients required for Tamate Ka Kut (Hyderabadi Tomato Curry) include 10 large, ripe tomatoes, 1/2 cup besan/gram flour, 1.5 tsp salt, 1.5 tsp red chilli powder, 1 tsp roasted cumin seed powder, 1 tsp roasted coriander seed powder, 2 tbsp oil, 1 tsp cumin seeds, 8 curry leaves, 2 whole garlic clove, 2 dried red chillies, 1 cup fresh cilantro, and 1 dollop heavy cream (optional),",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tamate_Ka_Kut_(Hyderabadi_Tomato_Curry)"
+        },
+        {
+            "Query": "How is Tamate Ka Kut (Hyderabadi Tomato Curry) typically served?",
+            "Gold Answer": "Tamate Ka Kut (Hyderabadi Tomato Curry) is typically served warm, garnished with chopped cilantro and mint.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Tamate_Ka_Kut_(Hyderabadi_Tomato_Curry)"
+        }
+    ]
+}

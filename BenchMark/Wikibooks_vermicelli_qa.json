@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\vermicelli.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of noodles is vermicelli made from?",
+            "Gold Answer": "Vermicelli can be made from rice, mung beans, wheat flour, or semolina durum wheat.",
+            "Source/Reference": "vermicelli.json"
+        },
+        {
+            "Query": "What is the difference between wheat vermicelli and rice vermicelli?",
+            "Gold Answer": "Wheat vermicelli is made from wheat flour, while rice vermicelli is made from rice flour, offering gluten-free alternatives.",
+            "Source/Reference": "vermicelli.json"
+        },
+        {
+            "Query": "What is the role of vermicelli in Italian cuisine?",
+            "Gold Answer": "In Italian cuisine, vermicelli is often used in soups and pasta dishes, sometimes served with seafood or light sauces.",
+            "Source/Reference": "vermicelli.json"
+        }
+    ]
+}

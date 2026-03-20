@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\anglo-indian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What was the first Indian restaurant in England?",
+            "Gold Answer": "The first Indian restaurant in England was the Hindoostane Coffee House, which opened in London around 1810, offering Indian ambience and curries as well as a hookah-smoking room.",
+            "Source/Reference": "anglo-indian_cuisine.json"
+        },
+        {
+            "Query": "How did Anglo-Indian cooks create their version of curry?",
+            "Gold Answer": "Anglo-Indian cooks created their version of curry by selecting elements of Indian dishes from all over British India, and collating these into a coherent repertoire of 'pan-Indian' dishes.",
+            "Source/Reference": "anglo-indian_cuisine.json"
+        },
+        {
+            "Query": "What were the three curry powders described by Henrietta Hervey?",
+            "Gold Answer": "Henrietta Hervey described three curry powders: 'Madras', 'Bombay', and 'Bengal'. The 'Madras' powder recipe called for coriander, saffron, chilli, mustard seed, pepper, and cumin, among other ingredients.",
+            "Source/Reference": "anglo-indian_cuisine.json"
+        }
+    ]
+}

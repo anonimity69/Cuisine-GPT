@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\turmeric.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Turmeric used for in cooking?",
+            "Gold Answer": "Turmeric is often used as a low-cost substitute for saffron and gives pickles their characteristic taste. It can also overpower a dish easily.",
+            "Source/Reference": "turmeric.json"
+        },
+        {
+            "Query": "What type of cuisine does the recipe Algerian Couscous with Meat and Vegetables belong to?",
+            "Gold Answer": "Algerian Couscous with Meat and Vegetables is a recipe from North African cuisine.",
+            "Source/Reference": "turmeric.json"
+        },
+        {
+            "Query": "What is the recommended usage of Turmeric in cooking?",
+            "Gold Answer": "Be careful using Turmeric, as it can overpower a dish easily.",
+            "Source/Reference": "turmeric.json"
+        }
+    ]
+}

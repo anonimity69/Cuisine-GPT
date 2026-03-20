@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\bahraini_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the national beverage of Bahrain?",
+            "Gold Answer": "The national beverage of Bahrain is Arabic coffee (qahwah).",
+            "Source/Reference": "bahraini_cuisine.json"
+        }
+    ]
+}

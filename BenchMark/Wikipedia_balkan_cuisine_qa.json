@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\balkan_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What types of cuisine influence Balkan cuisine?",
+            "Gold Answer": "Balkan cuisine is influenced by European cuisine, West Asian cuisine, Mediterranean cuisine, and other regional cuisines such as Greek, Albanian, Romani, and Turkish cuisine.",
+            "Source/Reference": "balkan_cuisine.json"
+        }
+    ]
+}

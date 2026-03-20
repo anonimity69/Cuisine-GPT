@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\azerbaijani_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular condiment in Azerbaijani cuisine?",
+            "Gold Answer": "Saffron is a popular condiment in Azerbaijani cuisine, used in over 50 national dishes.",
+            "Source/Reference": "azerbaijani_cuisine.json"
+        }
+    ]
+}

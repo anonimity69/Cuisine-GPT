@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\american_chinese_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the origin of American Chinese cuisine?",
+            "Gold Answer": "American Chinese cuisine originated from Chinese immigrants from Guangdong province, particularly the Toisan (Taishan) district, who developed new cooking styles and used readily available ingredients.",
+            "Source/Reference": "american_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is the difference between American Chinese cuisine and traditional Chinese cuisine?",
+            "Gold Answer": "American Chinese cuisine is distinct from traditional Chinese cuisine in terms of its use of local ingredients, adapted cooking techniques, and modified dishes to suit American tastes, often characterized by sweetness, bold sauces, and deep-fried dishes.",
+            "Source/Reference": "american_chinese_cuisine.json"
+        },
+        {
+            "Query": "What is the evolution of Chinese immigrants in American Chinese restaurants?",
+            "Gold Answer": "The evolution of Chinese immigrants in American Chinese restaurants began with Cantonese immigrants, followed by Taiwanese immigrants, and later, immigrants from China, including those from Fujian and Zhejiang provinces.",
+            "Source/Reference": "american_chinese_cuisine.json"
+        }
+    ]
+}

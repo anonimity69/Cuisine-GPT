@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\banjar_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of dessert is Bingka?",
+            "Gold Answer": "Bingka is a unique cake made of flour, eggs, coconut milk, sugar and salt, and is very sweet, fat and soft.",
+            "Source/Reference": "banjar_cuisine.json"
+        }
+    ]
+}

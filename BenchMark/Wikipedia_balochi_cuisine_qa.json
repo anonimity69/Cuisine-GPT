@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\balochi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Balochi cuisine?",
+            "Gold Answer": "Balochi cuisine is the food and cuisine of the Baloch people native to the Balochistan region spanning Afghanistan, Iran and Pakistan, as well as diasporan communities worldwide.",
+            "Source/Reference": "balochi_cuisine.json"
+        },
+        {
+            "Query": "What is unique about Balochi cuisine compared to other cuisines in Pakistan and Iran?",
+            "Gold Answer": "Balochi cuisine has a regional variance in contrast to the many cuisines of Pakistan and Iran.",
+            "Source/Reference": "balochi_cuisine.json"
+        },
+        {
+            "Query": "What is the origin of Balochi cuisine?",
+            "Gold Answer": "Balochi cuisine originates from the Balochistan region of Afghanistan, Iran and Pakistan.",
+            "Source/Reference": "balochi_cuisine.json"
+        }
+    ]
+}

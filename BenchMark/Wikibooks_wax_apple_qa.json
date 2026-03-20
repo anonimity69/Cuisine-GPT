@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\wax_apple.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor of a wax apple?",
+            "Gold Answer": "The flavor of a wax apple is a bit like a snow pear and is remarkably refreshing and juicy.",
+            "Source/Reference": "wax_apple.json"
+        },
+        {
+            "Query": "How do you serve a wax apple?",
+            "Gold Answer": "The core is removed and the fruit is served uncut, in order to preserve the unique bell shape presentation.",
+            "Source/Reference": "wax_apple.json"
+        },
+        {
+            "Query": "What makes a good wax apple?",
+            "Gold Answer": "When choosing a good wax apple, look for ones with the bottom segments closed up because open holes signify worm eggs inside the fruit. Also, usually the reddest fruits are the sweetest.",
+            "Source/Reference": "wax_apple.json"
+        }
+    ]
+}

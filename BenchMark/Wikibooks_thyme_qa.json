@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\thyme.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a bouquet garni?",
+            "Gold Answer": "A bouquet garni is an important element in French cuisine that typically contains thyme, along with other herbs and spices.",
+            "Source/Reference": "thyme.json"
+        }
+    ]
+}

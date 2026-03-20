@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\tea.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the ideal water temperature for brewing white tea?",
+            "Gold Answer": "The ideal water temperature for brewing white tea is 60–65°C. Using too high a temperature or steeping for too long can mask the delicate nuances of the tea and leave it bitter.",
+            "Source/Reference": "tea.json"
+        }
+    ]
+}

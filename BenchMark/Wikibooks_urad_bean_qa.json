@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\urad_bean.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor derived from in urad beans?",
+            "Gold Answer": "The strong, rich, earthy flavor of urad beans comes from their black skins.",
+            "Source/Reference": "urd_bean.json"
+        },
+        {
+            "Query": "What is urad dal commonly used for?",
+            "Gold Answer": "Urad dal is commonly used in dals and to make breads like idli and dosa.",
+            "Source/Reference": "urd_bean.json"
+        },
+        {
+            "Query": "Why do dosas made with urad dal practically peel themselves off the pan?",
+            "Gold Answer": "Dosa made with white urad dal practically peel themselves off the pan when cooked due to their bread-like texture.",
+            "Source/Reference": "urd_bean.json"
+        }
+    ]
+}

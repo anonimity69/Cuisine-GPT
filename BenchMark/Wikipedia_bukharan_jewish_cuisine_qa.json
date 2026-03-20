@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\bukharan_jewish_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the Bukharan Jewish version of palov?",
+            "Gold Answer": "Osh palov",
+            "Source/Reference": "bukharan_jewish_cuisine.json"
+        },
+        {
+            "Query": "What is bakhshi khaltagi?",
+            "Gold Answer": "a precooked version of bakhshi cooked Jewish-style in a small bag immersed in a pot with boiling water or soup",
+            "Source/Reference": "bukharan_jewish_cuisine.json"
+        },
+        {
+            "Query": "What is kov roghan?",
+            "Gold Answer": "fried pieces of chicken with fried potatoes piled on top",
+            "Source/Reference": "bukharan_jewish_cuisine.json"
+        }
+    ]
+}

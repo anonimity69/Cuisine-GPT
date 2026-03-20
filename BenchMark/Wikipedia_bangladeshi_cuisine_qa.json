@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\bangladeshi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the staple food of Bangladesh?",
+            "Gold Answer": "The staple foods of Bangladesh are rice and fish.",
+            "Source/Reference": "bangladeshi_cuisine.json"
+        },
+        {
+            "Query": "What is Khichuri?",
+            "Gold Answer": "Khichuri is a rice dish similar in consistency to porridge. During the holy month of Ramadan, it is served as a staple food for Iftar.",
+            "Source/Reference": "bangladeshi_cuisine.json"
+        },
+        {
+            "Query": "What is Aash Bash?",
+            "Gold Answer": "Aash Bash is a traditional dish using duck and bamboo shoots. It is also known as Aash ar Khoril.",
+            "Source/Reference": "bangladeshi_cuisine.json"
+        }
+    ]
+}

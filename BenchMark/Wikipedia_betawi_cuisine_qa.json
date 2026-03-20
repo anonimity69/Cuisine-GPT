@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikipedia\\betawi_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the significance of Nasi uduk?",
+            "Gold Answer": "Nasi uduk, a savory rice cooked in coconut milk and served with several side dishes, may be a local version of the Malay dish nasi lemak. Asinan, cured and brined pickled vegetables, and rujak juhi, vegetables served with shredded dried squid and peanut sauce, demonstrate Chinese influences.",
+            "Source/Reference": "betawi_cuisine.json"
+        }
+    ]
+}

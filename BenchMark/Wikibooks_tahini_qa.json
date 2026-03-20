@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tahini.json",
+    "qna_pairs": [
+        {
+            "Query": "What is tahini made of?",
+            "Gold Answer": "Tahini is made of ground sesame seeds, generally without the hulls.",
+            "Source/Reference": "tahini.json"
+        },
+        {
+            "Query": "What are the two different kinds of tahini generally available?",
+            "Gold Answer": "There are two different kinds of tahini generally available—'hulled' and 'unhulled'.",
+            "Source/Reference": "tahini.json"
+        },
+        {
+            "Query": "In which cuisine is tahini commonly used?",
+            "Gold Answer": "Tahini is a common ingredient in many Middle Eastern, Indian, and Mediterranean foods.",
+            "Source/Reference": "tahini.json"
+        }
+    ]
+}

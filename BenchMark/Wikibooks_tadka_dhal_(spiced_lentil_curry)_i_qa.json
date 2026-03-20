@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\tadka_dhal_(spiced_lentil_curry)_i.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary ingredient in Tadka Dhal?",
+            "Gold Answer": "Split red lentils are the primary ingredient in Tadka Dhal. It is a South Asian dish made with lentils, onions, garlic, ginger, and a variety of spices.",
+            "Source/Reference": "tadka_dhal_(spiced_lentil_curry)_i.json"
+        },
+        {
+            "Query": "What is the recommended spice quantity for Tadka Dhal?",
+            "Gold Answer": "According to the recipe, 1 teaspoon of garam masala, 1 teaspoon of paprika, and 12 grinds of black pepper are recommended. This spice quantity can be adjusted to taste.",
+            "Source/Reference": "tadka_dhal_(spiced_lentil_curry)_i.json"
+        },
+        {
+            "Query": "What type of cuisine is Tadka Dhal?",
+            "Gold Answer": "Tadka Dhal is a South Asian dish, specifically originating from the region where it is a staple in many households.",
+            "Source/Reference": "tadka_dhal_(spiced_lentil_curry)_i.json"
+        }
+    ]
+}

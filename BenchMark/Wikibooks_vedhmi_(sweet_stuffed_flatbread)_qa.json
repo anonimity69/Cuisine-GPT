@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\vedhmi_(sweet_stuffed_flatbread).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Vedhmi?",
+            "Gold Answer": "Vedhmi is a traditional South Asian dish, specifically from the South Asia region.",
+            "Source/Reference": "vedhmi_(sweet_stuffed_flatbread).json"
+        },
+        {
+            "Query": "What is the main ingredient of Puran?",
+            "Gold Answer": "The main ingredient of Puran is jaggery. Puran is a fine paste made from jaggery, cardamom powder, and toor dal.",
+            "Source/Reference": "vedhmi_(sweet_stuffed_flatbread).json"
+        },
+        {
+            "Query": "What is the final step in making Vedhmi?",
+            "Gold Answer": "The final step in making Vedhmi is to brush ghee on both sides of the fried poli and serve. It is typically served as a sweet dessert.",
+            "Source/Reference": "vedhmi_(sweet_stuffed_flatbread).json"
+        }
+    ]
+}

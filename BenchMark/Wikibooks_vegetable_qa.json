@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\vegetable.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the botanical classification of vegetables?",
+            "Gold Answer": "Vegetables are botanically fruits, but are considered vegetables in the culinary sense.",
+            "Source/Reference": "vegetable.json"
+        },
+        {
+            "Query": "What is an Aji Amarillo?",
+            "Gold Answer": "Aji Amarillo is a type of hot pepper commonly used in cooking.",
+            "Source/Reference": "vegetable.json"
+        },
+        {
+            "Query": "What is the difference between Brassicas and Brassicas?",
+            "Gold Answer": "Brassicas is a category of vegetables that includes cabbage, broccoli, and cauliflower. The term Brassicas is not a repeated classification.",
+            "Source/Reference": "vegetable.json"
+        }
+    ]
+}

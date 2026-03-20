@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\armenian_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary grain used in Armenian cuisine?",
+            "Gold Answer": "Wheat is the primary grain and is found in a variety of forms, such as whole wheat, shelled wheat, bulgur (parboiled cracked wheat), semolina, farina, and flour.",
+            "Source/Reference": "armenian_cuisine.json"
+        },
+        {
+            "Query": "What is the main ingredient in the Armenian sauce lecho?",
+            "Gold Answer": "The main ingredient in the Armenian sauce lecho is tomato, peppers/paprika, parsley and salt.",
+            "Source/Reference": "armenian_cuisine.json"
+        },
+        {
+            "Query": "What is the name of the sweet Armenian dessert made of layers of phyllo dough, a filling of cinnamon-spiced chopped walnuts, and a syrup made from cloves, cinnamon, lemon juice, sugar and water?",
+            "Gold Answer": "The Armenian dessert is called pakhlava (also known as baklava), which is made of layers of phyllo dough, a filling of cinnamon-spiced chopped walnuts, and a syrup made from cloves, cinnamon, lemon juice, sugar and water.",
+            "Source/Reference": "armenian_cuisine.json"
+        }
+    ]
+}

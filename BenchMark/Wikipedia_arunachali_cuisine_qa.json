@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikipedia\\arunachali_cuisine.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a popular beverage in Arunachal Pradesh?",
+            "Gold Answer": "Apo/Apong or rice beer made from fermented rice or millet is a popular beverage in Arunachal Pradesh, as an alcoholic drink. There are different varieties of rice beer with different flavours.",
+            "Source/Reference": "arunachali_cuisine.json"
+        },
+        {
+            "Query": "What are some staple ingredients of Arunachal Pradesh cuisine?",
+            "Gold Answer": "The staple food is rice along with fish, meat (Lukter) and many green vegetables. Different varieties of rice are available. Lettuce is the most common and preferred vegetable of all, prepared by boiling it with ginger, coriander and green chillies and pinch of salt.",
+            "Source/Reference": "arunachali_cuisine.json"
+        },
+        {
+            "Query": "How do people in Arunachal Pradesh traditionally prepare food?",
+            "Gold Answer": "Boiled rice cakes wrapped in leaves is a famous way of packing the cooked rice. Dishes in eastern districts like Tirap and Changlang have some different method in their way of food preparation.",
+            "Source/Reference": "arunachali_cuisine.json"
+        }
+    ]
+}
