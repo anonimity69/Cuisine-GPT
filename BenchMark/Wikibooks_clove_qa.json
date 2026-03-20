@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\clove.json",
+    "qna_pairs": [
+        {
+            "Query": "What is clove used for in cooking?",
+            "Gold Answer": "Clove can be used in cooking, both in savory and sweet recipes. It goes particularly well with red meats such as lamb or beef, as well as with onions. In desserts, it goes well with fruits, such as apple and pumpkin. It also pairs well with other eugenol-containing and warming ingredients like basil, cinnamon, vanilla, and wine.",
+            "Source/Reference": "clove.json"
+        }
+    ]
+}

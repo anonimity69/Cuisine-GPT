@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\coriander.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine uses coriander commonly?",
+            "Gold Answer": "Coriander is commonly used in Latin American, West-, South-, and South-east Asian cooking.",
+            "Source/Reference": "coriander.json"
+        }
+    ]
+}

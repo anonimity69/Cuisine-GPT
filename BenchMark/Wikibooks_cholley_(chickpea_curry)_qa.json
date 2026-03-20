@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cholley_(chickpea_curry).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Cholley?",
+            "Gold Answer": "Cholley is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Cholley_(Chickpea_Curry)"
+        },
+        {
+            "Query": "How long does it take to cook the chickpeas in a pressure cooker?",
+            "Gold Answer": "It takes 10 minutes to cook the chickpeas in a pressure cooker at 15 psi.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Cholley_(Chickpea_Curry)"
+        },
+        {
+            "Query": "What is added to the gravy to thicken it?",
+            "Gold Answer": "The gravy thickens as the cholley simmers, but it can be checked and adjusted by cooking for a few more minutes.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Cholley_(Chickpea_Curry)"
+        }
+    ]
+}

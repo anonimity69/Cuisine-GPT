@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cheese.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary category of cheese in culinary terms?",
+            "Gold Answer": "Cheese is classified under the dairy category in culinary terms. The text explicitly states 'Category: Dairy', indicating that cheese falls within the dairy product family.",
+            "Source/Reference": "cheese.json"
+        },
+        {
+            "Query": "What are the two main types of cheese curdling mentioned in the text?",
+            "Gold Answer": "The text describes two main types of cheese curdling: acid-curdled (e.g., paneer) and rennet-based (e.g., most Western cheeses). Acid-curdled cheese is formed using acid, while rennet-based cheese uses the enzyme rennet from animal stomachs.",
+            "Source/Reference": "cheese.json"
+        },
+        {
+            "Query": "How does the flavor of aged cheese develop?",
+            "Gold Answer": "The flavor of aged cheese develops through the microbial breakdown of nutrients. Initially, proteins are broken down into amino acids, which have distinct flavor profiles. Over time, these amino acids are further broken down into strong-smelling amines and then into even smaller, diverse flavor molecules. This process results in complex flavors and aromas that are characteristic of aged cheeses. The cuisine type for cheese is dairy.",
+            "Source/Reference": "cheese.json"
+        }
+    ]
+}

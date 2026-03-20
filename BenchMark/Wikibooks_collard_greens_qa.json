@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\collard_greens.json",
+    "qna_pairs": [
+        {
+            "Query": "What are collard greens?",
+            "Gold Answer": "Collard greens, or just collards, are a leafy green vegetable closely related to others in the cabbage family.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Collard_green#Collard_green"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\curry_fried_rice.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Curry Fried Rice?",
+            "Gold Answer": "The cuisine type of Curry Fried Rice is South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Curry_Fried_Rice"
+        },
+        {
+            "Query": "What ingredients are required for Curry Fried Rice?",
+            "Gold Answer": "The ingredients required for Curry Fried Rice are cooking oil, sesame oil, garlic, scallions, sukiyaki beef, bean sprouts, chicken, Basmati rice, chilli powder, curry powder, light soy sauce, and salt.",
+            "Source/Reference": "curry_fried_rice.json"
+        },
+        {
+            "Query": "How is Curry Fried Rice typically cooked?",
+            "Gold Answer": "Curry Fried Rice is typically cooked by heating oils in a non-stick frying pan, adding garlic and scallion, cooking sukiyaki beef and chicken, adding bean sprouts, basmati rice, chilli powder, and curry powder, and then adding soy sauce, salt, and pepper.",
+            "Source/Reference": "curry_fried_rice.json"
+        }
+    ]
+}

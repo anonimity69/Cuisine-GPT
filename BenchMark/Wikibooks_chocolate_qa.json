@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chocolate.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary flavor compound in chocolate?",
+            "Gold Answer": "Around 200–600 different aromatic compounds that develop during the cacao's growth and complex production process.",
+            "Source/Reference": "chocolate.json"
+        },
+        {
+            "Query": "What is the primary difference between unsweetened or baking chocolate and dark chocolate?",
+            "Gold Answer": "Unsweetened or baking chocolate is simply the pure chocolate liquor with nothing added, making it 100% cacao, while dark chocolate is composed of chocolate liquor with varying degrees of added sugar.",
+            "Source/Reference": "chocolate.json"
+        },
+        {
+            "Query": "Is white chocolate considered true chocolate?",
+            "Gold Answer": "White chocolate is a product containing cocoa butter (>20%), milk solids, and sugar, but without cocoa solids, and is often not considered 'true' chocolate.",
+            "Source/Reference": "chocolate.json"
+        }
+    ]
+}

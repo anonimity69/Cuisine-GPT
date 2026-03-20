@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chakarai_pongal_(sweet_rice_and_black_gram_pudding).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Chakarai Pongal?",
+            "Gold Answer": "Chakarai Pongal is a South Asian sweet rice and black gram pudding. The cuisine region for this dish is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chakarai_Pongal_(Sweet_Rice_and_Black_Gram_Pudding)"
+        },
+        {
+            "Query": "What are the main ingredients used in Chakarai Pongal?",
+            "Gold Answer": "Chakarai Pongal is a South Asian sweet rice and black gram pudding that uses the following main ingredients: half a cup of white rice, half a cup of moong dhal, 4 cups of water, half a cup of chopped cashew nuts, half a cup of white raisins, 1 tablespoon of cardamom powder, 1 cup of ghee (or butter), one-half cup of jaggery, and half a쯩 cup of milk.",
+            "Source/Reference": "https://en.wikib:Chakarai_Pongal_(Sweet_Rice_and_Black_Gram_Pudding)"
+        },
+        {
+            "Query": "How is Chakarai Pongal typically prepared?",
+            "Gold Answer": "Chakarai Pongal is a South Asian sweet rice and black gram pudding that is typically prepared by cooking rice and moong dhal together in water until mushy, melting jaggery with water and cardamom, then mixing the rice mixture with the jaggery mixture and cooking on low heat until it comes together. The dish is then garnished with fried cashews and raisins.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chakarai_Pongal_(Sweet_Rice_and_Black_Gram_Pudding)"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\curry_paste.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine does curry paste originate from?",
+            "Gold Answer": "Thai and Indian curries",
+            "Source/Reference": "curry_paste.json"
+        }
+    ]
+}

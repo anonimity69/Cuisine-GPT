@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type for Adobo Chicken?",
+            "Gold Answer": "Adobo Chicken is a dish from Philippine cuisine.",
+            "Source/Reference": "chicken.json"
+        },
+        {
+            "Query": "What is the cuisine type for Ají de Gallina?",
+            "Gold Answer": "Ají de Gallina is a Peruvian chili chicken dish.",
+            "Source/Reference": "chicken.json"
+        },
+        {
+            "Query": "What is the cuisine type for Kari Ayam?",
+            "Gold Answer": "Kari Ayam is an Indonesian chicken curry dish.",
+            "Source/Reference": "chicken.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chiles.json",
+    "qna_pairs": [
+        {
+            "Query": "In which cuisine is 'chili con carne' traditionally prepared?",
+            "Gold Answer": "Chili con carne is a traditional dish in New Mexican cuisine.",
+            "Source/Reference": "chiles.json"
+        },
+        {
+            "Query": "In which cuisine is 'vindaloo' traditionally prepared?",
+            "Gold Answer": "Vindaloo is a traditional dish in Indian cuisine.",
+            "Source/Reference": "chiles.json"
+        },
+        {
+            "Query": "In which cuisine is 'Doro Fitfit' traditionally prepared?",
+            "Gold Answer": "Doro Fitfit is a traditional dish in Ethiopian cuisine.",
+            "Source/Reference": "chiles.json"
+        }
+    ]
+}

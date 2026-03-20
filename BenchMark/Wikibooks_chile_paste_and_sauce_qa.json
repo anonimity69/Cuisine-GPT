@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chile_paste_and_sauce.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the primary differences between chile sauce and paste?",
+            "Gold Answer": "The primary difference between chile sauce and paste is consistency—chile paste tends to be thicker and less moist than chile sauce, and a paste can be easily thinned to produce a sauce.",
+            "Source/Reference": "chile_paste_and_sauce.json"
+        },
+        {
+            "Query": "What are some common additions to chile pastes and sauces?",
+            "Gold Answer": "Common additions to chile pastes and sauces include oil, vinegar, citrus, spices, garlic, starches, and seafood.",
+            "Source/Reference": "chile_paste_and_sauce.json"
+        },
+        {
+            "Query": "What type of cuisine is chili paste and sauce commonly used in?",
+            "Gold Answer": "Chili paste and sauce are commonly used in a range of dishes across cuisines and nations, including Asian, African, and Latin American cuisines.",
+            "Source/Reference": "chile_paste_and_sauce.json"
+        }
+    ]
+}

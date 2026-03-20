@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chickpea_curry_(masaledaar_chole).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region for the recipe 'Chickpea Curry (Masaledaar Chole)'?",
+            "Gold Answer": "The cuisine region for this recipe is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chickpea_Curry_(Masaledaar_Chole)"
+        },
+        {
+            "Query": "What are the key spices used in this chickpea curry recipe?",
+            "Gold Answer": "The key spices used in this South Asian chickpea curry recipe are chilli powder, Madras curry powder, garam masala, turmeric powder, and garlic and ginger pastes.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chickpea_Curry_(Masaledaar_Chole)"
+        },
+        {
+            "Query": "How long should the chickpeas be soaked before cooking for this recipe?",
+            "Gold Answer": "The chickpeas should be soaked overnight in water, as per South Asian cooking practices.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chickpea_Curry_(Masaledaar_Chole)"
+        }
+    ]
+}

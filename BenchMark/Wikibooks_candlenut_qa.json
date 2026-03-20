@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\candlenut.json",
+    "qna_pairs": [
+        {
+            "Query": "In which cuisines are candlenuts commonly used?",
+            "Gold Answer": "Candlenuts are commonly used in Hawaiian, Indonesian, and Malaysian cuisines.",
+            "Source/Reference": "candlenut.json"
+        },
+        {
+            "Query_LITERAL": "What is a popular use of candlenuts in Indonesian cuisine?",
+            "Gold Answer": "In Indonesian cuisine, candlenuts are used as a sauce or thickening agent, typically crushed to a paste in a mortar and pestle with garlic and either ginger or galangal, then simmered gently for up to an hour with coconut milk and spices to create dishes such as Gudeg (green jackfruit stew), Kari Ayam (chicken curry), Pepes Ikan (steamed fish), Rendang (beef and coconut stew), and Soto Ayam (chicken noodle soup).",
+            "Source/Reference": "candlenut.json"
+        },
+        {
+            "Query": "What Hawaiian seasoning is made with candlenuts?",
+            "Gold Answer": "The Hawaiian seasoning made with candlenuts is called inamona, and it is typically eaten with poke (a Hawaiian dish).",
+            "Source/Reference": "candlenut.json"
+        }
+    ]
+}

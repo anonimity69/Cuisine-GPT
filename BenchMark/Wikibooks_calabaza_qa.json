@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\calabaza.json",
+    "qna_pairs": [
+        {
+            "Query": "What is calabaza?",
+            "Gold Answer": "Calabaza, also known as calabaza squash or West Indian pumpkin, is a type of pumpkin-like hard squash. It is commonly used in Caribbean and Central and South American cuisines.",
+            "Source/Reference": "specialtyproduce.com"
+        },
+        {
+            "Query": "What are the typical characteristics of calabaza?",
+            "Gold Answer": "Calabaza squashes are round in shape and vary in size from as large as a watermelon to as small as a cantaloupe. The outer color can be green, tan, or orange, while the flesh is yellow-orange. They have a sweet flavor and firm texture, similar to butternut or acorn squash.",
+            "Source/Reference": "specialtyproduce.com"
+        },
+        {
+            "Query": "How is calabaza typically prepared and used in cuisine?",
+            "Gold Answer": "Calabaza is commonly roasted in珠 sections or cubes, and can also be cooked using moist heat methods or dry heat methods such as frying. When puréed, it is used in soups and desserts. Its seeds may be roasted like pumpkin seeds. Calabaza is popular in Caribbean and Central and South American cuisines and can be substituted for butternut or acorn squash in recipes.",
+            "Source/Reference": "Allrecipes"
+        }
+    ]
+}

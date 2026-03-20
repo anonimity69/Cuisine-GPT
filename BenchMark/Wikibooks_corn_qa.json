@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\corn.json",
+    "qna_pairs": [
+        {
+            "Query": "How to store corn?",
+            "Gold Answer": "Corn can be stored for a few days in the fridge, but its sweetness will decrease as you let it sit, and it is best fresh. Frozen and canned sweetcorn is also available.",
+            "Source/Reference": "corn.json"
+        }
+    ]
+}

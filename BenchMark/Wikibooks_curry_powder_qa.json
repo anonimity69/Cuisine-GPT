@@ -1,0 +1,15 @@
+{
+    "source": "Data\\Wikibooks\\curry_powder.json",
+    "qna_pairs": [
+        {
+            "Query": "How should curry powder be stored?",
+            "Gold Answer": "Like all ground spices, curry powder must be stored in an airtight container at room temperature away from light, heat, and moisture.",
+            "Source/Reference": "curry_powder.json"
+        },
+        {
+            "Query": "When should curry powder be used?",
+            "Gold Answer": "Curry powder is not actually used to make traditional Indian dishes, which typically rely on more specific spice blends, and many Indian cooks never use it. Instead, curry powder is used for anglicized Indian dishes like Mulligatawny soup or “curried” Western dishes like curried chicken/egg salad.",
+            "Source/Reference": "curry_powder.json"
+        }
+    ]
+}

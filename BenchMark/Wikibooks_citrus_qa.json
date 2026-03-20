@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\citrus.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the basic characteristic of citrus fruits?",
+            "Gold Answer": "All citrus varieties have the same basic characteristics, including a thick, bitter peel with an aromatic outer skin (the zest) and an inner flesh that is divided into very juicy segments.",
+            "Source/Reference": "citrus.json"
+        },
+        {
+            "Query": "How should citrus fruits be stored?",
+            "Gold Answer": "Citrus fruits can be stored at room temperature for a couple of days, but refrigeration is best and can keep them for up to a couple of weeks. Once cut, peeled, or zested, the fruits will dry out within a day or so.",
+            "Source/Reference": "citrus.json"
+        },
+        {
+            "Query": "Can citrus juice be frozen?",
+            "Gold Answer": "Yes, citrus juice can be frozen, but it can become less aromatic the longer it is frozen.",
+            "Source/Reference": "citrus.json"
+        }
+    ]
+}

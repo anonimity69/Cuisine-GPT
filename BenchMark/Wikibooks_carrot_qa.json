@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\carrot.json",
+    "qna_pairs": [
+        {
+            "query": "What is a traditional French dish that uses carrots?",
+            "gold_answer": "Carrots are a key ingredient in mirepoix, a classic French culinary technique used in stocks and sauces. One example is the 'Mirepoix Sauce' (as listed in the text), which is a foundational sauce in French cuisine. Carrots are also used in French-style soups and stews.",
+            "source": "carrot.json"
+        },
+        {
+            "query": "Which Eastern European cuisines commonly use carrots?",
+            "gold_answer": "Carrots are commonly used in Ukrainian and Polish cuisines. In Ukrainian cuisine, carrots are used in borscht and cabbage soup. In Polish cuisine, carrots are used in rosół (a traditional meat soup). The text lists specific recipes such as 'Ukrainian Cabbage Soup (Kapusniak)' and 'Polish Meat Soup (Rosół)' that include carrots.",
+            "source": "carrot.json"
+        },
+        {
+            "query": "What is a traditional Japanese dish that uses carrots?",
+            "gold_answer": "Carrots are used in Japanese cuisine, particularly in miso-based dishes. One example is 'Tekka', a traditional Japanese miso soup that includes carrots as a key ingredient, as listed in the text.",
+            "source": "carrot.json"
+        }
+    ]
+}

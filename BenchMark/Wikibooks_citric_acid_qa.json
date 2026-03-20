@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\citric_acid.json",
+    "qna_pairs": [
+        {
+            "Query": "What does citric acid look like?",
+            "Gold Answer": "Citric acid looks like small white crystals, similar to table salt.",
+            "Source/Reference": "citric_acid.json"
+        },
+        {
+            "Query": "Can citric acid be used instead of lemon or lime juice?",
+            "Gold Answer": "In theory, citric acid can be used instead of lemon or lime juice, but it will be imprecise in the amount of sourness it adds and will also add liquid to the dish.",
+            "Source/Reference": "citric_acid.json"
+        },
+        {
+            "Query": "How does citric acid keep?",
+            "Gold Answer": "Citric acid keeps very well if stored in a dry container, and it will last for years.",
+            "Source/Reference": "citric_acid.json"
+        }
+    ]
+}

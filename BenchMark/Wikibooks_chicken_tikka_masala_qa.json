@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_tikka_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Chicken Tikka Masala?",
+            "Gold Answer": "Chicken Tikka Masala is a dish originating from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka_Masala"
+        },
+        {
+            "Query": "What are the key ingredients in Chicken Tikka Masala?",
+            "Gold Answer": "The key ingredients include 675 g (1.5 lb) cooked Chicken Tikka, mustard seed oil, finely chopped garlic, onions (optional), chopped plum tomatoes, green chiles, cilantro, single cream, malt vinegar or tamarind extract, curry paste, tandoori masala paste, tomato paste, and garam masala. This dish is part of South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka_Masala"
+        },
+        {
+            "Query": "How is Chicken Tikka Masala typically served?",
+            "Gold Answer": "It is typically served with Naan, rice coloured yellow with turmeric (a South Asian style), onion bahjis (a South Asian side dish), and sometimes a glass of white wine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka_Masala"
+        }
+    ]
+}

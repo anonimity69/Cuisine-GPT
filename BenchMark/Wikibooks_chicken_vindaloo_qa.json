@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_vindaloo.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Chicken Vindaloo?",
+            "Gold Answer": "The cuisine region for Chicken Vindaloo is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Vindaloo"
+        },
+        {
+            "Query": "What are the ingredients needed for this Chicken Vindaloo recipe?",
+            "Gold Answer": "The ingredients needed for this Chicken Vindaloo recipe are: 3 chicken breast fillets, 2–3 large onions, 2 fresh chile peppers (any color), 6 cloves of garlic (or 6 tsp minced), 2 cm cube of fresh ginger, 1 tsp turmeric, 2 tbsp white wine vinegar, 1 tsp dried coriander powder, 1 tsp garam masala, 1/2 tsp cinnamon powder, 1 1/2 tsp black peppercorns, 1 tsp black mustard seeds, 1/2 tsp rock salt, and 1 tbsp chopped fresh coriander leaves. The cuisine region for this dish is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Vindaloo"
+        },
+        {
+            "Query": "Where can I find the original source of this Chicken Vindaloo recipe?",
+            "Gold Answer": "The original source of this Chicken Vindaloo recipe is the Wikibooks Cookbook, available at the URL: https://en.wikibooks.org/wiki/Cookbook:Chicken_Vindaloo. The cuisine region for this dish is South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Vindaloo"
+        }
+    ]
+}

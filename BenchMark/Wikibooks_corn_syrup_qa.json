@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\corn_syrup.json",
+    "qna_pairs": [
+        {
+            "Query": "What is corn syrup made of?",
+            "Gold Answer": "Corn syrup is made from cornstarch.",
+            "Source/Reference": "corn_syrup.json"
+        },
+        {
+            "Query": "What are the characteristics of a low-conversion syrup?",
+            "Gold Answer": "A low-conversion syrup has a higher proportion of non-sugar carbohydrates, which makes it more viscous and less sweet.",
+            "Source/Reference": "corn_syrup.json"
+        },
+        {
+            "Query": "What is high-fructose corn syrup?",
+            "Gold Answer": "High-fructose corn syrup is a type of corn syrup that has a high fructose content, often used as a cheaper alternative to table sugar.",
+            "Source/Reference": "corn_syrup.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\churri_(indian_yogurt_herb_sauce).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is churri an Indian Yogurt Herb Sauce part of?",
+            "Gold Answer": "Churri is an Indian Yogurt Herb Sauce originating from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Churri_(Indian_Yogurt_Herb_Sauce)"
+        },
+        {
+            "Query": "What is the primary ingredient used in churri an Indian Yogurt Herb Sauce?",
+            "Gold Answer": "The primary ingredients used in churri include 3 deciliters of natural (plain) yoghurt, and 3 deciliters of cultured buttermilk.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Churri_(Indian_Yogurt_Herb_Sauce)"
+        },
+        {
+            "Query": "What is the purpose of adding cumin seed to a skillet in the churri recipe?",
+            "Gold Answer": "The cumin seed is toasted until fragrant to add flavor to the churri an Indian Yogurt Herb Sauce.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Churri_(Indian_Yogurt_Herb_Sauce)"
+        }
+    ]
+}

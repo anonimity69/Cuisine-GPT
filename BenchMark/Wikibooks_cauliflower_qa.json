@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cauliflower.json",
+    "qna_pairs": [
+        {
+            "Query": "What is cauliflower classified as in the context of food categories?",
+            "Gold Answer": "Cauliflower is classified as a vegetable in the cabbage family.",
+            "Source/Reference": "cauliflower.json"
+        },
+        {
+            "Query": "What are the common cooking methods for cauliflower?",
+            "Gold Answer": "Cauliflower is a vegetable that can be cooked by steaming, boiling, roasting, and is commonly used in salads, soups, stews, curries, and gratins.",
+            "Source/Reference": "cauliflower.json"
+        },
+        {
+            "Query": "What is the typical color of raw cauliflower?",
+            "Gold Answer": "Cauliflower florets are typically white when raw, though purple and yellow varieties exist.",
+            "Source/Reference": "cauliflower.json"
+        }
+    ]
+}

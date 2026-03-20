@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\cumin.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor of cumin?",
+            "Gold Answer": "The flavor of cumin can be largely attributed to its main aromatic molecule, cuminaldehyde, along with pinene and cymene, which give it a warm musty or earthy flavor.",
+            "Source/Reference": "cumin.json"
+        }
+    ]
+}

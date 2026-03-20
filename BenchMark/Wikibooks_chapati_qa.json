@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chapati.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region for chapati?",
+            "Gold Answer": "Chapati is a traditional dish originating from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chapati"
+        },
+        {
+            "Query": "How much warm water is typically required for making chapati?",
+            "Gold Answer": "Chapati, a staple food in South Asia, typically requires about 1 1/2 cups of warm water, with the exact amount adjusted as needed to achieve a smooth dough without being too sticky.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chapati"
+        },
+        {
+            "Query": "What is the typical cooking method for chapati?",
+            "Gold Answer": "Chapati, a staple food in South Asia, is cooked by first testing the non-oiled pan's surface temperature (by holding your hand over it), then placing a chapati on the hot pan and pressing it flat with a spatula or dry cloth to make it rise, flipping it, and cooking until lightly browned on both sides.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chapati"
+        }
+    ]
+}

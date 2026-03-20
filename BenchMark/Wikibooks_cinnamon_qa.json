@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cinnamon.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the different varieties of cinnamon?",
+            "Gold Answer": "Ceylon or 'true' cinnamon, cassia or Chinese cinnamon, and Indonesian cinnamon are the most common varieties of cinnamon. Ceylon and cassia cinnamons are the most commonly used.",
+            "Source/Reference": "https://cinnamon.json"
+        },
+        {
+            "Query": "How do different varieties of cinnamon taste?",
+            "Gold Answer": "Ceylon cinnamon is generally milder than cassia, with floral and clove-like notes. Cassia, on the other hand, is stronger, peppery, and more bitter.",
+            "Source/Reference": "https://cinnamon.json"
+        },
+        {
+            "Query": "What types of cuisine use cinnamon?",
+            "Gold Answer": "Cinnamon is widely used in both sweet and savory dishes, especially in Asian and North African cuisines.",
+            "Source/Reference": "https://cinnamon.json"
+        }
+    ]
+}

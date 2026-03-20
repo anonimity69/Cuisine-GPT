@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\curry_leaf.json",
+    "qna_pairs": [
+        {
+            "Query": "What is curry leaf",
+            "Gold Answer": "Curry leaf or kadi patta is an herb common to South and Southeast Asian cooking.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Curry_leaf"
+        }
+    ]
+}

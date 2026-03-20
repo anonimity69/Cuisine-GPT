@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cayenne_pepper.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a cuisine where cayenne pepper is an essential ingredient?",
+            "Gold Answer": "Cajun cuisine",
+            "Source/Reference": "cayenne_pepper.json"
+        },
+        {
+            "Query": "Which cuisine uses cayenne pepper in dishes like Awaze Tibs?",
+            "Gold Answer": "Ethiopian cuisine",
+            "Source/Reference": "cayenne_pepper.json"
+        },
+        {
+            "Query": "Which country's cuisine features cayenne pepper in Bazeen bil Lahm?",
+            "Gold Answer": "Libyan cuisine",
+            "Source/Reference": "cayenne_pepper.json"
+        }
+    ]
+}

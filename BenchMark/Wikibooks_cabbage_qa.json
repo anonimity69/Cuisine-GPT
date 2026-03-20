@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cabbage.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a traditional Polish dish that uses cabbage?",
+            "Gold Answer": "Bigos, a Polish cabbage meat stew.",
+            "Source/Reference": "cabbage.json"
+        },
+        {
+            "Query": "What is a traditional Romanian dish that uses cabbage?",
+            "Gold Answer": "Sarmale, Romanian cabbage rolls.",
+            "Source/Reference": "cabbage.json"
+        },
+        {
+            "Query": "How can red cabbage be prevented from turning an unappetizing purple/grey color when cooked?",
+            "Gold Answer": "Cooking red cabbage with an acid, such as vinegar, will keep it a nice red color. This technique is commonly used in German cuisine for preparing sauerkraut.",
+            "Source/Reference": "cabbage.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\celery.json",
+    "qna_pairs": [
+        {
+            "Query": "How is celery typically used when eaten raw?",
+            "Gold Answer": "Celery is typically used raw in crudité platters, fresh salads, and as a crunchy component in dips. This usage is particularly common in French and Mediterranean cuisines.",
+            "Source/Reference": "celery.json"
+        },
+        {
+            "Query": "What are the two methods to remove the strings from celery?",
+            "Gold Answer": "The two methods to remove the strings from celery are: (1) snapping the bottom of the stalk and pulling each string out individually, and (2) peeling the exterior to expose and remove the strings. These techniques are widely used in French and American home cooking.",
+            "Source/Reference": "celery.json"
+        },
+        {
+            "Query": "In which cuisine are celery leaves commonly used as a garnish?",
+            "Gold Answer": "Celery leaves are commonly used as a garnish in French cuisine, similar to parsley, and are also utilized in Italian and Eastern European dishes for their fresh, aromatic flavor.",
+            "Source/Reference": "celery.json"
+        }
+    ]
+}

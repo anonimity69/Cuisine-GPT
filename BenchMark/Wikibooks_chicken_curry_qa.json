@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_curry.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region for this chicken curry recipe?",
+            "Gold Answer": "This chicken curry recipe is a traditional dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Curry"
+        },
+        {
+            "Query": "What is the title of the recipe?",
+            "Gold Answer": "The title of the recipe is 'Cookbook:Chicken Curry' and it is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Curry"
+        },
+        {
+            "Query": "How long does the cooking process take for this chicken curry?",
+            "Gold Answer": "The cooking process for this chicken curry takes 35–40 minutes at low heat, and it is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Curry"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coconut.json",
+    "qna_pairs": [
+        {
+            "Query": "When are coconuts in season?",
+            "Gold Answer": "As the tree fruits regularly, coconuts are in season year-round.",
+            "Source/Reference": "coconut.json"
+        },
+        {
+            "Query": "What is coconut water?",
+            "Gold Answer": "The inside of a young coconut contains a thin layer of white, jelly-like flesh with a good amount of clear liquid, called coconut water.",
+            "Source/Reference": "coconut.json"
+        },
+        {
+            "Query": "What is coconut oil?",
+            "Gold Answer": "When mature coconut flesh is pressed, it yields coconut oil.",
+            "Source/Reference": "coconut.json"
+        }
+    ]
+}

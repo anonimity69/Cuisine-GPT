@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coffee.json",
+    "qna_pairs": [
+        {
+            "Query": "How long does coffee beans degrade as it ages?",
+            "Gold Answer": "Surface area plays a large part in the degradation process, so ground coffee degrades considerably faster than whole coffee beans.",
+            "Source/Reference": "coffee.json"
+        },
+        {
+            "Query": "What is the optimal ratio of ground coffee to water for espresso?",
+            "Gold Answer": "A good guide for making espresso is ¼ oz (7 g) ground beans per 1½ oz (45 ml) water.",
+            "Source/Reference": "coffee.json"
+        },
+        {
+            "Query": "In which type of brewing method does coffee extract its flavors most efficiently?",
+            "Gold Answer": "Cooler water will not extract flavors as efficiently as hot water, but boiling water can make an overly bitter brew, especially with very dark roasts.",
+            "Source/Reference": "coffee.json"
+        }
+    ]
+}

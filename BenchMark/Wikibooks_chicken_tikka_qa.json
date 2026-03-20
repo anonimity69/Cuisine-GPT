@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_tikka.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region of Chicken Tikka?",
+            "Gold Answer": "Chicken Tikka is a South Asian dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka"
+        },
+        {
+            "Query": "How long should the chicken marinate for best results in the Chicken Tikka recipe?",
+            "Gold Answer": "For best results in South Asian cuisine, fresh chicken should marinate in the refrigerator for at least 24 hours, with 48 hours being ideal. If the chicken has been previously frozen, it should not be left marinating for longer than 24 hours for safety reasons.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka"
+        },
+        {
+            "Query": "What are the typical cooking methods for Chicken Tikka?",
+            "Gold Answer": "In South Asian cuisine, Chicken Tikka is typically cooked on skewers in a tandoor (clay oven) or ceramic pot oven, or under a medium grill for 5-8 minutes on each side. It can also be barbecued. The chicken should be cooked until it comes apart easily when pressed with the side of a fork.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka"
+        }
+    ]
+}

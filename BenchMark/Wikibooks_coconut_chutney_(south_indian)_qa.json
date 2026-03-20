@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coconut_chutney_(south_indian).json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is the Coconut Chutney?",
+            "Gold Answer": "The Coconut Chutney is a South Indian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(South_Indian)"
+        },
+        {
+            "Query": "What should be the consistency of the chutney?",
+            "Gold Answer": "The final consistency of the chutney must be somewhere between a coarse and smooth paste.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(South_Indian)"
+        },
+        {
+            "Query": "What should be added to the oil for seasoning?",
+            "Gold Answer": "For seasoning, heat the oil in a small ladle. Add the mustard seeds to hot oil, and allow them to crackle.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(South_Indian)"
+        }
+    ]
+}

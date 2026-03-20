@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\crouton.json",
+    "qna_pairs": [
+        {
+            "Query": "What are croutons?",
+            "Gold Answer": "Croutons are small chunks of dried bread that are toasted or baked until crisp. They may be regular in shape or irregularly torn, and can be made from a variety of breads and seasoned with a variety of herbs and other flavorings.",
+            "Source/Reference": "crouton.json"
+        },
+        {
+            "Query": "How are croutons typically made?",
+            "Gold Answer": "Croutons are typically made by cutting or tearing bread into bite-size pieces, tossing with oil and seasonings as desired, and toasting on a baking sheet at 350°F (180°C).",
+            "Source/Reference": "crouton.json"
+        },
+        {
+            "Query": "What are croutons commonly used for?",
+            "Gold Answer": "Croutons are most commonly used to add texture to dishes like salads and soups. They can also be used to make stuffing or savory bread puddings.",
+            "Source/Reference": "crouton.json"
+        }
+    ]
+}

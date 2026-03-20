@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\caper.json",
+    "qna_pairs": [
+        {
+            "Query": "What are capers?",
+            "Gold Answer": "Capers are the pickled buds of the Mediterranean caper bush, commonly used in Mediterranean and Italian cuisines.",
+            "Source/Reference": "caper.json"
+        },
+        {
+            "Query": "How are capers typically stored?",
+            "Gold Answer": "Capers, which are used in Mediterranean cuisines, are typically stored in cans or jars with their pickling liquid. They can be kept at room temperature until opening, after which they should be stored in the refrigerator.",
+            "Source/Reference": "caper.json"
+        },
+        {
+            "Query": "What is a common substitution for capers?",
+            "Gold Answer": "Pickled unripe nasturtium seeds are a common substitution for capers, as they have a very similar texture and flavor and are used in Mediterranean cuisines.",
+            "Source/Reference": "caper.json"
+        }
+    ]
+}

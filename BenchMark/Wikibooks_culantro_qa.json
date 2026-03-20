@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\culantro.json",
+    "qna_pairs": [
+        {
+            "Query": "What does culantro taste like?",
+            "Gold Answer": "Culantro has a stronger taste than cilantro, with a comparable aroma and flavor, but is stronger.",
+            "Source/Reference": "culantro.json"
+        },
+        {
+            "Query": "Can culantro be used in cooking?",
+            "Gold Answer": "Culantro can be included during cooking, since it is fairly robust.",
+            "Source/Reference": "culantro.json"
+        },
+        {
+            "Query": "Is culantro widely used in any specific cuisine?",
+            "Gold Answer": "Culantro is widely used in Latin American and Caribbean cuisine, as well as in Thai, Indian, and Vietnamese cuisine.",
+            "Source/Reference": "culantro.json"
+        }
+    ]
+}

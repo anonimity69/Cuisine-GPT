@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cane_syrup.json",
+    "qna_pairs": [
+        {
+            "Query": "How is cane syrup produced?",
+            "Gold Answer": "Cane syrup is produced by first mashing and straining sugarcane to extract the liquid cane juice, which is then boiled down until concentrated and sweet, stopping shy of crystallizing. This process requires more skimming than maple syrup production to prevent cloudiness. It is traditionally used in American South cuisine for sweetening beverages, cooking, and baking.",
+            "Source/Reference": "What is Sugar Cane Syrup? (with pictures) from Delighted Cooking"
+        },
+        {
+            "Query": "What are the key characteristics of cane syrup?",
+            "Gold Answer": "Cane syrup is a pale golden liquid with a slight caramelized flavor, unusually thick, and less sweet than pure granulated sugar but sweeter than molasses. It is commonly used in American South culinary traditions for sweetening breakfast items and desserts.",
+            "Source/Reference": "Getting to Know Your Syrups: Molasses, Sorghum, Cane Syrup and Golden Syrup from Formaggio Kitchen"
+        },
+        {
+            "Query": "What is the best substitute for cane syrup in baking, and why?",
+            "Gold Answer": "Maple syrup is the best substitute for cane syrup in baking due to similar sweetness, texture, and sugar composition. However, it has a distinct flavor profile that may not be desired. Golden syrup and corn syrup are alternatives but have higher glucose and fructose content, which can affect the texture of baked goods. These substitutions are particularly relevant in American South baking practices.",
+            "Source/Reference": "Getting to Know Your Syrups: Molasses, Sorghum, Cane Syrup and Golden Syrup from Formaggio Kitchen"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_biryani.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region associated with Chicken Biryani?",
+            "Gold Answer": "Chicken Biryani is a traditional dish originating from South Asia. This recipe falls under the South Asian cuisine category.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Biryani"
+        },
+        {
+            "Query": "What type of rice is preferred for this Chicken Biryani recipe?",
+            "Gold Answer": "The recipe specifies 2 cups of rice, with Basmati rice being the preferred type for this South Asian Chicken Biryani dish.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Biryani"
+        },
+        {
+            "Query": "How long should Chicken Biryani be baked in the oven according to the instructions?",
+            "Gold Answer": "Chicken Biryani should be baked in the oven for 1 to 1½ hours at 150°C (300°F) as part of the South Asian cuisine preparation method.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Biryani"
+        }
+    ]
+}

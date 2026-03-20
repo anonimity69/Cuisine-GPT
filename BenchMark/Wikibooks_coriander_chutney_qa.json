@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coriander_chutney.json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine is Coriander Chutney?",
+            "Gold Answer": "Coriander Chutney is a dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coriander_Chutney"
+        },
+        {
+            "Query": "What ingredients are needed for Coriander Chutney?",
+            "Gold Answer": "Coriander Chutney requires coriander leaf (cilantro), green chillies, cumin seeds or ground cumin, onion, salt, and lemon or lime juice.",
+            "Source/Reference": "coriander_chutney.json"
+        },
+        {
+            "Query": "What is the procedure for making Coriander Chutney?",
+            "Gold Answer": "To make Coriander Chutney, you need to wash the coriander, finely chop the onion, chillies, and coriander, add salt, juice, and cumin, and blend to a fine paste.",
+            "Source/Reference": "coriander_chutney.json"
+        }
+    ]
+}

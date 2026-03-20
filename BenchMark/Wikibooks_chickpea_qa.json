@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chickpea.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the two main types of chickpeas and which cuisines are they associated with?",
+            "Gold Answer": "The two main types of chickpea are kabuli and desi. Kabuli chickpeas are more common in Mediterranean and West Asian cuisines, while desi chickpeas are more common in South Asian cuisines.",
+            "Source/Reference": "chickpea.json"
+        },
+        {
+            "Query": "In which cuisines are chickpeas used as a key ingredient in dishes like hummus and falafel?",
+            "Gold Answer": "Chickpeas are used as a key ingredient in hummus and falafel in Mediterranean and West Asian cuisines.",
+            "Source/Reference": "chickpea.json"
+        },
+        {
+            "Query": "What is the traditional use of desi chickpeas in South Asian cuisine?",
+            "Gold Answer": "In South Asian cuisine, desi chickpeas are traditionally used to make channa dal (when split and skinned) and as the source of besan (chickpea flour) for fritters and flatbreads.",
+            "Source/Reference": "chickpea.json"
+        }
+    ]
+}

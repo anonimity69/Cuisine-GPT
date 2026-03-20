@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chile_flakes.json",
+    "qna_pairs": [
+        {
+            "query": "What are chile flakes?",
+            "answer": "Chile flakes are a spice derived from dried and crushed red chile peppers. They are commonly used in American cuisine for dishes such as pizza and pasta, Korean cuisine (as gochugaru), and Chinese cuisine (especially Sichuan). They should not be confused with chili powder or chile powder.",
+            "source": "Epicurious"
+        },
+        {
+            "query": "What are the common varieties of chile flakes and what are their characteristics?",
+            "answer": "Common varieties include: 1) 'Crushed red pepper' (also called 'pizza pepper'): commonly used in American cuisine, fairly hot, usually includes seeds, and is darker in color and often roasted; 2) Gochugaru: a Korean chile flake that is bright red, coarse ground, seedless, has a fruity and mild flavor, and is used primarily in Korean dishes; 3) Aleppo pepper: derived from the Halaby chile, with a mild and earthy flavor, deep red color, and somewhat oily texture, ideally seedless; 4) Sichuan chile flakes: less hot than crushed red pepper but hotter than gochugaru, used in Chinese cuisine, especially Sichuan.",
+            "source": "Bon Appétit"
+        },
+        {
+            "query": "What is the primary cuisine for which gochugaru is used and what are its characteristics?",
+            "answer": "Gochugaru is a Korean chile flake that is primarily used in Korean cuisine. It is characterized by being bright red, coarse ground, seedless, having a fruity and mild flavor, and is not very spicy.",
+            "source": "Serious Eats"
+        }
+    ]
+}

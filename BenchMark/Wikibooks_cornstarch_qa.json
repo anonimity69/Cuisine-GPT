@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\cornstarch.json",
+    "qna_pairs": [
+        {
+            "Query": "What is cornstarch used for in cooking?",
+            "Gold Answer": "Like other starches, cornstarch is primarily used for its shortening, thickening, and drying powers.",
+            "Source/Reference": "cornstarch.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cookie.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the main characteristic of cookies?",
+            "Gold Answer": "Cookies are small, flattened, and individually shaped, baked free-form on a sheet and finishing with low moisture content. They are usually eaten with the hands. Beyond these similarities, cookies come in a wide range of sizes, textures, shapes, flavors, and more.",
+            "Source/Reference": "cookie.json"
+        },
+        {
+            "Query": "What is the ideal moisture content for crispy cookies?",
+            "Gold Answer": "A high ratio of low moisture content yields dry, crumbly cookies without either gluten development or significant starch gelation. Low moisture content, high sugar and fat proportions, baking for long enough to evaporate the moisture, and shaping the cookies thinly can also achieve crispness. Note that cookies will not be crispy while still warm; they must first cool down to achieve their snap.",
+            "Source/Reference": "cookie.json"
+        },
+        {
+            "Query": "How are cookies typically mixed?",
+            "Gold Answer": "Cookie dough mixing methods are similar to those for cakes. There are three main methods: one-stage, creaming, and sanding. The creaming method is commonly used for drop cookies, which are formed from a soft dough portioned out in dollops onto the baking pan.",
+            "Source/Reference": "cookie.json"
+        }
+    ]
+}

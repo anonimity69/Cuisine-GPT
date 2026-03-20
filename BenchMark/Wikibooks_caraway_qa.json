@@ -1,0 +1,23 @@
+{
+    "source": "Data\\Wikibooks\\caraway.json",
+    "qna_pairs": [
+        {
+            "question": "What are caraway seeds commonly used for in cooking?",
+            "answer": "Caraway seeds are extremely aromatic and used as a spice in cooking and baking, particularly in European cuisine. They flavor dishes such as curries, stews, liqueurs, breads, and vegetables. One common example is rye bread.",
+            "cuisine_type": "European",
+            "source": "/wiki/File:CarawaySeeds.jpg"
+        },
+        {
+            "question": "How are caraway leaves typically used in culinary applications?",
+            "answer": "Caraway leaves are aromatic herbs that can be used like parsley or dill, and are typically incorporated into salads, cooking, and as a garnish.",
+            "cuisine_type": "European",
+            "source": "Cookbook:Baked Pork Chops"
+        },
+        {
+            "question": "Which cuisine is caraway most commonly associated with in traditional dishes?",
+            "answer": "Caraway is most commonly associated with European cuisine, where it is used in traditional dishes such as rye bread, curries, stews, and more.",
+            "cuisine_type": "European",
+            "source": "Cookbook:Roasted Pork with Potatoes and Onions (Schweinsbraten)"
+        }
+    ]
+}

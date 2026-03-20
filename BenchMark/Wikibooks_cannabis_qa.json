@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cannabis.json",
+    "qna_pairs": [
+        {
+            "Query": "Which traditional cuisine has a long history of using cannabis in food and drink?",
+            "Gold Answer": "South Asian cuisine",
+            "Source/Reference": "cannabis.json"
+        },
+        {
+            "Query": "What is the modern cuisine type most commonly associated with cannabis-infused food products?",
+            "Gold Answer": "Western cuisine",
+            "Source/Reference": "cannabis.json"
+        },
+        {
+            "Query": "How does the traditional use of cannabis in cuisine differ from its contemporary culinary applications?",
+            "Gold Answer": "Traditionally, South Asian cuisine has used cannabis in food and drink for centuries, while contemporary applications are primarily within Western cuisine for psychoactive effects through products like Magic Brownies and Cannabutter.",
+            "Source/Reference": "cannabis.json"
+        }
+    ]
+}

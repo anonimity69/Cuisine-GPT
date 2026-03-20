@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coconut_barfi.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Coconut Barfi?",
+            "Gold Answer": "Coconut Barfi is a traditional South Asian dessert.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Barfi"
+        },
+        {
+            "Query": "What is the ideal temperature range for cooking the sugar syrup in Coconut Barfi?",
+            "Gold Answer": "The ideal temperature range for cooking the sugar syrup is between 235–255°F.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Barfi"
+        },
+        {
+            "Query": "What type of sweetener is used in Coconut Barfi?",
+            "Gold Answer": "The sweetener used in Coconut Barfi is sugar.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Barfi"
+        }
+    ]
+}

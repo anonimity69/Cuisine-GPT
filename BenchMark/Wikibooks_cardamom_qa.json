@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cardamom.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the primary flavor characteristic of green cardamom?",
+            "Gold Answer": "Green cardamom has a strong sweet flavor with hints of eucalyptus (from cineole) and is commonly used in Asian and northern European cuisines for both sweet and savory dishes.",
+            "Source/Reference": "1"
+        },
+        {
+            "Query": "In which cuisines is green cardamom most frequently found in spice blends?",
+            "Gold Answer": "Green cardamom is most frequently found in spice blends in Asian cuisines (such as Indian curries and garam masala) and northern European cuisines.",
+            "Source/Reference": "4"
+        },
+        {
+            "Query": "How should green cardamom be stored to preserve its aroma and flavor?",
+            "Gold Answer": "Green cardamom should be stored in an airtight container at ambient temperature, away from light, heat, and moisture, to maintain its quality in Asian and northern European culinary traditions.",
+            "Source/Reference": "2"
+        }
+    ]
+}

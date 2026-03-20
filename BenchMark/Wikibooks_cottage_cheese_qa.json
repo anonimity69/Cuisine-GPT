@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cottage_cheese.json",
+    "qna_pairs": [
+        {
+            "Query": "What is cottage cheese made of?",
+            "Gold Answer": "Cottage cheese is a class of tangy fresh cheeses made by culturing milk before setting with rennet, cutting, and cooking the curds.",
+            "Source/Reference": "cottage_cheese.json"
+        },
+        {
+            "Query": "How is cottage cheese different from farmer's cheese?",
+            "Gold Answer": "Cottage cheese proper is the moistest of the varieties, caused by draining less of the whey and mixing the curds with a variable but small amount of soured milk and/or cream. Farmer's cheese, on the other hand, is made by pressing a large amount of liquid from the curds instead of simply draining it, resulting in a drier and more crumbly texture.",
+            "Source/Reference": "cottage_cheese.json"
+        },
+        {
+            "Query": "What is the best way to store cottage cheese?",
+            "Gold Answer": "Cottage cheese must be stored in the fridge, as it can become unsafe to eat if left out for too long. Depending on the preservative and moisture content, it can last for a little while before becoming increasingly sour and watery as it ages.",
+            "Source/Reference": "cottage_cheese.json"
+        }
+    ]
+}

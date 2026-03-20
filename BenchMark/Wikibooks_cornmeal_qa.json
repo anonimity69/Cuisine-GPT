@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\cornmeal.json",
+    "qna_pairs": [
+        {
+            "Query": "How long is cornmeal shelf-stable at room temperature?",
+            "Gold Answer": "Cornmeal is quite shelf-stable at room temperature, especially if it has been degerminated to reduce the fat content and is stored in an airtight container.",
+            "Source/Reference": "cornmeal.json"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\chukauni_(nepalese_potato_salad).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the procedure for making Chukauni (Nepalese Potato Salad)?",
+            "Gold Answer": "The procedure for making Chukauni (Nepalese Potato Salad) involves boiling potatoes, adding chopped chilies and onion, pouring yoghurt over the potatoes, adding salt and red chili powder, heating oil with red chilies and fenugreek seeds, adding turmeric powder, and mixing the mixture evenly.",
+            "Source/Reference": "chukauni_(nepalese_potato_salad).json"
+        }
+    ]
+}

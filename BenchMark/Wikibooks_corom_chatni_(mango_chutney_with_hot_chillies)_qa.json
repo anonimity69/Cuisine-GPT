@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\corom_chatni_(mango_chutney_with_hot_chillies).json",
+    "qna_pairs": [
+        {
+            "Query": "How long should Corom Chatni marinate in the refrigerator?",
+            "Gold Answer": "Corom Chatni should marinate in the refrigerator for 1–2 hours before serving.",
+            "Source/Reference": "corom_chatni_(mango_chutney_with_hot_chillies).json"
+        }
+    ]
+}

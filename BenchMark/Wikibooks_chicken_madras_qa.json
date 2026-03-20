@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chicken_madras.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine region for the Chicken Madras recipe?",
+            "Gold Answer": "South Asia. This recipe is part of South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Madras"
+        },
+        {
+            "Query": "How long should the Chicken Madras sauce simmer after adding the tomato puree and cardamom seeds?",
+            "Gold Answer": "The sauce should simmer for 30 minutes, stirring occasionally. This recipe is part of South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Madras"
+        },
+        {
+            "Query": "What is the primary spice blend used in the Chicken Madras recipe?",
+            "Gold Answer": "The primary spice blend includes garam masala, cumin, turmeric, ginger, and coriander. This recipe is part of South Asian cuisine.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Madras"
+        }
+    ]
+}

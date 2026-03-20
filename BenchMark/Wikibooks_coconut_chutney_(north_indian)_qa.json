@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\coconut_chutney_(north_indian).json",
+    "qna_pairs": [
+        {
+            "Query": "What is the cuisine type of Coconut Chutney?",
+            "Gold Answer": "Coconut Chutney is a dish from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(North_Indian)"
+        },
+        {
+            "Query": "What ingredients are needed to make Coconut Chutney?",
+            "Gold Answer": "The ingredients needed to make Coconut Chutney are shredded fresh coconut, split green chillies, garlic, chopped cilantro, salt, and water.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(North_Indian)"
+        },
+        {
+            "Query": "How long can Coconut Chutney be served?",
+            "Gold Answer": "Coconut Chutney should be served within 2 days.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chutney_(North_Indian)"
+        }
+    ]
+}

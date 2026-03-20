@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\cream.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the fat content of half-and-half?",
+            "Gold Answer": "Half-and-half is a dairy product with a fat content of 10-18%.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Cream#Varieties"
+        }
+    ]
+}

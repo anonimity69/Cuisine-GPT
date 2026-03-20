@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chipotle_pepper.json",
+    "qna_pairs": [
+        {
+            "Query": "What are the primary varieties of chipotle peppers?",
+            "Gold Answer": "The two primary varieties of chipotle peppers are morita and meco. Moritas are dark red with a pliable texture similar to that of a raisin and have a milder flavor. They are not smoked as long as mecos, which are smoked for much longer and turn brown with an intensity of flavor.",
+            "Source/Reference": "https://en.wikipedia.org/wiki/Chipotle_pepper"
+        },
+        {
+            "Query": "How do chipotles keep well?",
+            "Gold Answer": "Chipotles keep well at room temperature when kept away from light, heat, air, and moisture. Under ideal conditions, they can last for a couple of years.",
+            "Source/Reference": "chipotle_pepper.json"
+        },
+        {
+            "Query": "What is the flavor of chipotles?",
+            "Gold Answer": "Chipotles have a smoky, medium spicy flavor with a hint of fruity sweetness.",
+            "Source/Reference": "chipotle_pepper.json"
+        }
+    ]
+}

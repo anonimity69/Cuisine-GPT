@@ -1,0 +1,10 @@
+{
+    "source": "Data\\Wikibooks\\cilantro.json",
+    "qna_pairs": [
+        {
+            "Query": "What is cilantro?",
+            "Gold Answer": "Cilantro is the fresh leafy part of the coriander plant. It is commonly used as an herb in many Asian and South American cuisines.",
+            "Source/Reference": "cilantro.json"
+        }
+    ]
+}

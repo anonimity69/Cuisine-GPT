@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\clarified_butter.json",
+    "qna_pairs": [
+        {
+            "Query": "What is clarified butter?",
+            "Gold Answer": "Clarified butter, also called ghee, is made by purifying butter to remove the milk solids and water.",
+            "Source/Reference": "clarified_butter.json"
+        },
+        {
+            "Query": "Is clarified butter used in Indian cuisine?",
+            "Gold Answer": "Yes, clarified butter is used heavily in Indian cuisine.",
+            "Source/Reference": "clarified_butter.json"
+        },
+        {
+            "Query": "What is the smoke point of clarified butter?",
+            "Gold Answer": "Clarified butter has a high smoke point of about 450°F.",
+            "Source/Reference": "clarified_butter.json"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chola_and_roti.json",
+    "qna_pairs": [
+        {
+            "Query": "What type of cuisine is Chola and Roti?",
+            "Gold Answer": "South Asia",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Chola_and_Roti"
+        },
+        {
+            "Query": "What is the main ingredient of Chola and Roti?",
+            "Gold Answer": "Chana dal",
+            "Source/Reference": "chola_and_roti.json"
+        },
+        {
+            "Query": "What is the recommended way to cook Chana dal in Chola and Roti?",
+            "Gold Answer": "Pressure cook until tender",
+            "Source/Reference": "chola_and_roti.json"
+        }
+    ]
+}

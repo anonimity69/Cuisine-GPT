@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cottonseed.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the flavor of cottonseed?",
+            "Gold Answer": "The flavor of cottonseed is described as nutty and chickpea-like.",
+            "Source/Reference": "cottonseed.json"
+        },
+        {
+            "Query": "How is gossypol content in cottonseed processed?",
+            "Gold Answer": "The seeds can be processed to extract cottonseed oil, which is then refined to remove the toxic gossypol.",
+            "Source/Reference": "cottonseed.json"
+        },
+        {
+            "Query": "What can be made from cottonseed?",
+            "Gold Answer": "Cottonseed can be used to make a plant milk, a Nigerian cottonseed soup, and an Indian beverage called paruthi paal, as well as cottonseed oil.",
+            "Source/Reference": "cottonseed.json"
+        }
+    ]
+}

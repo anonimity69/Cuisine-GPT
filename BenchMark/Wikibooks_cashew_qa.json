@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cashew.json",
+    "qna_pairs": [
+        {
+            "Query": "What is a common use of cashews in Indian cuisine?",
+            "Gold Answer": "In Indian cuisine, cashews are often ground into sauces such as shahi korma or used as garnish in sweets and desserts.",
+            "Source/Reference": "cashew.json"
+        },
+        {
+            "Query": "In which cuisines are cashews typically consumed in whole form?",
+            "Gold Answer": "Cashews are typically consumed in whole form in Thai cuisine and Chinese cuisine.",
+            "Source/Reference": "cashew.json"
+        },
+        {
+            "Query": "What is a sweet dessert in Pampanga, Philippines that uses cashews?",
+            "Gold Answer": "In Pampanga, Philippines, a sweet dessert called turrones de casuy is made with cashew marzipan wrapped in white wafer.",
+            "Source/Reference": "cashew.json"
+        }
+    ]
+}

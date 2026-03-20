@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\chaat_masala.json",
+    "qna_pairs": [
+        {
+            "Query": "What is chaat masala?",
+            "Gold Answer": "Chaat masala is a South Asian spice mix that can be made from scratch or purchased ready-made.",
+            "Source/Reference": "chaat_masala.json"
+        },
+        {
+            "Query": "What are the key ingredients in chaat masala?",
+            "Gold Answer": "The key ingredients in South Asian chaat masala include amchur (which provides its characteristic sour flavor), asafoetida, black salt, chile powder, pepper, cumin, coriander, ginger, and ajwain.",
+            "Source/Reference": "chaat_masala.json"
+        },
+        {
+            "Query": "How should chaat masala be stored to maintain its flavor?",
+            "Gold Answer": "Chaat masala should be stored in an airtight container away from light, heat, and moisture to delay loss of flavor, a practice that is standard for South Asian spices.",
+            "Source/Reference": "chaat_masala.json"
+        }
+    ]
+}

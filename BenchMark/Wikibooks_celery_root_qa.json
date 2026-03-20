@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\celery_root.json",
+    "qna_pairs": [
+        {
+            "question": "What are the common names for celery root?",
+            "answer": "Celery root is also known as celeriac, turnip-rooted celery, and knob celery. It is a root vegetable that is commonly used in French cuisine and throughout Europe, especially in the north of the region.",
+            "source": "Allrecipes"
+        },
+        {
+            "question": "What is the flavor profile of celery root?",
+            "answer": "Celery root has a flavor that is overall milder than celery stalk but still retains an aromatic flavor similar to celery and parsley. It is commonly used in French cuisine and European dishes.",
+            "source": "www.americastestkitchen.com"
+        },
+        {
+            "question": "When is celery root typically in season?",
+            ": ": "answer\": ",
+            "source": "specialtyproduce.com"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\clam.json",
+    "qna_pairs": [
+        {
+            "Query": "What is the best way to cook clams?",
+            "Gold Answer": "Ideally, cooking clams quickly or over low heat is best. When cooking whole hard-shell clams, a good indicator of doneness is when the shell open up. Overcooking clams will make the flesh tough and unappetizing.",
+            "Source/Reference": "clam.json"
+        },
+        {
+            "Query": "What types of clams can be used in different dishes?",
+            "Gold Answer": "Some tender varieties may be eaten raw, either right out of their shells or as sashimi. Shucked clam meat can also be cooked and incorporated into a variety of dishes. Fried and stuffed clams are eaten in the United States, along with clam chowder. Pasta alla vongole is an Italian dish of clams and pasta.",
+            "Source/Reference": "clam.json"
+        },
+        {
+            "Query": "How do I select the best clams?",
+            "Gold Answer": "Clams should be live, with tightly closed shells for hard-shell clams or open shells for varieties that never close completely. They should also be stored properly in the fridge or freezer to maintain freshness.",
+            "Source/Reference": "clam.json"
+        }
+    ]
+}

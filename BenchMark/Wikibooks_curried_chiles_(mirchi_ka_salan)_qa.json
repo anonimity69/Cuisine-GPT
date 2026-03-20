@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\curried_chiles_(mirchi_ka_salan).json",
+    "qna_pairs": [
+        {
+            "Query": "What cuisine is the recipe for Curried Chiles (Mirchi ka Salan) from?",
+            "Gold Answer": "The recipe for Curried Chiles (Mirchi ka Salan) is from South Asia.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Curried_Chiles_(Mirchi_ka_Salan).json"
+        },
+        {
+            "Query": "What type of chiles are used in the recipe?",
+            "Gold Answer": "The recipe for Curried Chiles (Mirchi ka Salan) uses medium green chiles and red chiles.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Curried_Chiles_(Mirchi_ka_Salan).json"
+        },
+        {
+            "Query": "What ingredients are used in the spice blend for the recipe?",
+            "Gold Answer": "The spice blend for the recipe includes poppy seeds, sesame seeds, coriander seeds, cumin seeds, and desiccated coconut powder.",
+            "Source/Reference": "https://en.wikibooks.org/wiki/Cookbook:Curried_Chiles_(Mirchi_ka_Salan).json"
+        }
+    ]
+}

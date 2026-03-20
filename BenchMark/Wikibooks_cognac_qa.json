@@ -1,0 +1,20 @@
+{
+    "source": "Data\\Wikibooks\\cognac.json",
+    "qna_pairs": [
+        {
+            "Query": "What is Cognac?",
+            "Gold Answer": "Cognac is a variety of brandy made from distilled white wine in the Cognac region of France.",
+            "Source/Reference": "https://delightedcooking.com/what-is-cognac-with-pictures/"
+        },
+        {
+            "Query": "How is Cognac made?",
+            "Gold Answer": "Cognac is made from grapes such as Ugni Blanc, Folle Blanche, and Colombard. The grapes are pressed, fermented with natural yeasts, distilled twice in copper pot stills, and then aged in French oak barrels for at least 2-3 years or until the desired flavor profile is achieved.",
+            "Source/Reference": "cognac.json"
+        },
+        {
+            "Query": "What types of Cognac are available?",
+            "Gold Answer": "Cognac is labeled by age according to the youngest eau de vie used in the blend. The following types are available: V.S. or Three Stars (minimum age of 2-4 years), V.S.O.P. or Reserve (minimum age of 4-6 years), Napoléon (minimum age of 6-10 years), X.O. or Extra Old (minimum age of 10 years), and Hors d'age (minimum age of 30 years).",
+            "Source/Reference": "cognac.json"
+        }
+    ]
+}
